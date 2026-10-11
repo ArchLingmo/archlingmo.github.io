@@ -10,12 +10,12 @@ dohlad za kamputaram biez techničnych viedaŭ.
 
 ### 28/09 – 08/11 · Prahramy biez składanaściaŭ (i biaśpiečna)
 
-- [ ] **Krama dastasavańniaŭ**: acenki karystalnikaŭ i dazvoły kožnaj prahramy pierad ustaloŭkaj (Krama z Flathub i repazitoryjami Arch užo jość)
-- [ ] **Pieraciahni, kab ustalavać**, jak na Mac: dvojčy kliknicie pa .exe, .deb, .rpm abo AppImage i pieraciahnicie ŭ **Prahramy**
-- [ ] **Usio staronniaje pracuje ŭ izalavanaj skryni**: prahramy Windows (Bottles), pakiety .deb/.rpm (Distrobox) i AppImage nie bačać vašu sistemu i fajły biez dazvołu
-- [ ] Staronka **Skryni** ŭ Naładach: prahladajcie, davajcie abo zabirajcie dostup da fajłaŭ, sietki, kamiery i mikrafona i vydaliajcie skryniu
-- [ ] **Prahramy Android** (APK) u skryni praz Waydroid, jakija źjaŭliajucca ŭ mieniu zapusku, jak luboja inšaja prahrama
-- [ ] **Huĺni ŭ adzin klik**: Steam, Proton i huĺniavy režym, z papiarežańniem pra huĺni, čyja anty-čyt sistema nie pracuje ŭ Linux
+- [x] **Krama dastasavańniaŭ**: acenki karystalnikaŭ i dazvoły kožnaj prahramy pierad ustaloŭkaj (Krama z Flathub i repazitoryjami Arch užo jość)
+- [x] **Pieraciahni, kab ustalavać**, jak na Mac: dvojčy kliknicie pa .exe, .deb, .rpm abo AppImage i pieraciahnicie ŭ **Prahramy**
+- [x] **Usio staronniaje pracuje ŭ izalavanaj skryni**: prahramy Windows (Bottles), pakiety .deb/.rpm (Podman) i AppImage nie bačać vašu sistemu i fajły biez dazvołu
+- [x] Staronka **Skryni** ŭ Naładach: prahladajcie, davajcie abo zabirajcie dostup da fajłaŭ, sietki, kamiery i mikrafona i vydaliajcie skryniu
+- [x] **Prahramy Android** (APK) u skryni praz Waydroid, jakija źjaŭliajucca ŭ mieniu zapusku, jak luboja inšaja prahrama
+- [x] **Huĺni ŭ adzin klik**: Steam, Proton i huĺniavy režym, z papiarežańniem pra huĺni, čyja anty-čyt sistema nie pracuje ŭ Linux
 - [x] **Natyŭnyja hulni**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Ustaliavannie z Kramy → Natyŭnyja hulni. Pry pieršym zapusku patrebna ROM ulasnaha kartrydža; pakiety nie zmiaščajuć danych hulniaŭ.
 - [ ] **Bolš natyŭnych hulniaŭ**: Zelda: Ocarina of Time (Ship of Harkinian) i Mario Kart 64 (SpaghettiKart), pakul z paznakaj «Chutka» ŭ kramie
 

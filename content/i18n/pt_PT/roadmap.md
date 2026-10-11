@@ -10,12 +10,12 @@ cuidar do computador sem ser preciso perceber de informática.
 
 ### 28/09 a 08/11 · Programas sem complicações (e seguros)
 
-- [ ] **Loja de aplicações**: classificações dos utilizadores e as permissões de cada aplicação antes de instalar (a Loja com o Flathub e os repositórios do Arch já está pronta)
-- [ ] **Instalar a arrastar**, como no Mac: duplo clique num .exe, .deb, .rpm ou AppImage e arraste para **Aplicações**
-- [ ] **Tudo o que vem de fora corre numa caixa isolada**: programas do Windows (Bottles), pacotes .deb/.rpm (Distrobox) e AppImages não veem o seu sistema nem os seus ficheiros sem permissão
-- [ ] Página **Caixas** nas Definições: ver, dar ou retirar acesso a ficheiros, rede, câmara e microfone, e apagar uma caixa
-- [ ] **Aplicações Android** (APK) numa caixa, com o Waydroid, a aparecer no lançador como qualquer outra aplicação
-- [ ] **Jogos com um clique**: Steam, Proton e modo de jogo, com aviso para jogos com anti-cheat que não funcionam no Linux
+- [x] **Loja de aplicações**: classificações dos utilizadores e as permissões de cada aplicação antes de instalar (a Loja com o Flathub e os repositórios do Arch já está pronta)
+- [x] **Instalar a arrastar**, como no Mac: duplo clique num .exe, .deb, .rpm ou AppImage e arraste para **Aplicações**
+- [x] **Tudo o que vem de fora corre numa caixa isolada**: programas do Windows (Bottles), pacotes .deb/.rpm (Podman) e AppImages não veem o seu sistema nem os seus ficheiros sem permissão
+- [x] Página **Caixas** nas Definições: ver, dar ou retirar acesso a ficheiros, rede, câmara e microfone, e apagar uma caixa
+- [x] **Aplicações Android** (APK) numa caixa, com o Waydroid, a aparecer no lançador como qualquer outra aplicação
+- [x] **Jogos com um clique**: Steam, Proton e modo de jogo, com aviso para jogos com anti-cheat que não funcionam no Linux
 - [x] **Jogos nativos**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Instale pela Loja → Jogos nativos. Na primeira abertura, forneça a ROM extraída do seu próprio cartucho; os pacotes não incluem dados dos jogos.
 - [ ] **Mais jogos nativos**: Zelda: Ocarina of Time (Ship of Harkinian) e Mario Kart 64 (SpaghettiKart), ainda como "Em breve" na loja
 

@@ -10,12 +10,12 @@ curar li computator sin esser un expert.
 
 ### 28/09 til 08/11 · Programmas sin complicationes (e secur)
 
-- [ ] **Butica de applicationes**: evaluationes del usatores e li permissiones de chascun application ante installar (li Butica con Flathub e li depositorias de Arch ja es ci)
-- [ ] **Trenar por installar**, quam sur un Mac: duplic-clicca un .exe, .deb, .rpm o AppImage e trena it a **Applicationes**
-- [ ] **Omnicos de exter functiona in un buxe isolat**: programmas de Windows (Bottles), paccages .deb/.rpm (Distrobox) e AppImages ne posse vider vor sistema o vor files sin permission
-- [ ] Un págine **Buxes** in li Parametres: vider, dar o remover accesse a files, rete, camera e microfon, e deleter un buxe
-- [ ] **Applicationes de Android** (APK) in un buxe, con Waydroid, visibil in li lansator quam quelcunc altri application
-- [ ] **Ludes con un clic**: Steam, Proton e modo de lude, con avise pri ludes con anti-cheat queles ne functiona in Linux
+- [x] **Butica de applicationes**: evaluationes del usatores e li permissiones de chascun application ante installar (li Butica con Flathub e li depositorias de Arch ja es ci)
+- [x] **Trenar por installar**, quam sur un Mac: duplic-clicca un .exe, .deb, .rpm o AppImage e trena it a **Applicationes**
+- [x] **Omnicos de exter functiona in un buxe isolat**: programmas de Windows (Bottles), paccages .deb/.rpm (Podman) e AppImages ne posse vider vor sistema o vor files sin permission
+- [x] Un págine **Buxes** in li Parametres: vider, dar o remover accesse a files, rete, camera e microfon, e deleter un buxe
+- [x] **Applicationes de Android** (APK) in un buxe, con Waydroid, visibil in li lansator quam quelcunc altri application
+- [x] **Ludes con un clic**: Steam, Proton e modo de lude, con avise pri ludes con anti-cheat queles ne functiona in Linux
 - [x] **Nativ ludes**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Installa ex Butica → Nativ ludes. Al prim lansament, provide un ROM extraet de vor propri cartuche; li paccas ne contene dates del ludes.
 - [ ] **Plu nativ ludes**: Zelda: Ocarina of Time (Ship of Harkinian) e Mario Kart 64 (SpaghettiKart), ancor "Tost" in li butica
 

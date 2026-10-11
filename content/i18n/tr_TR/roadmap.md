@@ -10,12 +10,12 @@ teknik bilgi gerektirmeden bilgisayara bakmak.
 
 ### 28/09 – 08/11 · Zahmetsiz (ve güvenli) programlar
 
-- [ ] **Uygulama mağazası**: yüklemeden önce kullanıcı puanları ve her uygulamanın izinleri (Flathub ve Arch depolarını içeren mağaza zaten hazır)
-- [ ] Mac'teki gibi **sürükleyerek yükleme**: bir .exe, .deb, .rpm veya AppImage dosyasına çift tıklayıp **Uygulamalar**'a sürükleyin
-- [ ] **Dışarıdan gelen her şey yalıtılmış bir kutuda çalışır**: Windows programları (Bottles), .deb/.rpm paketleri (Distrobox) ve AppImage'lar izin olmadan sisteminizi ya da dosyalarınızı göremez
-- [ ] Ayarlar'da **Kutular** sayfası: dosyalara, ağa, kameraya ve mikrofona erişimi görün, verin ya da kaldırın ve bir kutuyu silin
-- [ ] Waydroid ile bir kutu içinde, başlatıcıda diğer uygulamalar gibi görünen **Android uygulamaları** (APK)
-- [ ] **Tek tıkla oyun**: Steam, Proton ve oyun modu; hile önleyicisi Linux'ta çalışmayan oyunlar için uyarıyla
+- [x] **Uygulama mağazası**: yüklemeden önce kullanıcı puanları ve her uygulamanın izinleri (Flathub ve Arch depolarını içeren mağaza zaten hazır)
+- [x] Mac'teki gibi **sürükleyerek yükleme**: bir .exe, .deb, .rpm veya AppImage dosyasına çift tıklayıp **Uygulamalar**'a sürükleyin
+- [x] **Dışarıdan gelen her şey yalıtılmış bir kutuda çalışır**: Windows programları (Bottles), .deb/.rpm paketleri (Podman) ve AppImage'lar izin olmadan sisteminizi ya da dosyalarınızı göremez
+- [x] Ayarlar'da **Kutular** sayfası: dosyalara, ağa, kameraya ve mikrofona erişimi görün, verin ya da kaldırın ve bir kutuyu silin
+- [x] Waydroid ile bir kutu içinde, başlatıcıda diğer uygulamalar gibi görünen **Android uygulamaları** (APK)
+- [x] **Tek tıkla oyun**: Steam, Proton ve oyun modu; hile önleyicisi Linux'ta çalışmayan oyunlar için uyarıyla
 - [x] **Yerel oyunlar**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Mağaza → Yerel oyunlar'dan yükleyin. İlk açılışta kendi kartuşunuzdan alınan ROM'u sağlayın; paketler oyun verilerini içermez.
 - [ ] **Daha fazla yerel oyun**: Zelda: Ocarina of Time (Ship of Harkinian) ve Mario Kart 64 (SpaghettiKart), mağazada hâlâ "Yakında"
 

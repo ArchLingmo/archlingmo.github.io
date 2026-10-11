@@ -10,12 +10,12 @@ att sköta datorn utan att vara tekniskt kunnig.
 
 ### 28/09 – 08/11 · Program utan krångel (och säkert)
 
-- [ ] **Appbutik**: användarbetyg och varje apps behörigheter innan installationen (butiken med Flathub och Archs förråd finns redan)
-- [ ] **Dra för att installera**, som på en Mac: dubbelklicka på en .exe, .deb, .rpm eller AppImage och dra den till **Program**
-- [ ] **Allt utifrån körs i en isolerad låda**: Windows-program (Bottles), .deb/.rpm-paket (Distrobox) och AppImage-filer kan inte se ditt system eller dina filer utan tillstånd
-- [ ] En sida för **Lådor** i Inställningar: se, ge eller ta bort åtkomst till filer, nätverk, kamera och mikrofon, och radera en låda
-- [ ] **Android-appar** (APK) i en låda, med Waydroid, som visas i programstartaren som vilken app som helst
-- [ ] **Spel med ett klick**: Steam, Proton och spelläge, med en varning för spel vars anti-fusk inte fungerar på Linux
+- [x] **Appbutik**: användarbetyg och varje apps behörigheter innan installationen (butiken med Flathub och Archs förråd finns redan)
+- [x] **Dra för att installera**, som på en Mac: dubbelklicka på en .exe, .deb, .rpm eller AppImage och dra den till **Program**
+- [x] **Allt utifrån körs i en isolerad låda**: Windows-program (Bottles), .deb/.rpm-paket (Podman) och AppImage-filer kan inte se ditt system eller dina filer utan tillstånd
+- [x] En sida för **Lådor** i Inställningar: se, ge eller ta bort åtkomst till filer, nätverk, kamera och mikrofon, och radera en låda
+- [x] **Android-appar** (APK) i en låda, med Waydroid, som visas i programstartaren som vilken app som helst
+- [x] **Spel med ett klick**: Steam, Proton och spelläge, med en varning för spel vars anti-fusk inte fungerar på Linux
 - [x] **Inbyggda spel**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Installera från Butiken → Inbyggda spel. Vid första starten behövs en ROM från din egen kassett; paketen innehåller inga speldata.
 - [ ] **Fler inbyggda spel**: Zelda: Ocarina of Time (Ship of Harkinian) och Mario Kart 64 (SpaghettiKart), fortfarande ”Kommer snart” i butiken
 

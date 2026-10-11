@@ -10,12 +10,12 @@ texniki bilik tələb etmədən kompüterə qulluq etmək.
 
 ### 28/09 – 08/11 · Asan (və təhlükəsiz) proqramlar
 
-- [ ] **Tətbiq mağazası**: quraşdırmadan əvvəl istifadəçi reytinqləri və hər tətbiqin icazələri (Flathub və Arch repozitoriyaları ilə Mağaza artıq var)
-- [ ] Mac-dakı kimi **sürüşdürüb quraşdırmaq**: .exe, .deb, .rpm və ya AppImage faylına iki dəfə klikləyin və onu **Tətbiqlər** qovluğuna sürüşdürün
-- [ ] **Kənardan gələn hər şey təcrid olunmuş qutuda işləyir**: Windows proqramları (Bottles), .deb/.rpm paketləri (Distrobox) və AppImage-lər icazəsiz sisteminizi və fayllarınızı görə bilmir
-- [ ] Parametrlərdə **Qutular** səhifəsi: fayllara, şəbəkəyə, kameraya və mikrofona girişi görün, verin və ya geri alın, qutunu silin
-- [ ] Waydroid ilə qutuda işləyən və digər tətbiqlər kimi başladıcıda görünən **Android tətbiqləri** (APK)
-- [ ] **Bir kliklə oyunlar**: Steam, Proton və oyun rejimi, Linux-da işləməyən anti-cheat oyunlar barədə xəbərdarlıqla
+- [x] **Tətbiq mağazası**: quraşdırmadan əvvəl istifadəçi reytinqləri və hər tətbiqin icazələri (Flathub və Arch repozitoriyaları ilə Mağaza artıq var)
+- [x] Mac-dakı kimi **sürüşdürüb quraşdırmaq**: .exe, .deb, .rpm və ya AppImage faylına iki dəfə klikləyin və onu **Tətbiqlər** qovluğuna sürüşdürün
+- [x] **Kənardan gələn hər şey təcrid olunmuş qutuda işləyir**: Windows proqramları (Bottles), .deb/.rpm paketləri (Podman) və AppImage-lər icazəsiz sisteminizi və fayllarınızı görə bilmir
+- [x] Parametrlərdə **Qutular** səhifəsi: fayllara, şəbəkəyə, kameraya və mikrofona girişi görün, verin və ya geri alın, qutunu silin
+- [x] Waydroid ilə qutuda işləyən və digər tətbiqlər kimi başladıcıda görünən **Android tətbiqləri** (APK)
+- [x] **Bir kliklə oyunlar**: Steam, Proton və oyun rejimi, Linux-da işləməyən anti-cheat oyunlar barədə xəbərdarlıqla
 - [x] **Doğma oyunlar**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Mağaza → Doğma oyunlar bölməsindən quraşdırın. İlk açılışda öz kartricinizdən çıxarılmış ROM-u təqdim edin; paketlərə oyun məlumatları daxil deyil.
 - [ ] **Daha çox doğma oyun**: Zelda: Ocarina of Time (Ship of Harkinian) və Mario Kart 64 (SpaghettiKart), mağazada hələ "Tezliklə" kimi görünür
 

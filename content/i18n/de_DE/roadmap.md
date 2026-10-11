@@ -10,12 +10,12 @@ den Computer pflegen, ohne technisch versiert sein zu müssen.
 
 ### 28/09 – 08/11 · Programme ohne Umstände (und sicher)
 
-- [ ] **App Store**: Nutzerbewertungen und die Berechtigungen jeder App vor der Installation (der Store mit Flathub und den Arch-Paketquellen ist schon da)
-- [ ] **Installieren per Ziehen** wie auf dem Mac: Doppelklick auf eine .exe, .deb, .rpm oder AppImage und in **Programme** ziehen
-- [ ] **Alles von außen läuft in einer isolierten Box**: Windows-Programme (Bottles), .deb/.rpm-Pakete (Distrobox) und AppImages sehen Ihr System und Ihre Dateien nicht ohne Erlaubnis
-- [ ] Eine Seite **Boxen** in den Einstellungen: Zugriff auf Dateien, Netzwerk, Kamera und Mikrofon ansehen, erteilen oder entziehen und eine Box löschen
-- [ ] **Android-Apps** (APK) in einer Box, mit Waydroid, die im Starter wie jede andere App erscheinen
-- [ ] **Spielen mit einem Klick**: Steam, Proton und Spielmodus, mit Hinweis auf Spiele, deren Anti-Cheat unter Linux nicht funktioniert
+- [x] **App Store**: Nutzerbewertungen und die Berechtigungen jeder App vor der Installation (der Store mit Flathub und den Arch-Paketquellen ist schon da)
+- [x] **Installieren per Ziehen** wie auf dem Mac: Doppelklick auf eine .exe, .deb, .rpm oder AppImage und in **Programme** ziehen
+- [x] **Alles von außen läuft in einer isolierten Box**: Windows-Programme (Bottles), .deb/.rpm-Pakete (Podman) und AppImages sehen Ihr System und Ihre Dateien nicht ohne Erlaubnis
+- [x] Eine Seite **Boxen** in den Einstellungen: Zugriff auf Dateien, Netzwerk, Kamera und Mikrofon ansehen, erteilen oder entziehen und eine Box löschen
+- [x] **Android-Apps** (APK) in einer Box, mit Waydroid, die im Starter wie jede andere App erscheinen
+- [x] **Spielen mit einem Klick**: Steam, Proton und Spielmodus, mit Hinweis auf Spiele, deren Anti-Cheat unter Linux nicht funktioniert
 - [x] **Native Spiele**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Installation über Store → Native Spiele. Beim ersten Start wird die ROM des eigenen Moduls benötigt; die Pakete enthalten keine Spieldaten.
 - [ ] **Weitere native Spiele**: Zelda: Ocarina of Time (Ship of Harkinian) und Mario Kart 64 (SpaghettiKart), im Store noch „Demnächst“
 

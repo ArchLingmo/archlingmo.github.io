@@ -10,12 +10,12 @@ kompiuterio priežiūra nebūnant techniniu žinovu.
 
 ### 28/09–08/11 · Programos be vargo (ir saugiai)
 
-- [ ] **Programėlių parduotuvė**: naudotojų įvertinimai ir kiekvienos programėlės leidimai prieš diegiant (Parduotuvė su Flathub ir Arch saugyklomis jau yra)
-- [ ] **Vilkite, kad įdiegtumėte**, kaip Mac: dukart spustelėkite .exe, .deb, .rpm ar AppImage ir nuvilkite į **Programos**
-- [ ] **Viskas, kas iš išorės, veikia izoliuotoje dėžėje**: Windows programos (Bottles), .deb/.rpm paketai (Distrobox) ir AppImage negali matyti jūsų sistemos ar failų be leidimo
-- [ ] **Dėžių** puslapis Nustatymuose: peržiūrėkite, suteikite ar atimkite prieigą prie failų, tinklo, kameros ir mikrofono bei ištrinkite dėžę
-- [ ] **Android programėlės** (APK) dėžėje, su Waydroid, rodomos paleidiklyje kaip bet kuri kita programėlė
-- [ ] **Žaidimai vienu spustelėjimu**: Steam, Proton ir žaidimų režimas, su įspėjimu apie žaidimus su apsauga nuo sukčiavimo, kurie neveikia Linux
+- [x] **Programėlių parduotuvė**: naudotojų įvertinimai ir kiekvienos programėlės leidimai prieš diegiant (Parduotuvė su Flathub ir Arch saugyklomis jau yra)
+- [x] **Vilkite, kad įdiegtumėte**, kaip Mac: dukart spustelėkite .exe, .deb, .rpm ar AppImage ir nuvilkite į **Programos**
+- [x] **Viskas, kas iš išorės, veikia izoliuotoje dėžėje**: Windows programos (Bottles), .deb/.rpm paketai (Podman) ir AppImage negali matyti jūsų sistemos ar failų be leidimo
+- [x] **Dėžių** puslapis Nustatymuose: peržiūrėkite, suteikite ar atimkite prieigą prie failų, tinklo, kameros ir mikrofono bei ištrinkite dėžę
+- [x] **Android programėlės** (APK) dėžėje, su Waydroid, rodomos paleidiklyje kaip bet kuri kita programėlė
+- [x] **Žaidimai vienu spustelėjimu**: Steam, Proton ir žaidimų režimas, su įspėjimu apie žaidimus su apsauga nuo sukčiavimo, kurie neveikia Linux
 - [x] **Vietiniai žaidimai**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Įdiekite iš Parduotuvė → Vietiniai žaidimai. Pirmą kartą paleidę pateikite ROM, nukopijuotą iš savo kasetės; paketuose nėra žaidimų duomenų.
 - [ ] **Daugiau vietinių žaidimų**: Zelda: Ocarina of Time (Ship of Harkinian) ir Mario Kart 64 (SpaghettiKart), parduotuvėje vis dar „Netrukus“
 

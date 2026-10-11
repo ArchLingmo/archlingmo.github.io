@@ -10,12 +10,12 @@ frykten for at en oppdatering ødelegger systemet, drivere, å installere progra
 
 ### 28/09 til 08/11 · Programmer uten styr (og trygt)
 
-- [ ] **Appbutikk**: brukervurderinger og hver apps tillatelser før installasjon (butikken med Flathub og Arch-pakkebrønnene er allerede på plass)
-- [ ] **Installer ved å dra**, som på en Mac: dobbeltklikk på en .exe, .deb, .rpm eller AppImage og dra den til **Programmer**
-- [ ] **Alt utenfra kjører i en isolert boks**: Windows-programmer (Bottles), .deb/.rpm-pakker (Distrobox) og AppImage-er ser ikke systemet eller filene dine uten tillatelse
-- [ ] En **Bokser**-side i Innstillinger: se, gi eller fjern tilgang til filer, nettverk, kamera og mikrofon, og slett en boks
-- [ ] **Android-apper** (APK) i en boks, med Waydroid, som vises i programstarteren som alle andre apper
-- [ ] **Spill med ett klikk**: Steam, Proton og spillmodus, med varsel om spill med anti-juks som ikke fungerer på Linux
+- [x] **Appbutikk**: brukervurderinger og hver apps tillatelser før installasjon (butikken med Flathub og Arch-pakkebrønnene er allerede på plass)
+- [x] **Installer ved å dra**, som på en Mac: dobbeltklikk på en .exe, .deb, .rpm eller AppImage og dra den til **Programmer**
+- [x] **Alt utenfra kjører i en isolert boks**: Windows-programmer (Bottles), .deb/.rpm-pakker (Podman) og AppImage-er ser ikke systemet eller filene dine uten tillatelse
+- [x] En **Bokser**-side i Innstillinger: se, gi eller fjern tilgang til filer, nettverk, kamera og mikrofon, og slett en boks
+- [x] **Android-apper** (APK) i en boks, med Waydroid, som vises i programstarteren som alle andre apper
+- [x] **Spill med ett klikk**: Steam, Proton og spillmodus, med varsel om spill med anti-juks som ikke fungerer på Linux
 - [x] **Native spill**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Installer fra butikken → Native spill. Ved første start trenger du en ROM fra din egen kassett; pakkene inneholder ingen spilldata.
 - [ ] **Flere native spill**: Zelda: Ocarina of Time (Ship of Harkinian) og Mario Kart 64 (SpaghettiKart), foreløpig merket «Kommer snart» i butikken
 

@@ -10,12 +10,12 @@ Discord 上討論，每個項目都會成為 GitHub 上公開的 pull request。
 
 ### 28/09 – 08/11 · 輕鬆（又安全地）用程式
 
-- [ ] **應用程式商店**：安裝前查看用戶評分及每個應用程式的權限（集合 Flathub 和 Arch 軟件庫的商店已經推出）
-- [ ] 像 Mac 一樣**拖曳安裝**：按兩下 .exe、.deb、.rpm 或 AppImage，再拖到「**應用程式**」
-- [ ] **所有外來程式都在隔離箱內執行**：Windows 程式（Bottles）、.deb/.rpm 套件（Distrobox）及 AppImage 未經許可都無法看到你的系統或檔案
-- [ ] 「設定」內的**隔離箱**頁面：查看、授予或移除對檔案、網絡、相機及咪高峰的存取權，並可刪除隔離箱
-- [ ] 透過 Waydroid 在隔離箱內執行 **Android 應用程式**（APK），像其他程式一樣出現在啟動器中
-- [ ] **一按即玩遊戲**：Steam、Proton 和遊戲模式，並就反作弊系統無法在 Linux 上運作的遊戲發出警告
+- [x] **應用程式商店**：安裝前查看用戶評分及每個應用程式的權限（集合 Flathub 和 Arch 軟件庫的商店已經推出）
+- [x] 像 Mac 一樣**拖曳安裝**：按兩下 .exe、.deb、.rpm 或 AppImage，再拖到「**應用程式**」
+- [x] **所有外來程式都在隔離箱內執行**：Windows 程式（Bottles）、.deb/.rpm 套件（Podman）及 AppImage 未經許可都無法看到你的系統或檔案
+- [x] 「設定」內的**隔離箱**頁面：查看、授予或移除對檔案、網絡、相機及咪高峰的存取權，並可刪除隔離箱
+- [x] 透過 Waydroid 在隔離箱內執行 **Android 應用程式**（APK），像其他程式一樣出現在啟動器中
+- [x] **一按即玩遊戲**：Steam、Proton 和遊戲模式，並就反作弊系統無法在 Linux 上運作的遊戲發出警告
 - [x] **原生遊戲**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). 從商店 → 原生遊戲安裝。首次啟動時，請提供從自己的卡帶擷取的 ROM；套件不包含遊戲資料。
 - [ ] **更多原生遊戲**：Zelda: Ocarina of Time (Ship of Harkinian) 及 Mario Kart 64 (SpaghettiKart)，在商店中仍顯示「即將推出」
 

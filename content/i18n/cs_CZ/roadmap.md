@@ -10,12 +10,12 @@ péče o počítač bez technických znalostí.
 
 ### 28/09 – 08/11 · Programy bez komplikací (a bezpečně)
 
-- [ ] **Obchod s aplikacemi**: hodnocení uživatelů a oprávnění každé aplikace před instalací (Obchod s Flathubem a repozitáři Archu už je tady)
-- [ ] **Instalace přetažením** jako na Macu: dvakrát klikněte na .exe, .deb, .rpm nebo AppImage a přetáhněte ho do **Aplikací**
-- [ ] **Vše zvenčí běží v izolovaném boxu**: programy pro Windows (Bottles), balíčky .deb/.rpm (Distrobox) a AppImage nevidí váš systém ani vaše soubory bez svolení
-- [ ] Stránka **Boxy** v Nastavení: zobrazte, udělte nebo odeberte přístup k souborům, síti, kameře a mikrofonu a smažte box
-- [ ] **Aplikace pro Android** (APK) v boxu s Waydroidem, které se v launcheru zobrazí jako jakákoli jiná aplikace
-- [ ] **Hry jedním kliknutím**: Steam, Proton a herní režim, s upozorněním na hry, jejichž anti-cheat na Linuxu nefunguje
+- [x] **Obchod s aplikacemi**: hodnocení uživatelů a oprávnění každé aplikace před instalací (Obchod s Flathubem a repozitáři Archu už je tady)
+- [x] **Instalace přetažením** jako na Macu: dvakrát klikněte na .exe, .deb, .rpm nebo AppImage a přetáhněte ho do **Aplikací**
+- [x] **Vše zvenčí běží v izolovaném boxu**: programy pro Windows (Bottles), balíčky .deb/.rpm (Podman) a AppImage nevidí váš systém ani vaše soubory bez svolení
+- [x] Stránka **Boxy** v Nastavení: zobrazte, udělte nebo odeberte přístup k souborům, síti, kameře a mikrofonu a smažte box
+- [x] **Aplikace pro Android** (APK) v boxu s Waydroidem, které se v launcheru zobrazí jako jakákoli jiná aplikace
+- [x] **Hry jedním kliknutím**: Steam, Proton a herní režim, s upozorněním na hry, jejichž anti-cheat na Linuxu nefunguje
 - [x] **Nativní hry**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Instalace z Obchodu → Nativní hry. Při prvním spuštění zadejte ROM z vlastní cartridge; balíčky neobsahují herní data.
 - [ ] **Další nativní hry**: Zelda: Ocarina of Time (Ship of Harkinian) a Mario Kart 64 (SpaghettiKart), v obchodě zatím „Již brzy“
 

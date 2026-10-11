@@ -10,12 +10,12 @@ daryeelka kombiyuutarka iyadoo aan loo baahnayn aqoon farsamo.
 
 ### 28/09 ilaa 08/11 · Barnaamijyo aan dhib lahayn (oo ammaan ah)
 
-- [ ] **Dukaanka barnaamijyada**: qiimeynta isticmaalayaasha iyo oggolaanshaha ab kasta ka hor rakibidda (Dukaanka leh Flathub iyo kaydadka Arch horeba wuu jiraa)
-- [ ] **Jiid si aad u rakibto**, sida Mac-ga: laba-guji .exe, .deb, .rpm ama AppImage oo u jiid **Abka**
-- [ ] **Wax kasta oo dibadda ka yimaada wuxuu ku shaqeeyaa sanduuq go'doonsan**: barnaamijyada Windows (Bottles), xirmooyinka .deb/.rpm (Distrobox) iyo AppImage-yada ma arki karaan nidaamkaaga ama faylashaada oggolaansho la'aan
-- [ ] Bog **Sanduuqyada** ah oo ku jira Dejinta: arag, sii ama ka qaad gelitaanka faylasha, shabakadda, kamarada iyo makarafoonka, oo tirtir sanduuq
-- [ ] **Abka Android** (APK) oo ku jira sanduuq, Waydroid, oo ka muuqda furaha abka sida ab kasta oo kale
-- [ ] **Ciyaaro hal guji**: Steam, Proton iyo habka ciyaarta, oo leh digniin ku saabsan ciyaaraha anti-cheat-ka leh ee aan ku shaqeyn Linux
+- [x] **Dukaanka barnaamijyada**: qiimeynta isticmaalayaasha iyo oggolaanshaha ab kasta ka hor rakibidda (Dukaanka leh Flathub iyo kaydadka Arch horeba wuu jiraa)
+- [x] **Jiid si aad u rakibto**, sida Mac-ga: laba-guji .exe, .deb, .rpm ama AppImage oo u jiid **Abka**
+- [x] **Wax kasta oo dibadda ka yimaada wuxuu ku shaqeeyaa sanduuq go'doonsan**: barnaamijyada Windows (Bottles), xirmooyinka .deb/.rpm (Podman) iyo AppImage-yada ma arki karaan nidaamkaaga ama faylashaada oggolaansho la'aan
+- [x] Bog **Sanduuqyada** ah oo ku jira Dejinta: arag, sii ama ka qaad gelitaanka faylasha, shabakadda, kamarada iyo makarafoonka, oo tirtir sanduuq
+- [x] **Abka Android** (APK) oo ku jira sanduuq, Waydroid, oo ka muuqda furaha abka sida ab kasta oo kale
+- [x] **Ciyaaro hal guji**: Steam, Proton iyo habka ciyaarta, oo leh digniin ku saabsan ciyaaraha anti-cheat-ka leh ee aan ku shaqeyn Linux
 - [x] **Ciyaaraha asalka ah**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Ka rakib Dukaanka → Ciyaaraha asalka ah. Marka ugu horreysa ee aad furto, keen ROM laga soo saaray kartarijkaaga; xirmooyinku kuma jiraan xogta ciyaaraha.
 - [ ] **Ciyaaro asal ah oo kale**: Zelda: Ocarina of Time (Ship of Harkinian) iyo Mario Kart 64 (SpaghettiKart), weli "Dhowaan" ee dukaanka
 

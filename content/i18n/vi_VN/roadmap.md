@@ -10,12 +10,12 @@ chăm sóc máy tính mà không cần rành kỹ thuật.
 
 ### 28/09 – 08/11 · Phần mềm không rắc rối (và an toàn)
 
-- [ ] **Cửa hàng ứng dụng**: đánh giá của người dùng và quyền của từng ứng dụng trước khi cài (Cửa hàng với Flathub và kho phần mềm của Arch đã có sẵn)
-- [ ] **Kéo để cài đặt**, như trên Mac: nhấp đúp vào tệp .exe, .deb, .rpm hoặc AppImage và kéo vào **Ứng dụng**
-- [ ] **Mọi thứ từ bên ngoài đều chạy trong hộp cách ly**: chương trình Windows (Bottles), gói .deb/.rpm (Distrobox) và AppImage không thể thấy hệ thống hay tệp của bạn nếu chưa được phép
-- [ ] Trang **Hộp** trong Cài đặt: xem, cấp hoặc thu hồi quyền truy cập tệp, mạng, camera và micrô, và xóa một hộp
-- [ ] **Ứng dụng Android** (APK) trong hộp, với Waydroid, hiện trong trình khởi chạy như mọi ứng dụng khác
-- [ ] **Chơi game chỉ với một cú nhấp**: Steam, Proton và chế độ chơi game, kèm cảnh báo cho các game có hệ thống chống gian lận không chạy trên Linux
+- [x] **Cửa hàng ứng dụng**: đánh giá của người dùng và quyền của từng ứng dụng trước khi cài (Cửa hàng với Flathub và kho phần mềm của Arch đã có sẵn)
+- [x] **Kéo để cài đặt**, như trên Mac: nhấp đúp vào tệp .exe, .deb, .rpm hoặc AppImage và kéo vào **Ứng dụng**
+- [x] **Mọi thứ từ bên ngoài đều chạy trong hộp cách ly**: chương trình Windows (Bottles), gói .deb/.rpm (Podman) và AppImage không thể thấy hệ thống hay tệp của bạn nếu chưa được phép
+- [x] Trang **Hộp** trong Cài đặt: xem, cấp hoặc thu hồi quyền truy cập tệp, mạng, camera và micrô, và xóa một hộp
+- [x] **Ứng dụng Android** (APK) trong hộp, với Waydroid, hiện trong trình khởi chạy như mọi ứng dụng khác
+- [x] **Chơi game chỉ với một cú nhấp**: Steam, Proton và chế độ chơi game, kèm cảnh báo cho các game có hệ thống chống gian lận không chạy trên Linux
 - [x] **Trò chơi gốc Linux**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Cài đặt từ Cửa hàng → Trò chơi gốc Linux. Khi mở lần đầu, cung cấp ROM từ băng trò chơi của bạn; các gói không chứa dữ liệu trò chơi.
 - [ ] **Thêm trò chơi gốc Linux**: Zelda: Ocarina of Time (Ship of Harkinian) và Mario Kart 64 (SpaghettiKart), vẫn đang “Sắp ra mắt” trong cửa hàng
 

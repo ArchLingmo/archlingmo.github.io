@@ -10,12 +10,12 @@ održavanje računara bez potrebe da budete stručnjak.
 
 ### 28.09. do 08.11. · Programi bez komplikacija (i sigurno)
 
-- [ ] **Prodavnica aplikacija**: ocjene korisnika i dozvole svake aplikacije prije instalacije (Prodavnica s Flathubom i Arch repozitorijima već postoji)
-- [ ] **Prevuci za instalaciju**, kao na Macu: dvaput kliknite na .exe, .deb, .rpm ili AppImage i prevucite ga u **Aplikacije**
-- [ ] **Sve što dolazi izvana radi u izolovanoj kutiji**: Windows programi (Bottles), .deb/.rpm paketi (Distrobox) i AppImage ne vide vaš sistem ni vaše datoteke bez dozvole
-- [ ] Stranica **Kutije** u Postavkama: pregledajte, dajte ili uklonite pristup datotekama, mreži, kameri i mikrofonu te obrišite kutiju
-- [ ] **Android aplikacije** (APK) u kutiji, pomoću Waydroida, koje se pojavljuju u pokretaču kao i svaka druga aplikacija
-- [ ] **Igre jednim klikom**: Steam, Proton i režim za igre, s upozorenjem za igre sa anti-cheat zaštitom koje ne rade na Linuxu
+- [x] **Prodavnica aplikacija**: ocjene korisnika i dozvole svake aplikacije prije instalacije (Prodavnica s Flathubom i Arch repozitorijima već postoji)
+- [x] **Prevuci za instalaciju**, kao na Macu: dvaput kliknite na .exe, .deb, .rpm ili AppImage i prevucite ga u **Aplikacije**
+- [x] **Sve što dolazi izvana radi u izolovanoj kutiji**: Windows programi (Bottles), .deb/.rpm paketi (Podman) i AppImage ne vide vaš sistem ni vaše datoteke bez dozvole
+- [x] Stranica **Kutije** u Postavkama: pregledajte, dajte ili uklonite pristup datotekama, mreži, kameri i mikrofonu te obrišite kutiju
+- [x] **Android aplikacije** (APK) u kutiji, pomoću Waydroida, koje se pojavljuju u pokretaču kao i svaka druga aplikacija
+- [x] **Igre jednim klikom**: Steam, Proton i režim za igre, s upozorenjem za igre sa anti-cheat zaštitom koje ne rade na Linuxu
 - [x] **Nativne igre**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Instalirajte iz Prodavnice → Nativne igre. Pri prvom pokretanju priložite ROM vlastitog kertridža; paketi ne sadrže podatke igara.
 - [ ] **Još nativnih igara**: Zelda: Ocarina of Time (Ship of Harkinian) i Mario Kart 64 (SpaghettiKart), još uvijek "Uskoro" u prodavnici
 

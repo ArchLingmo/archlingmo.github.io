@@ -10,12 +10,12 @@ ny fikarakarana ny solosaina nefa tsy mila ho manam-pahaizana ara-teknika.
 
 ### 28/09 – 08/11 · Rindrambaiko tsy misy sarotra (sady azo antoka)
 
-- [ ] **Fivarotana rindrambaiko**: naotin'ny mpampiasa sy ny alalan'ny rindrambaiko tsirairay alohan'ny hametrahana (efa misy ny Fivarotana miaraka amin'ny Flathub sy ny tahiry Arch)
-- [ ] **Mametraka amin'ny fisintonana**, toy ny amin'ny Mac: tsindrio indroa ny .exe, .deb, .rpm na AppImage ary sintony mankany amin'ny **Rindranasa**
-- [ ] **Izay rehetra avy any ivelany dia mandeha ao anaty boaty mitokana**: rindrambaiko Windows (Bottles), fonosana .deb/.rpm (Distrobox) ary AppImage tsy mahita ny rafitrao na ny rakitrao raha tsy nahazo alalana
-- [ ] Pejy **Boaty** ao amin'ny Fikirana: jereo, omeo na esory ny fidirana amin'ny rakitra, tambajotra, fakantsary ary mikrô, ary fafao ny boaty iray
-- [ ] **Rindranasa Android** (APK) ao anaty boaty, miaraka amin'ny Waydroid, miseho ao amin'ny fandefasana rindranasa toy ny rindranasa hafa rehetra
-- [ ] **Lalao amin'ny tsindry iray**: Steam, Proton ary mode lalao, miaraka amin'ny fampitandremana ho an'ny lalao izay tsy mandeha amin'ny Linux ny anti-cheat-ny
+- [x] **Fivarotana rindrambaiko**: naotin'ny mpampiasa sy ny alalan'ny rindrambaiko tsirairay alohan'ny hametrahana (efa misy ny Fivarotana miaraka amin'ny Flathub sy ny tahiry Arch)
+- [x] **Mametraka amin'ny fisintonana**, toy ny amin'ny Mac: tsindrio indroa ny .exe, .deb, .rpm na AppImage ary sintony mankany amin'ny **Rindranasa**
+- [x] **Izay rehetra avy any ivelany dia mandeha ao anaty boaty mitokana**: rindrambaiko Windows (Bottles), fonosana .deb/.rpm (Podman) ary AppImage tsy mahita ny rafitrao na ny rakitrao raha tsy nahazo alalana
+- [x] Pejy **Boaty** ao amin'ny Fikirana: jereo, omeo na esory ny fidirana amin'ny rakitra, tambajotra, fakantsary ary mikrô, ary fafao ny boaty iray
+- [x] **Rindranasa Android** (APK) ao anaty boaty, miaraka amin'ny Waydroid, miseho ao amin'ny fandefasana rindranasa toy ny rindranasa hafa rehetra
+- [x] **Lalao amin'ny tsindry iray**: Steam, Proton ary mode lalao, miaraka amin'ny fampitandremana ho an'ny lalao izay tsy mandeha amin'ny Linux ny anti-cheat-ny
 - [x] **Lalao teratany**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Apetraho avy amin'ny Fivarotana → Lalao teratany. Amin'ny fanokafana voalohany, omeo ny ROM nalaina tamin'ny karatra lalaonao; tsy misy angona lalao ao amin'ny fonosana.
 - [ ] **Lalao teratany fanampiny**: Zelda: Ocarina of Time (Ship of Harkinian) sy Mario Kart 64 (SpaghettiKart), mbola "Ho avy tsy ho ela" ao amin'ny fivarotana
 

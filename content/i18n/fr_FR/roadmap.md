@@ -10,12 +10,12 @@ entretenir son ordinateur sans être technicien.
 
 ### 28/09 – 08/11 · Des logiciels sans complication (et en sécurité)
 
-- [ ] **Logithèque** : notes des utilisateurs et permissions de chaque application avant l’installation (la Logithèque avec Flathub et les dépôts d’Arch est déjà là)
-- [ ] **Installer en glissant**, comme sur Mac : double-cliquez sur un .exe, .deb, .rpm ou AppImage et glissez-le vers **Applications**
-- [ ] **Tout ce qui vient de l’extérieur tourne dans une boîte isolée** : programmes Windows (Bottles), paquets .deb/.rpm (Distrobox) et AppImages ne voient ni votre système ni vos fichiers sans permission
-- [ ] Une page **Boîtes** dans les Paramètres : voir, accorder ou retirer l’accès aux fichiers, au réseau, à la caméra et au micro, et supprimer une boîte
-- [ ] **Applications Android** (APK) dans une boîte, avec Waydroid, qui apparaissent dans le lanceur comme n’importe quelle application
-- [ ] **Jeux en un clic** : Steam, Proton et mode jeu, avec un avertissement pour les jeux dont l’anti-triche ne fonctionne pas sous Linux
+- [x] **Logithèque** : notes des utilisateurs et permissions de chaque application avant l’installation (la Logithèque avec Flathub et les dépôts d’Arch est déjà là)
+- [x] **Installer en glissant**, comme sur Mac : double-cliquez sur un .exe, .deb, .rpm ou AppImage et glissez-le vers **Applications**
+- [x] **Tout ce qui vient de l’extérieur tourne dans une boîte isolée** : programmes Windows (Bottles), paquets .deb/.rpm (Podman) et AppImages ne voient ni votre système ni vos fichiers sans permission
+- [x] Une page **Boîtes** dans les Paramètres : voir, accorder ou retirer l’accès aux fichiers, au réseau, à la caméra et au micro, et supprimer une boîte
+- [x] **Applications Android** (APK) dans une boîte, avec Waydroid, qui apparaissent dans le lanceur comme n’importe quelle application
+- [x] **Jeux en un clic** : Steam, Proton et mode jeu, avec un avertissement pour les jeux dont l’anti-triche ne fonctionne pas sous Linux
 - [x] **Jeux natifs**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Installez depuis Logithèque → Jeux natifs. Au premier lancement, fournissez la ROM de votre propre cartouche ; les paquets ne contiennent aucune donnée de jeu.
 - [ ] **Plus de jeux natifs** : Zelda: Ocarina of Time (Ship of Harkinian) et Mario Kart 64 (SpaghettiKart), encore « Bientôt disponible » dans la logithèque
 

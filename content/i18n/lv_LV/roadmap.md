@@ -10,12 +10,12 @@ datora uzturēšana bez tehniskām zināšanām.
 
 ### 28/09 – 08/11 · Programmas bez sarežģījumiem (un droši)
 
-- [ ] **Lietotņu veikals**: lietotāju vērtējumi un katras lietotnes atļaujas pirms instalēšanas (Veikals ar Flathub un Arch repozitorijiem jau ir pieejams)
-- [ ] **Velciet, lai instalētu**, kā Mac datorā: veiciet dubultklikšķi uz .exe, .deb, .rpm vai AppImage un velciet to uz **Lietotnes**
-- [ ] **Viss no ārpuses darbojas izolētā kastē**: Windows programmas (Bottles), .deb/.rpm pakotnes (Distrobox) un AppImage bez atļaujas neredz jūsu sistēmu vai failus
-- [ ] Lapa **Kastes** iestatījumos: skatiet, piešķiriet vai atsauciet piekļuvi failiem, tīklam, kamerai un mikrofonam un izdzēsiet kasti
-- [ ] **Android lietotnes** (APK) kastē, ar Waydroid, kas parādās palaidējā kā jebkura cita lietotne
-- [ ] **Spēles ar vienu klikšķi**: Steam, Proton un spēļu režīms, ar brīdinājumu par spēlēm, kuru pretkrāpšanas sistēma nedarbojas Linux
+- [x] **Lietotņu veikals**: lietotāju vērtējumi un katras lietotnes atļaujas pirms instalēšanas (Veikals ar Flathub un Arch repozitorijiem jau ir pieejams)
+- [x] **Velciet, lai instalētu**, kā Mac datorā: veiciet dubultklikšķi uz .exe, .deb, .rpm vai AppImage un velciet to uz **Lietotnes**
+- [x] **Viss no ārpuses darbojas izolētā kastē**: Windows programmas (Bottles), .deb/.rpm pakotnes (Podman) un AppImage bez atļaujas neredz jūsu sistēmu vai failus
+- [x] Lapa **Kastes** iestatījumos: skatiet, piešķiriet vai atsauciet piekļuvi failiem, tīklam, kamerai un mikrofonam un izdzēsiet kasti
+- [x] **Android lietotnes** (APK) kastē, ar Waydroid, kas parādās palaidējā kā jebkura cita lietotne
+- [x] **Spēles ar vienu klikšķi**: Steam, Proton un spēļu režīms, ar brīdinājumu par spēlēm, kuru pretkrāpšanas sistēma nedarbojas Linux
 - [x] **Vietējās spēles**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Instalējiet no Veikals → Vietējās spēles. Pirmajā palaišanas reizē norādiet ROM, kas nolasīts no jūsu pašu kasetnes; pakotnēs nav spēļu datu.
 - [ ] **Vairāk vietējo spēļu**: Zelda: Ocarina of Time (Ship of Harkinian) un Mario Kart 64 (SpaghettiKart), veikalā joprojām “Drīzumā”
 

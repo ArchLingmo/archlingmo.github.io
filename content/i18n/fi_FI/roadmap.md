@@ -10,12 +10,12 @@ tietokoneen ylläpito ilman teknistä osaamista.
 
 ### 28.09.–08.11. · Ohjelmat ilman vaivaa (ja turvallisesti)
 
-- [ ] **Sovelluskauppa**: käyttäjien arviot ja kunkin sovelluksen oikeudet ennen asennusta (Kauppa, jossa Flathub ja Archin ohjelmalähteet, on jo valmis)
-- [ ] **Asenna vetämällä** kuten Macissa: kaksoisnapsauta .exe-, .deb-, .rpm- tai AppImage-tiedostoa ja vedä se **Sovellukset**-kansioon
-- [ ] **Kaikki ulkopuolinen ajetaan eristetyssä laatikossa**: Windows-ohjelmat (Bottles), .deb/.rpm-paketit (Distrobox) ja AppImaget eivät näe järjestelmääsi tai tiedostojasi ilman lupaa
-- [ ] **Laatikot**-sivu Asetuksissa: näe, anna tai poista pääsy tiedostoihin, verkkoon, kameraan ja mikrofoniin, ja poista laatikko
-- [ ] **Android-sovellukset** (APK) laatikossa Waydroidilla, näkyvät sovellusvalikossa kuten mikä tahansa sovellus
-- [ ] **Pelit yhdellä napsautuksella**: Steam, Proton ja pelitila sekä varoitus peleistä, joiden huijauksenesto ei toimi Linuxissa
+- [x] **Sovelluskauppa**: käyttäjien arviot ja kunkin sovelluksen oikeudet ennen asennusta (Kauppa, jossa Flathub ja Archin ohjelmalähteet, on jo valmis)
+- [x] **Asenna vetämällä** kuten Macissa: kaksoisnapsauta .exe-, .deb-, .rpm- tai AppImage-tiedostoa ja vedä se **Sovellukset**-kansioon
+- [x] **Kaikki ulkopuolinen ajetaan eristetyssä laatikossa**: Windows-ohjelmat (Bottles), .deb/.rpm-paketit (Podman) ja AppImaget eivät näe järjestelmääsi tai tiedostojasi ilman lupaa
+- [x] **Laatikot**-sivu Asetuksissa: näe, anna tai poista pääsy tiedostoihin, verkkoon, kameraan ja mikrofoniin, ja poista laatikko
+- [x] **Android-sovellukset** (APK) laatikossa Waydroidilla, näkyvät sovellusvalikossa kuten mikä tahansa sovellus
+- [x] **Pelit yhdellä napsautuksella**: Steam, Proton ja pelitila sekä varoitus peleistä, joiden huijauksenesto ei toimi Linuxissa
 - [x] **Natiivipelit**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Asenna kohdasta Kauppa → Natiivipelit. Anna ensimmäisellä käynnistyskerralla omalta pelikasetiltasi kopioitu ROM; paketit eivät sisällä pelidataa.
 - [ ] **Lisää natiivipelejä**: Zelda: Ocarina of Time (Ship of Harkinian) ja Mario Kart 64 (SpaghettiKart), kaupassa vielä tilassa "Tulossa pian"
 

@@ -10,12 +10,12 @@ at passe på computeren uden at være teknisk.
 
 ### 28/09 – 08/11 · Programmer uden besvær (og sikkert)
 
-- [ ] **App-butik**: brugerbedømmelser og hver apps tilladelser før installation (Butikken med Flathub og Archs arkiver er her allerede)
-- [ ] **Træk for at installere** som på en Mac: dobbeltklik på en .exe, .deb, .rpm eller AppImage, og træk den til **Programmer**
-- [ ] **Alt udefra kører i en isoleret boks**: Windows-programmer (Bottles), .deb/.rpm-pakker (Distrobox) og AppImages kan ikke se dit system eller dine filer uden tilladelse
-- [ ] En **Bokse**-side i Indstillinger: se, giv eller fjern adgang til filer, netværk, kamera og mikrofon, og slet en boks
-- [ ] **Android-apps** (APK) i en boks med Waydroid, som vises i programstarteren som enhver anden app
-- [ ] **Spil med ét klik**: Steam, Proton og spiltilstand, med en advarsel om spil, hvis anti-cheat ikke virker på Linux
+- [x] **App-butik**: brugerbedømmelser og hver apps tilladelser før installation (Butikken med Flathub og Archs arkiver er her allerede)
+- [x] **Træk for at installere** som på en Mac: dobbeltklik på en .exe, .deb, .rpm eller AppImage, og træk den til **Programmer**
+- [x] **Alt udefra kører i en isoleret boks**: Windows-programmer (Bottles), .deb/.rpm-pakker (Podman) og AppImages kan ikke se dit system eller dine filer uden tilladelse
+- [x] En **Bokse**-side i Indstillinger: se, giv eller fjern adgang til filer, netværk, kamera og mikrofon, og slet en boks
+- [x] **Android-apps** (APK) i en boks med Waydroid, som vises i programstarteren som enhver anden app
+- [x] **Spil med ét klik**: Steam, Proton og spiltilstand, med en advarsel om spil, hvis anti-cheat ikke virker på Linux
 - [x] **Native spil**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Installer fra Butik → Native spil. Ved første start skal du angive en ROM fra din egen kassette; pakkerne indeholder ingen spildata.
 - [ ] **Flere native spil**: Zelda: Ocarina of Time (Ship of Harkinian) og Mario Kart 64 (SpaghettiKart), stadig "Kommer snart" i butikken
 

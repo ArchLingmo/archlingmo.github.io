@@ -10,12 +10,12 @@ cuidar el ordenador sin tener que ser un experto.
 
 ### 28/09 – 08/11 · Programas sin complicaciones (y seguros)
 
-- [ ] **Tienda de aplicaciones**: valoraciones de los usuarios y los permisos de cada app antes de instalar (la Tienda con Flathub y los repositorios de Arch ya está aquí)
-- [ ] **Arrastrar para instalar**, como en un Mac: haz doble clic en un .exe, .deb, .rpm o AppImage y arrástralo a **Aplicaciones**
-- [ ] **Todo lo de fuera se ejecuta en una caja aislada**: los programas de Windows (Bottles), los paquetes .deb/.rpm (Distrobox) y los AppImage no ven tu sistema ni tus archivos sin permiso
-- [ ] Una página **Cajas** en Configuración: ver, conceder o quitar el acceso a archivos, red, cámara y micrófono, y borrar una caja
-- [ ] **Apps de Android** (APK) en una caja, con Waydroid, que aparecen en el lanzador como cualquier otra app
-- [ ] **Juegos en un clic**: Steam, Proton y modo juego, con aviso para los juegos cuyo antitrampas no funciona en Linux
+- [x] **Tienda de aplicaciones**: valoraciones de los usuarios y los permisos de cada app antes de instalar (la Tienda con Flathub y los repositorios de Arch ya está aquí)
+- [x] **Arrastrar para instalar**, como en un Mac: haz doble clic en un .exe, .deb, .rpm o AppImage y arrástralo a **Aplicaciones**
+- [x] **Todo lo de fuera se ejecuta en una caja aislada**: los programas de Windows (Bottles), los paquetes .deb/.rpm (Podman) y los AppImage no ven tu sistema ni tus archivos sin permiso
+- [x] Una página **Cajas** en Configuración: ver, conceder o quitar el acceso a archivos, red, cámara y micrófono, y borrar una caja
+- [x] **Apps de Android** (APK) en una caja, con Waydroid, que aparecen en el lanzador como cualquier otra app
+- [x] **Juegos en un clic**: Steam, Proton y modo juego, con aviso para los juegos cuyo antitrampas no funciona en Linux
 - [x] **Juegos nativos**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Instala desde Tienda → Juegos nativos. Al abrir por primera vez, proporciona la ROM de tu propio cartucho; los paquetes no incluyen datos del juego.
 - [ ] **Más juegos nativos**: Zelda: Ocarina of Time (Ship of Harkinian) y Mario Kart 64 (SpaghettiKart), todavía como «Próximamente» en la tienda
 

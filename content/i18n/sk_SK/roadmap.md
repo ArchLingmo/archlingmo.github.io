@@ -10,12 +10,12 @@ starostlivosť o počítač bez technických znalostí.
 
 ### 28/09 – 08/11 · Programy bez komplikácií (a bezpečne)
 
-- [ ] **Obchod s aplikáciami**: hodnotenia používateľov a povolenia každej aplikácie pred inštaláciou (Obchod s Flathubom a repozitármi Archu už existuje)
-- [ ] **Inštalácia potiahnutím**, ako na Macu: dvakrát kliknite na .exe, .deb, .rpm alebo AppImage a potiahnite ho do **Aplikácií**
-- [ ] **Všetko zvonku beží v izolovanom boxe**: programy pre Windows (Bottles), balíky .deb/.rpm (Distrobox) a AppImage nevidia váš systém ani súbory bez povolenia
-- [ ] Stránka **Boxy** v Nastaveniach: zobrazte, udeľte alebo odoberte prístup k súborom, sieti, kamere a mikrofónu a odstráňte box
-- [ ] **Aplikácie pre Android** (APK) v boxe cez Waydroid, ktoré sa zobrazia v spúšťači ako každá iná aplikácia
-- [ ] **Hry jedným kliknutím**: Steam, Proton a herný režim, s upozornením na hry, ktorých anti-cheat na Linuxe nefunguje
+- [x] **Obchod s aplikáciami**: hodnotenia používateľov a povolenia každej aplikácie pred inštaláciou (Obchod s Flathubom a repozitármi Archu už existuje)
+- [x] **Inštalácia potiahnutím**, ako na Macu: dvakrát kliknite na .exe, .deb, .rpm alebo AppImage a potiahnite ho do **Aplikácií**
+- [x] **Všetko zvonku beží v izolovanom boxe**: programy pre Windows (Bottles), balíky .deb/.rpm (Podman) a AppImage nevidia váš systém ani súbory bez povolenia
+- [x] Stránka **Boxy** v Nastaveniach: zobrazte, udeľte alebo odoberte prístup k súborom, sieti, kamere a mikrofónu a odstráňte box
+- [x] **Aplikácie pre Android** (APK) v boxe cez Waydroid, ktoré sa zobrazia v spúšťači ako každá iná aplikácia
+- [x] **Hry jedným kliknutím**: Steam, Proton a herný režim, s upozornením na hry, ktorých anti-cheat na Linuxe nefunguje
 - [x] **Natívne hry**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Inštalujte cez Obchod → Natívne hry. Pri prvom spustení zadajte ROM získanú z vlastnej kazety; balíky neobsahujú herné dáta.
 - [ ] **Ďalšie natívne hry**: Zelda: Ocarina of Time (Ship of Harkinian) a Mario Kart 64 (SpaghettiKart), v obchode zatiaľ „Už čoskoro“
 

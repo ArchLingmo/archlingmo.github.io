@@ -10,12 +10,12 @@ a számítógép karbantartása szakértelem nélkül.
 
 ### 09.28. – 11.08. · Programok bonyodalmak nélkül (és biztonságosan)
 
-- [ ] **Alkalmazásbolt**: felhasználói értékelések és az egyes alkalmazások engedélyei telepítés előtt (az Áruház a Flathubbal és az Arch tárolóival már elkészült)
-- [ ] **Telepítés húzással**, mint Macen: kattints duplán egy .exe, .deb, .rpm vagy AppImage fájlra, és húzd az **Alkalmazások** mappába
-- [ ] **Minden külső program elszigetelt dobozban fut**: a Windows-programok (Bottles), a .deb/.rpm csomagok (Distrobox) és az AppImage-ek engedély nélkül nem látják a rendszeredet és a fájljaidat
-- [ ] **Dobozok** oldal a Beállításokban: a fájlokhoz, hálózathoz, kamerához és mikrofonhoz való hozzáférés megtekintése, megadása vagy visszavonása, és doboz törlése
-- [ ] **Android-alkalmazások** (APK) dobozban, Waydroiddal, amelyek ugyanúgy megjelennek az indítóban, mint bármely más alkalmazás
-- [ ] **Játékok egy kattintással**: Steam, Proton és játékmód, figyelmeztetéssel azokra a csalásvédelmet használó játékokra, amelyek nem futnak Linuxon
+- [x] **Alkalmazásbolt**: felhasználói értékelések és az egyes alkalmazások engedélyei telepítés előtt (az Áruház a Flathubbal és az Arch tárolóival már elkészült)
+- [x] **Telepítés húzással**, mint Macen: kattints duplán egy .exe, .deb, .rpm vagy AppImage fájlra, és húzd az **Alkalmazások** mappába
+- [x] **Minden külső program elszigetelt dobozban fut**: a Windows-programok (Bottles), a .deb/.rpm csomagok (Podman) és az AppImage-ek engedély nélkül nem látják a rendszeredet és a fájljaidat
+- [x] **Dobozok** oldal a Beállításokban: a fájlokhoz, hálózathoz, kamerához és mikrofonhoz való hozzáférés megtekintése, megadása vagy visszavonása, és doboz törlése
+- [x] **Android-alkalmazások** (APK) dobozban, Waydroiddal, amelyek ugyanúgy megjelennek az indítóban, mint bármely más alkalmazás
+- [x] **Játékok egy kattintással**: Steam, Proton és játékmód, figyelmeztetéssel azokra a csalásvédelmet használó játékokra, amelyek nem futnak Linuxon
 - [x] **Natív játékok**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Telepítés: Áruház → Natív játékok. Első indításkor add meg a saját kazettádról készült ROM-ot; a csomagok nem tartalmaznak játékadatokat.
 - [ ] **További natív játékok**: Zelda: Ocarina of Time (Ship of Harkinian) és Mario Kart 64 (SpaghettiKart), az áruházban még „Hamarosan” állapotban
 

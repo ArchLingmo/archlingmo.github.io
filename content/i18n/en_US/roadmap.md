@@ -10,12 +10,12 @@ looking after your computer without being a tech person.
 
 ### 28/09 – 08/11 · Apps without the hassle (and safe)
 
-- [ ] **App Store**: user ratings and each app's permissions before installing (the Store with Flathub and the Arch repositories is already here)
-- [ ] **Drag to install**, like on a Mac: double-click an .exe, .deb, .rpm or AppImage and drag it to **Applications**
-- [ ] **Everything from outside runs in an isolated box**: Windows programs (Bottles), .deb/.rpm packages (Distrobox) and AppImages can't see your system or your files without permission
-- [ ] A **Boxes** page in Settings: see, grant or remove access to files, network, camera and microphone, and delete a box
-- [ ] **Android apps** (APK) in a box, with Waydroid, showing up in the launcher like any other app
-- [ ] **One-click gaming**: Steam, Proton and game mode, with a warning for games whose anti-cheat does not work on Linux
+- [x] **App Store**: user ratings and each app's permissions before installing (the Store with Flathub and the Arch repositories is already here)
+- [x] **Drag to install**, like on a Mac: double-click an .exe, .deb, .rpm or AppImage and drag it to **Applications**
+- [x] **Everything from outside runs in an isolated box**: Windows programs (Bottles), .deb/.rpm packages (Podman) and AppImages can't see your system or your files without permission
+- [x] A **Boxes** page in Settings: see, grant or remove access to files, network, camera and microphone, and delete a box
+- [x] **Android apps** (APK) in a box, with Waydroid, showing up in the launcher like any other app
+- [x] **One-click gaming**: Steam, Proton and game mode, with a warning for games whose anti-cheat does not work on Linux
 - [x] **Native games**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Install from Store → Native games. On first launch, provide a ROM dumped from your own cartridge; packages include no game data.
 - [ ] **More native games**: Zelda: Ocarina of Time (Ship of Harkinian) and Mario Kart 64 (SpaghettiKart), still "Coming soon" in the store
 

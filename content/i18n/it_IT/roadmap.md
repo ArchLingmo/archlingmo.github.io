@@ -10,12 +10,12 @@ prendersi cura del computer senza dover essere esperti.
 
 ### Dal 28/09 all'08/11 · Programmi senza complicazioni (e sicuri)
 
-- [ ] **Store**: valutazioni degli utenti e permessi di ogni app prima dell'installazione (lo Store con Flathub e i repository di Arch è già disponibile)
-- [ ] **Trascina per installare**, come su Mac: fai doppio clic su un .exe, .deb, .rpm o AppImage e trascinalo in **Applicazioni**
-- [ ] **Tutto ciò che viene da fuori gira in un ambiente isolato**: programmi Windows (Bottles), pacchetti .deb/.rpm (Distrobox) e AppImage non possono vedere il sistema né i tuoi file senza permesso
-- [ ] Una pagina **Ambienti isolati** nelle Impostazioni: vedere, concedere o revocare l'accesso a file, rete, fotocamera e microfono, ed eliminare un ambiente
-- [ ] **App Android** (APK) in un ambiente isolato, con Waydroid, visibili nel launcher come qualsiasi altra app
-- [ ] **Giochi con un clic**: Steam, Proton e modalità gioco, con avviso per i giochi con anti-cheat che non funzionano su Linux
+- [x] **Store**: valutazioni degli utenti e permessi di ogni app prima dell'installazione (lo Store con Flathub e i repository di Arch è già disponibile)
+- [x] **Trascina per installare**, come su Mac: fai doppio clic su un .exe, .deb, .rpm o AppImage e trascinalo in **Applicazioni**
+- [x] **Tutto ciò che viene da fuori gira in un ambiente isolato**: programmi Windows (Bottles), pacchetti .deb/.rpm (Podman) e AppImage non possono vedere il sistema né i tuoi file senza permesso
+- [x] Una pagina **Ambienti isolati** nelle Impostazioni: vedere, concedere o revocare l'accesso a file, rete, fotocamera e microfono, ed eliminare un ambiente
+- [x] **App Android** (APK) in un ambiente isolato, con Waydroid, visibili nel launcher come qualsiasi altra app
+- [x] **Giochi con un clic**: Steam, Proton e modalità gioco, con avviso per i giochi con anti-cheat che non funzionano su Linux
 - [x] **Giochi nativi**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Installa da Store → Giochi nativi. Al primo avvio, fornisci una ROM estratta dalla tua cartuccia; i pacchetti non includono dati di gioco.
 - [ ] **Altri giochi nativi**: Zelda: Ocarina of Time (Ship of Harkinian) e Mario Kart 64 (SpaghettiKart), ancora "Prossimamente" nello store
 

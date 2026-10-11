@@ -10,12 +10,12 @@ kutunza kompyuta bila kuhitaji kuwa mtaalamu.
 
 ### 28/09 hadi 08/11 · Programu bila usumbufu (na kwa usalama)
 
-- [ ] **Duka la programu**: tathmini za watumiaji na ruhusa za kila programu kabla ya kusakinisha (duka lenye Flathub na hazina za Arch tayari lipo)
-- [ ] **Buruta ili kusakinisha**, kama kwenye Mac: bofya mara mbili .exe, .deb, .rpm au AppImage na uiburute hadi **Programu**
-- [ ] **Kila kitu cha nje kinaendeshwa ndani ya kisanduku kilichotengwa**: programu za Windows (Bottles), vifurushi vya .deb/.rpm (Distrobox) na AppImage haviwezi kuona mfumo wako wala faili zako bila ruhusa
-- [ ] Ukurasa wa **Visanduku** kwenye Mipangilio: ona, toa au ondoa ruhusa ya faili, mtandao, kamera na maikrofoni, na ufute kisanduku
-- [ ] **Programu za Android** (APK) ndani ya kisanduku, kwa Waydroid, zikionekana kwenye kizinduzi kama programu nyingine yoyote
-- [ ] **Michezo kwa kubofya mara moja**: Steam, Proton na hali ya michezo, pamoja na onyo kwa michezo yenye anti-cheat isiyofanya kazi kwenye Linux
+- [x] **Duka la programu**: tathmini za watumiaji na ruhusa za kila programu kabla ya kusakinisha (duka lenye Flathub na hazina za Arch tayari lipo)
+- [x] **Buruta ili kusakinisha**, kama kwenye Mac: bofya mara mbili .exe, .deb, .rpm au AppImage na uiburute hadi **Programu**
+- [x] **Kila kitu cha nje kinaendeshwa ndani ya kisanduku kilichotengwa**: programu za Windows (Bottles), vifurushi vya .deb/.rpm (Podman) na AppImage haviwezi kuona mfumo wako wala faili zako bila ruhusa
+- [x] Ukurasa wa **Visanduku** kwenye Mipangilio: ona, toa au ondoa ruhusa ya faili, mtandao, kamera na maikrofoni, na ufute kisanduku
+- [x] **Programu za Android** (APK) ndani ya kisanduku, kwa Waydroid, zikionekana kwenye kizinduzi kama programu nyingine yoyote
+- [x] **Michezo kwa kubofya mara moja**: Steam, Proton na hali ya michezo, pamoja na onyo kwa michezo yenye anti-cheat isiyofanya kazi kwenye Linux
 - [x] **Michezo asilia**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Sakinisha kutoka Duka → Michezo asilia. Unapofungua mara ya kwanza, toa ROM kutoka katriji yako mwenyewe; vifurushi havina data za michezo.
 - [ ] **Michezo asilia zaidi**: Zelda: Ocarina of Time (Ship of Harkinian) na Mario Kart 64 (SpaghettiKart), bado "Inakuja hivi karibuni" dukani
 

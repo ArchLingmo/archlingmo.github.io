@@ -10,12 +10,12 @@ teama că o actualizare va strica sistemul, driverele, instalarea programelor f�
 
 ### 28/09 – 08/11 · Programe fără bătăi de cap (și în siguranță)
 
-- [ ] **Magazin de aplicații**: evaluările utilizatorilor și permisiunile fiecărei aplicații înainte de instalare (magazinul cu Flathub și depozitele Arch există deja)
-- [ ] **Tragere pentru instalare**, ca pe Mac: dublu clic pe un .exe, .deb, .rpm sau AppImage și trageți-l în **Aplicații**
-- [ ] **Tot ce vine din afară rulează într-o cutie izolată**: programele Windows (Bottles), pachetele .deb/.rpm (Distrobox) și AppImage-urile nu vă pot vedea sistemul sau fișierele fără permisiune
-- [ ] O pagină **Cutii** în Setări: vedeți, acordați sau retrageți accesul la fișiere, rețea, cameră și microfon și ștergeți o cutie
-- [ ] **Aplicații Android** (APK) într-o cutie, cu Waydroid, care apar în lansator ca orice altă aplicație
-- [ ] **Jocuri dintr-un clic**: Steam, Proton și modul joc, cu avertisment pentru jocurile cu anti-cheat care nu funcționează pe Linux
+- [x] **Magazin de aplicații**: evaluările utilizatorilor și permisiunile fiecărei aplicații înainte de instalare (magazinul cu Flathub și depozitele Arch există deja)
+- [x] **Tragere pentru instalare**, ca pe Mac: dublu clic pe un .exe, .deb, .rpm sau AppImage și trageți-l în **Aplicații**
+- [x] **Tot ce vine din afară rulează într-o cutie izolată**: programele Windows (Bottles), pachetele .deb/.rpm (Podman) și AppImage-urile nu vă pot vedea sistemul sau fișierele fără permisiune
+- [x] O pagină **Cutii** în Setări: vedeți, acordați sau retrageți accesul la fișiere, rețea, cameră și microfon și ștergeți o cutie
+- [x] **Aplicații Android** (APK) într-o cutie, cu Waydroid, care apar în lansator ca orice altă aplicație
+- [x] **Jocuri dintr-un clic**: Steam, Proton și modul joc, cu avertisment pentru jocurile cu anti-cheat care nu funcționează pe Linux
 - [x] **Jocuri native**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Instalați din Magazin → Jocuri native. La prima pornire, furnizați un ROM extras din propriul cartuș; pachetele nu includ datele jocurilor.
 - [ ] **Mai multe jocuri native**: Zelda: Ocarina of Time (Ship of Harkinian) și Mario Kart 64 (SpaghettiKart), încă „În curând” în magazin
 

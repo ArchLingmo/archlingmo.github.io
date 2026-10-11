@@ -10,12 +10,12 @@ prizorgi la komputilon sen esti teknikisto.
 
 ### 28/09 – 08/11 · Programoj sen komplikaĵoj (kaj sekure)
 
-- [ ] **Aplikaĵa vendejo**: taksoj de uzantoj kaj la permesoj de ĉiu aplikaĵo antaŭ instalado (la Vendejo kun Flathub kaj la deponejoj de Arch jam estas ĉi tie)
-- [ ] **Treni por instali**, kiel ĉe Mac: duoble alklaku .exe, .deb, .rpm aŭ AppImage kaj trenu ĝin al **Aplikaĵoj**
-- [ ] **Ĉio el ekstere funkcias en izolita skatolo**: programoj por Windows (Bottles), pakoj .deb/.rpm (Distrobox) kaj AppImage ne povas vidi vian sistemon nek viajn dosierojn sen permeso
-- [ ] Paĝo **Skatoloj** en Agordoj: vidi, doni aŭ forpreni aliron al dosieroj, reto, kamerao kaj mikrofono, kaj forigi skatolon
-- [ ] **Android-aplikaĵoj** (APK) en skatolo, kun Waydroid, aperantaj en la lanĉilo kiel ajna alia aplikaĵo
-- [ ] **Ludoj per unu klako**: Steam, Proton kaj luda reĝimo, kun averto pri ludoj, kies kontraŭtrompa sistemo ne funkcias en Linux
+- [x] **Aplikaĵa vendejo**: taksoj de uzantoj kaj la permesoj de ĉiu aplikaĵo antaŭ instalado (la Vendejo kun Flathub kaj la deponejoj de Arch jam estas ĉi tie)
+- [x] **Treni por instali**, kiel ĉe Mac: duoble alklaku .exe, .deb, .rpm aŭ AppImage kaj trenu ĝin al **Aplikaĵoj**
+- [x] **Ĉio el ekstere funkcias en izolita skatolo**: programoj por Windows (Bottles), pakoj .deb/.rpm (Podman) kaj AppImage ne povas vidi vian sistemon nek viajn dosierojn sen permeso
+- [x] Paĝo **Skatoloj** en Agordoj: vidi, doni aŭ forpreni aliron al dosieroj, reto, kamerao kaj mikrofono, kaj forigi skatolon
+- [x] **Android-aplikaĵoj** (APK) en skatolo, kun Waydroid, aperantaj en la lanĉilo kiel ajna alia aplikaĵo
+- [x] **Ludoj per unu klako**: Steam, Proton kaj luda reĝimo, kun averto pri ludoj, kies kontraŭtrompa sistemo ne funkcias en Linux
 - [x] **Indiĝenaj ludoj**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Instalu el Vendejo → Indiĝenaj ludoj. Je la unua lanĉo, donu ROM el via propra kartoĉo; la pakaĵoj ne enhavas ludajn datumojn.
 - [ ] **Pliaj indiĝenaj ludoj**: Zelda: Ocarina of Time (Ship of Harkinian) kaj Mario Kart 64 (SpaghettiKart), ankoraŭ «Baldaŭ» en la vendejo
 

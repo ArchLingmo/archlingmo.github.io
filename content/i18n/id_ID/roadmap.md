@@ -10,12 +10,12 @@ merawat komputer tanpa harus paham teknis.
 
 ### 28/09 – 08/11 · Aplikasi tanpa ribet (dan aman)
 
-- [ ] **Toko Aplikasi**: ulasan pengguna dan izin setiap aplikasi sebelum dipasang (Toko dengan Flathub dan repositori Arch sudah tersedia)
-- [ ] **Seret untuk memasang**, seperti di Mac: klik dua kali file .exe, .deb, .rpm, atau AppImage lalu seret ke **Aplikasi**
-- [ ] **Semua yang berasal dari luar berjalan di kotak terisolasi**: program Windows (Bottles), paket .deb/.rpm (Distrobox), dan AppImage tidak dapat melihat sistem atau berkas Anda tanpa izin
-- [ ] Halaman **Kotak** di Pengaturan: lihat, berikan, atau cabut akses ke berkas, jaringan, kamera, dan mikrofon, serta hapus kotak
-- [ ] **Aplikasi Android** (APK) di dalam kotak, dengan Waydroid, muncul di peluncur seperti aplikasi lainnya
-- [ ] **Main game sekali klik**: Steam, Proton, dan mode game, dengan peringatan untuk game yang anti-cheat-nya tidak berjalan di Linux
+- [x] **Toko Aplikasi**: ulasan pengguna dan izin setiap aplikasi sebelum dipasang (Toko dengan Flathub dan repositori Arch sudah tersedia)
+- [x] **Seret untuk memasang**, seperti di Mac: klik dua kali file .exe, .deb, .rpm, atau AppImage lalu seret ke **Aplikasi**
+- [x] **Semua yang berasal dari luar berjalan di kotak terisolasi**: program Windows (Bottles), paket .deb/.rpm (Podman), dan AppImage tidak dapat melihat sistem atau berkas Anda tanpa izin
+- [x] Halaman **Kotak** di Pengaturan: lihat, berikan, atau cabut akses ke berkas, jaringan, kamera, dan mikrofon, serta hapus kotak
+- [x] **Aplikasi Android** (APK) di dalam kotak, dengan Waydroid, muncul di peluncur seperti aplikasi lainnya
+- [x] **Main game sekali klik**: Steam, Proton, dan mode game, dengan peringatan untuk game yang anti-cheat-nya tidak berjalan di Linux
 - [x] **Game native**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Pasang dari Toko → Game native. Saat pertama dibuka, berikan ROM yang disalin dari kartrid Anda sendiri; paket tidak menyertakan data game.
 - [ ] **Lebih banyak game native**: Zelda: Ocarina of Time (Ship of Harkinian) dan Mario Kart 64 (SpaghettiKart), masih "Segera hadir" di toko
 

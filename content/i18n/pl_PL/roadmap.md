@@ -10,12 +10,12 @@ dbanie o komputer bez konieczności bycia specjalistą.
 
 ### 28/09 – 08/11 · Programy bez komplikacji (i bezpieczne)
 
-- [ ] **Sklep z aplikacjami**: oceny użytkowników i uprawnienia każdej aplikacji przed instalacją (Sklep z Flathub i repozytoriami Arch już jest)
-- [ ] **Instalacja przez przeciągnięcie**, jak na Macu: kliknij dwukrotnie plik .exe, .deb, .rpm lub AppImage i przeciągnij go do **Aplikacji**
-- [ ] **Wszystko spoza systemu działa w izolowanym pudełku**: programy Windows (Bottles), pakiety .deb/.rpm (Distrobox) i AppImage nie widzą Twojego systemu ani plików bez zgody
-- [ ] Strona **Pudełka** w Ustawieniach: podgląd, nadawanie i odbieranie dostępu do plików, sieci, kamery i mikrofonu oraz usuwanie pudełka
-- [ ] **Aplikacje Android** (APK) w pudełku, z Waydroid, widoczne w programie uruchamiającym jak każda inna aplikacja
-- [ ] **Gry jednym kliknięciem**: Steam, Proton i tryb gry, z ostrzeżeniem o grach z anti-cheatem, które nie działają na Linuksie
+- [x] **Sklep z aplikacjami**: oceny użytkowników i uprawnienia każdej aplikacji przed instalacją (Sklep z Flathub i repozytoriami Arch już jest)
+- [x] **Instalacja przez przeciągnięcie**, jak na Macu: kliknij dwukrotnie plik .exe, .deb, .rpm lub AppImage i przeciągnij go do **Aplikacji**
+- [x] **Wszystko spoza systemu działa w izolowanym pudełku**: programy Windows (Bottles), pakiety .deb/.rpm (Podman) i AppImage nie widzą Twojego systemu ani plików bez zgody
+- [x] Strona **Pudełka** w Ustawieniach: podgląd, nadawanie i odbieranie dostępu do plików, sieci, kamery i mikrofonu oraz usuwanie pudełka
+- [x] **Aplikacje Android** (APK) w pudełku, z Waydroid, widoczne w programie uruchamiającym jak każda inna aplikacja
+- [x] **Gry jednym kliknięciem**: Steam, Proton i tryb gry, z ostrzeżeniem o grach z anti-cheatem, które nie działają na Linuksie
 - [x] **Gry natywne**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Instalacja ze Sklepu → Gry natywne. Przy pierwszym uruchomieniu podaj ROM własnego kartridża; pakiety nie zawierają danych gier.
 - [ ] **Więcej gier natywnych**: Zelda: Ocarina of Time (Ship of Harkinian) i Mario Kart 64 (SpaghettiKart), na razie jako „Wkrótce” w sklepie
 

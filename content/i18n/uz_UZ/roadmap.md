@@ -10,12 +10,12 @@ texnik bilimsiz kompyuterni parvarish qilish.
 
 ### 28/09 – 08/11 · Muammosiz (va xavfsiz) dasturlar
 
-- [ ] **Ilovalar do‘koni**: o‘rnatishdan oldin foydalanuvchilar baholari va har bir ilovaning ruxsatlari (Flathub va Arch repozitoriylari jamlangan Do‘kon allaqachon mavjud)
-- [ ] Mac’dagidek **sudrab o‘rnatish**: .exe, .deb, .rpm yoki AppImage faylini ikki marta bosing va uni **Ilovalar** jildiga sudrang
-- [ ] **Tashqaridan kelgan hamma narsa izolyatsiyalangan qutida ishlaydi**: Windows dasturlari (Bottles), .deb/.rpm paketlari (Distrobox) va AppImage’lar ruxsatsiz tizimingiz va fayllaringizni ko‘ra olmaydi
-- [ ] Sozlamalarda **Qutilar** sahifasi: fayllar, tarmoq, kamera va mikrofonga kirishni ko‘rish, berish yoki olib tashlash hamda qutini o‘chirish
-- [ ] Qutida Waydroid orqali ishlaydigan **Android ilovalari** (APK), ular ishga tushirgichda boshqa ilovalar kabi ko‘rinadi
-- [ ] **Bir bosishda o‘yinlar**: Steam, Proton va o‘yin rejimi, Linux’da ishlamaydigan anti-cheat’li o‘yinlar haqida ogohlantirish bilan
+- [x] **Ilovalar do‘koni**: o‘rnatishdan oldin foydalanuvchilar baholari va har bir ilovaning ruxsatlari (Flathub va Arch repozitoriylari jamlangan Do‘kon allaqachon mavjud)
+- [x] Mac’dagidek **sudrab o‘rnatish**: .exe, .deb, .rpm yoki AppImage faylini ikki marta bosing va uni **Ilovalar** jildiga sudrang
+- [x] **Tashqaridan kelgan hamma narsa izolyatsiyalangan qutida ishlaydi**: Windows dasturlari (Bottles), .deb/.rpm paketlari (Podman) va AppImage’lar ruxsatsiz tizimingiz va fayllaringizni ko‘ra olmaydi
+- [x] Sozlamalarda **Qutilar** sahifasi: fayllar, tarmoq, kamera va mikrofonga kirishni ko‘rish, berish yoki olib tashlash hamda qutini o‘chirish
+- [x] Qutida Waydroid orqali ishlaydigan **Android ilovalari** (APK), ular ishga tushirgichda boshqa ilovalar kabi ko‘rinadi
+- [x] **Bir bosishda o‘yinlar**: Steam, Proton va o‘yin rejimi, Linux’da ishlamaydigan anti-cheat’li o‘yinlar haqida ogohlantirish bilan
 - [x] **Mahalliy o‘yinlar**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Do‘kon → Mahalliy o‘yinlar bo‘limidan o‘rnating. Birinchi ishga tushirishda o‘z kartrijingizdan olingan ROMni ko‘rsating; paketlarda o‘yin ma’lumotlari yo‘q.
 - [ ] **Ko‘proq mahalliy o‘yinlar**: Zelda: Ocarina of Time (Ship of Harkinian) va Mario Kart 64 (SpaghettiKart), do‘konda hali «Tez orada»
 
