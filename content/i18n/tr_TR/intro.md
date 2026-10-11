@@ -5,5 +5,6 @@ Masaüstünün tamamı **Qt 6**'ya taşındı ve değişiklikler resmî projeye 
 
 - **Özenli görünüm**: yeniden tasarlanmış üst çubuk, dock, Spotlight, denetimler ve pencere düğmeleri; açık ve koyu tema.
 - **Güncel**: Qt 6, KDE Frameworks 6 ve KWin 6, doğrudan Arch depolarından.
+- **Yerel ve gizli yapay zekâ**: Asistan ve Spotlight, Ollama aracılığıyla bilgisayarınızda çalışan modellerle yanıt verir.
 - **Pratik**: Super tuşuyla kısayollar, Ayarlar'da kısayollar ve başlangıç sayfaları, alışık olduğunuz uygulamalarla sistem tepsisi.
 - **Açık**: tüm kod GitHub'da ve her iyileştirme Lingmo'ya bir pull request olarak gidiyor.

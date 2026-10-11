@@ -8,19 +8,20 @@ Prioritetai kyla iš to, kas dažniausiai minima forumuose ir kitų distribucij�
 baimė, kad atnaujinimas sugadins sistemą, tvarkyklės, programų diegimas be terminalo ir
 kompiuterio priežiūra nebūnant techniniu žinovu.
 
-- [x] **Vietiniai žaidimai**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Įdiekite iš parduotuvės. Pirmą kartą paleidę pateikite savo kasetės ROM; paketuose nėra žaidimų duomenų.
+### 28/09–08/11 · Programos be vargo (ir saugiai)
 
-### 28/09–08/11 · Programos be vargo
-
-- [ ] **Programėlių parduotuvė**: Flathub ir Arch saugyklos vienoje vietoje, su įvertinimais ir ekrano nuotraukomis; AUR paketai tik su įspėjimu
-- [ ] **Windows programų atidarymas**: spustelėjus .exe, pasiūloma alternatyva Linux arba programa paleidžiama su Bottles/Wine
+- [ ] **Programėlių parduotuvė**: naudotojų įvertinimai ir kiekvienos programėlės leidimai prieš diegiant (Parduotuvė su Flathub ir Arch saugyklomis jau yra)
+- [ ] **Vilkite, kad įdiegtumėte**, kaip Mac: dukart spustelėkite .exe, .deb, .rpm ar AppImage ir nuvilkite į **Programos**
+- [ ] **Viskas, kas iš išorės, veikia izoliuotoje dėžėje**: Windows programos (Bottles), .deb/.rpm paketai (Distrobox) ir AppImage negali matyti jūsų sistemos ar failų be leidimo
+- [ ] **Dėžių** puslapis Nustatymuose: peržiūrėkite, suteikite ar atimkite prieigą prie failų, tinklo, kameros ir mikrofono bei ištrinkite dėžę
+- [ ] **Android programėlės** (APK) dėžėje, su Waydroid, rodomos paleidiklyje kaip bet kuri kita programėlė
 - [ ] **Žaidimai vienu spustelėjimu**: Steam, Proton ir žaidimų režimas, su įspėjimu apie žaidimus su apsauga nuo sukčiavimo, kurie neveikia Linux
+- [x] **Vietiniai žaidimai**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Įdiekite iš Parduotuvė → Vietiniai žaidimai. Pirmą kartą paleidę pateikite ROM, nukopijuotą iš savo kasetės; paketuose nėra žaidimų duomenų.
+- [ ] **Daugiau vietinių žaidimų**: Zelda: Ocarina of Time (Ship of Harkinian) ir Mario Kart 64 (SpaghettiKart), parduotuvėje vis dar „Netrukus“
 
 ### 09/11–13/12 · Kompiuterio priežiūra
 
-- [ ] **Sistemos stebėjimas** (Ctrl + Shift + Esc): procesorius, atmintis, diskas, tinklas ir vaizdo plokštė, programėlių ir procesų sąrašas bei mygtukas „Baigti“
-- [ ] **Valymas**: podėliai, šiukšlinė, niekieno nenaudojami paketai, atnaujinimų podėlis ir nenaudojamos Flatpak vykdymo aplinkos, prieš patvirtinant parodoma, kiek vietos atsilaisvins
-- [ ] **Disko žemėlapis**: kas užima vietą ir pamiršti dideli failai
+- [ ] **Sistemos stebėjimas** (Ctrl + Shift + Esc): tinklas ir vaizdo plokštė, be procesoriaus, atminties ir disko, kuriuos jau rodo Optimizatorius
 - [ ] **Sistemos informacija** su mygtuku „Kopijuoti ataskaitą“, kad galėtumėte paprašyti pagalbos Discord ar forumuose
 - [ ] Kameros fono suliejimas ir keitimas su kokybišku iškirpimu (plaukai, ausinės ir pečiai)
 
@@ -49,7 +50,7 @@ kompiuterio priežiūra nebūnant techniniu žinovu.
 
 ### Nuo 2027 m. birželio
 
-- [ ] Pasirenkamas ir privatus DI asistentas (vietinis modelis): pažymėto teksto santrauka, vertimas ir paaiškinimas
+- [ ] DI asistentas: pažymėto teksto santrauka, vertimas ir paaiškinimas bet kurioje programoje
 - [ ] Tėvų kontrolė: naudojimo laikas ir miego laikas
 - [ ] Wayland seansas
 - [ ] ISO, automatiškai sukuriamas ir išbandomas kiekvienai versijai

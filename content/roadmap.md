@@ -10,8 +10,7 @@ cuidar do computador sem precisar ser técnico.
 
 ### 28/09 a 08/11 · Programas sem complicação (e seguros)
 
-- [ ] **Cliente de e-mail**: configuração fácil para diferentes provedores, com detecção automática e opção manual de SMTP e IMAP/POP3. Integração com a mesma conta Google (Gmail) usada na loja para baixar apps Android. Visual integrado ao ArchLingmo, com componentes LingmoUI, tipografia, cores, espaçamentos e temas claro/escuro consistentes com o sistema
-- [ ] **Loja de aplicativos**: Flathub e repositórios do Arch num só lugar, com notas, fotos e as permissões de cada app antes de instalar
+- [ ] **Loja de aplicativos**: notas dos usuários e as permissões de cada app antes de instalar (a Loja com o Flathub e os repositórios do Arch já está pronta)
 - [ ] **Instalar arrastando**, como no Mac: dois cliques num .exe, .deb, .rpm ou AppImage e arraste para **Aplicativos**
 - [ ] **Tudo de fora roda numa caixa isolada**: programas do Windows (Bottles), pacotes .deb/.rpm (Distrobox) e AppImages não enxergam o seu sistema nem os seus arquivos sem permissão
 - [ ] Página **Caixas** nas Configurações: ver, dar ou tirar acesso a arquivos, rede, câmera e microfone, e apagar uma caixa
@@ -22,9 +21,7 @@ cuidar do computador sem precisar ser técnico.
 
 ### 09/11 a 13/12 · Cuidar do computador
 
-- [ ] **Monitor do sistema** (Ctrl + Shift + Esc): processador, memória, disco, rede e placa de vídeo, lista de apps e processos e botão "Encerrar"
-- [ ] **Limpeza**: caches, lixeira, pacotes que ninguém usa, cache de atualizações e runtimes Flatpak sem uso, com o espaço liberado antes de confirmar
-- [ ] **Mapa do disco**: o que está ocupando espaço e arquivos grandes esquecidos
+- [ ] **Monitor do sistema** (Ctrl + Shift + Esc): rede e placa de vídeo, além do processador, da memória e do disco que o Otimizador já mostra
 - [ ] **Informações do sistema** com um botão "Copiar relatório" para pedir ajuda no Discord ou em fóruns
 - [ ] Desfoque e fundo da câmera com recorte de qualidade (cabelo, fone e ombros)
 
@@ -53,7 +50,7 @@ cuidar do computador sem precisar ser técnico.
 
 ### A partir de junho de 2027
 
-- [ ] Assistente de IA opcional e privado (modelo local): resumir, traduzir e explicar o texto selecionado
+- [ ] Assistente de IA: resumir, traduzir e explicar o texto selecionado em qualquer app
 - [ ] Controle parental: tempo de uso e horário de dormir
 - [ ] Sessão Wayland
 - [ ] ISO gerada e testada automaticamente a cada versão

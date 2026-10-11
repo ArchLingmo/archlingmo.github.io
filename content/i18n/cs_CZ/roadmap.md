@@ -8,19 +8,20 @@ Priority vycházejí z toho, co se nejčastěji objevuje na fórech a v recenzí
 strach, že aktualizace rozbije systém, ovladače, instalace programů bez terminálu a
 péče o počítač bez technických znalostí.
 
-- [x] **Nativní hry**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Instalace z obchodu. Při prvním spuštění zadejte ROM z vlastní cartridge; balíčky neobsahují herní data.
+### 28/09 – 08/11 · Programy bez komplikací (a bezpečně)
 
-### 28/09 – 08/11 · Programy bez komplikací
-
-- [ ] **Obchod s aplikacemi**: Flathub a repozitáře Archu na jednom místě, s hodnocením a snímky; balíčky z AUR jen s upozorněním
-- [ ] **Otevírání programů pro Windows**: po kliknutí na .exe nabídne alternativu pro Linux nebo program spustí přes Bottles/Wine
+- [ ] **Obchod s aplikacemi**: hodnocení uživatelů a oprávnění každé aplikace před instalací (Obchod s Flathubem a repozitáři Archu už je tady)
+- [ ] **Instalace přetažením** jako na Macu: dvakrát klikněte na .exe, .deb, .rpm nebo AppImage a přetáhněte ho do **Aplikací**
+- [ ] **Vše zvenčí běží v izolovaném boxu**: programy pro Windows (Bottles), balíčky .deb/.rpm (Distrobox) a AppImage nevidí váš systém ani vaše soubory bez svolení
+- [ ] Stránka **Boxy** v Nastavení: zobrazte, udělte nebo odeberte přístup k souborům, síti, kameře a mikrofonu a smažte box
+- [ ] **Aplikace pro Android** (APK) v boxu s Waydroidem, které se v launcheru zobrazí jako jakákoli jiná aplikace
 - [ ] **Hry jedním kliknutím**: Steam, Proton a herní režim, s upozorněním na hry, jejichž anti-cheat na Linuxu nefunguje
+- [x] **Nativní hry**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Instalace z Obchodu → Nativní hry. Při prvním spuštění zadejte ROM z vlastní cartridge; balíčky neobsahují herní data.
+- [ ] **Další nativní hry**: Zelda: Ocarina of Time (Ship of Harkinian) a Mario Kart 64 (SpaghettiKart), v obchodě zatím „Již brzy“
 
 ### 09/11 – 13/12 · Péče o počítač
 
-- [ ] **Monitor systému** (Ctrl + Shift + Esc): procesor, paměť, disk, síť a grafická karta, seznam aplikací a procesů a tlačítko „Ukončit“
-- [ ] **Úklid**: mezipaměti, koš, nepoužívané balíčky, mezipaměť aktualizací a nepoužívané runtimy Flatpak, s uvolněným místem zobrazeným před potvrzením
-- [ ] **Mapa disku**: co zabírá místo a velké zapomenuté soubory
+- [ ] **Monitor systému** (Ctrl + Shift + Esc): síť a grafická karta, navíc k procesoru, paměti a disku, které už ukazuje Optimalizátor
 - [ ] **Informace o systému** s tlačítkem „Kopírovat zprávu“ pro žádost o pomoc na Discordu nebo na fórech
 - [ ] Rozmazání a pozadí kamery s kvalitním ořezem (vlasy, sluchátka a ramena)
 
@@ -49,7 +50,7 @@ péče o počítač bez technických znalostí.
 
 ### Od června 2027
 
-- [ ] Volitelný a soukromý AI asistent (lokální model): shrnutí, překlad a vysvětlení vybraného textu
+- [ ] AI asistent: shrnutí, překlad a vysvětlení vybraného textu v jakékoli aplikaci
 - [ ] Rodičovská kontrola: čas u obrazovky a večerka
 - [ ] Relace Wayland
 - [ ] ISO automaticky sestavené a otestované u každé verze

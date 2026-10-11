@@ -5,5 +5,6 @@ com todo o ambiente de trabalho migrado para **Qt 6**, enquanto as alterações 
 
 - **Visual cuidado**: barra superior, dock, Spotlight, controlos e botões de janela redesenhados, em tema claro e escuro.
 - **Atual**: Qt 6, KDE Frameworks 6 e KWin 6, diretamente dos repositórios do Arch.
+- **IA local e privada**: o Assistente e o Spotlight respondem com modelos que correm no seu computador, através do Ollama.
 - **Prático**: atalhos com a tecla Super, páginas de atalhos e de arranque nas Definições, área de notificação com as aplicações de sempre.
 - **Aberto**: todo o código está no GitHub, e cada melhoria torna-se um pull request para o Lingmo.

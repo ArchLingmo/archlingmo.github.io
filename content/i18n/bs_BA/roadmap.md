@@ -8,19 +8,20 @@ Prioriteti proizlaze iz onoga što se najčešće spominje na forumima i u recen
 strah da će ažuriranje pokvariti sistem, drajveri, instaliranje programa bez terminala i
 održavanje računara bez potrebe da budete stručnjak.
 
-- [x] **Nativne igre**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Instalirajte iz prodavnice. Pri prvom pokretanju priložite ROM vlastitog kertridža; paketi ne sadrže podatke igara.
+### 28.09. do 08.11. · Programi bez komplikacija (i sigurno)
 
-### 28.09. do 08.11. · Programi bez komplikacija
-
-- [ ] **Prodavnica aplikacija**: Flathub i Arch repozitoriji na jednom mjestu, s ocjenama i snimcima ekrana; AUR paketi samo uz upozorenje
-- [ ] **Otvaranje Windows programa**: klikom na .exe predlaže se alternativa za Linux ili se program pokreće pomoću Bottles/Wine
+- [ ] **Prodavnica aplikacija**: ocjene korisnika i dozvole svake aplikacije prije instalacije (Prodavnica s Flathubom i Arch repozitorijima već postoji)
+- [ ] **Prevuci za instalaciju**, kao na Macu: dvaput kliknite na .exe, .deb, .rpm ili AppImage i prevucite ga u **Aplikacije**
+- [ ] **Sve što dolazi izvana radi u izolovanoj kutiji**: Windows programi (Bottles), .deb/.rpm paketi (Distrobox) i AppImage ne vide vaš sistem ni vaše datoteke bez dozvole
+- [ ] Stranica **Kutije** u Postavkama: pregledajte, dajte ili uklonite pristup datotekama, mreži, kameri i mikrofonu te obrišite kutiju
+- [ ] **Android aplikacije** (APK) u kutiji, pomoću Waydroida, koje se pojavljuju u pokretaču kao i svaka druga aplikacija
 - [ ] **Igre jednim klikom**: Steam, Proton i režim za igre, s upozorenjem za igre sa anti-cheat zaštitom koje ne rade na Linuxu
+- [x] **Nativne igre**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Instalirajte iz Prodavnice → Nativne igre. Pri prvom pokretanju priložite ROM vlastitog kertridža; paketi ne sadrže podatke igara.
+- [ ] **Još nativnih igara**: Zelda: Ocarina of Time (Ship of Harkinian) i Mario Kart 64 (SpaghettiKart), još uvijek "Uskoro" u prodavnici
 
 ### 09.11. do 13.12. · Briga o računaru
 
-- [ ] **Monitor sistema** (Ctrl + Shift + Esc): procesor, memorija, disk, mreža i grafička kartica, lista aplikacija i procesa i dugme "Završi"
-- [ ] **Čišćenje**: keš, korpa za smeće, paketi koje niko ne koristi, keš ažuriranja i nekorišteni Flatpak runtime-ovi, uz prikaz oslobođenog prostora prije potvrde
-- [ ] **Mapa diska**: šta zauzima prostor i zaboravljeni veliki fajlovi
+- [ ] **Monitor sistema** (Ctrl + Shift + Esc): mreža i grafička kartica, uz procesor, memoriju i disk koje Optimizator već prikazuje
 - [ ] **Informacije o sistemu** s dugmetom "Kopiraj izvještaj" za traženje pomoći na Discordu ili forumima
 - [ ] Zamućenje i pozadina kamere s kvalitetnim izrezivanjem (kosa, slušalice i ramena)
 
@@ -49,7 +50,7 @@ održavanje računara bez potrebe da budete stručnjak.
 
 ### Od juna 2027.
 
-- [ ] Opcionalni i privatni AI asistent (lokalni model): sažimanje, prevođenje i objašnjavanje odabranog teksta
+- [ ] AI asistent: sažimanje, prevođenje i objašnjavanje odabranog teksta u bilo kojoj aplikaciji
 - [ ] Roditeljski nadzor: vrijeme korištenja i vrijeme za spavanje
 - [ ] Wayland sesija
 - [ ] ISO automatski generisan i testiran za svaku verziju

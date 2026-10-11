@@ -8,19 +8,20 @@ A prioritások abból születnek, ami a fórumokon és más disztribúciók ért
 a félelem, hogy egy frissítés tönkreteszi a rendszert, az illesztőprogramok, a programok telepítése terminál nélkül és
 a számítógép karbantartása szakértelem nélkül.
 
-- [x] **Natív játékok**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Telepítés az áruházból. Első indításkor add meg a saját kazettádról készült ROM-ot; a csomagok nem tartalmaznak játékadatokat.
+### 09.28. – 11.08. · Programok bonyodalmak nélkül (és biztonságosan)
 
-### 09.28. – 11.08. · Programok bonyodalmak nélkül
-
-- [ ] **Alkalmazásbolt**: a Flathub és az Arch tárolói egy helyen, értékelésekkel és képernyőképekkel; AUR-csomagok csak figyelmeztetéssel
-- [ ] **Windows-programok megnyitása**: egy .exe fájlra kattintva Linuxos alternatívát javasol, vagy Bottles/Wine segítségével futtatja
+- [ ] **Alkalmazásbolt**: felhasználói értékelések és az egyes alkalmazások engedélyei telepítés előtt (az Áruház a Flathubbal és az Arch tárolóival már elkészült)
+- [ ] **Telepítés húzással**, mint Macen: kattints duplán egy .exe, .deb, .rpm vagy AppImage fájlra, és húzd az **Alkalmazások** mappába
+- [ ] **Minden külső program elszigetelt dobozban fut**: a Windows-programok (Bottles), a .deb/.rpm csomagok (Distrobox) és az AppImage-ek engedély nélkül nem látják a rendszeredet és a fájljaidat
+- [ ] **Dobozok** oldal a Beállításokban: a fájlokhoz, hálózathoz, kamerához és mikrofonhoz való hozzáférés megtekintése, megadása vagy visszavonása, és doboz törlése
+- [ ] **Android-alkalmazások** (APK) dobozban, Waydroiddal, amelyek ugyanúgy megjelennek az indítóban, mint bármely más alkalmazás
 - [ ] **Játékok egy kattintással**: Steam, Proton és játékmód, figyelmeztetéssel azokra a csalásvédelmet használó játékokra, amelyek nem futnak Linuxon
+- [x] **Natív játékok**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Telepítés: Áruház → Natív játékok. Első indításkor add meg a saját kazettádról készült ROM-ot; a csomagok nem tartalmaznak játékadatokat.
+- [ ] **További natív játékok**: Zelda: Ocarina of Time (Ship of Harkinian) és Mario Kart 64 (SpaghettiKart), az áruházban még „Hamarosan” állapotban
 
 ### 11.09. – 12.13. · A számítógép karbantartása
 
-- [ ] **Rendszerfigyelő** (Ctrl + Shift + Esc): processzor, memória, lemez, hálózat és videokártya, alkalmazások és folyamatok listája, valamint „Leállítás” gomb
-- [ ] **Takarítás**: gyorsítótárak, kuka, senki által nem használt csomagok, frissítési gyorsítótár és nem használt Flatpak-futtatókörnyezetek, a felszabaduló hely megjelenítésével a megerősítés előtt
-- [ ] **Lemeztérkép**: mi foglalja a helyet, és melyek az elfelejtett nagy fájlok
+- [ ] **Rendszerfigyelő** (Ctrl + Shift + Esc): hálózat és videokártya a processzor, a memória és a lemez mellett, amelyeket az Optimalizáló már mutat
 - [ ] **Rendszerinformációk** „Jelentés másolása” gombbal, hogy segítséget kérhess a Discordon vagy fórumokon
 - [ ] Kamera háttérelmosás és háttércsere minőségi kivágással (haj, fejhallgató és vállak)
 
@@ -49,7 +50,7 @@ a számítógép karbantartása szakértelem nélkül.
 
 ### 2027 júniusától
 
-- [ ] Opcionális és privát MI-asszisztens (helyi modell): a kijelölt szöveg összefoglalása, fordítása és magyarázata
+- [ ] MI-asszisztens: a kijelölt szöveg összefoglalása, fordítása és magyarázata bármelyik alkalmazásban
 - [ ] Szülői felügyelet: használati idő és lefekvési idő
 - [ ] Wayland-munkamenet
 - [ ] Minden verziónál automatikusan elkészített és tesztelt ISO

@@ -8,26 +8,27 @@ Li prioritás veni de quo aparí max sovente in forums e in recensiones de altri
 li timore que un actualisation rupte li sistema, drivers, installar programmas sin terminal e
 curar li computator sin esser un expert.
 
-- [x] **Nativ ludes**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Installa ex li butica. Al prim lansament, provide li ROM de vor propri cartuche; li paccas ne contene dates del ludes.
+### 28/09 til 08/11 · Programmas sin complicationes (e secur)
 
-### 28/09 til 08/11 · Programmas sin complicationes
-
-- [ ] **Magasin de applicationes**: Flathub e li depositorias de Arch in un sol loc, con evaluationes e captures de ecran; paccages de AUR solmen con avise
-- [ ] **Aperter programmas de Windows**: clicante sur un .exe, it suggeste un alternative por Linux o executa it con Bottles/Wine
+- [ ] **Butica de applicationes**: evaluationes del usatores e li permissiones de chascun application ante installar (li Butica con Flathub e li depositorias de Arch ja es ci)
+- [ ] **Trenar por installar**, quam sur un Mac: duplic-clicca un .exe, .deb, .rpm o AppImage e trena it a **Applicationes**
+- [ ] **Omnicos de exter functiona in un buxe isolat**: programmas de Windows (Bottles), paccages .deb/.rpm (Distrobox) e AppImages ne posse vider vor sistema o vor files sin permission
+- [ ] Un págine **Buxes** in li Parametres: vider, dar o remover accesse a files, rete, camera e microfon, e deleter un buxe
+- [ ] **Applicationes de Android** (APK) in un buxe, con Waydroid, visibil in li lansator quam quelcunc altri application
 - [ ] **Ludes con un clic**: Steam, Proton e modo de lude, con avise pri ludes con anti-cheat queles ne functiona in Linux
+- [x] **Nativ ludes**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Installa ex Butica → Nativ ludes. Al prim lansament, provide un ROM extraet de vor propri cartuche; li paccas ne contene dates del ludes.
+- [ ] **Plu nativ ludes**: Zelda: Ocarina of Time (Ship of Harkinian) e Mario Kart 64 (SpaghettiKart), ancor "Tost" in li butica
 
 ### 09/11 til 13/12 · Curar li computator
 
-- [ ] **Monitor del sistema** (Ctrl + Shift + Esc): processor, memorie, disco, rete e carte grafic, liste de applicationes e processus e buton "Finir"
-- [ ] **Netation**: caches, paper-corb, paccages que nequi usa, cache de actualisationes e runtimes de Flatpak ínusat, monstrante li spacie liberat ante confirmar
-- [ ] **Carte del disco**: quo occupa spacie e grand files obliviat
+- [ ] **Monitor del sistema** (Ctrl + Shift + Esc): rete e carte grafic, in plu del processor, memorie e disco quel li Optimisator ja monstra
 - [ ] **Information del sistema** con un buton "Copiar raport" por demandar auxilie in Discord o in forums
 - [ ] Obscuration e funde del camera con un tallia de qualitá (capilles, auricules e spatules)
 
 ### 14/12 til 31/01/2027 · Actualisar sin timore
 
 - [ ] **Punctu de restauration automatic** ante chascun actualisation (btrfs), con option de retornar directmen per li menú de inicie
-- [ ] Buton **"Retornar a her"** in li Configuration e in li actualisator
+- [ ] Buton **"Retornar a her"** in li Parametres e in li actualisator
 - [ ] Li actualisator monstra li novas de Arch in lingue simplic e retene actualisationes queles besona intervention manual
 - [ ] **Gerente de drivers**: detecte li carte grafic (NVIDIA, AMD, Intel) e installa li driver corect, mantenente it actual con li kernel
 
@@ -49,7 +50,7 @@ curar li computator sin esser un expert.
 
 ### Ex junio 2027
 
-- [ ] Assistent de IA facultativ e privat (model local): resumar, traducter e explicar li textu selectet
+- [ ] Assistent de IA: resumar, traducter e explicar li textu selectet in quelcunc application
 - [ ] Control parental: témpor de usation e hora de dormir
 - [ ] Session Wayland
 - [ ] ISO generat e provat automaticmen por chascun version

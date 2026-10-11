@@ -8,19 +8,20 @@ La prioritatoj venas de tio, kio plej ofte aperas en forumoj kaj en recenzoj de 
 timo, ke ĝisdatigo rompos la sistemon, peliloj, instali programojn sen terminalo kaj
 prizorgi la komputilon sen esti teknikisto.
 
-- [x] **Indiĝenaj ludoj**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Instalu el la vendejo. Je la unua lanĉo, donu ROM el via propra kartoĉo; la pakaĵoj ne enhavas ludajn datumojn.
+### 28/09 – 08/11 · Programoj sen komplikaĵoj (kaj sekure)
 
-### 28/09 – 08/11 · Programoj sen komplikaĵoj
-
-- [ ] **Aplikaĵa vendejo**: Flathub kaj la deponejoj de Arch en unu loko, kun taksoj kaj ekrankopioj; pakoj el AUR nur kun averto
-- [ ] **Malfermi programojn por Windows**: alklakante .exe, ĝi proponas alternativon por Linux aŭ rulas ĝin per Bottles/Wine
+- [ ] **Aplikaĵa vendejo**: taksoj de uzantoj kaj la permesoj de ĉiu aplikaĵo antaŭ instalado (la Vendejo kun Flathub kaj la deponejoj de Arch jam estas ĉi tie)
+- [ ] **Treni por instali**, kiel ĉe Mac: duoble alklaku .exe, .deb, .rpm aŭ AppImage kaj trenu ĝin al **Aplikaĵoj**
+- [ ] **Ĉio el ekstere funkcias en izolita skatolo**: programoj por Windows (Bottles), pakoj .deb/.rpm (Distrobox) kaj AppImage ne povas vidi vian sistemon nek viajn dosierojn sen permeso
+- [ ] Paĝo **Skatoloj** en Agordoj: vidi, doni aŭ forpreni aliron al dosieroj, reto, kamerao kaj mikrofono, kaj forigi skatolon
+- [ ] **Android-aplikaĵoj** (APK) en skatolo, kun Waydroid, aperantaj en la lanĉilo kiel ajna alia aplikaĵo
 - [ ] **Ludoj per unu klako**: Steam, Proton kaj luda reĝimo, kun averto pri ludoj, kies kontraŭtrompa sistemo ne funkcias en Linux
+- [x] **Indiĝenaj ludoj**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Instalu el Vendejo → Indiĝenaj ludoj. Je la unua lanĉo, donu ROM el via propra kartoĉo; la pakaĵoj ne enhavas ludajn datumojn.
+- [ ] **Pliaj indiĝenaj ludoj**: Zelda: Ocarina of Time (Ship of Harkinian) kaj Mario Kart 64 (SpaghettiKart), ankoraŭ «Baldaŭ» en la vendejo
 
 ### 09/11 – 13/12 · Prizorgi la komputilon
 
-- [ ] **Sistema monitoro** (Ctrl + Shift + Esc): procesoro, memoro, disko, reto kaj grafika karto, listo de aplikaĵoj kaj procezoj kaj butono «Ĉesigi»
-- [ ] **Purigado**: kaŝmemoroj, rubujo, neuzataj pakoj, kaŝmemoro de ĝisdatigoj kaj neuzataj Flatpak-rultempoj, montrante la liberigotan spacon antaŭ konfirmo
-- [ ] **Diskomapo**: kio okupas spacon kaj forgesitaj grandaj dosieroj
+- [ ] **Sistema monitoro** (Ctrl + Shift + Esc): reto kaj grafika karto, aldone al la procesoro, memoro kaj disko, kiujn la Optimumigilo jam montras
 - [ ] **Sistemaj informoj** kun butono «Kopii raporton» por peti helpon en Discord aŭ en forumoj
 - [ ] Malklarigo kaj fono de la kamerao kun altkvalita eltondo (haroj, aŭdiloj kaj ŝultroj)
 
@@ -49,7 +50,7 @@ prizorgi la komputilon sen esti teknikisto.
 
 ### Ekde junio 2027
 
-- [ ] Nedeviga kaj privata AI-asistanto (loka modelo): resumi, traduki kaj klarigi la elektitan tekston
+- [ ] AI-asistanto: resumi, traduki kaj klarigi la elektitan tekston en ajna aplikaĵo
 - [ ] Gepatra kontrolo: ekrantempo kaj enlitiĝa horo
 - [ ] Wayland-seanco
 - [ ] ISO aŭtomate kreata kaj testata ĉe ĉiu versio

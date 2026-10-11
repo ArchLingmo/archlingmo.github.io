@@ -8,19 +8,20 @@ Thứ tự ưu tiên đến từ những vấn đề được nhắc đến nhi�
 nỗi sợ bản cập nhật làm hỏng hệ thống, trình điều khiển, cài phần mềm không cần terminal và
 chăm sóc máy tính mà không cần rành kỹ thuật.
 
-- [x] **Trò chơi gốc Linux**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Cài đặt từ cửa hàng. Khi mở lần đầu, cung cấp ROM từ băng trò chơi của bạn; các gói không chứa dữ liệu trò chơi.
+### 28/09 – 08/11 · Phần mềm không rắc rối (và an toàn)
 
-### 28/09 – 08/11 · Phần mềm không rắc rối
-
-- [ ] **Cửa hàng ứng dụng**: Flathub và kho phần mềm của Arch ở cùng một nơi, có đánh giá và ảnh chụp; gói AUR chỉ đi kèm cảnh báo
-- [ ] **Mở chương trình Windows**: khi nhấp vào tệp .exe, hệ thống gợi ý phần mềm thay thế trên Linux hoặc chạy bằng Bottles/Wine
+- [ ] **Cửa hàng ứng dụng**: đánh giá của người dùng và quyền của từng ứng dụng trước khi cài (Cửa hàng với Flathub và kho phần mềm của Arch đã có sẵn)
+- [ ] **Kéo để cài đặt**, như trên Mac: nhấp đúp vào tệp .exe, .deb, .rpm hoặc AppImage và kéo vào **Ứng dụng**
+- [ ] **Mọi thứ từ bên ngoài đều chạy trong hộp cách ly**: chương trình Windows (Bottles), gói .deb/.rpm (Distrobox) và AppImage không thể thấy hệ thống hay tệp của bạn nếu chưa được phép
+- [ ] Trang **Hộp** trong Cài đặt: xem, cấp hoặc thu hồi quyền truy cập tệp, mạng, camera và micrô, và xóa một hộp
+- [ ] **Ứng dụng Android** (APK) trong hộp, với Waydroid, hiện trong trình khởi chạy như mọi ứng dụng khác
 - [ ] **Chơi game chỉ với một cú nhấp**: Steam, Proton và chế độ chơi game, kèm cảnh báo cho các game có hệ thống chống gian lận không chạy trên Linux
+- [x] **Trò chơi gốc Linux**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Cài đặt từ Cửa hàng → Trò chơi gốc Linux. Khi mở lần đầu, cung cấp ROM từ băng trò chơi của bạn; các gói không chứa dữ liệu trò chơi.
+- [ ] **Thêm trò chơi gốc Linux**: Zelda: Ocarina of Time (Ship of Harkinian) và Mario Kart 64 (SpaghettiKart), vẫn đang “Sắp ra mắt” trong cửa hàng
 
 ### 09/11 – 13/12 · Chăm sóc máy tính
 
-- [ ] **Trình giám sát hệ thống** (Ctrl + Shift + Esc): bộ xử lý, bộ nhớ, ổ đĩa, mạng và card đồ họa, danh sách ứng dụng và tiến trình cùng nút "Kết thúc"
-- [ ] **Dọn dẹp**: bộ nhớ đệm, thùng rác, gói không ai dùng, bộ nhớ đệm cập nhật và runtime Flatpak không dùng đến, hiển thị dung lượng được giải phóng trước khi xác nhận
-- [ ] **Bản đồ ổ đĩa**: thứ gì đang chiếm dung lượng và các tệp lớn bị bỏ quên
+- [ ] **Trình giám sát hệ thống** (Ctrl + Shift + Esc): mạng và card đồ họa, bên cạnh bộ xử lý, bộ nhớ và ổ đĩa mà Tối ưu hóa đã hiển thị
 - [ ] **Thông tin hệ thống** với nút "Sao chép báo cáo" để nhờ trợ giúp trên Discord hoặc diễn đàn
 - [ ] Làm mờ và thay nền camera với đường cắt chất lượng cao (tóc, tai nghe và vai)
 
@@ -49,7 +50,7 @@ chăm sóc máy tính mà không cần rành kỹ thuật.
 
 ### Từ tháng 6 năm 2027
 
-- [ ] Trợ lý AI tùy chọn và riêng tư (mô hình cục bộ): tóm tắt, dịch và giải thích đoạn văn bản được chọn
+- [ ] Trợ lý AI: tóm tắt, dịch và giải thích đoạn văn bản được chọn trong mọi ứng dụng
 - [ ] Kiểm soát của phụ huynh: thời gian sử dụng màn hình và giờ đi ngủ
 - [ ] Phiên Wayland
 - [ ] ISO được tạo và kiểm thử tự động cho mỗi phiên bản

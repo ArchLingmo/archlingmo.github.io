@@ -5,5 +5,6 @@ kun la tuta labortablo transportita al **Qt 6**, dum la ŝanĝoj estas senditaj 
 
 - **Zorga aspekto**: refasonitaj supra breto, doko, Spotlight, regiloj kaj fenestraj butonoj, en hela kaj malhela etoso.
 - **Aktuala**: Qt 6, KDE Frameworks 6 kaj KWin 6, rekte el la deponejoj de Arch.
+- **Loka kaj privata AI**: la Asistanto kaj Spotlight respondas per modeloj, kiuj funkcias en via komputilo, per Ollama.
 - **Praktika**: klavkombinoj per la klavo Super, paĝoj pri klavkombinoj kaj aŭtomata lanĉo en la Agordoj, sistema pleto kun la kutimaj aplikaĵoj.
 - **Malferma**: la tuta kodo estas ĉe GitHub, kaj ĉiu plibonigo iĝas pull request por Lingmo.

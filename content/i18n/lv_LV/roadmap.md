@@ -8,19 +8,20 @@ Prioritātes nāk no tā, kas visbiežāk parādās forumos un citu distribūcij
 bailes, ka atjauninājums sabojās sistēmu, draiveri, programmu instalēšana bez termināļa un
 datora uzturēšana bez tehniskām zināšanām.
 
-- [x] **Vietējās spēles**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Instalējiet no veikala. Pirmajā palaišanas reizē norādiet savas kasetnes ROM; pakotnēs nav spēļu datu.
+### 28/09 – 08/11 · Programmas bez sarežģījumiem (un droši)
 
-### 28/09 – 08/11 · Programmas bez sarežģījumiem
-
-- [ ] **Lietotņu veikals**: Flathub un Arch repozitoriji vienuviet, ar vērtējumiem un ekrānuzņēmumiem; AUR pakotnes tikai ar brīdinājumu
-- [ ] **Windows programmu atvēršana**: noklikšķinot uz .exe, tiek piedāvāta Linux alternatīva vai programma tiek palaista ar Bottles/Wine
+- [ ] **Lietotņu veikals**: lietotāju vērtējumi un katras lietotnes atļaujas pirms instalēšanas (Veikals ar Flathub un Arch repozitorijiem jau ir pieejams)
+- [ ] **Velciet, lai instalētu**, kā Mac datorā: veiciet dubultklikšķi uz .exe, .deb, .rpm vai AppImage un velciet to uz **Lietotnes**
+- [ ] **Viss no ārpuses darbojas izolētā kastē**: Windows programmas (Bottles), .deb/.rpm pakotnes (Distrobox) un AppImage bez atļaujas neredz jūsu sistēmu vai failus
+- [ ] Lapa **Kastes** iestatījumos: skatiet, piešķiriet vai atsauciet piekļuvi failiem, tīklam, kamerai un mikrofonam un izdzēsiet kasti
+- [ ] **Android lietotnes** (APK) kastē, ar Waydroid, kas parādās palaidējā kā jebkura cita lietotne
 - [ ] **Spēles ar vienu klikšķi**: Steam, Proton un spēļu režīms, ar brīdinājumu par spēlēm, kuru pretkrāpšanas sistēma nedarbojas Linux
+- [x] **Vietējās spēles**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Instalējiet no Veikals → Vietējās spēles. Pirmajā palaišanas reizē norādiet ROM, kas nolasīts no jūsu pašu kasetnes; pakotnēs nav spēļu datu.
+- [ ] **Vairāk vietējo spēļu**: Zelda: Ocarina of Time (Ship of Harkinian) un Mario Kart 64 (SpaghettiKart), veikalā joprojām “Drīzumā”
 
 ### 09/11 – 13/12 · Datora uzturēšana
 
-- [ ] **Sistēmas monitors** (Ctrl + Shift + Esc): procesors, atmiņa, disks, tīkls un videokarte, lietotņu un procesu saraksts un poga “Beigt”
-- [ ] **Tīrīšana**: kešatmiņa, miskaste, neizmantotas pakotnes, atjauninājumu kešatmiņa un neizmantotas Flatpak izpildvides, parādot atbrīvoto vietu pirms apstiprināšanas
-- [ ] **Diska karte**: kas aizņem vietu un aizmirsti lieli faili
+- [ ] **Sistēmas monitors** (Ctrl + Shift + Esc): tīkls un videokarte papildus procesoram, atmiņai un diskam, ko jau rāda Optimizētājs
 - [ ] **Sistēmas informācija** ar pogu “Kopēt atskaiti”, lai lūgtu palīdzību Discord vai forumos
 - [ ] Kameras izpludināšana un fons ar kvalitatīvu izgriešanu (mati, austiņas un pleci)
 
@@ -49,7 +50,7 @@ datora uzturēšana bez tehniskām zināšanām.
 
 ### No 2027. gada jūnija
 
-- [ ] Neobligāts un privāts AI asistents (lokāls modelis): atlasītā teksta kopsavilkums, tulkošana un skaidrojums
+- [ ] AI asistents: atlasītā teksta kopsavilkums, tulkošana un skaidrojums jebkurā lietotnē
 - [ ] Vecāku kontrole: ekrāna laiks un gulētiešanas laiks
 - [ ] Wayland sesija
 - [ ] ISO, kas tiek automātiski izveidots un pārbaudīts katrai versijai

@@ -8,19 +8,20 @@ Ustuvorliklar forumlarda va boshqa distributivlar sharhlarida eng ko‘p uchrayd
 yangilanish tizimni buzib qo‘yishidan qo‘rqish, drayverlar, dasturlarni terminalsiz o‘rnatish va
 texnik bilimsiz kompyuterni parvarish qilish.
 
-- [x] **Mahalliy o‘yinlar**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Do‘kondan o‘rnating. Birinchi ishga tushirishda o‘z kartrijingizdan olingan ROMni ko‘rsating; paketlarda o‘yin ma’lumotlari yo‘q.
+### 28/09 – 08/11 · Muammosiz (va xavfsiz) dasturlar
 
-### 28/09 – 08/11 · Muammosiz dasturlar
-
-- [ ] **Ilovalar do‘koni**: Flathub va Arch repozitoriylari bir joyda, baholar va skrinshotlar bilan; AUR paketlari faqat ogohlantirish bilan
-- [ ] **Windows dasturlarini ochish**: .exe fayl bosilganda Linux uchun muqobil taklif qiladi yoki uni Bottles/Wine orqali ishga tushiradi
+- [ ] **Ilovalar do‘koni**: o‘rnatishdan oldin foydalanuvchilar baholari va har bir ilovaning ruxsatlari (Flathub va Arch repozitoriylari jamlangan Do‘kon allaqachon mavjud)
+- [ ] Mac’dagidek **sudrab o‘rnatish**: .exe, .deb, .rpm yoki AppImage faylini ikki marta bosing va uni **Ilovalar** jildiga sudrang
+- [ ] **Tashqaridan kelgan hamma narsa izolyatsiyalangan qutida ishlaydi**: Windows dasturlari (Bottles), .deb/.rpm paketlari (Distrobox) va AppImage’lar ruxsatsiz tizimingiz va fayllaringizni ko‘ra olmaydi
+- [ ] Sozlamalarda **Qutilar** sahifasi: fayllar, tarmoq, kamera va mikrofonga kirishni ko‘rish, berish yoki olib tashlash hamda qutini o‘chirish
+- [ ] Qutida Waydroid orqali ishlaydigan **Android ilovalari** (APK), ular ishga tushirgichda boshqa ilovalar kabi ko‘rinadi
 - [ ] **Bir bosishda o‘yinlar**: Steam, Proton va o‘yin rejimi, Linux’da ishlamaydigan anti-cheat’li o‘yinlar haqida ogohlantirish bilan
+- [x] **Mahalliy o‘yinlar**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Do‘kon → Mahalliy o‘yinlar bo‘limidan o‘rnating. Birinchi ishga tushirishda o‘z kartrijingizdan olingan ROMni ko‘rsating; paketlarda o‘yin ma’lumotlari yo‘q.
+- [ ] **Ko‘proq mahalliy o‘yinlar**: Zelda: Ocarina of Time (Ship of Harkinian) va Mario Kart 64 (SpaghettiKart), do‘konda hali «Tez orada»
 
 ### 09/11 – 13/12 · Kompyuterni parvarish qilish
 
-- [ ] **Tizim monitori** (Ctrl + Shift + Esc): protsessor, xotira, disk, tarmoq va videokarta, ilovalar va jarayonlar ro‘yxati hamda "Yakunlash" tugmasi
-- [ ] **Tozalash**: keshlar, savat, hech kim ishlatmaydigan paketlar, yangilanishlar keshi va ishlatilmayotgan Flatpak runtime’lari, tasdiqlashdan oldin bo‘shaydigan joy ko‘rsatiladi
-- [ ] **Disk xaritasi**: joyni nima egallayotgani va unutilgan katta fayllar
+- [ ] **Tizim monitori** (Ctrl + Shift + Esc): Optimallashtiruvchi allaqachon ko‘rsatadigan protsessor, xotira va diskdan tashqari tarmoq va videokarta
 - [ ] Discord yoki forumlarda yordam so‘rash uchun "Hisobotni nusxalash" tugmali **tizim ma’lumotlari**
 - [ ] Sifatli kesish bilan kamera fonini xiralashtirish va almashtirish (soch, quloqchin va yelkalar)
 
@@ -49,7 +50,7 @@ texnik bilimsiz kompyuterni parvarish qilish.
 
 ### 2027-yil iyunidan boshlab
 
-- [ ] Ixtiyoriy va shaxsiy sun’iy intellekt yordamchisi (mahalliy model): tanlangan matnni qisqartirish, tarjima qilish va tushuntirish
+- [ ] Sun’iy intellekt yordamchisi: istalgan ilovada tanlangan matnni qisqartirish, tarjima qilish va tushuntirish
 - [ ] Ota-ona nazorati: foydalanish vaqti va uxlash vaqti
 - [ ] Wayland seansi
 - [ ] Har bir versiya uchun avtomatik yaratiladigan va sinovdan o‘tkaziladigan ISO

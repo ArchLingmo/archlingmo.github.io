@@ -8,19 +8,20 @@ Prioriteetit perustuvat siihen, mikä nousee useimmin esiin foorumeilla ja muide
 pelko siitä, että päivitys rikkoo järjestelmän, ajurit, ohjelmien asentaminen ilman päätettä ja
 tietokoneen ylläpito ilman teknistä osaamista.
 
-- [x] **Natiivipelit**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Asenna kaupasta. Anna ensimmäisellä käynnistyskerralla omalta pelikasetiltasi kopioitu ROM; paketit eivät sisällä pelidataa.
+### 28.09.–08.11. · Ohjelmat ilman vaivaa (ja turvallisesti)
 
-### 28.09.–08.11. · Ohjelmat ilman vaivaa
-
-- [ ] **Sovelluskauppa**: Flathub ja Archin ohjelmalähteet yhdessä paikassa arvioineen ja kuvakaappauksineen; AUR-paketit vain varoituksen kanssa
-- [ ] **Windows-ohjelmien avaaminen**: .exe-tiedostoa napsautettaessa ehdotetaan Linux-vaihtoehtoa tai ohjelma ajetaan Bottlesilla/Winellä
+- [ ] **Sovelluskauppa**: käyttäjien arviot ja kunkin sovelluksen oikeudet ennen asennusta (Kauppa, jossa Flathub ja Archin ohjelmalähteet, on jo valmis)
+- [ ] **Asenna vetämällä** kuten Macissa: kaksoisnapsauta .exe-, .deb-, .rpm- tai AppImage-tiedostoa ja vedä se **Sovellukset**-kansioon
+- [ ] **Kaikki ulkopuolinen ajetaan eristetyssä laatikossa**: Windows-ohjelmat (Bottles), .deb/.rpm-paketit (Distrobox) ja AppImaget eivät näe järjestelmääsi tai tiedostojasi ilman lupaa
+- [ ] **Laatikot**-sivu Asetuksissa: näe, anna tai poista pääsy tiedostoihin, verkkoon, kameraan ja mikrofoniin, ja poista laatikko
+- [ ] **Android-sovellukset** (APK) laatikossa Waydroidilla, näkyvät sovellusvalikossa kuten mikä tahansa sovellus
 - [ ] **Pelit yhdellä napsautuksella**: Steam, Proton ja pelitila sekä varoitus peleistä, joiden huijauksenesto ei toimi Linuxissa
+- [x] **Natiivipelit**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Asenna kohdasta Kauppa → Natiivipelit. Anna ensimmäisellä käynnistyskerralla omalta pelikasetiltasi kopioitu ROM; paketit eivät sisällä pelidataa.
+- [ ] **Lisää natiivipelejä**: Zelda: Ocarina of Time (Ship of Harkinian) ja Mario Kart 64 (SpaghettiKart), kaupassa vielä tilassa "Tulossa pian"
 
 ### 09.11.–13.12. · Tietokoneen ylläpito
 
-- [ ] **Järjestelmänvalvonta** (Ctrl + Shift + Esc): suoritin, muisti, levy, verkko ja näytönohjain, sovellus- ja prosessilista sekä "Lopeta"-painike
-- [ ] **Siivous**: välimuistit, roskakori, käyttämättömät paketit, päivitysvälimuisti ja käyttämättömät Flatpak-ajoympäristöt, vapautuva tila näytetään ennen vahvistusta
-- [ ] **Levykartta**: mikä vie tilaa ja unohtuneet suuret tiedostot
+- [ ] **Järjestelmänvalvonta** (Ctrl + Shift + Esc): verkko ja näytönohjain sen suorittimen, muistin ja levyn lisäksi, jotka Optimoija jo näyttää
 - [ ] **Järjestelmätiedot** ja "Kopioi raportti" -painike avun pyytämiseen Discordissa tai foorumeilla
 - [ ] Kameran taustan sumennus ja vaihto laadukkaalla rajauksella (hiukset, kuulokkeet ja olkapäät)
 
@@ -49,7 +50,7 @@ tietokoneen ylläpito ilman teknistä osaamista.
 
 ### Kesäkuusta 2027 alkaen
 
-- [ ] Valinnainen ja yksityinen tekoälyavustaja (paikallinen malli): valitun tekstin tiivistäminen, kääntäminen ja selittäminen
+- [ ] Tekoälyavustaja: valitun tekstin tiivistäminen, kääntäminen ja selittäminen missä tahansa sovelluksessa
 - [ ] Lapsilukko: käyttöaika ja nukkumaanmenoaika
 - [ ] Wayland-istunto
 - [ ] ISO luodaan ja testataan automaattisesti jokaiselle versiolle

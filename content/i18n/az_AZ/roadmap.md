@@ -8,19 +8,20 @@ Prioritetlər forumlarda və digər distributivlərin rəylərində ən çox ras
 yeniləmənin sistemi pozacağı qorxusu, drayverlər, proqramları terminalsız quraşdırmaq və
 texniki bilik tələb etmədən kompüterə qulluq etmək.
 
-- [x] **Doğma oyunlar**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Mağazadan quraşdırın. İlk açılışda öz kartricinizdən çıxarılmış ROM-u təqdim edin; paketlərə oyun məlumatları daxil deyil.
+### 28/09 – 08/11 · Asan (və təhlükəsiz) proqramlar
 
-### 28/09 – 08/11 · Asan proqramlar
-
-- [ ] **Tətbiq mağazası**: Flathub və Arch repozitoriyaları bir yerdə, reytinq və ekran görüntüləri ilə; AUR paketləri yalnız xəbərdarlıqla
-- [ ] **Windows proqramlarını açmaq**: .exe faylına klikləyəndə Linux üçün alternativ təklif edir və ya onu Bottles/Wine ilə işə salır
+- [ ] **Tətbiq mağazası**: quraşdırmadan əvvəl istifadəçi reytinqləri və hər tətbiqin icazələri (Flathub və Arch repozitoriyaları ilə Mağaza artıq var)
+- [ ] Mac-dakı kimi **sürüşdürüb quraşdırmaq**: .exe, .deb, .rpm və ya AppImage faylına iki dəfə klikləyin və onu **Tətbiqlər** qovluğuna sürüşdürün
+- [ ] **Kənardan gələn hər şey təcrid olunmuş qutuda işləyir**: Windows proqramları (Bottles), .deb/.rpm paketləri (Distrobox) və AppImage-lər icazəsiz sisteminizi və fayllarınızı görə bilmir
+- [ ] Parametrlərdə **Qutular** səhifəsi: fayllara, şəbəkəyə, kameraya və mikrofona girişi görün, verin və ya geri alın, qutunu silin
+- [ ] Waydroid ilə qutuda işləyən və digər tətbiqlər kimi başladıcıda görünən **Android tətbiqləri** (APK)
 - [ ] **Bir kliklə oyunlar**: Steam, Proton və oyun rejimi, Linux-da işləməyən anti-cheat oyunlar barədə xəbərdarlıqla
+- [x] **Doğma oyunlar**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Mağaza → Doğma oyunlar bölməsindən quraşdırın. İlk açılışda öz kartricinizdən çıxarılmış ROM-u təqdim edin; paketlərə oyun məlumatları daxil deyil.
+- [ ] **Daha çox doğma oyun**: Zelda: Ocarina of Time (Ship of Harkinian) və Mario Kart 64 (SpaghettiKart), mağazada hələ "Tezliklə" kimi görünür
 
 ### 09/11 – 13/12 · Kompüterə qulluq
 
-- [ ] **Sistem monitoru** (Ctrl + Shift + Esc): prosessor, yaddaş, disk, şəbəkə və videokart, tətbiq və proseslərin siyahısı və "Sonlandır" düyməsi
-- [ ] **Təmizləmə**: keşlər, zibil qutusu, heç kimin istifadə etmədiyi paketlər, yeniləmə keşi və istifadəsiz Flatpak runtime-ları, təsdiqdən əvvəl boşalacaq yer göstərilir
-- [ ] **Disk xəritəsi**: yeri nə tutur və unudulmuş böyük fayllar
+- [ ] **Sistem monitoru** (Ctrl + Shift + Esc): Optimallaşdırıcının artıq göstərdiyi prosessor, yaddaş və diskə əlavə olaraq şəbəkə və videokart
 - [ ] Discord-da və ya forumlarda kömək istəmək üçün "Hesabatı kopyala" düyməli **sistem məlumatı**
 - [ ] Keyfiyyətli kəsimlə kamera arxa fonunun bulanıqlaşdırılması və dəyişdirilməsi (saç, qulaqlıq və çiyinlər)
 
@@ -49,7 +50,7 @@ texniki bilik tələb etmədən kompüterə qulluq etmək.
 
 ### 2027-ci ilin iyunundan
 
-- [ ] İstəyə bağlı və məxfi süni intellekt köməkçisi (lokal model): seçilmiş mətni xülasə etmək, tərcümə etmək və izah etmək
+- [ ] Süni intellekt köməkçisi: istənilən tətbiqdə seçilmiş mətni xülasə etmək, tərcümə etmək və izah etmək
 - [ ] Valideyn nəzarəti: istifadə vaxtı və yatma vaxtı
 - [ ] Wayland sessiyası
 - [ ] Hər versiya üçün avtomatik yaradılan və sınaqdan keçirilən ISO

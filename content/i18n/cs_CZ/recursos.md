@@ -6,12 +6,20 @@ To vše ArchLingmo obsahuje už dnes.
 
 - **Horní panel** s hodinami, kalendářem po kliknutí na datum a ikonami v oznamovací oblasti
 - **Ovládací centrum**: Wi-Fi, Bluetooth, tmavý režim, noční světlo, nerušit a hlasitost v jednom panelu
-- **Dok** s náhledem oken po najetí myší
+- **Dok** s náhledem oken po najetí myší a pozadím **plným, skleněným nebo žádným**
 - **Spotlight** (Super + mezerník): aplikace, soubory, výpočty, převody jednotek a měn a hledání uvnitř dokumentů
 - **Historie schránky** (Super + V)
 - **Aktivní rohy**: najeďte myší do rohu a uvidíte všechna okna, plochu, nebo zamknete obrazovku
 - **Efekty**: vlnící se okna, kouzelná lampa a Alt+Tab jako listy knihy
 - Globální nabídka i pro aplikace GTK
+- **Widgety hodin a počasí** na ploše se skutečnou předpovědí pro vámi zvolené město, seskupené pod jednou ikonou v horním panelu
+
+### Umělá inteligence (ve vašem počítači)
+
+- **Asistent** (Super + I): AI, která běží ve vašem počítači, s Ollama. Čte vaše dokumenty (PDF, DOCX…), poznámky a kalendář, prohlíží informace o systému a v izolovaném boxu spouští příkazy terminálu, které jen čtou. S vaším svolením vytváří poznámky, události, úkoly a soubory: každá změna žádá o potvrzení a nikdy nic nesmaže
+- **AI ve Spotlightu**: začněte „ai:“ a můžete konverzovat, nebo napište otázku zakončenou „?“ a zvolte, že se chcete zeptat AI. Ukazuje, jak dlouho každá odpověď trvala a jak byla rychlá, a používá stejné nástroje jako Asistent
+- **Nastavení › Umělá inteligence**: stav Ollama, nainstalované modely, doporučení pro *tento* počítač, stahování modelů s průběhem, volba „Přemýšlet před odpovědí“ a oprávnění a nástroje Asistenta
+- **Automatizátor**: denní rutiny v nastavený čas, s příkazem a, pokud chcete, s lokální AI, která vysvětlí výsledek
 
 ### Nastavení
 
@@ -30,8 +38,14 @@ To vše ArchLingmo obsahuje už dnes.
 
 ### Aplikace
 
+- **Pošta**: účty IMAP a POP3 s automatickým rozpoznáním poskytovatele a návodem pro každého z nich (hesla aplikací pro Gmail, Yahoo a iCloud). Složky s počtem nepřečtených, hledání a filtry, hvězdička, archivace, přesun a mazání více zpráv najednou, automatická pravidla, kontakty s doplňováním a upozornění na novou poštu
+- **Kalendář a úkoly** v Poště: zobrazení měsíce, týdne, dne a agendy, opakované události, připomínky i při zavřené aplikaci a synchronizace CalDAV (iCloud, Yahoo, Fastmail, Nextcloud). Úkoly na dnešek, nadcházející a zpožděné a pozvánky na schůzky (.ics) s volbami Přijmout, Možná a Odmítnout
+- **Poznámky** ve stylu Notion: blokový editor, nabídka „/“, podstránky, ikony, oblíbené, koš a rychlé hledání (Ctrl + K)
+- **Optimalizátor**: klikněte na CPU, Paměť nebo Úložiště a uvidíte podrobnosti: kam se poděl prostor na disku, složku po složce, s návrhy, a aplikace, které nejvíc využívají paměť a procesor. Tlačítko „Optimalizovat a vyčistit“ smaže mezipaměti, mezipaměť aktualizací, staré záznamy a nepoužívané runtimy Flatpak
 - Správce **souborů** s přetahováním a řazením jako v Thunaru
-- **Terminál** s motivem Dracula v tmavém režimu, **textový editor**, **kalkulačka** a **přehrávač videa**
+- **Terminál** s motivem Dracula v tmavém režimu a volbou shellu (bash, zsh, fish…) v nových předvolbách, **textový editor**, **kalkulačka** a **přehrávač videa**
+- **Hodiny a budíky**, **Tvůrce USB médií** pro zápis ISO na flash disk, **Programy pro Windows** (otevřete .exe a uvidíte verzi pro Linux nebo alternativu v Obchodě, případně to zkuste s Bottles/Wine) a **Obchod s aplikacemi** s Flathubem a repozitáři Archu na jednom místě
+- Všechny aplikace mají stejný vzhled Lingmo, ve světlém i tmavém motivu
 - **Snímky a nahrávání obrazovky** s mikrofonem a systémovým zvukem
 - Instalátor **Calamares** a zvuk přes **PipeWire**
-- **Nativní hry**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Instalace z obchodu. Při prvním spuštění zadejte ROM z vlastní cartridge; balíčky neobsahují herní data.
+- **Nativní hry**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Instalace z Obchodu → Nativní hry. Při prvním spuštění zadejte ROM z vlastní cartridge; balíčky neobsahují herní data.

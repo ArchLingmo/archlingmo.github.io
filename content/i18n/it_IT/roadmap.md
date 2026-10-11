@@ -8,19 +8,20 @@ Le priorità nascono da ciò che emerge più spesso nei forum e nelle recensioni
 la paura che un aggiornamento rompa il sistema, i driver, installare programmi senza terminale e
 prendersi cura del computer senza dover essere esperti.
 
-- [x] **Giochi nativi**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Installa dallo store. Al primo avvio, fornisci la ROM della tua cartuccia; i pacchetti non includono dati di gioco.
+### Dal 28/09 all'08/11 · Programmi senza complicazioni (e sicuri)
 
-### Dal 28/09 all'08/11 · Programmi senza complicazioni
-
-- [ ] **Negozio di applicazioni**: Flathub e i repository di Arch in un unico posto, con valutazioni e screenshot; pacchetti AUR solo con avviso
-- [ ] **Aprire programmi Windows**: facendo clic su un .exe, suggerisce un'alternativa per Linux o lo avvia con Bottles/Wine
+- [ ] **Store**: valutazioni degli utenti e permessi di ogni app prima dell'installazione (lo Store con Flathub e i repository di Arch è già disponibile)
+- [ ] **Trascina per installare**, come su Mac: fai doppio clic su un .exe, .deb, .rpm o AppImage e trascinalo in **Applicazioni**
+- [ ] **Tutto ciò che viene da fuori gira in un ambiente isolato**: programmi Windows (Bottles), pacchetti .deb/.rpm (Distrobox) e AppImage non possono vedere il sistema né i tuoi file senza permesso
+- [ ] Una pagina **Ambienti isolati** nelle Impostazioni: vedere, concedere o revocare l'accesso a file, rete, fotocamera e microfono, ed eliminare un ambiente
+- [ ] **App Android** (APK) in un ambiente isolato, con Waydroid, visibili nel launcher come qualsiasi altra app
 - [ ] **Giochi con un clic**: Steam, Proton e modalità gioco, con avviso per i giochi con anti-cheat che non funzionano su Linux
+- [x] **Giochi nativi**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Installa da Store → Giochi nativi. Al primo avvio, fornisci una ROM estratta dalla tua cartuccia; i pacchetti non includono dati di gioco.
+- [ ] **Altri giochi nativi**: Zelda: Ocarina of Time (Ship of Harkinian) e Mario Kart 64 (SpaghettiKart), ancora "Prossimamente" nello store
 
 ### Dal 09/11 al 13/12 · Prendersi cura del computer
 
-- [ ] **Monitor di sistema** (Ctrl + Shift + Esc): processore, memoria, disco, rete e scheda video, elenco di app e processi e pulsante "Termina"
-- [ ] **Pulizia**: cache, cestino, pacchetti inutilizzati, cache degli aggiornamenti e runtime Flatpak non usati, con lo spazio liberato mostrato prima di confermare
-- [ ] **Mappa del disco**: cosa occupa spazio e file grandi dimenticati
+- [ ] **Monitor di sistema** (Ctrl + Shift + Esc): rete e scheda video, oltre a processore, memoria e disco già mostrati dall'Ottimizzatore
 - [ ] **Informazioni di sistema** con un pulsante "Copia rapporto" per chiedere aiuto su Discord o nei forum
 - [ ] Sfocatura e sfondo della webcam con scontorno di qualità (capelli, cuffie e spalle)
 
@@ -49,7 +50,7 @@ prendersi cura del computer senza dover essere esperti.
 
 ### Da giugno 2027
 
-- [ ] Assistente IA opzionale e privato (modello locale): riassumere, tradurre e spiegare il testo selezionato
+- [ ] Assistente IA: riassumere, tradurre e spiegare il testo selezionato in qualsiasi app
 - [ ] Controllo parentale: tempo di utilizzo e orario per andare a dormire
 - [ ] Sessione Wayland
 - [ ] ISO generata e testata automaticamente a ogni versione

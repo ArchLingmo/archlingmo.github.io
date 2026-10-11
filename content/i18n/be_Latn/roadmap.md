@@ -8,19 +8,20 @@ Pryjarytety vyznačajuć toje, što čaściej za ŭsio sustrakajecca na forumach
 strach, što abnaŭleńnie złamaje sistemu, drajviery, ustaloŭka prahram biez terminała i
 dohlad za kamputaram biez techničnych viedaŭ.
 
-- [x] **Natyŭnyja hulni**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Ustaliavannie z kramy. Pry pieršym zapusku patrebna ROM ulasnaha kartrydža; pakiety nie zmiaščajuć danych hulniaŭ.
+### 28/09 – 08/11 · Prahramy biez składanaściaŭ (i biaśpiečna)
 
-### 28/09 – 08/11 · Prahramy biez składanaściaŭ
-
-- [ ] **Krama dastasavańniaŭ**: Flathub i repazitoryi Arch u adnym miescy, z acenkami i zdymkami; pakiety z AUR tolki z papiarežańniem
-- [ ] **Adkryćcio prahram dla Windows**: pry kliku pa .exe prapanuje alternatyvu dla Linux abo zapuskaje prahramu praz Bottles/Wine
+- [ ] **Krama dastasavańniaŭ**: acenki karystalnikaŭ i dazvoły kožnaj prahramy pierad ustaloŭkaj (Krama z Flathub i repazitoryjami Arch užo jość)
+- [ ] **Pieraciahni, kab ustalavać**, jak na Mac: dvojčy kliknicie pa .exe, .deb, .rpm abo AppImage i pieraciahnicie ŭ **Prahramy**
+- [ ] **Usio staronniaje pracuje ŭ izalavanaj skryni**: prahramy Windows (Bottles), pakiety .deb/.rpm (Distrobox) i AppImage nie bačać vašu sistemu i fajły biez dazvołu
+- [ ] Staronka **Skryni** ŭ Naładach: prahladajcie, davajcie abo zabirajcie dostup da fajłaŭ, sietki, kamiery i mikrafona i vydaliajcie skryniu
+- [ ] **Prahramy Android** (APK) u skryni praz Waydroid, jakija źjaŭliajucca ŭ mieniu zapusku, jak luboja inšaja prahrama
 - [ ] **Huĺni ŭ adzin klik**: Steam, Proton i huĺniavy režym, z papiarežańniem pra huĺni, čyja anty-čyt sistema nie pracuje ŭ Linux
+- [x] **Natyŭnyja hulni**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Ustaliavannie z Kramy → Natyŭnyja hulni. Pry pieršym zapusku patrebna ROM ulasnaha kartrydža; pakiety nie zmiaščajuć danych hulniaŭ.
+- [ ] **Bolš natyŭnych hulniaŭ**: Zelda: Ocarina of Time (Ship of Harkinian) i Mario Kart 64 (SpaghettiKart), pakul z paznakaj «Chutka» ŭ kramie
 
 ### 09/11 – 13/12 · Dohlad za kamputaram
 
-- [ ] **Manitor sistemy** (Ctrl + Shift + Esc): pracesar, pamiać, dysk, sietka i videakarta, śpis dastasavańniaŭ i pracesaŭ i knopka «Zavieršyć»
-- [ ] **Ačystka**: kešy, košyk, nievykarystanyja pakiety, keš abnaŭleńniaŭ i nievykarystanyja asiarodździ Flatpak, z pakazam vyzvalenaha miesca pierad paćvierdžańniem
-- [ ] **Mapa dyska**: što zajmaje miesca i zabytyja vialikija fajły
+- [ ] **Manitor sistemy** (Ctrl + Shift + Esc): sietka i videakarta ŭ dadatak da pracesara, pamiaci i dyska, jakija ŭžo pakazvaje Aptymizatar
 - [ ] **Źviestki pra sistemu** z knopkaj «Skapijavać spravazdaču», kab paprasić dapamohi ŭ Discord abo na forumach
 - [ ] Razmyćcio i fon kamiery z jakasnym vyrazańniem (valasy, navušniki i plečy)
 
@@ -49,7 +50,7 @@ dohlad za kamputaram biez techničnych viedaŭ.
 
 ### Z červienia 2027
 
-- [ ] Nieabaviazkovy i pryvatny AI-pamočnik (lakalnaja madel): skaračaje, pierakładaje i tłumačyć vyłučany tekst
+- [ ] ŠI-pamočnik: skaračaje, pierakładaje i tłumačyć vyłučany tekst u luboj prahramie
 - [ ] Baćkoŭski kantrol: čas la ekrana i čas snu
 - [ ] Sesija Wayland
 - [ ] ISO, jaki aŭtamatyčna źbirajecca i testujecca dla kožnaj versii

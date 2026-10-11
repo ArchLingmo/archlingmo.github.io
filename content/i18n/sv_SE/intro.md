@@ -5,5 +5,6 @@ där hela skrivbordet har flyttats till **Qt 6** medan ändringarna skickas vida
 
 - **Genomtänkt utseende**: omgjord toppanel, docka, Spotlight, kontroller och fönsterknappar, i ljust och mörkt tema.
 - **Aktuellt**: Qt 6, KDE Frameworks 6 och KWin 6, direkt från Archs förråd.
+- **Lokal och privat AI**: Assistenten och Spotlight svarar med modeller som körs på din dator, via Ollama.
 - **Praktiskt**: kortkommandon med Super-tangenten, sidor för kortkommandon och autostart i Inställningar, och ett systemfält med de vanliga apparna.
 - **Öppet**: all kod finns på GitHub, och varje förbättring blir en pull request till Lingmo.

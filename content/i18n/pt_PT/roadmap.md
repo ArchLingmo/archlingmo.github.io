@@ -8,20 +8,20 @@ As prioridades vêm do que mais aparece nos fóruns e nas análises de outras di
 o receio de que uma atualização estrague o sistema, os controladores, instalar programas sem terminal e
 cuidar do computador sem ser preciso perceber de informática.
 
-- [x] **Jogos nativos**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Instale pela Loja → Jogos nativos. Na primeira abertura, forneça a ROM extraída do seu próprio cartucho; os pacotes não incluem dados dos jogos.
+### 28/09 a 08/11 · Programas sem complicações (e seguros)
 
-### 28/09 a 08/11 · Programas sem complicações
-
-- [ ] **Cliente de e-mail**: configuração fácil para diferentes fornecedores, com deteção automática e opção manual de SMTP e IMAP/POP3. Integração com a mesma conta Google (Gmail) usada na loja para descarregar apps Android. Visual integrado no ArchLingmo, com componentes LingmoUI, tipografia, cores, espaçamentos e temas claro/escuro consistentes com o sistema
-- [ ] **Loja de aplicações**: Flathub e repositórios do Arch num só sítio, com classificações e capturas de ecrã; pacotes do AUR apenas com aviso
-- [ ] **Abrir programas do Windows**: ao clicar num .exe, sugere uma alternativa para Linux ou executa-o com Bottles/Wine
+- [ ] **Loja de aplicações**: classificações dos utilizadores e as permissões de cada aplicação antes de instalar (a Loja com o Flathub e os repositórios do Arch já está pronta)
+- [ ] **Instalar a arrastar**, como no Mac: duplo clique num .exe, .deb, .rpm ou AppImage e arraste para **Aplicações**
+- [ ] **Tudo o que vem de fora corre numa caixa isolada**: programas do Windows (Bottles), pacotes .deb/.rpm (Distrobox) e AppImages não veem o seu sistema nem os seus ficheiros sem permissão
+- [ ] Página **Caixas** nas Definições: ver, dar ou retirar acesso a ficheiros, rede, câmara e microfone, e apagar uma caixa
+- [ ] **Aplicações Android** (APK) numa caixa, com o Waydroid, a aparecer no lançador como qualquer outra aplicação
 - [ ] **Jogos com um clique**: Steam, Proton e modo de jogo, com aviso para jogos com anti-cheat que não funcionam no Linux
+- [x] **Jogos nativos**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Instale pela Loja → Jogos nativos. Na primeira abertura, forneça a ROM extraída do seu próprio cartucho; os pacotes não incluem dados dos jogos.
+- [ ] **Mais jogos nativos**: Zelda: Ocarina of Time (Ship of Harkinian) e Mario Kart 64 (SpaghettiKart), ainda como "Em breve" na loja
 
 ### 09/11 a 13/12 · Cuidar do computador
 
-- [ ] **Monitor do sistema** (Ctrl + Shift + Esc): processador, memória, disco, rede e placa gráfica, lista de aplicações e processos e botão "Terminar"
-- [ ] **Limpeza**: caches, reciclagem, pacotes que ninguém usa, cache de atualizações e runtimes Flatpak sem uso, mostrando o espaço libertado antes de confirmar
-- [ ] **Mapa do disco**: o que está a ocupar espaço e ficheiros grandes esquecidos
+- [ ] **Monitor do sistema** (Ctrl + Shift + Esc): rede e placa gráfica, além do processador, da memória e do disco que o Otimizador já mostra
 - [ ] **Informações do sistema** com um botão "Copiar relatório" para pedir ajuda no Discord ou em fóruns
 - [ ] Desfocagem e fundo da câmara com recorte de qualidade (cabelo, auscultadores e ombros)
 
@@ -50,7 +50,7 @@ cuidar do computador sem ser preciso perceber de informática.
 
 ### A partir de junho de 2027
 
-- [ ] Assistente de IA opcional e privado (modelo local): resumir, traduzir e explicar o texto selecionado
+- [ ] Assistente de IA: resumir, traduzir e explicar o texto selecionado em qualquer aplicação
 - [ ] Controlo parental: tempo de utilização e hora de dormir
 - [ ] Sessão Wayland
 - [ ] ISO gerada e testada automaticamente em cada versão

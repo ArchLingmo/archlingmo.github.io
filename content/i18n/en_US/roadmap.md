@@ -8,20 +8,20 @@ Priorities come from what shows up most in forums and in reviews of other distro
 fear of an update breaking the system, drivers, installing apps without a terminal and
 looking after your computer without being a tech person.
 
-- [x] **Native games**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Install from Store → Native games. On first launch, provide a ROM dumped from your own cartridge; packages include no game data.
+### 28/09 – 08/11 · Apps without the hassle (and safe)
 
-### 28/09 – 08/11 · Apps without the hassle
-
-- [ ] **Email client**: easy setup for different providers, with automatic detection and manual SMTP and IMAP/POP3 settings. Integration with the same Google (Gmail) account used in the store to download Android apps. Match the ArchLingmo visual design with LingmoUI components, typography, colors, spacing, and light/dark themes consistent with the desktop
-- [ ] **App store**: Flathub and the Arch repositories in one place, with ratings and screenshots; AUR packages only with a warning
-- [ ] **Open Windows programs**: clicking an .exe suggests a Linux alternative or runs it with Bottles/Wine
+- [ ] **App Store**: user ratings and each app's permissions before installing (the Store with Flathub and the Arch repositories is already here)
+- [ ] **Drag to install**, like on a Mac: double-click an .exe, .deb, .rpm or AppImage and drag it to **Applications**
+- [ ] **Everything from outside runs in an isolated box**: Windows programs (Bottles), .deb/.rpm packages (Distrobox) and AppImages can't see your system or your files without permission
+- [ ] A **Boxes** page in Settings: see, grant or remove access to files, network, camera and microphone, and delete a box
+- [ ] **Android apps** (APK) in a box, with Waydroid, showing up in the launcher like any other app
 - [ ] **One-click gaming**: Steam, Proton and game mode, with a warning for games whose anti-cheat does not work on Linux
+- [x] **Native games**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Install from Store → Native games. On first launch, provide a ROM dumped from your own cartridge; packages include no game data.
+- [ ] **More native games**: Zelda: Ocarina of Time (Ship of Harkinian) and Mario Kart 64 (SpaghettiKart), still "Coming soon" in the store
 
 ### 09/11 – 13/12 · Looking after your computer
 
-- [ ] **System monitor** (Ctrl + Shift + Esc): processor, memory, disk, network and graphics card, a list of apps and processes, and an "End task" button
-- [ ] **Cleanup**: caches, trash, unused packages, update cache and unused Flatpak runtimes, showing the space freed before you confirm
-- [ ] **Disk map**: what is taking up space and big forgotten files
+- [ ] **System monitor** (Ctrl + Shift + Esc): network and graphics card, on top of the processor, memory and disk the Optimizer already shows
 - [ ] **System information** with a "Copy report" button to ask for help on Discord or in forums
 - [ ] Camera blur and background with high-quality cutout (hair, headphones and shoulders)
 
@@ -50,7 +50,7 @@ looking after your computer without being a tech person.
 
 ### From June 2027
 
-- [ ] Optional, private AI assistant (local model): summarize, translate and explain the selected text
+- [ ] AI Assistant: summarize, translate and explain the selected text in any app
 - [ ] Parental controls: screen time and bedtime
 - [ ] Wayland session
 - [ ] ISO built and tested automatically for every release

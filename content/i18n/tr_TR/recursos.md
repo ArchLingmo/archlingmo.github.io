@@ -6,12 +6,20 @@ Bunların hepsi bugün ArchLingmo'da hazır.
 
 - Saat, tarihe tıklayınca açılan takvim ve sistem tepsisi simgeleriyle **üst çubuk**
 - **Denetim merkezi**: Wi-Fi, Bluetooth, koyu mod, gece ışığı, rahatsız etmeyin ve ses düzeyi tek bir panelde
-- Fareyle üzerine gelince pencere önizlemesi gösteren **dock**
+- Fareyle üzerine gelince pencere önizlemesi gösteren, **düz, cam ya da arka plansız** **dock**
 - **Spotlight** (Super + Boşluk): uygulamalar, dosyalar, hesaplamalar, birim ve döviz çevirme, belgelerin içinde arama
 - **Pano geçmişi** (Super + V)
 - **Etkin köşeler**: tüm pencereleri görmek, masaüstünü göstermek ya da ekranı kilitlemek için fareyi bir köşeye götürün
 - **Efektler**: jöle pencereler, sihirli lamba ve kitap sayfası gibi Alt+Tab
 - GTK uygulamaları için de genel menü
+- Masaüstünde, seçtiğiniz şehrin gerçek hava tahminiyle **saat ve hava durumu widget'ları**; üst çubukta tek bir simgede toplanır
+
+### Yapay zekâ (bilgisayarınızda)
+
+- **Asistan** (Super + I): Ollama ile bilgisayarınızda çalışan bir yapay zekâ. Belgelerinizi (PDF, DOCX…), notlarınızı ve takviminizi okur, sistem bilgilerine bakar ve yalnızca okuma yapan terminal komutlarını yalıtılmış bir kutuda çalıştırır. İzninizle not, etkinlik, görev ve dosya oluşturur: her değişiklik onay ister ve hiçbir şeyi silmez
+- **Spotlight'ta yapay zekâ**: sohbet etmek için "ai:" ile başlayın ya da "?" ile biten bir soru yazıp yapay zekâya sormayı seçin. Her yanıtın ne kadar sürdüğünü ve ne kadar hızlı olduğunu gösterir, Asistan'la aynı araçları kullanır
+- **Ayarlar › Yapay Zekâ**: Ollama durumu, yüklü modeller, *bu* bilgisayar için öneriler, ilerlemesi görünen model indirme, "Yanıtlamadan önce düşün" seçeneği ve Asistan'ın izinleri ve araçları
+- **Otomatikleştirici**: belirli bir saatte günlük rutinler; bir komutla ve isterseniz sonucu açıklayan yerel yapay zekâyla
 
 ### Ayarlar
 
@@ -30,8 +38,14 @@ Bunların hepsi bugün ArchLingmo'da hazır.
 
 ### Uygulamalar
 
+- **Posta**: sağlayıcıyı otomatik algılayan ve her biri için rehber sunan IMAP ve POP3 hesapları (Gmail, Yahoo ve iCloud için uygulama parolaları). Okunmamış sayılı klasörler, arama ve filtreler, birçok iletiyi aynı anda yıldızlama, arşivleme, taşıma ve silme, otomatik kurallar, otomatik tamamlamalı kişiler ve yeni posta bildirimleri
+- Posta'da **takvim ve görevler**: ay, hafta, gün ve ajanda görünümleri, yinelenen etkinlikler, uygulama kapalıyken bile hatırlatıcılar ve CalDAV eşitlemesi (iCloud, Yahoo, Fastmail, Nextcloud). Bugünün, yaklaşan ve geciken görevler ile Kabul et, Belki veya Reddet seçenekli toplantı davetleri (.ics)
+- Notion tarzı **Notlar**: blok düzenleyici, "/" menüsü, alt sayfalar, simgeler, sık kullanılanlar, çöp kutusu ve hızlı arama (Ctrl + K)
+- **Eniyileyici**: ayrıntıları görmek için İşlemci, Bellek veya Depolama'ya tıklayın: disk alanınızın nereye gittiği, klasör klasör, önerilerle birlikte, ve en çok bellek ve işlemci kullanan uygulamalar. "Eniyile ve Temizle" düğmesi önbellekleri, güncelleme önbelleğini, eski günlükleri ve kullanılmayan Flatpak çalışma ortamlarını temizler
 - Sürükle-bırak ve Thunar'daki gibi sıralama sunan **dosya yöneticisi**
-- Koyu modda Dracula temalı **terminal**, **metin düzenleyici**, **hesap makinesi** ve **video oynatıcı**
+- Koyu modda Dracula temalı ve yeni tercihlerde kabuk seçimli (bash, zsh, fish…) **terminal**, **metin düzenleyici**, **hesap makinesi** ve **video oynatıcı**
+- **Saat ve alarmlar**, bir ISO'yu USB belleğe yazmak için **USB Medya Oluşturucu**, **Windows Programları** (bir .exe açın ve mağazada Linux sürümünü ya da bir alternatifini görün veya Bottles/Wine ile deneyin) ve Flathub ile Arch depolarını tek yerde toplayan **Uygulama Mağazası**
+- Tüm uygulamalar açık ve koyu temada aynı Lingmo görünümüne sahip
 - Mikrofon ve sistem sesiyle **ekran görüntüsü ve ekran kaydı**
 - **Calamares** yükleyici ve **PipeWire** ile ses
-- **Yerel oyunlar**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Mağazadan yükleyin. İlk açılışta kendi kartuşunuzdan alınan ROM'u sağlayın; paketler oyun verilerini içermez.
+- **Yerel oyunlar**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Mağaza → Yerel oyunlar'dan yükleyin. İlk açılışta kendi kartuşunuzdan alınan ROM'u sağlayın; paketler oyun verilerini içermez.

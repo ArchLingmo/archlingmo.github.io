@@ -8,19 +8,20 @@ Priority vychádzajú z toho, čo sa najčastejšie objavuje na fórach a v rece
 strach, že aktualizácia pokazí systém, ovládače, inštalácia programov bez terminálu a
 starostlivosť o počítač bez technických znalostí.
 
-- [x] **Natívne hry**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Inštalácia z obchodu. Pri prvom spustení zadajte ROM z vlastnej kazety; balíky neobsahujú herné dáta.
+### 28/09 – 08/11 · Programy bez komplikácií (a bezpečne)
 
-### 28/09 – 08/11 · Programy bez komplikácií
-
-- [ ] **Obchod s aplikáciami**: Flathub a repozitáre Archu na jednom mieste, s hodnoteniami a snímkami; balíky z AUR len s upozornením
-- [ ] **Otváranie programov pre Windows**: po kliknutí na .exe ponúkne alternatívu pre Linux alebo program spustí cez Bottles/Wine
+- [ ] **Obchod s aplikáciami**: hodnotenia používateľov a povolenia každej aplikácie pred inštaláciou (Obchod s Flathubom a repozitármi Archu už existuje)
+- [ ] **Inštalácia potiahnutím**, ako na Macu: dvakrát kliknite na .exe, .deb, .rpm alebo AppImage a potiahnite ho do **Aplikácií**
+- [ ] **Všetko zvonku beží v izolovanom boxe**: programy pre Windows (Bottles), balíky .deb/.rpm (Distrobox) a AppImage nevidia váš systém ani súbory bez povolenia
+- [ ] Stránka **Boxy** v Nastaveniach: zobrazte, udeľte alebo odoberte prístup k súborom, sieti, kamere a mikrofónu a odstráňte box
+- [ ] **Aplikácie pre Android** (APK) v boxe cez Waydroid, ktoré sa zobrazia v spúšťači ako každá iná aplikácia
 - [ ] **Hry jedným kliknutím**: Steam, Proton a herný režim, s upozornením na hry, ktorých anti-cheat na Linuxe nefunguje
+- [x] **Natívne hry**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Inštalujte cez Obchod → Natívne hry. Pri prvom spustení zadajte ROM získanú z vlastnej kazety; balíky neobsahujú herné dáta.
+- [ ] **Ďalšie natívne hry**: Zelda: Ocarina of Time (Ship of Harkinian) a Mario Kart 64 (SpaghettiKart), v obchode zatiaľ „Už čoskoro“
 
 ### 09/11 – 13/12 · Starostlivosť o počítač
 
-- [ ] **Monitor systému** (Ctrl + Shift + Esc): procesor, pamäť, disk, sieť a grafická karta, zoznam aplikácií a procesov a tlačidlo „Ukončiť“
-- [ ] **Čistenie**: vyrovnávacie pamäte, kôš, nepoužívané balíky, vyrovnávacia pamäť aktualizácií a nepoužívané runtimy Flatpak, s uvoľneným miestom zobrazeným pred potvrdením
-- [ ] **Mapa disku**: čo zaberá miesto a veľké zabudnuté súbory
+- [ ] **Monitor systému** (Ctrl + Shift + Esc): sieť a grafická karta, popri procesore, pamäti a disku, ktoré už ukazuje Optimalizátor
 - [ ] **Informácie o systéme** s tlačidlom „Kopírovať správu“ na žiadosť o pomoc na Discorde alebo na fórach
 - [ ] Rozmazanie a pozadie kamery s kvalitným orezaním (vlasy, slúchadlá a plecia)
 
@@ -49,7 +50,7 @@ starostlivosť o počítač bez technických znalostí.
 
 ### Od júna 2027
 
-- [ ] Voliteľný a súkromný AI asistent (lokálny model): zhrnutie, preklad a vysvetlenie vybraného textu
+- [ ] AI asistent: zhrnutie, preklad a vysvetlenie vybraného textu v akejkoľvek aplikácii
 - [ ] Rodičovská kontrola: čas pred obrazovkou a večierka
 - [ ] Relácia Wayland
 - [ ] ISO automaticky zostavené a otestované pri každej verzii

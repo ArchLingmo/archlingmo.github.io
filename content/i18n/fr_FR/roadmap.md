@@ -8,19 +8,20 @@ Les priorités viennent de ce qui revient le plus sur les forums et dans les tes
 la peur qu’une mise à jour casse le système, les pilotes, installer des logiciels sans terminal et
 entretenir son ordinateur sans être technicien.
 
-- [x] **Jeux natifs**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Installez depuis la boutique. Au premier lancement, fournissez la ROM de votre propre cartouche ; les paquets ne contiennent aucune donnée de jeu.
+### 28/09 – 08/11 · Des logiciels sans complication (et en sécurité)
 
-### 28/09 – 08/11 · Des logiciels sans complication
-
-- [ ] **Logithèque** : Flathub et les dépôts d’Arch au même endroit, avec notes et captures ; paquets AUR uniquement avec un avertissement
-- [ ] **Ouvrir les programmes Windows** : en cliquant sur un .exe, une alternative Linux est proposée ou le programme est lancé avec Bottles/Wine
+- [ ] **Logithèque** : notes des utilisateurs et permissions de chaque application avant l’installation (la Logithèque avec Flathub et les dépôts d’Arch est déjà là)
+- [ ] **Installer en glissant**, comme sur Mac : double-cliquez sur un .exe, .deb, .rpm ou AppImage et glissez-le vers **Applications**
+- [ ] **Tout ce qui vient de l’extérieur tourne dans une boîte isolée** : programmes Windows (Bottles), paquets .deb/.rpm (Distrobox) et AppImages ne voient ni votre système ni vos fichiers sans permission
+- [ ] Une page **Boîtes** dans les Paramètres : voir, accorder ou retirer l’accès aux fichiers, au réseau, à la caméra et au micro, et supprimer une boîte
+- [ ] **Applications Android** (APK) dans une boîte, avec Waydroid, qui apparaissent dans le lanceur comme n’importe quelle application
 - [ ] **Jeux en un clic** : Steam, Proton et mode jeu, avec un avertissement pour les jeux dont l’anti-triche ne fonctionne pas sous Linux
+- [x] **Jeux natifs**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Installez depuis Logithèque → Jeux natifs. Au premier lancement, fournissez la ROM de votre propre cartouche ; les paquets ne contiennent aucune donnée de jeu.
+- [ ] **Plus de jeux natifs** : Zelda: Ocarina of Time (Ship of Harkinian) et Mario Kart 64 (SpaghettiKart), encore « Bientôt disponible » dans la logithèque
 
 ### 09/11 – 13/12 · Entretenir son ordinateur
 
-- [ ] **Moniteur système** (Ctrl + Shift + Esc) : processeur, mémoire, disque, réseau et carte graphique, liste des applications et processus, et bouton « Terminer »
-- [ ] **Nettoyage** : caches, corbeille, paquets inutilisés, cache des mises à jour et runtimes Flatpak inutilisés, avec l’espace libéré affiché avant de confirmer
-- [ ] **Carte du disque** : ce qui occupe de la place et les gros fichiers oubliés
+- [ ] **Moniteur système** (Ctrl + Shift + Esc) : réseau et carte graphique, en plus du processeur, de la mémoire et du disque que l’Optimiseur affiche déjà
 - [ ] **Informations système** avec un bouton « Copier le rapport » pour demander de l’aide sur Discord ou sur les forums
 - [ ] Flou et arrière-plan de la caméra avec un détourage de qualité (cheveux, casque et épaules)
 
@@ -49,7 +50,7 @@ entretenir son ordinateur sans être technicien.
 
 ### À partir de juin 2027
 
-- [ ] Assistant IA facultatif et privé (modèle local) : résumer, traduire et expliquer le texte sélectionné
+- [ ] Assistant IA : résumer, traduire et expliquer le texte sélectionné dans n’importe quelle application
 - [ ] Contrôle parental : temps d’écran et heure du coucher
 - [ ] Session Wayland
 - [ ] ISO générée et testée automatiquement à chaque version

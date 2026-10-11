@@ -8,19 +8,20 @@ Discord 上討論，每個項目都會成為 GitHub 上公開的 pull request。
 擔心更新弄壞系統、驅動程式、不用終端機就能安裝程式，以及
 不需要懂技術也能照顧好電腦。
 
-- [x] **原生遊戲**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). 從商店安裝。首次啟動時，請提供從自己的卡匣擷取的 ROM；套件不包含遊戲資料。
+### 28/09 – 08/11 · 輕鬆（且安全地）使用程式
 
-### 28/09 – 08/11 · 輕鬆使用程式
-
-- [ ] **應用程式商店**：Flathub 與 Arch 軟體庫集中在同一處，附評分與截圖；AUR 套件僅在提示警告後提供
-- [ ] **開啟 Windows 程式**：點擊 .exe 時，會建議 Linux 替代方案，或透過 Bottles/Wine 執行
+- [ ] **應用程式商店**：安裝前查看使用者評分與每個 App 的權限（整合 Flathub 與 Arch 軟體庫的商店已經推出）
+- [ ] 像 Mac 一樣**拖曳安裝**：按兩下 .exe、.deb、.rpm 或 AppImage，再拖到「**應用程式**」
+- [ ] **所有外來程式都在隔離箱中執行**：Windows 程式（Bottles）、.deb/.rpm 套件（Distrobox）與 AppImage 未經允許都無法看到你的系統或檔案
+- [ ] 設定中的**隔離箱**頁面：檢視、授予或移除對檔案、網路、相機與麥克風的存取權，並可刪除隔離箱
+- [ ] 透過 Waydroid 在隔離箱中執行 **Android App**（APK），像其他 App 一樣出現在啟動器中
 - [ ] **一鍵玩遊戲**：Steam、Proton 與遊戲模式，並針對反作弊系統無法在 Linux 上運作的遊戲提出警告
+- [x] **原生遊戲**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). 從商店 → 原生遊戲安裝。首次啟動時，請提供從自己的卡匣擷取的 ROM；套件不包含遊戲資料。
+- [ ] **更多原生遊戲**：Zelda: Ocarina of Time (Ship of Harkinian) 與 Mario Kart 64 (SpaghettiKart)，在商店中仍顯示「即將推出」
 
 ### 09/11 – 13/12 · 照顧你的電腦
 
-- [ ] **系統監視器**（Ctrl + Shift + Esc）：處理器、記憶體、磁碟、網路與顯示卡，應用程式與處理程序清單，以及「結束」按鈕
-- [ ] **清理**：快取、垃圾桶、無人使用的套件、更新快取與未使用的 Flatpak 執行環境，確認前先顯示可釋放的空間
-- [ ] **磁碟地圖**：看看是什麼佔用了空間，以及被遺忘的大型檔案
+- [ ] **系統監視器**（Ctrl + Shift + Esc）：在最佳化工具已顯示的處理器、記憶體與磁碟之外，再加上網路與顯示卡
 - [ ] **系統資訊**，附「複製報告」按鈕，方便在 Discord 或論壇上求助
 - [ ] 相機背景模糊與替換，並提供高品質去背（頭髮、耳機與肩膀）
 
@@ -49,7 +50,7 @@ Discord 上討論，每個項目都會成為 GitHub 上公開的 pull request。
 
 ### 2027 年 6 月起
 
-- [ ] 選用且注重隱私的 AI 助理（本機模型）：摘要、翻譯與解釋所選取的文字
+- [ ] AI 助理：在任何 App 中摘要、翻譯與解釋所選取的文字
 - [ ] 家長監護：螢幕使用時間與就寢時間
 - [ ] Wayland 工作階段
 - [ ] 每個版本的 ISO 都會自動建置與測試

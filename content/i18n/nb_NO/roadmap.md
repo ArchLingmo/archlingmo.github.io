@@ -8,19 +8,20 @@ Prioriteringene bygger på det som dukker opp oftest i forum og i anmeldelser av
 frykten for at en oppdatering ødelegger systemet, drivere, å installere programmer uten terminal og
 å ta vare på datamaskinen uten å måtte være teknisk.
 
-- [x] **Native spill**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Installer fra butikken. Ved første start trenger du en ROM fra din egen kassett; pakkene inneholder ingen spilldata.
+### 28/09 til 08/11 · Programmer uten styr (og trygt)
 
-### 28/09 til 08/11 · Programmer uten styr
-
-- [ ] **Appbutikk**: Flathub og Arch-pakkebrønnene samlet på ett sted, med vurderinger og skjermbilder; AUR-pakker kun med advarsel
-- [ ] **Åpne Windows-programmer**: når du klikker på en .exe, foreslås et Linux-alternativ, eller programmet kjøres med Bottles/Wine
+- [ ] **Appbutikk**: brukervurderinger og hver apps tillatelser før installasjon (butikken med Flathub og Arch-pakkebrønnene er allerede på plass)
+- [ ] **Installer ved å dra**, som på en Mac: dobbeltklikk på en .exe, .deb, .rpm eller AppImage og dra den til **Programmer**
+- [ ] **Alt utenfra kjører i en isolert boks**: Windows-programmer (Bottles), .deb/.rpm-pakker (Distrobox) og AppImage-er ser ikke systemet eller filene dine uten tillatelse
+- [ ] En **Bokser**-side i Innstillinger: se, gi eller fjern tilgang til filer, nettverk, kamera og mikrofon, og slett en boks
+- [ ] **Android-apper** (APK) i en boks, med Waydroid, som vises i programstarteren som alle andre apper
 - [ ] **Spill med ett klikk**: Steam, Proton og spillmodus, med varsel om spill med anti-juks som ikke fungerer på Linux
+- [x] **Native spill**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Installer fra butikken → Native spill. Ved første start trenger du en ROM fra din egen kassett; pakkene inneholder ingen spilldata.
+- [ ] **Flere native spill**: Zelda: Ocarina of Time (Ship of Harkinian) og Mario Kart 64 (SpaghettiKart), foreløpig merket «Kommer snart» i butikken
 
 ### 09/11 til 13/12 · Ta vare på datamaskinen
 
-- [ ] **Systemovervåker** (Ctrl + Shift + Esc): prosessor, minne, disk, nettverk og skjermkort, liste over apper og prosesser og en "Avslutt"-knapp
-- [ ] **Opprydding**: hurtigbuffere, papirkurv, pakker ingen bruker, oppdateringsbuffer og ubrukte Flatpak-kjøretider, med frigjort plass vist før du bekrefter
-- [ ] **Diskkart**: hva som tar plass, og store glemte filer
+- [ ] **Systemovervåker** (Ctrl + Shift + Esc): nettverk og skjermkort, i tillegg til prosessoren, minnet og disken som Optimalisering allerede viser
 - [ ] **Systeminformasjon** med en "Kopier rapport"-knapp for å be om hjelp på Discord eller i forum
 - [ ] Uskarp og byttet kamerabakgrunn med nøyaktig utklipp (hår, hodetelefoner og skuldre)
 
@@ -49,7 +50,7 @@ frykten for at en oppdatering ødelegger systemet, drivere, å installere progra
 
 ### Fra juni 2027
 
-- [ ] Valgfri og privat KI-assistent (lokal modell): oppsummer, oversett og forklar markert tekst
+- [ ] KI-assistent: oppsummer, oversett og forklar markert tekst i hvilken som helst app
 - [ ] Foreldrekontroll: skjermtid og leggetid
 - [ ] Wayland-økt
 - [ ] ISO som bygges og testes automatisk for hver versjon

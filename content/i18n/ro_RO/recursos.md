@@ -6,12 +6,20 @@ Toate acestea sunt deja incluse în ArchLingmo.
 
 - **Bara de sus** cu ceas, calendar la clic pe dată și pictogramele din zona de notificare
 - **Centrul de control**: Wi-Fi, Bluetooth, mod întunecat, lumină de noapte, nu deranjați și volum într-un singur panou
-- **Dock** cu previzualizarea ferestrelor la trecerea mouse-ului
+- **Dock** cu previzualizarea ferestrelor la trecerea mouse-ului și fundal **solid, de sticlă sau fără fundal**
 - **Spotlight** (Super + Spațiu): aplicații, fișiere, calcule, conversii de unități și valute și căutare în interiorul documentelor
 - **Istoricul clipboard-ului** (Super + V)
 - **Colțuri active**: duceți mouse-ul într-un colț ca să vedeți toate ferestrele, desktopul sau să blocați ecranul
 - **Efecte**: ferestre gelatinoase, lampa magică și Alt+Tab ca filele unei cărți
 - Meniu global și pentru aplicațiile GTK
+- **Widgeturi de ceas și vreme** pe desktop, cu prognoza reală pentru orașul ales, grupate sub o singură pictogramă în bara de sus
+
+### Inteligență artificială (pe calculatorul dumneavoastră)
+
+- **Asistent** (Super + I): o inteligență artificială care rulează pe calculatorul dumneavoastră, cu Ollama. Citește documentele (PDF, DOCX…), notițele și calendarul, consultă informațiile despre sistem și rulează comenzi de terminal doar în citire, într-o cutie izolată. Cu permisiunea dumneavoastră creează notițe, evenimente, sarcini și fișiere: fiecare modificare cere confirmare și nu șterge niciodată nimic
+- **AI în Spotlight**: începeți cu „ai:” pentru a conversa sau scrieți o întrebare terminată cu „?” și alegeți să o întrebați pe AI. Arată cât a durat fiecare răspuns și cât de rapid a fost și folosește aceleași instrumente ca Asistentul
+- **Setări › Inteligență artificială**: starea Ollama, modelele instalate, recomandări pentru *acest* calculator, descărcarea modelelor cu progres, opțiunea „Gândește înainte de a răspunde” și permisiunile și instrumentele Asistentului
+- **Automator**: rutine zilnice la o oră stabilită, cu o comandă și, dacă doriți, AI-ul local care explică rezultatul
 
 ### Setări
 
@@ -30,8 +38,14 @@ Toate acestea sunt deja incluse în ArchLingmo.
 
 ### Aplicații
 
+- **Mail**: conturi IMAP și POP3 cu detectarea automată a furnizorului și un ghid pentru fiecare (parole de aplicație pentru Gmail, Yahoo și iCloud). Dosare cu numărul de mesaje necitite, căutare și filtre, marcare cu stea, arhivare, mutarea și ștergerea mai multor mesaje deodată, reguli automate, contacte cu completare automată și notificări pentru mesajele noi
+- **Calendar și sarcini** în Mail: vizualizări pe lună, săptămână, zi și agendă, evenimente repetate, mementouri chiar și cu aplicația închisă și sincronizare CalDAV (iCloud, Yahoo, Fastmail, Nextcloud). Sarcini pentru azi, viitoare și întârziate, plus invitații la ședințe (.ics) cu Accept, Poate sau Refuz
+- **Notițe** în stilul Notion: editor pe blocuri, meniul „/”, subpagini, pictograme, favorite, coș de gunoi și căutare rapidă (Ctrl + K)
+- **Optimizator**: dați clic pe Procesor, Memorie sau Stocare pentru detalii: unde s-a dus spațiul de pe disc, dosar cu dosar, cu sugestii, și aplicațiile care folosesc cel mai mult memoria și procesorul. Butonul „Optimizează și curăță” golește cache-urile, cache-ul actualizărilor, jurnalele vechi și runtime-urile Flatpak nefolosite
 - Manager de **fișiere** cu tragere și plasare și sortare ca în Thunar
-- **Terminal** cu tema Dracula în modul întunecat, **editor de text**, **calculator** și **player video**
+- **Terminal** cu tema Dracula în modul întunecat și alegerea shell-ului (bash, zsh, fish…) în noile preferințe, **editor de text**, **calculator** și **player video**
+- **Ceas și alarme**, **Creator de medii USB** pentru a scrie un ISO pe un stick USB, **Programe Windows** (deschideți un .exe și vedeți versiunea pentru Linux sau o alternativă în Magazin, ori încercați-l cu Bottles/Wine) și **Magazinul de aplicații** cu Flathub și depozitele Arch într-un singur loc
+- Toate aplicațiile au același aspect Lingmo, în temă luminoasă și întunecată
 - **Capturi și înregistrare de ecran**, cu microfon și sunetul sistemului
 - Programul de instalare **Calamares** și sunet prin **PipeWire**
-- **Jocuri native**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Instalați din magazin. La prima pornire, furnizați ROM-ul propriului cartuș; pachetele nu includ datele jocurilor.
+- **Jocuri native**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Instalați din Magazin → Jocuri native. La prima pornire, furnizați un ROM extras din propriul cartuș; pachetele nu includ datele jocurilor.

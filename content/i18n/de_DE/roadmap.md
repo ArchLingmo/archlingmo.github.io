@@ -8,19 +8,20 @@ Die Prioritäten ergeben sich aus dem, was in Foren und Tests anderer Distributi
 die Angst, dass ein Update das System kaputt macht, Treiber, Programme ohne Terminal installieren und
 den Computer pflegen, ohne technisch versiert sein zu müssen.
 
-- [x] **Native Spiele**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Installation über den Store. Beim ersten Start wird die ROM des eigenen Moduls benötigt; die Pakete enthalten keine Spieldaten.
+### 28/09 – 08/11 · Programme ohne Umstände (und sicher)
 
-### 28/09 – 08/11 · Programme ohne Umstände
-
-- [ ] **App Store**: Flathub und die Arch-Paketquellen an einem Ort, mit Bewertungen und Screenshots; AUR-Pakete nur mit Warnhinweis
-- [ ] **Windows-Programme öffnen**: Beim Klick auf eine .exe wird eine Linux-Alternative vorgeschlagen oder das Programm mit Bottles/Wine gestartet
+- [ ] **App Store**: Nutzerbewertungen und die Berechtigungen jeder App vor der Installation (der Store mit Flathub und den Arch-Paketquellen ist schon da)
+- [ ] **Installieren per Ziehen** wie auf dem Mac: Doppelklick auf eine .exe, .deb, .rpm oder AppImage und in **Programme** ziehen
+- [ ] **Alles von außen läuft in einer isolierten Box**: Windows-Programme (Bottles), .deb/.rpm-Pakete (Distrobox) und AppImages sehen Ihr System und Ihre Dateien nicht ohne Erlaubnis
+- [ ] Eine Seite **Boxen** in den Einstellungen: Zugriff auf Dateien, Netzwerk, Kamera und Mikrofon ansehen, erteilen oder entziehen und eine Box löschen
+- [ ] **Android-Apps** (APK) in einer Box, mit Waydroid, die im Starter wie jede andere App erscheinen
 - [ ] **Spielen mit einem Klick**: Steam, Proton und Spielmodus, mit Hinweis auf Spiele, deren Anti-Cheat unter Linux nicht funktioniert
+- [x] **Native Spiele**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Installation über Store → Native Spiele. Beim ersten Start wird die ROM des eigenen Moduls benötigt; die Pakete enthalten keine Spieldaten.
+- [ ] **Weitere native Spiele**: Zelda: Ocarina of Time (Ship of Harkinian) und Mario Kart 64 (SpaghettiKart), im Store noch „Demnächst“
 
 ### 09/11 – 13/12 · Den Computer pflegen
 
-- [ ] **Systemmonitor** (Ctrl + Shift + Esc): Prozessor, Arbeitsspeicher, Festplatte, Netzwerk und Grafikkarte, Liste der Apps und Prozesse und ein „Beenden“-Knopf
-- [ ] **Aufräumen**: Caches, Papierkorb, ungenutzte Pakete, Update-Cache und ungenutzte Flatpak-Laufzeitumgebungen, mit Anzeige des frei werdenden Speichers vor dem Bestätigen
-- [ ] **Speicherplatz-Übersicht**: was Platz belegt und vergessene große Dateien
+- [ ] **Systemmonitor** (Ctrl + Shift + Esc): Netzwerk und Grafikkarte, zusätzlich zu Prozessor, Arbeitsspeicher und Festplatte, die der Optimierer schon anzeigt
 - [ ] **Systeminformationen** mit einem Knopf „Bericht kopieren“, um auf Discord oder in Foren um Hilfe zu bitten
 - [ ] Kamera-Weichzeichner und -Hintergrund mit sauberer Freistellung (Haare, Kopfhörer und Schultern)
 
@@ -49,7 +50,7 @@ den Computer pflegen, ohne technisch versiert sein zu müssen.
 
 ### Ab Juni 2027
 
-- [ ] Optionaler, privater KI-Assistent (lokales Modell): markierten Text zusammenfassen, übersetzen und erklären
+- [ ] KI-Assistent: markierten Text in jeder App zusammenfassen, übersetzen und erklären
 - [ ] Jugendschutz: Bildschirmzeit und Schlafenszeit
 - [ ] Wayland-Sitzung
 - [ ] ISO, die bei jeder Version automatisch erstellt und getestet wird

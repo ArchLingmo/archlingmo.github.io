@@ -8,19 +8,20 @@ Discord sunucumuzda tartışılır; her madde GitHub'da açık bir pull request'
 bir güncellemenin sistemi bozma korkusu, sürücüler, terminal olmadan program kurmak ve
 teknik bilgi gerektirmeden bilgisayara bakmak.
 
-- [x] **Yerel oyunlar**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Mağazadan yükleyin. İlk açılışta kendi kartuşunuzdan alınan ROM'u sağlayın; paketler oyun verilerini içermez.
+### 28/09 – 08/11 · Zahmetsiz (ve güvenli) programlar
 
-### 28/09 – 08/11 · Zahmetsiz programlar
-
-- [ ] **Uygulama mağazası**: Flathub ve Arch depoları tek bir yerde, puanlar ve ekran görüntüleriyle; AUR paketleri yalnızca uyarıyla
-- [ ] **Windows programlarını açma**: bir .exe dosyasına tıklandığında Linux alternatifi önerir ya da Bottles/Wine ile çalıştırır
+- [ ] **Uygulama mağazası**: yüklemeden önce kullanıcı puanları ve her uygulamanın izinleri (Flathub ve Arch depolarını içeren mağaza zaten hazır)
+- [ ] Mac'teki gibi **sürükleyerek yükleme**: bir .exe, .deb, .rpm veya AppImage dosyasına çift tıklayıp **Uygulamalar**'a sürükleyin
+- [ ] **Dışarıdan gelen her şey yalıtılmış bir kutuda çalışır**: Windows programları (Bottles), .deb/.rpm paketleri (Distrobox) ve AppImage'lar izin olmadan sisteminizi ya da dosyalarınızı göremez
+- [ ] Ayarlar'da **Kutular** sayfası: dosyalara, ağa, kameraya ve mikrofona erişimi görün, verin ya da kaldırın ve bir kutuyu silin
+- [ ] Waydroid ile bir kutu içinde, başlatıcıda diğer uygulamalar gibi görünen **Android uygulamaları** (APK)
 - [ ] **Tek tıkla oyun**: Steam, Proton ve oyun modu; hile önleyicisi Linux'ta çalışmayan oyunlar için uyarıyla
+- [x] **Yerel oyunlar**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Mağaza → Yerel oyunlar'dan yükleyin. İlk açılışta kendi kartuşunuzdan alınan ROM'u sağlayın; paketler oyun verilerini içermez.
+- [ ] **Daha fazla yerel oyun**: Zelda: Ocarina of Time (Ship of Harkinian) ve Mario Kart 64 (SpaghettiKart), mağazada hâlâ "Yakında"
 
 ### 09/11 – 13/12 · Bilgisayara bakım
 
-- [ ] **Sistem izleyici** (Ctrl + Shift + Esc): işlemci, bellek, disk, ağ ve ekran kartı, uygulama ve işlem listesi ile "Sonlandır" düğmesi
-- [ ] **Temizlik**: önbellekler, çöp kutusu, kullanılmayan paketler, güncelleme önbelleği ve kullanılmayan Flatpak çalışma ortamları; onaylamadan önce açılacak alan gösterilir
-- [ ] **Disk haritası**: yer kaplayan şeyler ve unutulmuş büyük dosyalar
+- [ ] **Sistem izleyici** (Ctrl + Shift + Esc): Eniyileyici'nin zaten gösterdiği işlemci, bellek ve diske ek olarak ağ ve ekran kartı
 - [ ] Discord'da veya forumlarda yardım istemek için "Raporu kopyala" düğmeli **Sistem bilgisi**
 - [ ] Kalite kırpmalı (saç, kulaklık ve omuzlar) kamera bulanıklaştırma ve arka planı
 
@@ -49,7 +50,7 @@ teknik bilgi gerektirmeden bilgisayara bakmak.
 
 ### Haziran 2027'den itibaren
 
-- [ ] İsteğe bağlı ve gizliliğe saygılı yapay zekâ asistanı (yerel model): seçili metni özetleme, çevirme ve açıklama
+- [ ] Yapay zekâ asistanı: herhangi bir uygulamada seçili metni özetleme, çevirme ve açıklama
 - [ ] Ebeveyn denetimi: ekran süresi ve yatma saati
 - [ ] Wayland oturumu
 - [ ] Her sürümde otomatik olarak oluşturulan ve test edilen ISO

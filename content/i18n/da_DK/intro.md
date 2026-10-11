@@ -5,5 +5,6 @@ hvor hele skrivebordet er flyttet til **Qt 6**, mens ændringerne sendes videre 
 
 - **Gennemført udseende**: nydesignet topbjælke, dock, Spotlight, kontroller og vinduesknapper i lyst og mørkt tema.
 - **Opdateret**: Qt 6, KDE Frameworks 6 og KWin 6, direkte fra Archs pakkearkiver.
+- **Lokal og privat AI**: Assistenten og Spotlight svarer med modeller, der kører på din computer, via Ollama.
 - **Praktisk**: genveje med Super-tasten, siderne Genveje og Opstart i Indstillinger og et statusfelt med dine faste apps.
 - **Åbent**: al koden ligger på GitHub, og hver forbedring bliver til en pull request til Lingmo.
