@@ -117,6 +117,38 @@ async function loadConfig() {
   }
 }
 
+// The ISO comes from the latest GitHub release of `config.releases`: a new
+// release shows up here without touching the site. site.json's "iso" is the
+// fallback (API down or rate-limited, no release yet).
+async function latestIso(repo) {
+  if (!repo)
+    return null;
+  try {
+    const response = await fetch(`https://api.github.com/repos/${repo}/releases/latest`,
+                                 { headers: { Accept: "application/vnd.github+json" } });
+    if (!response.ok)
+      return null;
+    const release = await response.json();
+    const asset = (release.assets || []).find(a => a.name.endsWith(".iso"));
+    if (!asset)
+      return null;
+    const sha = (release.body || "").match(/\b[0-9a-f]{64}\b/i);
+    const version = (asset.name.match(/(\d{4}\.\d{2}\.\d{2})/) || [])[1] || release.tag_name;
+    const gb = asset.size / 1e9;
+    return {
+      version,
+      iso: {
+        url: asset.browser_download_url,
+        size: gb >= 1 ? `${gb.toFixed(1).replace(".", ",")} GB` : `${Math.round(asset.size / 1e6)} MB`,
+        sha256: sha ? sha[0].toLowerCase() : "",
+        torrent: "",
+      },
+    };
+  } catch {
+    return null;
+  }
+}
+
 function setLink(id, url, soonLabel) {
   const link = document.getElementById(id);
   if (url) {
@@ -286,7 +318,13 @@ async function loadSections() {
 }
 
 setupLanguage().then(() => {
-  loadConfig().then(applyConfig);
+  loadConfig().then(async config => {
+    applyConfig(config);
+    // Then the newest release, if GitHub answers
+    const latest = await latestIso(config.releases);
+    if (latest)
+      applyConfig({ ...config, ...latest });
+  });
   // Sections load after the browser's own jump to #anchor: jump again once they're in
   loadSections().then(() => {
     if (location.hash)
