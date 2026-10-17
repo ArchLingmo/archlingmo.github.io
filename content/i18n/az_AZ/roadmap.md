@@ -17,7 +17,13 @@ texniki bilik tələb etmədən kompüterə qulluq etmək.
 - [x] Waydroid ilə qutuda işləyən və digər tətbiqlər kimi başladıcıda görünən **Android tətbiqləri** (APK)
 - [x] **Bir kliklə oyunlar**: Steam, Proton və oyun rejimi, Linux-da işləməyən anti-cheat oyunlar barədə xəbərdarlıqla
 - [x] **Doğma oyunlar**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Mağaza → Doğma oyunlar bölməsindən quraşdırın. İlk açılışda öz kartricinizdən çıxarılmış ROM-u təqdim edin; paketlərə oyun məlumatları daxil deyil.
-- [ ] **Daha çox doğma oyun**: Zelda: Ocarina of Time (Ship of Harkinian) və Mario Kart 64 (SpaghettiKart), mağazada hələ "Tezliklə" kimi görünür
+
+### 09/11 – 13/12 · Yaradın və paylaşın
+
+- [ ] **Daha ağıllı Lingmo Studio**: əsas obyekti (yalnız üzü deyil) izləyən yenidən kadrlama, hər hissədə kimin danışdığını bilmək (danışanların ayrılması) və hər trekdə səs effektləri
+- [ ] **Qalan doğma oyunları dərc etmək**: hazırda Mağazada "Tezliklə" kimi görünən Zelda: Ocarina of Time (Ship of Harkinian) və Mario Kart 64 (SpaghettiKart), layihələrin lisenziyası onları yaymağa icazə verən kimi
+- [ ] Parametrlərin, Poçtun və fayl menecerinin yan panellərini digər tətbiqlərlə eyni görünüşdə **LingmoUI**-a köçürməyi başa çatdırmaq
+- [ ] **Wayland sessiyası** üçün zəmin hazırlamaq: Lingmo-nun tətbiqlərini və effektlərini Wayland-də sınamaq (tam sessiya hələ də 2027 üçün planlaşdırılır)
 
 ### 09/11 – 13/12 · Kompüterə qulluq
 
@@ -45,7 +51,7 @@ texniki bilik tələb etmədən kompüterə qulluq etmək.
 - [ ] Fayl menecerində faylların **əvvəlki versiyaları**, Time Machine-dəki kimi
 - [ ] **Telefon inteqrasiyası**: Android və iPhone ilə bildirişlər, fayllar və mübadilə buferi (KDE Connect)
 - [ ] **Bulud hesabları**: Google Drive və OneDrive fayl menecerində görünür
-- [ ] Ekran görüntüsündən mətni kopyalamaq (OCR)
+- [x] Ekran görüntüsündən mətni kopyalamaq (OCR)
 - [ ] Windows ilə yanaşı quraşdırarkən BitLocker və Secure Boot barədə xəbərdarlıq edən quraşdırıcı
 
 ### 2027-ci ilin iyunundan

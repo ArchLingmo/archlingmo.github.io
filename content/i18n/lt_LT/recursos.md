@@ -13,6 +13,9 @@ Visa tai ArchLingmo turi jau šiandien.
 - **Efektai**: drebantys langai, stebuklinga lempa ir Alt+Tab tarsi knygos puslapiai
 - Globalus meniu ir GTK programoms
 - **Laikrodžio ir orų valdikliai** darbalaukyje su tikra jūsų pasirinkto miesto orų prognoze, sugrupuoti po viena piktograma viršutinėje juostoje
+- **Alt+Tab „Karuselė“**: perjunkite langus 3D karuselėje, cover flow stiliumi, su atspindžiu
+- **Lingmo piktogramos**: nuosava piktogramų tema su sklandžiomis squircle formos piktogramomis, sukurtomis WhiteSur pagrindu. Trečiųjų šalių programų piktogramos tą pačią plokštelę gauna automatiškai
+- **Doko didinimas** iki 200 % užvedus pelę ir **viršutinė juosta** su paruoštais aukščio variantais
 
 ### Dirbtinis intelektas (jūsų kompiuteryje)
 
@@ -20,6 +23,7 @@ Visa tai ArchLingmo turi jau šiandien.
 - **DI Spotlight**: pradėkite nuo „ai:“, kad pradėtumėte pokalbį, arba įveskite klausimą, besibaigiantį „?“, ir pasirinkite paklausti DI. Rodoma, kiek laiko užtruko kiekvienas atsakymas ir koks buvo greitis, naudojami tie patys įrankiai kaip Asistento
 - **Nustatymai › Dirbtinis intelektas**: Ollama būsena, įdiegti modeliai, rekomendacijos *šiam* kompiuteriui, modelių atsisiuntimas su eiga, parinktis „Pagalvoti prieš atsakant“ bei Asistento leidimai ir įrankiai
 - **Automatizatorius**: kasdienės rutinos nustatytu laiku, su komanda ir, jei norite, vietiniu DI, paaiškinančiu rezultatą
+- **Transkribavimas ir subtitrai** skiltyje Nustatymai › Dirbtinis intelektas: whisper.cpp modeliai su žymomis ir ženkleliu „Rekomenduojama jūsų kompiuteriui“, šalia jūsų aparatinei įrangai rekomenduojamų DI modelių (llmfit)
 
 ### Nustatymai
 
@@ -49,3 +53,17 @@ Visa tai ArchLingmo turi jau šiandien.
 - **Ekrano nuotraukos ir įrašymas**, su mikrofonu ir sistemos garsu
 - **Calamares** diegimo programa ir garsas per **PipeWire**
 - **Vietiniai žaidimai**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Įdiekite iš Parduotuvė → Vietiniai žaidimai. Pirmą kartą paleidę pateikite ROM, nukopijuotą iš savo kasetės; paketuose nėra žaidimų duomenų.
+- **Ekrano nuotrauka** (Print, Shift + Print ir Ctrl + Print): viskas, ką moka Flameshot (anotavimo įrankiai, prisegimas ekrane, kopijavimas, įrašymas ir komandų eilutė), ir dar daugiau: „Kopijuoti tekstą“ su OCR pačiame kompiuteryje, duomenų paslėpimas vienu paspaudimu, išmanusis žymėjimas, slenkamoji nuotrauka, pristatymo režimas, redaguojama istorija ir įrašymas GIF formatu
+- **Nuotraukos**: jūsų vaizdai bibliotekoje, mėgstamiausiuose ir aplankuose, su tomis pačiomis miniatiūromis kaip failų tvarkytuvėje
+- **PDF skaitytuvas**: puslapių miniatiūros, turinys, pastabos ir pritaikymas pagal plotį
+- **Stulpelių rodinys Failuose** (Ctrl + 3) ir freedesktop standarto miniatiūros, bendros su Nuotraukomis
+
+### Vaizdo įrašai: Lingmo Studio
+
+- **Lingmo Studio**: vaizdo įrašų redaktorius, sukurtas MLT pagrindu, su puslapiais kaip DaVinci Resolve: Redaguoti, Spalva, Efektai, Garsas ir Pateikti
+- **Redagavimas**: kelių takelių laiko juosta, ripple, roll, slip ir slide, J ir L kirpimai, sudėtiniai klipai, tarpinės kopijos (proxy) ir istorijos skydelis
+- **Spalva**: spalvų ratai, kreivės, HSL, .cube LUT ir matavimo skalės (scopes)
+- **Garsas**: mikšeris, ekvalaizeris, kompresorius, triukšmo mažinimas ir garsumo normalizavimas pagal LUFS
+- **Eksportas** į MP4 pagal numatytuosius nustatymus, spartinamas vaizdo plokštės (NVENC arba VA-API)
+- **Kurti ištraukas**: ilgą vaizdo įrašą paverčia ištraukomis Shorts, Reels, TikTok, Kwai, LinkedIn, X ir Stories, su kiekvieno tinklo rekomenduojama trukme ir saugia zona, geriausiomis akimirkomis, kurias parenka vietinis DI (Ollama), ir 9:16 kadravimu, sekančiu veidą
+- **Subtitrai**, sinchronizuoti žodis po žodžio su whisper.cpp, jūsų pačių kompiuteryje: devyni skaitymui pritaikyti stiliai (karaokė, kai spalva perbėga per eilutę, paryškintas žodis, žodis po žodžio, tinklalaidė, neonas, didelis kontrastas, du kalbėtojai…) ir eksportas į SRT, VTT ir ASS

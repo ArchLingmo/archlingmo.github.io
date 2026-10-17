@@ -17,7 +17,13 @@ kompiuterio priežiūra nebūnant techniniu žinovu.
 - [x] **Android programėlės** (APK) dėžėje, su Waydroid, rodomos paleidiklyje kaip bet kuri kita programėlė
 - [x] **Žaidimai vienu spustelėjimu**: Steam, Proton ir žaidimų režimas, su įspėjimu apie žaidimus su apsauga nuo sukčiavimo, kurie neveikia Linux
 - [x] **Vietiniai žaidimai**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Įdiekite iš Parduotuvė → Vietiniai žaidimai. Pirmą kartą paleidę pateikite ROM, nukopijuotą iš savo kasetės; paketuose nėra žaidimų duomenų.
-- [ ] **Daugiau vietinių žaidimų**: Zelda: Ocarina of Time (Ship of Harkinian) ir Mario Kart 64 (SpaghettiKart), parduotuvėje vis dar „Netrukus“
+
+### 09/11–13/12 · Kurti ir dalytis
+
+- [ ] **Protingesnis Lingmo Studio**: kadravimas, sekantis pagrindinį objektą (ne tik veidą), atpažinimas, kas kalba kiekvienoje dalyje (kalbėtojų atskyrimas), ir garso efektai kiekvienam takeliui
+- [ ] **Išleisti likusius vietinius žaidimus**: Zelda: Ocarina of Time (Ship of Harkinian) ir Mario Kart 64 (SpaghettiKart), dabar Parduotuvėje pažymėtus „Netrukus“, kai tik projektų licencijos leis juos platinti
+- [ ] Baigti perkelti Nustatymų, Pašto ir failų tvarkytuvės šonines juostas į **LingmoUI**, kad jos atrodytų taip pat kaip kitos programos
+- [ ] Paruošti kelią **Wayland seansui**: išbandyti Lingmo programas ir efektus Wayland aplinkoje (visas seansas vis dar planuojamas 2027 metams)
 
 ### 09/11–13/12 · Kompiuterio priežiūra
 
@@ -45,7 +51,7 @@ kompiuterio priežiūra nebūnant techniniu žinovu.
 - [ ] **Ankstesnės failų versijos** failų tvarkytuvėje, kaip Time Machine
 - [ ] **Integruotas telefonas**: pranešimai, failai ir iškarpinė su Android ir iPhone (KDE Connect)
 - [ ] **Debesų paskyros**: Google Drive ir OneDrive rodomi failų tvarkytuvėje
-- [ ] Teksto kopijavimas iš ekrano nuotraukos (OCR)
+- [x] Teksto kopijavimas iš ekrano nuotraukos (OCR)
 - [ ] Diegimo programa, įspėjanti apie BitLocker ir Secure Boot diegiant šalia Windows
 
 ### Nuo 2027 m. birželio

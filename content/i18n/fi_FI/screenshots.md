@@ -1,5 +1,11 @@
 ## Kuvakaappaukset
 
+![Lingmo Studio: leikkeet Shortsiin, Reelsiin ja TikTokiin pitkästä videosta](screenshots/studio-cuts.jpg)
+![Lingmo Studio: puheeseen synkronoidut tekstitystyylit](screenshots/studio-captions.jpg)
+![Alt+Tab Karuselli: ikkunanvaihto 3D:nä heijastuksen kera](screenshots/alt-tab-carousel.jpg)
+![Lingmo-kuvakkeet sovellusvalikossa, myös muiden valmistajien sovelluksissa](screenshots/icons.jpg)
+![PDF-lukija ja sivujen pikkukuvat](screenshots/reader.jpg)
+![Tiedostonhallinta sarakenäkymässä](screenshots/files-columns.jpg)
 ![Sähköposti ja kokouskutsu: Hyväksy, Ehkä tai Hylkää](screenshots/mail.jpg)
 ![Sähköpostin kalenteri kuukausinäkymässä](screenshots/mail-calendar.jpg)
 ![Tehtävät: tänään, tulossa ja myöhässä](screenshots/mail-tasks.jpg)

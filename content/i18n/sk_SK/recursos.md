@@ -13,6 +13,9 @@ Toto všetko už ArchLingmo obsahuje dnes.
 - **Efekty**: kolísavé okná, čarovná lampa a Alt+Tab v podobe listov knihy
 - Globálna ponuka aj pre aplikácie GTK
 - **Miniaplikácie hodín a počasia** na ploche so skutočnou predpoveďou pre vybrané mesto, zoskupené pod jednou ikonou v hornom paneli
+- **Alt+Tab „Kolotoč“**: prepínajte okná v 3D kolotoči v štýle cover flow, s odrazom
+- **Ikony Lingmo**: vlastná téma ikon s plynulými ikonami v tvare squircle (zaobleného štvorca), vytvorenými na základe WhiteSur. Ikony aplikácií tretích strán dostanú rovnaký podklad automaticky
+- **Dok so zväčšovaním** ikon až na 200 % pri prejdení myšou a **horný panel** s pripravenými výškami na výber
 
 ### Umelá inteligencia (vo vašom počítači)
 
@@ -20,6 +23,7 @@ Toto všetko už ArchLingmo obsahuje dnes.
 - **AI v Spotlighte**: začnite „ai:“ a konverzujte, alebo napíšte otázku končiacu „?“ a zvoľte, že sa chcete opýtať AI. Ukáže, ako dlho každá odpoveď trvala a aká bola rýchla, a používa rovnaké nástroje ako Asistent
 - **Nastavenia › Umelá inteligencia**: stav Ollama, nainštalované modely, odporúčania pre *tento* počítač, sťahovanie modelov s priebehom, voľba „Premýšľať pred odpoveďou“ a povolenia a nástroje Asistenta
 - **Automatizátor**: denné rutiny v nastavený čas, s príkazom a, ak chcete, s lokálnou AI, ktorá vysvetlí výsledok
+- **Prepis a titulky** na stránke Nastavenia › Umelá inteligencia: modely whisper.cpp so štítkami a odznakom „Odporúčané pre váš počítač“, vedľa modelov AI odporúčaných pre váš hardvér (llmfit)
 
 ### Nastavenia
 
@@ -49,3 +53,17 @@ Toto všetko už ArchLingmo obsahuje dnes.
 - **Snímky a nahrávanie obrazovky** s mikrofónom a systémovým zvukom
 - Inštalátor **Calamares** a zvuk cez **PipeWire**
 - **Natívne hry**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Inštalujte cez Obchod → Natívne hry. Pri prvom spustení zadajte ROM získanú z vlastnej kazety; balíky neobsahujú herné dáta.
+- **Snímka obrazovky** (Print, Shift + Print a Ctrl + Print): všetko, čo dokáže Flameshot (nástroje na anotácie, pripnutie na obrazovku, kopírovanie, uloženie a príkazový riadok), a ešte viac: „Kopírovať text“ s OCR priamo v počítači, skrytie údajov jedným kliknutím, inteligentný výber, snímka s posúvaním, režim prezentácie, upraviteľná história a nahrávanie do GIF
+- **Fotky**: vaše obrázky v knižnici, obľúbených a priečinkoch, s rovnakými náhľadmi ako v správcovi súborov
+- **Čítačka PDF**: náhľady strán, osnova, poznámky a prispôsobenie šírke
+- **Zobrazenie v stĺpcoch v Súboroch** (Ctrl + 3) a náhľady podľa štandardu freedesktop, zdieľané s Fotkami
+
+### Video: Lingmo Studio
+
+- **Lingmo Studio**: video editor postavený na MLT, so stránkami ako v DaVinci Resolve: Strih, Farby, Efekty, Zvuk a Export
+- **Strih**: časová os s viacerými stopami, ripple, roll, slip a slide, strihy J a L, zložené klipy, proxy a panel histórie
+- **Farby**: farebné kolesá, krivky, HSL, LUT .cube a meracie grafy
+- **Zvuk**: mixér, ekvalizér, kompresor, potlačenie šumu a normalizácia hlasitosti v LUFS
+- **Export** predvolene do MP4, s akceleráciou grafickou kartou (NVENC alebo VA-API)
+- **Vytvoriť klipy**: z dlhého videa urobí krátke klipy pre Shorts, Reels, TikTok, Kwai, LinkedIn, X a Stories, s dĺžkou a bezpečnou zónou odporúčanou každou sieťou, najlepšími momentmi vybranými lokálnou AI (Ollama) a orezom 9:16, ktorý sleduje tvár
+- **Titulky** synchronizované slovo po slove pomocou whisper.cpp, priamo vo vašom počítači: deväť štýlov navrhnutých na čítanie (karaoke s farbou prechádzajúcou po vete, zvýraznené slovo, slovo po slove, podcast, neón, vysoký kontrast, dvaja hovoriaci…) a export do SRT, VTT a ASS

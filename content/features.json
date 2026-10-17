@@ -55,6 +55,22 @@
         "color": "#FF9F0A",
         "image": "screenshots/features/widgets.jpg",
         "full": "screenshots/widgets.jpg"
+      },
+      {
+        "icon": "stack",
+        "color": "#5856D6",
+        "image": "screenshots/features/alt-tab-carousel.jpg",
+        "full": "screenshots/alt-tab-carousel.jpg"
+      },
+      {
+        "icon": "shapes",
+        "color": "#FF2D55",
+        "image": "screenshots/features/icons.jpg",
+        "full": "screenshots/icons.jpg"
+      },
+      {
+        "icon": "zoom-in",
+        "color": "#34AADC"
       }
     ],
     [
@@ -81,6 +97,10 @@
         "color": "#FF9500",
         "image": "screenshots/features/automator.jpg",
         "full": "screenshots/automator.jpg"
+      },
+      {
+        "icon": "mic-ai",
+        "color": "#AF52DE"
       }
     ],
     [
@@ -205,6 +225,60 @@
         "color": "#FF2D55",
         "image": "screenshots/features/native-games.jpg",
         "full": "screenshots/native-games.jpg"
+      },
+      {
+        "icon": "screenshot-2",
+        "color": "#AF52DE"
+      },
+      {
+        "icon": "image",
+        "color": "#FF9500"
+      },
+      {
+        "icon": "file-pdf-2",
+        "color": "#FF3B30",
+        "image": "screenshots/features/reader.jpg",
+        "full": "screenshots/reader.jpg"
+      },
+      {
+        "icon": "layout-column",
+        "color": "#007AFF",
+        "image": "screenshots/features/files-columns.jpg",
+        "full": "screenshots/files-columns.jpg"
+      }
+    ],
+    [
+      {
+        "icon": "clapperboard",
+        "color": "#8E44AD"
+      },
+      {
+        "icon": "align-item-left",
+        "color": "#5856D6"
+      },
+      {
+        "icon": "contrast-drop-2",
+        "color": "#FF9500"
+      },
+      {
+        "icon": "equalizer-3",
+        "color": "#34C759"
+      },
+      {
+        "icon": "upload-2",
+        "color": "#007AFF"
+      },
+      {
+        "icon": "scissors-cut",
+        "color": "#FF2D55",
+        "image": "screenshots/features/studio-cuts.jpg",
+        "full": "screenshots/studio-cuts.jpg"
+      },
+      {
+        "icon": "closed-captioning",
+        "color": "#30B0C7",
+        "image": "screenshots/features/studio-captions.jpg",
+        "full": "screenshots/studio-captions.jpg"
       }
     ]
   ]

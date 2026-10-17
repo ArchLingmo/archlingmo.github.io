@@ -1,5 +1,11 @@
 ## स्क्रिनसटहरू
 
+![Lingmo Studio: लामो भिडियोबाट Shorts, Reels र TikTok का लागि कटहरू](screenshots/studio-cuts.jpg)
+![Lingmo Studio: बोलीसँग मिलाइएका उपशीर्षकका शैलीहरू](screenshots/studio-captions.jpg)
+![क्यारोसेल Alt+Tab: प्रतिबिम्बसहित 3D मा विन्डो बदल्ने](screenshots/alt-tab-carousel.jpg)
+![लन्चरमा Lingmo आइकनहरू, अरू एपहरूमा पनि](screenshots/icons.jpg)
+![पानाका थम्बनेलसहित PDF रिडर](screenshots/reader.jpg)
+![स्तम्भ दृश्यमा फाइल म्यानेजर](screenshots/files-columns.jpg)
 ![बैठकको निम्तोसहित मेल: स्वीकार, सायद वा अस्वीकार](screenshots/mail.jpg)
 ![महिना दृश्यमा मेलको पात्रो](screenshots/mail-calendar.jpg)
 ![कामहरू: आज, आउँदा र ढिला भएका](screenshots/mail-tasks.jpg)

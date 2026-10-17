@@ -13,6 +13,9 @@ Usio heta ŭžo jość u ArchLingmo sionnia.
 - **Efiekty**: želejnyja vokny, čaroŭnaja lampa i Alt+Tab u vyhladzie staronak knihi
 - Hłabalnaje mieniu taksama dla prahram GTK
 - **Vidžety hadzinnika i nadvorja** na pracoŭnym stale z sapraŭdnym prahnozam dla vybranaha horada, zhrupavanyja pad adnoj značkaj na vierchniaj paneli
+- **Alt+Tab «Karusel»**: pieraklučajciesia pamiž voknami ŭ trochmiernaj karuseli ŭ styli cover flow, z adlustravanniem
+- **Znački Lingmo**: ułasnaja tema značkoŭ z płaŭnymi značkami ŭ formie squircle, stvoranymi na asnovie WhiteSur. Znački staronnich prahram aŭtamatyčna atrymlivajuć takuju ž padkładku
+- **Dok z pavieličenniem** značkoŭ da 200% pry naviadzienni myšy i **radok stanu** z hatovymi varyjantami vyšyni
 
 ### Štučny intelekt (na vašym kamputary)
 
@@ -20,6 +23,7 @@ Usio heta ŭžo jość u ArchLingmo sionnia.
 - **ŠI ŭ Spotlight**: pačnicie z "ai:", kab pahutaryć, abo ŭviadzicie pytannie, jakoje zakančvajecca na "?", i vybierycie «Spytać ŠI». Pakazvaje, kolki času zaniaŭ kožny adkaz i z jakoj chutkaściu, i karystajecca tymi ž instrumientami, što i Pamočnik
 - **Nałady › Štučny intelekt**: stan Ollama, ustalavanyja madeli, rekamiendacyi dla *hetaha* kamputara, spampoŭvannie madelaŭ z prahresam, opcyja «Padumać pierad adkazam», dazvoły i instrumienty Pamočnika
 - **Aŭtamatyzatar**: štodzionnyja ruciny ŭ zadadzieny čas, z kamandaj i, kali chočacie, tłumačenniem vyniku ad lakalnaha ŠI
+- **Transkrypcyja i subcitry** u raździele Nałady › Štučny intelekt: madeli whisper.cpp z mietkami i paznakaj «Rekamiendavana dla vašaha kamputara», pobač z madelami ŠI, rekamiendavanymi dla vašaha abstalavannia (llmfit)
 
 ### Nałady
 
@@ -49,3 +53,17 @@ Usio heta ŭžo jość u ArchLingmo sionnia.
 - **Zdymki i zapis ekrana** z mikrafonam i sistemnym hukam
 - Ustaloŭščyk **Calamares** i huk praz **PipeWire**
 - **Natyŭnyja hulni**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Ustaliavannie z Kramy → Natyŭnyja hulni. Pry pieršym zapusku patrebna ROM ulasnaha kartrydža; pakiety nie zmiaščajuć danych hulniaŭ.
+- **Zdymki ekrana** (Print, Shift + Print i Ctrl + Print): usio, što ŭmieje Flameshot (instrumienty anatavannia, zamacavannie na ekranie, kapijavannie, zachavannie i kamandny radok), i navat bolš: «Kapijavać tekst» z OCR prosta na kamputary, chavannie danych adnym klikam, razumnaje vyłučennie, zdymak z prakručvanniem, režym prezientacyi, historyja z mahčymaściu redahavannia i zapis u GIF
+- **Fota**: vašy vyjavy ŭ biblijatecy, abranym i papkach, z tymi ž miniaciurami, što i ŭ fajłavym mieniedžary
+- **Prahladalnik PDF**: miniaciury staronak, źmiest, natatki i padhonka pa šyryni
+- **Vyhlad słupkami ŭ fajłavym mieniedžary** (Ctrl + 3) i miniaciury pa standarcie freedesktop, ahulnyja z Fota
+
+### Videa: Lingmo Studio
+
+- **Lingmo Studio**: videaredaktar na asnovie MLT sa staronkami, jak u DaVinci Resolve: Mantaž, Koler, Efiekty, Huk i Ekspart
+- **Mantaž**: šmatdarožkavaja škała času, ripple, roll, slip i slide, J- i L-sklejki, sastaŭnyja klipy, proksi i panel historyi
+- **Koler**: kalarovyja koły, kryvyja, HSL, LUT u farmacie .cube i skopy
+- **Huk**: mikšar, ekvalajzier, kampresar, šumapryhłušennie i narmalizacyja hučnaści pa LUFS
+- **Ekspart** u MP4 pa zmaŭčanni, z aparatnym paskarenniem na videakarcie (NVENC abo VA-API)
+- **Stvarennie narezak**: pieratvaraje doŭhaje videa ŭ narezki dla Shorts, Reels, TikTok, Kwai, LinkedIn, X i Stories z rekamiendavanaj dla kožnaj sietki praciahłaściu i biaspiečnaj zonaj, lepšymi momantami, jakija vybiraje lakalny ŠI (Ollama), i kadravanniem 9:16, jakoje sočyć za tvaram
+- **Subcitry**, sinchranizavanyja słova ŭ słova z dapamohaj whisper.cpp, prosta na vašym kamputary: dzieviać styliaŭ, pradumanych dla zručnaha čytannia (karaoke z koleram, jaki prabiahaje pa radku, vyłučanaje słova, pa adnym słovie, padkast, nieon, vysoki kantrast, dva surazmoŭcy…), i ekspart u SRT, VTT i ASS

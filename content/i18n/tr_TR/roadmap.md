@@ -17,7 +17,13 @@ teknik bilgi gerektirmeden bilgisayara bakmak.
 - [x] Waydroid ile bir kutu içinde, başlatıcıda diğer uygulamalar gibi görünen **Android uygulamaları** (APK)
 - [x] **Tek tıkla oyun**: Steam, Proton ve oyun modu; hile önleyicisi Linux'ta çalışmayan oyunlar için uyarıyla
 - [x] **Yerel oyunlar**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Mağaza → Yerel oyunlar'dan yükleyin. İlk açılışta kendi kartuşunuzdan alınan ROM'u sağlayın; paketler oyun verilerini içermez.
-- [ ] **Daha fazla yerel oyun**: Zelda: Ocarina of Time (Ship of Harkinian) ve Mario Kart 64 (SpaghettiKart), mağazada hâlâ "Yakında"
+
+### 09/11 – 13/12 · Üretmek ve paylaşmak
+
+- [ ] **Daha akıllı bir Lingmo Studio**: ana öğeyi (yalnızca yüzü değil) takip eden yeniden çerçeveleme, her bölümde kimin konuştuğunu bilme (konuşmacı ayrımı) ve her kanalda ses efektleri
+- [ ] **Kalan yerel oyunları yayınlamak**: şu anda mağazada "Yakında" olan Zelda: Ocarina of Time (Ship of Harkinian) ve Mario Kart 64 (SpaghettiKart), projelerin lisansları dağıtıma izin verir vermez
+- [ ] Ayarlar, Posta ve dosya yöneticisinin kenar çubuklarını, diğer uygulamalarla aynı görünümde **LingmoUI**'a taşımayı bitirmek
+- [ ] **Wayland oturumu** için zemin hazırlamak: Lingmo'nun uygulamalarını ve efektlerini Wayland'de test etmek (tam oturum hâlâ 2027 için planlanıyor)
 
 ### 09/11 – 13/12 · Bilgisayara bakım
 
@@ -45,7 +51,7 @@ teknik bilgi gerektirmeden bilgisayara bakmak.
 - [ ] Dosya yöneticisinde dosyaların **önceki sürümleri**, Time Machine'deki gibi
 - [ ] **Telefon entegrasyonu**: Android ve iPhone ile bildirimler, dosyalar ve pano (KDE Connect)
 - [ ] **Bulut hesapları**: Google Drive ve OneDrive dosya yöneticisinde görünür
-- [ ] Ekran görüntüsündeki metni kopyalama (OCR)
+- [x] Ekran görüntüsündeki metni kopyalama (OCR)
 - [ ] Windows'un yanına kurarken BitLocker ve Secure Boot hakkında uyaran yükleyici
 
 ### Haziran 2027'den itibaren

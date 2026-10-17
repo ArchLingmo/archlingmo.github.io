@@ -17,7 +17,13 @@ att sköta datorn utan att vara tekniskt kunnig.
 - [x] **Android-appar** (APK) i en låda, med Waydroid, som visas i programstartaren som vilken app som helst
 - [x] **Spel med ett klick**: Steam, Proton och spelläge, med en varning för spel vars anti-fusk inte fungerar på Linux
 - [x] **Inbyggda spel**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Installera från Butiken → Inbyggda spel. Vid första starten behövs en ROM från din egen kassett; paketen innehåller inga speldata.
-- [ ] **Fler inbyggda spel**: Zelda: Ocarina of Time (Ship of Harkinian) och Mario Kart 64 (SpaghettiKart), fortfarande ”Kommer snart” i butiken
+
+### 09/11 – 13/12 · Skapa och dela
+
+- [ ] **Ett smartare Lingmo Studio**: inramning som följer huvudmotivet (inte bara ansiktet), veta vem som pratar i varje del (talaridentifiering) och ljudeffekter på varje spår
+- [ ] **Släppa de inbyggda spel som återstår**: Zelda: Ocarina of Time (Ship of Harkinian) och Mario Kart 64 (SpaghettiKart), i dag ”Kommer snart” i butiken, så snart projektens licenser tillåter att de distribueras
+- [ ] Flytta klart sidofälten i Inställningar, E-post och filhanteraren till **LingmoUI**, med samma utseende som de andra apparna
+- [ ] Bana väg för **Wayland-sessionen**: testa Lingmos appar och effekter i Wayland (den fullständiga sessionen är fortfarande planerad till 2027)
 
 ### 09/11 – 13/12 · Ta hand om datorn
 
@@ -45,7 +51,7 @@ att sköta datorn utan att vara tekniskt kunnig.
 - [ ] **Tidigare versioner** av filer i filhanteraren, som i Time Machine
 - [ ] **Integrerad mobil**: aviseringar, filer och urklipp med Android och iPhone (KDE Connect)
 - [ ] **Molnkonton**: Google Drive och OneDrive direkt i filhanteraren
-- [ ] Kopiera texten från en skärmbild (OCR)
+- [x] Kopiera texten från en skärmbild (OCR)
 - [ ] Installationsprogram som varnar för BitLocker och Secure Boot vid installation bredvid Windows
 
 ### Från juni 2027

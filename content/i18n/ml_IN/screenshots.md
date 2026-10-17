@@ -1,5 +1,11 @@
 ## സ്ക്രീൻഷോട്ടുകൾ
 
+![Lingmo Studio: ഒരു നീണ്ട വീഡിയോയിൽ നിന്ന് Shorts, Reels, TikTok എന്നിവയ്ക്കുള്ള കട്ടുകൾ](screenshots/studio-cuts.jpg)
+![Lingmo Studio: സംസാരവുമായി സമന്വയിപ്പിച്ച സബ്ടൈറ്റിൽ ശൈലികൾ](screenshots/studio-captions.jpg)
+![കറൗസൽ Alt+Tab: പ്രതിബിംബത്തോടെ 3D-യിൽ വിൻഡോ മാറ്റം](screenshots/alt-tab-carousel.jpg)
+![ലോഞ്ചറിൽ Lingmo ഐക്കണുകൾ, മറ്റ് ആപ്പുകളിലും](screenshots/icons.jpg)
+![പേജുകളുടെ തംബ്‌നെയിലുകളുള്ള PDF റീഡർ](screenshots/reader.jpg)
+![കോളം കാഴ്ചയിൽ ഫയൽ മാനേജർ](screenshots/files-columns.jpg)
 ![മീറ്റിംഗ് ക്ഷണമുള്ള മെയിൽ: സ്വീകരിക്കുക, ഒരുപക്ഷേ അല്ലെങ്കിൽ നിരസിക്കുക](screenshots/mail.jpg)
 ![മാസ കാഴ്ചയിൽ മെയിലിലെ കലണ്ടർ](screenshots/mail-calendar.jpg)
 ![ടാസ്കുകൾ: ഇന്ന്, വരാനിരിക്കുന്നവ, കാലാവധി കഴിഞ്ഞവ](screenshots/mail-tasks.jpg)

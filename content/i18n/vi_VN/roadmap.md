@@ -17,7 +17,13 @@ chăm sóc máy tính mà không cần rành kỹ thuật.
 - [x] **Ứng dụng Android** (APK) trong hộp, với Waydroid, hiện trong trình khởi chạy như mọi ứng dụng khác
 - [x] **Chơi game chỉ với một cú nhấp**: Steam, Proton và chế độ chơi game, kèm cảnh báo cho các game có hệ thống chống gian lận không chạy trên Linux
 - [x] **Trò chơi gốc Linux**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Cài đặt từ Cửa hàng → Trò chơi gốc Linux. Khi mở lần đầu, cung cấp ROM từ băng trò chơi của bạn; các gói không chứa dữ liệu trò chơi.
-- [ ] **Thêm trò chơi gốc Linux**: Zelda: Ocarina of Time (Ship of Harkinian) và Mario Kart 64 (SpaghettiKart), vẫn đang “Sắp ra mắt” trong cửa hàng
+
+### 09/11 – 13/12 · Sáng tạo và chia sẻ
+
+- [ ] **Lingmo Studio thông minh hơn**: căn lại khung hình theo chủ thể chính (không chỉ khuôn mặt), biết ai đang nói trong từng đoạn (phân tách người nói) và hiệu ứng âm thanh cho từng track
+- [ ] **Phát hành các trò chơi gốc Linux còn lại**: Zelda: Ocarina of Time (Ship of Harkinian) và Mario Kart 64 (SpaghettiKart), hiện vẫn “Sắp ra mắt” trong Cửa hàng, ngay khi giấy phép của các dự án cho phép phân phối
+- [ ] Hoàn tất việc chuyển thanh bên của Cài đặt, Thư và trình quản lý tệp sang **LingmoUI**, với cùng giao diện như các ứng dụng khác
+- [ ] Chuẩn bị cho **phiên Wayland**: thử nghiệm các ứng dụng và hiệu ứng của Lingmo trên Wayland (phiên đầy đủ vẫn dự kiến vào năm 2027)
 
 ### 09/11 – 13/12 · Chăm sóc máy tính
 
@@ -45,7 +51,7 @@ chăm sóc máy tính mà không cần rành kỹ thuật.
 - [ ] **Phiên bản trước** của tệp ngay trong trình quản lý tệp, giống Time Machine
 - [ ] **Kết nối điện thoại**: thông báo, tệp và bộ nhớ tạm với Android và iPhone (KDE Connect)
 - [ ] **Tài khoản đám mây**: Google Drive và OneDrive hiện trong trình quản lý tệp
-- [ ] Sao chép chữ từ ảnh chụp màn hình (OCR)
+- [x] Sao chép chữ từ ảnh chụp màn hình (OCR)
 - [ ] Trình cài đặt cảnh báo về BitLocker và Secure Boot khi cài song song với Windows
 
 ### Từ tháng 6 năm 2027

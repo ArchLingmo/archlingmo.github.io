@@ -17,7 +17,13 @@ at passe på computeren uden at være teknisk.
 - [x] **Android-apps** (APK) i en boks med Waydroid, som vises i programstarteren som enhver anden app
 - [x] **Spil med ét klik**: Steam, Proton og spiltilstand, med en advarsel om spil, hvis anti-cheat ikke virker på Linux
 - [x] **Native spil**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Installer fra Butik → Native spil. Ved første start skal du angive en ROM fra din egen kassette; pakkerne indeholder ingen spildata.
-- [ ] **Flere native spil**: Zelda: Ocarina of Time (Ship of Harkinian) og Mario Kart 64 (SpaghettiKart), stadig "Kommer snart" i butikken
+
+### 09/11 – 13/12 · Skab og del
+
+- [ ] **Et klogere Lingmo Studio**: beskæring, der følger hovedmotivet (ikke kun ansigtet), viden om, hvem der taler i hver del (talergenkendelse), og lydeffekter på hvert spor
+- [ ] **Udgiv de resterende native spil**: Zelda: Ocarina of Time (Ship of Harkinian) og Mario Kart 64 (SpaghettiKart), i dag "Kommer snart" i Butikken, så snart projekternes licenser tillader at distribuere dem
+- [ ] Gør flytningen af sidepanelerne i Indstillinger, Mail og filhåndteringen til **LingmoUI** færdig, med samme udseende som de andre apps
+- [ ] Bane vejen for **Wayland-sessionen**: test Lingmos apps og effekter på Wayland (den fulde session er stadig planlagt til 2027)
 
 ### 09/11 – 13/12 · Pas på computeren
 
@@ -45,7 +51,7 @@ at passe på computeren uden at være teknisk.
 - [ ] **Tidligere versioner** af filer i filhåndteringen, som i Time Machine
 - [ ] **Integreret telefon**: notifikationer, filer og udklipsholder med Android og iPhone (KDE Connect)
 - [ ] **Cloudkonti**: Google Drive og OneDrive vises i filhåndteringen
-- [ ] Kopiér teksten fra et skærmbillede (OCR)
+- [x] Kopiér teksten fra et skærmbillede (OCR)
 - [ ] Installationsprogram, der advarer om BitLocker og Secure Boot ved installation ved siden af Windows
 
 ### Fra juni 2027

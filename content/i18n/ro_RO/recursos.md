@@ -13,6 +13,9 @@ Toate acestea sunt deja incluse în ArchLingmo.
 - **Efecte**: ferestre gelatinoase, lampa magică și Alt+Tab ca filele unei cărți
 - Meniu global și pentru aplicațiile GTK
 - **Widgeturi de ceas și vreme** pe desktop, cu prognoza reală pentru orașul ales, grupate sub o singură pictogramă în bara de sus
+- **Alt+Tab „Carusel”**: comutați între ferestre într-un carusel 3D, în stilul cover flow, cu reflexie
+- **Pictograme Lingmo**: o temă de pictograme proprie, cu pictograme fluide în formă de squircle (pătrat rotunjit), generate pe baza WhiteSur. Pictogramele aplicațiilor terțe primesc automat același fundal
+- **Dock cu mărire** a pictogramelor până la 200% la trecerea mouse-ului și **bara de sus** cu înălțimi predefinite din care puteți alege
 
 ### Inteligență artificială (pe calculatorul dumneavoastră)
 
@@ -20,6 +23,7 @@ Toate acestea sunt deja incluse în ArchLingmo.
 - **AI în Spotlight**: începeți cu „ai:” pentru a conversa sau scrieți o întrebare terminată cu „?” și alegeți să o întrebați pe AI. Arată cât a durat fiecare răspuns și cât de rapid a fost și folosește aceleași instrumente ca Asistentul
 - **Setări › Inteligență artificială**: starea Ollama, modelele instalate, recomandări pentru *acest* calculator, descărcarea modelelor cu progres, opțiunea „Gândește înainte de a răspunde” și permisiunile și instrumentele Asistentului
 - **Automator**: rutine zilnice la o oră stabilită, cu o comandă și, dacă doriți, AI-ul local care explică rezultatul
+- **Transcriere și subtitrări** în Setări › Inteligență artificială: modele whisper.cpp cu etichete și insigna „Recomandat pentru calculatorul dumneavoastră”, alături de modelele AI recomandate pentru hardware-ul dumneavoastră (llmfit)
 
 ### Setări
 
@@ -49,3 +53,17 @@ Toate acestea sunt deja incluse în ArchLingmo.
 - **Capturi și înregistrare de ecran**, cu microfon și sunetul sistemului
 - Programul de instalare **Calamares** și sunet prin **PipeWire**
 - **Jocuri native**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Instalați din Magazin → Jocuri native. La prima pornire, furnizați un ROM extras din propriul cartuș; pachetele nu includ datele jocurilor.
+- **Captură de ecran** (Print, Shift + Print și Ctrl + Print): tot ce face Flameshot (instrumente de adnotare, fixare pe ecran, copiere, salvare și linie de comandă) și mai mult: „Copiază textul” cu OCR direct pe calculator, ascunderea datelor dintr-un clic, selecție inteligentă, captură cu derulare, mod prezentare, istoric editabil și înregistrare GIF
+- **Fotografii**: imaginile dumneavoastră într-o bibliotecă, la favorite și în dosare, cu aceleași miniaturi ca în managerul de fișiere
+- **Cititor PDF**: miniaturi ale paginilor, cuprins, note și potrivire la lățime
+- **Vizualizare pe coloane în Fișiere** (Ctrl + 3) și miniaturi după standardul freedesktop, comune cu Fotografii
+
+### Video: Lingmo Studio
+
+- **Lingmo Studio**: un editor video construit pe MLT, cu pagini ca în DaVinci Resolve: Editare, Culoare, Efecte, Audio și Livrare
+- **Editare**: cronologie cu mai multe piste, ripple, roll, slip și slide, tăieturi J și L, clipuri compuse, proxy-uri și panou de istoric
+- **Culoare**: roți de culoare, curbe, HSL, LUT-uri .cube și monitoare de semnal
+- **Audio**: mixer, egalizator, compresor, reducerea zgomotului și normalizarea volumului în LUFS
+- **Export** implicit în MP4, accelerat de placa video (NVENC sau VA-API)
+- **Generare de clipuri**: transformă un video lung în clipuri scurte pentru Shorts, Reels, TikTok, Kwai, LinkedIn, X și Stories, cu durata și zona sigură recomandate de fiecare rețea, cele mai bune momente alese de o inteligență artificială locală (Ollama) și o încadrare 9:16 care urmărește fața
+- **Subtitrări** sincronizate cuvânt cu cuvânt cu whisper.cpp, pe calculatorul dumneavoastră: nouă stiluri gândite pentru lectură (karaoke cu culoarea care trece peste frază, cuvânt evidențiat, cuvânt cu cuvânt, podcast, neon, contrast ridicat, doi vorbitori…) și export în SRT, VTT și ASS

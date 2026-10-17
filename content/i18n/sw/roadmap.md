@@ -17,7 +17,13 @@ kutunza kompyuta bila kuhitaji kuwa mtaalamu.
 - [x] **Programu za Android** (APK) ndani ya kisanduku, kwa Waydroid, zikionekana kwenye kizinduzi kama programu nyingine yoyote
 - [x] **Michezo kwa kubofya mara moja**: Steam, Proton na hali ya michezo, pamoja na onyo kwa michezo yenye anti-cheat isiyofanya kazi kwenye Linux
 - [x] **Michezo asilia**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Sakinisha kutoka Duka → Michezo asilia. Unapofungua mara ya kwanza, toa ROM kutoka katriji yako mwenyewe; vifurushi havina data za michezo.
-- [ ] **Michezo asilia zaidi**: Zelda: Ocarina of Time (Ship of Harkinian) na Mario Kart 64 (SpaghettiKart), bado "Inakuja hivi karibuni" dukani
+
+### 09/11 hadi 13/12 · Unda na ushiriki
+
+- [ ] **Lingmo Studio yenye akili zaidi**: kupanga upya fremu kwa kufuata mhusika mkuu (si uso pekee), kujua nani anazungumza katika kila sehemu (utambuzi wa wazungumzaji) na madoido ya sauti kwenye kila njia
+- [ ] **Kuchapisha michezo asilia iliyobaki**: Zelda: Ocarina of Time (Ship of Harkinian) na Mario Kart 64 (SpaghettiKart), ambayo sasa ni "Inakuja hivi karibuni" Dukani, mara tu leseni za miradi zitakaporuhusu kuisambaza
+- [ ] Kumaliza kuhamishia **LingmoUI** upau wa pembeni wa Mipangilio, Barua pepe na kidhibiti cha faili, kwa mwonekano uleule wa programu nyingine
+- [ ] Kuandaa njia kwa **kipindi cha Wayland**: kujaribu programu na madoido ya Lingmo kwenye Wayland (kipindi kamili bado kimepangwa kwa 2027)
 
 ### 09/11 hadi 13/12 · Kutunza kompyuta
 
@@ -45,7 +51,7 @@ kutunza kompyuta bila kuhitaji kuwa mtaalamu.
 - [ ] **Matoleo ya awali** ya faili katika kidhibiti faili, kama ilivyo kwenye Time Machine
 - [ ] **Simu iliyounganishwa**: arifa, faili na ubao wa kunakili pamoja na Android na iPhone (KDE Connect)
 - [ ] **Akaunti za wingu**: Google Drive na OneDrive zikionekana kwenye kidhibiti faili
-- [ ] Kunakili maandishi kutoka kwenye picha ya skrini (OCR)
+- [x] Kunakili maandishi kutoka kwenye picha ya skrini (OCR)
 - [ ] Kisakinishi kinachoonya kuhusu BitLocker na Secure Boot unaposakinisha kando ya Windows
 
 ### Kuanzia Juni 2027

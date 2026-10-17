@@ -1,5 +1,11 @@
 ## තිර රූ
 
+![Lingmo Studio: දිගු වීඩියෝවකින් Shorts, Reels සහ TikTok සඳහා කැපීම්](screenshots/studio-cuts.jpg)
+![Lingmo Studio: කථනය සමඟ සමමුහුර්ත වූ උපසිරැසි ශෛලී](screenshots/studio-captions.jpg)
+![කැරසලය Alt+Tab: පරාවර්තනයක් සමඟ 3D කවුළු මාරු කිරීම](screenshots/alt-tab-carousel.jpg)
+![දියත්කරුවේ Lingmo අයිකන, වෙනත් යෙදුම්වලද](screenshots/icons.jpg)
+![පිටුවල සිඟිති රූ සහිත PDF කියවනය](screenshots/reader.jpg)
+![තීරු දසුනේ ගොනු කළමනාකරු](screenshots/files-columns.jpg)
 ![රැස්වීම් ආරාධනාවක් සහිත තැපෑල: පිළිගන්න, සමහරවිට හෝ ප්‍රතික්ෂේප කරන්න](screenshots/mail.jpg)
 ![මාසික දසුනේ තැපෑලෙහි දින දර්ශනය](screenshots/mail-calendar.jpg)
 ![කාර්යයන්: අද, ඉදිරියට එන සහ කල් ඉකුත් වූ](screenshots/mail-tasks.jpg)

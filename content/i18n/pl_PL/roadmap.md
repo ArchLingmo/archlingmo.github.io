@@ -17,7 +17,13 @@ dbanie o komputer bez konieczności bycia specjalistą.
 - [x] **Aplikacje Android** (APK) w pudełku, z Waydroid, widoczne w programie uruchamiającym jak każda inna aplikacja
 - [x] **Gry jednym kliknięciem**: Steam, Proton i tryb gry, z ostrzeżeniem o grach z anti-cheatem, które nie działają na Linuksie
 - [x] **Gry natywne**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Instalacja ze Sklepu → Gry natywne. Przy pierwszym uruchomieniu podaj ROM własnego kartridża; pakiety nie zawierają danych gier.
-- [ ] **Więcej gier natywnych**: Zelda: Ocarina of Time (Ship of Harkinian) i Mario Kart 64 (SpaghettiKart), na razie jako „Wkrótce” w sklepie
+
+### 09/11 – 13/12 · Tworzenie i udostępnianie
+
+- [ ] **Mądrzejsze Lingmo Studio**: kadrowanie podążające za głównym obiektem (nie tylko za twarzą), rozpoznawanie, kto mówi w danym fragmencie (diaryzacja), i efekty dźwiękowe na każdej ścieżce
+- [ ] **Publikacja pozostałych gier natywnych**: Zelda: Ocarina of Time (Ship of Harkinian) i Mario Kart 64 (SpaghettiKart), obecnie „Wkrótce” w Sklepie, gdy tylko licencje projektów pozwolą je rozpowszechniać
+- [ ] Dokończenie przenoszenia paneli bocznych Ustawień, Poczty i menedżera plików do **LingmoUI**, z tym samym wyglądem co pozostałe aplikacje
+- [ ] Przygotowanie gruntu pod **sesję Wayland**: testy aplikacji i efektów Lingmo na Waylandzie (pełna sesja nadal jest planowana na 2027 rok)
 
 ### 09/11 – 13/12 · Dbanie o komputer
 
@@ -45,7 +51,7 @@ dbanie o komputer bez konieczności bycia specjalistą.
 - [ ] **Poprzednie wersje** plików w menedżerze plików, jak w Time Machine
 - [ ] **Zintegrowany telefon**: powiadomienia, pliki i schowek z Androidem i iPhone'em (KDE Connect)
 - [ ] **Konta w chmurze**: Google Drive i OneDrive widoczne w menedżerze plików
-- [ ] Kopiowanie tekstu ze zrzutu ekranu (OCR)
+- [x] Kopiowanie tekstu ze zrzutu ekranu (OCR)
 - [ ] Instalator, który ostrzega o BitLocker i Secure Boot przy instalacji obok Windowsa
 
 ### Od czerwca 2027

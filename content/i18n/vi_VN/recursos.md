@@ -13,6 +13,9 @@ Tất cả những điều này đã có sẵn trong ArchLingmo ngay hôm nay.
 - **Hiệu ứng**: cửa sổ dẻo như thạch, đèn thần và Alt+Tab dạng lật trang sách
 - Menu toàn cục cho cả ứng dụng GTK
 - **Tiện ích đồng hồ và thời tiết** trên màn hình nền, với dự báo thời tiết thật cho thành phố bạn chọn, gom dưới một biểu tượng trên thanh trên cùng
+- **Alt+Tab “Băng chuyền”**: chuyển cửa sổ trên một băng chuyền 3D kiểu cover flow, có hiệu ứng phản chiếu
+- **Biểu tượng Lingmo**: bộ biểu tượng riêng, với các biểu tượng squircle (vuông bo tròn) mềm mại được tạo dựa trên WhiteSur. Biểu tượng của ứng dụng bên thứ ba cũng tự động được đặt lên cùng một nền
+- **Phóng to biểu tượng trên Dock** lên đến 200% khi rê chuột và **thanh trên cùng** với các mức chiều cao có sẵn để chọn
 
 ### Trí tuệ nhân tạo (ngay trên máy tính của bạn)
 
@@ -20,6 +23,7 @@ Tất cả những điều này đã có sẵn trong ArchLingmo ngay hôm nay.
 - **AI trong Spotlight**: bắt đầu bằng "ai:" để trò chuyện, hoặc gõ một câu hỏi kết thúc bằng "?" và chọn hỏi AI. Hiển thị thời gian và tốc độ của mỗi câu trả lời, và dùng chung các công cụ với Trợ lý
 - **Cài đặt › Trí tuệ nhân tạo**: trạng thái Ollama, các mô hình đã cài, gợi ý dành cho *chính* máy tính này, tải mô hình kèm tiến độ, tùy chọn "Suy nghĩ trước khi trả lời", cùng quyền và công cụ của Trợ lý
 - **Tự động hóa**: tác vụ hằng ngày vào giờ đã đặt, với một lệnh và, nếu muốn, AI cục bộ giải thích kết quả
+- **Chép lời và phụ đề** trong Cài đặt › Trí tuệ nhân tạo: các mô hình whisper.cpp kèm nhãn và huy hiệu “Đề xuất cho máy tính của bạn”, bên cạnh các mô hình AI được gợi ý cho phần cứng của bạn (llmfit)
 
 ### Cài đặt
 
@@ -49,3 +53,17 @@ Tất cả những điều này đã có sẵn trong ArchLingmo ngay hôm nay.
 - **Chụp và quay màn hình**, kèm micrô và âm thanh hệ thống
 - Trình cài đặt **Calamares** và âm thanh qua **PipeWire**
 - **Trò chơi gốc Linux**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Cài đặt từ Cửa hàng → Trò chơi gốc Linux. Khi mở lần đầu, cung cấp ROM từ băng trò chơi của bạn; các gói không chứa dữ liệu trò chơi.
+- **Chụp màn hình** (Print, Shift + Print và Ctrl + Print): mọi thứ Flameshot làm được (công cụ chú thích, ghim lên màn hình, sao chép, lưu và dòng lệnh) và hơn thế nữa: “Sao chép văn bản” với OCR ngay trên máy, che thông tin nhạy cảm chỉ với một cú bấm, chọn vùng thông minh, chụp cuộn trang, chế độ trình chiếu, lịch sử có thể chỉnh sửa và quay GIF
+- **Ảnh**: hình ảnh của bạn trong thư viện, mục yêu thích và thư mục, với cùng hình thu nhỏ như trình quản lý tệp
+- **Trình đọc PDF**: hình thu nhỏ các trang, mục lục, ghi chú và vừa khít chiều rộng
+- **Chế độ xem dạng cột trong Tệp** (Ctrl + 3) và hình thu nhỏ theo chuẩn freedesktop, dùng chung với Ảnh
+
+### Video: Lingmo Studio
+
+- **Lingmo Studio**: trình chỉnh sửa video xây dựng trên MLT, với các trang giống DaVinci Resolve: Chỉnh sửa, Màu, Hiệu ứng, Âm thanh và Xuất bản
+- **Chỉnh sửa**: dòng thời gian nhiều track, ripple, roll, slip và slide, cắt J và cắt L, clip phức hợp, proxy và bảng lịch sử
+- **Màu**: bánh xe màu, đường cong, HSL, LUT .cube và các bộ đo màu
+- **Âm thanh**: bộ trộn, bộ cân bằng, bộ nén, giảm tiếng ồn và chuẩn hóa độ lớn âm thanh theo LUFS
+- **Xuất** sang MP4 theo mặc định, tăng tốc bằng card đồ họa (NVENC hoặc VA-API)
+- **Tạo video ngắn**: biến một video dài thành các đoạn ngắn cho Shorts, Reels, TikTok, Kwai, LinkedIn, X và Stories, với độ dài và vùng an toàn mà mỗi mạng xã hội khuyến nghị, những đoạn hay nhất do AI cục bộ (Ollama) chọn và khung hình 9:16 bám theo khuôn mặt
+- **Phụ đề** đồng bộ từng từ với whisper.cpp, ngay trên máy tính của bạn: chín kiểu được thiết kế để dễ đọc (karaoke với màu chạy dọc câu, làm nổi bật từ, từng từ một, podcast, neon, độ tương phản cao, hai người nói…) và xuất ra SRT, VTT và ASS

@@ -17,7 +17,13 @@ frykten for at en oppdatering ødelegger systemet, drivere, å installere progra
 - [x] **Android-apper** (APK) i en boks, med Waydroid, som vises i programstarteren som alle andre apper
 - [x] **Spill med ett klikk**: Steam, Proton og spillmodus, med varsel om spill med anti-juks som ikke fungerer på Linux
 - [x] **Native spill**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Installer fra butikken → Native spill. Ved første start trenger du en ROM fra din egen kassett; pakkene inneholder ingen spilldata.
-- [ ] **Flere native spill**: Zelda: Ocarina of Time (Ship of Harkinian) og Mario Kart 64 (SpaghettiKart), foreløpig merket «Kommer snart» i butikken
+
+### 09/11 til 13/12 · Skap og del
+
+- [ ] **Et smartere Lingmo Studio**: innramming som følger hovedmotivet (ikke bare ansiktet), vite hvem som snakker i hver del (talergjenkjenning) og lydeffekter på hvert spor
+- [ ] **Publisere de gjenværende native spillene**: Zelda: Ocarina of Time (Ship of Harkinian) og Mario Kart 64 (SpaghettiKart), nå merket «Kommer snart» i butikken, så snart prosjektenes lisenser tillater at de distribueres
+- [ ] Fullføre flyttingen av sidepanelene i Innstillinger, E-post og filbehandleren til **LingmoUI**, med samme utseende som de andre appene
+- [ ] Bane vei for **Wayland-økten**: teste Lingmos apper og effekter på Wayland (den fullstendige økten er fortsatt planlagt til 2027)
 
 ### 09/11 til 13/12 · Ta vare på datamaskinen
 
@@ -45,7 +51,7 @@ frykten for at en oppdatering ødelegger systemet, drivere, å installere progra
 - [ ] **Tidligere versjoner** av filer i filbehandleren, som i Time Machine
 - [ ] **Integrert mobil**: varsler, filer og utklippstavle med Android og iPhone (KDE Connect)
 - [ ] **Skykontoer**: Google Drive og OneDrive rett i filbehandleren
-- [ ] Kopier tekst fra et skjermbilde (OCR)
+- [x] Kopier tekst fra et skjermbilde (OCR)
 - [ ] Installasjonsprogram som varsler om BitLocker og Secure Boot når du installerer ved siden av Windows
 
 ### Fra juni 2027

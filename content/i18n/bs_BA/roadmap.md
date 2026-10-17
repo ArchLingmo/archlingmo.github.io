@@ -17,7 +17,13 @@ održavanje računara bez potrebe da budete stručnjak.
 - [x] **Android aplikacije** (APK) u kutiji, pomoću Waydroida, koje se pojavljuju u pokretaču kao i svaka druga aplikacija
 - [x] **Igre jednim klikom**: Steam, Proton i režim za igre, s upozorenjem za igre sa anti-cheat zaštitom koje ne rade na Linuxu
 - [x] **Nativne igre**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Instalirajte iz Prodavnice → Nativne igre. Pri prvom pokretanju priložite ROM vlastitog kertridža; paketi ne sadrže podatke igara.
-- [ ] **Još nativnih igara**: Zelda: Ocarina of Time (Ship of Harkinian) i Mario Kart 64 (SpaghettiKart), još uvijek "Uskoro" u prodavnici
+
+### 09.11. do 13.12. · Stvaranje i dijeljenje
+
+- [ ] **Pametniji Lingmo Studio**: kadriranje koje prati glavni objekat (ne samo lice), prepoznavanje ko govori u kojem dijelu (dijarizacija) i zvučni efekti na svakoj traci
+- [ ] **Objaviti preostale nativne igre**: Zelda: Ocarina of Time (Ship of Harkinian) i Mario Kart 64 (SpaghettiKart), trenutno "Uskoro" u Prodavnici, čim licence projekata dozvole njihovu distribuciju
+- [ ] Završiti prelazak bočnih traka Postavki, Pošte i upravitelja datoteka na **LingmoUI**, s istim izgledom kao ostale aplikacije
+- [ ] Pripremiti teren za **Wayland sesiju**: testirati Lingmo aplikacije i efekte na Waylandu (puna sesija je i dalje planirana za 2027.)
 
 ### 09.11. do 13.12. · Briga o računaru
 
@@ -45,7 +51,7 @@ održavanje računara bez potrebe da budete stručnjak.
 - [ ] **Prethodne verzije** fajlova u upravitelju fajlova, kao u Time Machine
 - [ ] **Integrisan telefon**: obavještenja, fajlovi i međuspremnik s Androidom i iPhoneom (KDE Connect)
 - [ ] **Računi u oblaku**: Google Drive i OneDrive vidljivi u upravitelju fajlova
-- [ ] Kopiranje teksta sa snimka ekrana (OCR)
+- [x] Kopiranje teksta sa snimka ekrana (OCR)
 - [ ] Instalacijski program koji upozorava na BitLocker i Secure Boot pri instalaciji pored Windowsa
 
 ### Od juna 2027.

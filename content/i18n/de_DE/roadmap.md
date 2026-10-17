@@ -17,7 +17,13 @@ den Computer pflegen, ohne technisch versiert sein zu müssen.
 - [x] **Android-Apps** (APK) in einer Box, mit Waydroid, die im Starter wie jede andere App erscheinen
 - [x] **Spielen mit einem Klick**: Steam, Proton und Spielmodus, mit Hinweis auf Spiele, deren Anti-Cheat unter Linux nicht funktioniert
 - [x] **Native Spiele**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Installation über Store → Native Spiele. Beim ersten Start wird die ROM des eigenen Moduls benötigt; die Pakete enthalten keine Spieldaten.
-- [ ] **Weitere native Spiele**: Zelda: Ocarina of Time (Ship of Harkinian) und Mario Kart 64 (SpaghettiKart), im Store noch „Demnächst“
+
+### 09/11 – 13/12 · Erstellen und teilen
+
+- [ ] **Ein klügeres Lingmo Studio**: den Bildausschnitt dem Hauptmotiv folgen lassen (nicht nur dem Gesicht), erkennen, wer in jedem Abschnitt spricht (Sprecherdiarisierung), und Audioeffekte auf jeder Spur
+- [ ] **Die fehlenden nativen Spiele veröffentlichen**: Zelda: Ocarina of Time (Ship of Harkinian) und Mario Kart 64 (SpaghettiKart), im Store derzeit „Demnächst“, sobald die Lizenzen der Projekte die Verbreitung erlauben
+- [ ] Die Seitenleisten von Einstellungen, Mail und Dateimanager vollständig auf **LingmoUI** umstellen, im selben Look wie die anderen Apps
+- [ ] Den Weg für die **Wayland-Sitzung** ebnen: die Apps und Effekte von Lingmo unter Wayland testen (die vollständige Sitzung ist weiterhin für 2027 geplant)
 
 ### 09/11 – 13/12 · Den Computer pflegen
 
@@ -45,7 +51,7 @@ den Computer pflegen, ohne technisch versiert sein zu müssen.
 - [ ] **Frühere Versionen** von Dateien im Dateimanager, wie bei Time Machine
 - [ ] **Smartphone-Anbindung**: Benachrichtigungen, Dateien und Zwischenablage mit Android und iPhone (KDE Connect)
 - [ ] **Cloud-Konten**: Google Drive und OneDrive direkt im Dateimanager
-- [ ] Text aus einem Screenshot kopieren (OCR)
+- [x] Text aus einem Screenshot kopieren (OCR)
 - [ ] Installer, der bei der Installation neben Windows auf BitLocker und Secure Boot hinweist
 
 ### Ab Juni 2027

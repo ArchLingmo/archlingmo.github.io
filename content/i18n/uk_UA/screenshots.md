@@ -1,5 +1,11 @@
 ## Знімки екрана
 
+![Lingmo Studio: нарізки для Shorts, Reels і TikTok із довгого відео](screenshots/studio-cuts.jpg)
+![Lingmo Studio: стилі субтитрів, синхронізованих із мовленням](screenshots/studio-captions.jpg)
+![Alt+Tab «Карусель»: перемикання вікон у 3D з відображенням](screenshots/alt-tab-carousel.jpg)
+![Значки Lingmo в меню запуску, зокрема й у сторонніх застосунків](screenshots/icons.jpg)
+![Переглядач PDF з мініатюрами сторінок](screenshots/reader.jpg)
+![Файловий менеджер у поданні стовпцями](screenshots/files-columns.jpg)
 ![Пошта із запрошенням на зустріч: «Прийняти», «Можливо» або «Відхилити»](screenshots/mail.jpg)
 ![Календар Пошти в поданні за місяць](screenshots/mail-calendar.jpg)
 ![Завдання: на сьогодні, майбутні та прострочені](screenshots/mail-tasks.jpg)

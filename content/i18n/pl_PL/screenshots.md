@@ -1,5 +1,11 @@
 ## Zrzuty ekranu
 
+![Lingmo Studio: klipy na Shorts, Reels i TikTok z długiego filmu](screenshots/studio-cuts.jpg)
+![Lingmo Studio: style napisów zsynchronizowanych z mową](screenshots/studio-captions.jpg)
+![Alt+Tab Karuzela: przełączanie okien w 3D, z odbiciem](screenshots/alt-tab-carousel.jpg)
+![Ikony Lingmo w programie uruchamiającym, także w aplikacjach innych firm](screenshots/icons.jpg)
+![Czytnik PDF z miniaturami stron](screenshots/reader.jpg)
+![Menedżer plików w widoku kolumn](screenshots/files-columns.jpg)
 ![Poczta z zaproszeniem na spotkanie: Akceptuj, Może lub Odrzuć](screenshots/mail.jpg)
 ![Kalendarz Poczty w widoku miesiąca](screenshots/mail-calendar.jpg)
 ![Zadania: na dziś, nadchodzące i zaległe](screenshots/mail-tasks.jpg)

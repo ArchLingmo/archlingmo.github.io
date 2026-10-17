@@ -1,5 +1,11 @@
 ## Tangkapan layar
 
+![Lingmo Studio: potongan untuk Shorts, Reels, dan TikTok dari video panjang](screenshots/studio-cuts.jpg)
+![Lingmo Studio: gaya subtitel yang selaras dengan ucapan](screenshots/studio-captions.jpg)
+![Alt+Tab Korsel: perpindahan jendela 3D dengan pantulan](screenshots/alt-tab-carousel.jpg)
+![Ikon Lingmo di peluncur, termasuk aplikasi pihak ketiga](screenshots/icons.jpg)
+![Pembaca PDF dengan gambar mini halaman](screenshots/reader.jpg)
+![Pengelola berkas dalam tampilan kolom](screenshots/files-columns.jpg)
 ![Surel dengan undangan rapat: Terima, Mungkin, atau Tolak](screenshots/mail.jpg)
 ![Kalender Surel dalam tampilan bulan](screenshots/mail-calendar.jpg)
 ![Tugas: hari ini, mendatang, dan terlambat](screenshots/mail-tasks.jpg)

@@ -1,5 +1,11 @@
 ## スクリーンショット
 
+![Lingmo Studio：長い動画から Shorts、Reels、TikTok 向けのショート動画を作成](screenshots/studio-cuts.jpg)
+![Lingmo Studio：音声と同期する字幕のスタイル](screenshots/studio-captions.jpg)
+![カルーセル Alt+Tab：映り込み付きの 3D ウィンドウ切り替え](screenshots/alt-tab-carousel.jpg)
+![ランチャーの Lingmo アイコン。サードパーティ製アプリも同じ見た目に](screenshots/icons.jpg)
+![ページのサムネイルを表示した PDF リーダー](screenshots/reader.jpg)
+![カラム表示のファイルマネージャー](screenshots/files-columns.jpg)
 ![会議の招待が届いたメール：承諾、仮承諾、辞退](screenshots/mail.jpg)
 ![メールのカレンダーの月表示](screenshots/mail-calendar.jpg)
 ![タスク：今日、今後、期限切れ](screenshots/mail-tasks.jpg)

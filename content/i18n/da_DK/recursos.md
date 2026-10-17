@@ -13,6 +13,9 @@ Alt dette følger med ArchLingmo allerede i dag.
 - **Effekter**: vaklende vinduer, magisk lampe og Alt+Tab som bogsider
 - Globalmenu også til GTK-apps
 - **Ur- og vejrwidgets** på skrivebordet med den rigtige vejrudsigt for den by, du vælger, samlet under ét ikon i topbjælken
+- **Alt+Tab "Karrusel"**: skift vindue i en karrusel i 3D, i cover flow-stil, med spejling
+- **Lingmo-ikoner**: vores eget ikontema med bløde ikoner i squircle-form, lavet oven på WhiteSur. Ikoner til apps fra tredjepart får automatisk den samme plade
+- **Dock med forstørrelse** af ikonerne op til 200 %, når du holder musen over, og **topbjælke** med færdige højder at vælge imellem
 
 ### Kunstig intelligens (på din computer)
 
@@ -20,6 +23,7 @@ Alt dette følger med ArchLingmo allerede i dag.
 - **AI i Spotlight**: start med "ai:" for at chatte, eller skriv et spørgsmål, der slutter med "?", og vælg at spørge AI'en. Den viser, hvor lang tid hvert svar tog, og hvor hurtigt det var, og bruger de samme værktøjer som Assistenten
 - **Indstillinger › Kunstig intelligens**: Ollama-status, installerede modeller, anbefalinger til *denne* computer, download af modeller med fremskridt, en "Tænk før svar"-indstilling og Assistentens tilladelser og værktøjer
 - **Automator**: daglige rutiner på et fast tidspunkt, med en kommando og, hvis du vil, den lokale AI, der forklarer resultatet
+- **Transskription og undertekster** i Indstillinger › Kunstig intelligens: whisper.cpp-modeller med mærkater og mærket "Anbefalet til din computer", ved siden af de AI-modeller, der anbefales til din hardware (llmfit)
 
 ### Indstillinger
 
@@ -49,3 +53,17 @@ Alt dette følger med ArchLingmo allerede i dag.
 - **Skærmbilleder og skærmoptagelse** med mikrofon og systemlyd
 - **Calamares**-installationsprogram og lyd via **PipeWire**
 - **Native spil**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Installer fra Butik → Native spil. Ved første start skal du angive en ROM fra din egen kassette; pakkerne indeholder ingen spildata.
+- **Skærmbillede** (Print, Shift + Print og Ctrl + Print): alt det, Flameshot kan (annoteringsværktøjer, fastgør på skærmen, kopiér, gem og kommandolinje) og mere til: "Kopiér tekst" med OCR på selve computeren, skjul oplysninger med ét klik, smart markering, rullende skærmbillede, præsentationstilstand, redigerbar historik og optagelse som GIF
+- **Fotos**: dine billeder i et bibliotek, favoritter og mapper, med de samme miniaturer som i filhåndteringen
+- **PDF-læser**: miniaturer af siderne, indholdsfortegnelse, noter og tilpas til bredden
+- **Kolonnevisning i Filer** (Ctrl + 3) og miniaturer efter freedesktop-standarden, delt med Fotos
+
+### Video: Lingmo Studio
+
+- **Lingmo Studio**: en videoeditor bygget på MLT, med sider som i DaVinci Resolve: Redigér, Farve, Effekter, Lyd og Levér
+- **Redigering**: tidslinje med flere spor, ripple, roll, slip og slide, J- og L-klip, sammensatte klip, proxyfiler og et historikpanel
+- **Farve**: farvehjul, kurver, HSL, .cube-LUT'er og scopes
+- **Lyd**: mixer, equalizer, kompressor, støjreduktion og lydstyrkenormalisering i LUFS
+- **Eksportér** til MP4 som standard, accelereret af grafikkortet (NVENC eller VA-API)
+- **Lav klip**: forvandler en lang video til klip til Shorts, Reels, TikTok, Kwai, LinkedIn, X og Stories, med den længde og det sikre område, hvert netværk anbefaler, de bedste øjeblikke valgt af en lokal AI (Ollama) og en 9:16-beskæring, der følger ansigtet
+- **Undertekster** synkroniseret ord for ord med whisper.cpp, på din egen computer: ni stilarter skabt til læsning (karaoke, hvor farven glider hen over linjen, fremhævet ord, ord for ord, podcast, neon, høj kontrast, to talere…) og eksport til SRT, VTT og ASS

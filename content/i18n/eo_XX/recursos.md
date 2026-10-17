@@ -13,6 +13,9 @@
 - **Efektoj**: ĵeleecaj fenestroj, magia lampo kaj Alt+Tab kiel foliumataj libropaĝoj
 - Ĉiea menuo ankaŭ por GTK-aplikaĵoj
 - **Fenestraĵoj de horloĝo kaj vetero** sur la labortablo, kun la vera prognozo por la urbo, kiun vi elektas, grupigitaj sub unu piktogramo en la supra breto
+- **Alt+Tab «Karuselo»**: ŝanĝu fenestron en 3D-karuselo, laŭ la stilo cover flow, kun spegulaĵo
+- **Lingmo-piktogramoj**: propra piktograma etoso, kun fluaj piktogramoj en formo de squircle (rondigita kvadrato), generitaj surbaze de WhiteSur. La piktogramoj de aliulaj aplikaĵoj aŭtomate ricevas la saman platon
+- **Doko kun pligrandigo** de la piktogramoj ĝis 200% kiam la muso ŝvebas super ili kaj **supra breto** kun antaŭdifinitaj altecoj por elekti
 
 ### Artefarita inteligenteco (en via komputilo)
 
@@ -20,6 +23,7 @@
 - **AI en Spotlight**: komencu per "ai:" por babili, aŭ tajpu demandon finiĝantan per "?" kaj elektu demandi la AI. Ĝi montras kiom longe daŭris ĉiu respondo kaj kiom rapida ĝi estis, kaj uzas la samajn ilojn kiel la Asistanto
 - **Agordoj › Artefarita inteligenteco**: stato de Ollama, instalitaj modeloj, rekomendoj por *ĉi tiu* komputilo, elŝutado de modeloj kun progreso, la opcio «Pensi antaŭ respondi» kaj la permesoj kaj iloj de la Asistanto
 - **Aŭtomatigilo**: ĉiutagaj rutinoj je difinita horo, kun komando kaj, se vi volas, la loka AI klarigante la rezulton
+- **Transskribo kaj subtekstoj** en Agordoj › Artefarita inteligenteco: modeloj de whisper.cpp kun etikedoj kaj la insigno «Rekomendita por via komputilo», apud la AI-modeloj rekomenditaj por via aparataro (llmfit)
 
 ### Agordoj
 
@@ -49,3 +53,17 @@
 - **Ekrankopioj kaj ekranregistrado**, kun mikrofono kaj sistema sono
 - Instalilo **Calamares** kaj sono per **PipeWire**
 - **Indiĝenaj ludoj**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Instalu el Vendejo → Indiĝenaj ludoj. Je la unua lanĉo, donu ROM el via propra kartoĉo; la pakaĵoj ne enhavas ludajn datumojn.
+- **Ekrankopio** (Print, Shift + Print kaj Ctrl + Print): ĉio, kion Flameshot faras (komentaj iloj, fiksi sur la ekrano, kopii, konservi kaj komandlinio) kaj pli: «Kopii tekston» kun OCR en via propra komputilo, kaŝi datumojn per unu klako, inteligenta elekto, ruluma kapto, prezenta reĝimo, redaktebla historio kaj registrado en GIF
+- **Fotoj**: viaj bildoj en biblioteko, favoratoj kaj dosierujoj, kun la samaj bildetoj kiel en la dosieradministrilo
+- **PDF-legilo**: bildetoj de la paĝoj, enhavtabelo, notoj kaj adapto al la larĝo
+- **Kolumna vido en Dosieroj** (Ctrl + 3) kaj bildetoj laŭ la normo freedesktop, kunhavataj kun Fotoj
+
+### Video: Lingmo Studio
+
+- **Lingmo Studio**: videoredaktilo konstruita sur MLT, kun paĝoj kiel tiuj de DaVinci Resolve: Redakti, Koloro, Efektoj, Sono kaj Liveri
+- **Redaktado**: plurtraka templinio, ripple, roll, slip kaj slide, J- kaj L-tranĉoj, kunmetitaj klipoj, prokuraj dosieroj (proxies) kaj historia panelo
+- **Koloro**: kolorradoj, kurboj, HSL, LUT-oj .cube kaj mezuriloj (scopes)
+- **Sono**: miksilo, egalizilo, kompresoro, bruoredukto kaj normigo de laŭteco en LUFS
+- **Eksporti** al MP4 defaŭlte, akcelite de la grafika karto (NVENC aŭ VA-API)
+- **Generi tranĉaĵojn**: transformas longan videon en tranĉaĵojn por Shorts, Reels, TikTok, Kwai, LinkedIn, X kaj Stories, kun la daŭro kaj sekura areo rekomenditaj de ĉiu reto, la plej bonaj momentoj elektitaj de loka AI (Ollama) kaj 9:16-rekadrigo, kiu sekvas la vizaĝon
+- **Subtekstoj** sinkronigitaj vorton post vorto per whisper.cpp, en via propra komputilo: naŭ stiloj desegnitaj por legado (karaokeo kun la koloro trairanta la frazon, emfazita vorto, vorto post vorto, podkasto, neono, alta kontrasto, du parolantoj…) kaj eksporto al SRT, VTT kaj ASS

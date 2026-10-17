@@ -17,7 +17,13 @@ dohlad za kamputaram biez techničnych viedaŭ.
 - [x] **Prahramy Android** (APK) u skryni praz Waydroid, jakija źjaŭliajucca ŭ mieniu zapusku, jak luboja inšaja prahrama
 - [x] **Huĺni ŭ adzin klik**: Steam, Proton i huĺniavy režym, z papiarežańniem pra huĺni, čyja anty-čyt sistema nie pracuje ŭ Linux
 - [x] **Natyŭnyja hulni**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Ustaliavannie z Kramy → Natyŭnyja hulni. Pry pieršym zapusku patrebna ROM ulasnaha kartrydža; pakiety nie zmiaščajuć danych hulniaŭ.
-- [ ] **Bolš natyŭnych hulniaŭ**: Zelda: Ocarina of Time (Ship of Harkinian) i Mario Kart 64 (SpaghettiKart), pakul z paznakaj «Chutka» ŭ kramie
+
+### 09/11 – 13/12 · Stvarać i dzialicca
+
+- [ ] **Bolš razumnaja Lingmo Studio**: kadravannie, jakoje sočyć za hałoŭnym abjektam (a nie tolki za tvaram), vyznačennie taho, chto havoryć u kožnym frahmiencie (dyjaryzacyja dyktaraŭ), i hukavyja efiekty na kožnaj darožcy
+- [ ] **Vypuścić astatnija natyŭnyja hulni**: Zelda: Ocarina of Time (Ship of Harkinian) i Mario Kart 64 (SpaghettiKart), pakul z paznakaj «Chutka» ŭ Kramie, jak tolki licenzii prajektaŭ dazvoliać ich raspaŭsiudžvać
+- [ ] Skončyć pieravod bakavych paneliaŭ Naład, Pošty i fajłavaha mieniedžara na **LingmoUI**, kab jany vyhladali hetak ža, jak inšyja prahramy
+- [ ] Padrychtavać hlebu dla **sesii Wayland**: pratestavać prahramy i efiekty Lingmo ŭ Wayland (poŭnaja sesija pa-ranejšamu zapłanavana na 2027 hod)
 
 ### 09/11 – 13/12 · Dohlad za kamputaram
 
@@ -45,7 +51,7 @@ dohlad za kamputaram biez techničnych viedaŭ.
 - [ ] **Papiarednija versii** fajłaŭ u kiraŭniku fajłaŭ, jak u Time Machine
 - [ ] **Intehravany telefon**: apaviaščeńni, fajły i bufier abmienu z Android i iPhone (KDE Connect)
 - [ ] **Vobłačnyja ŭlikovyja zapisy**: Google Drive i OneDrive u kiraŭniku fajłaŭ
-- [ ] Kapijavańnie tekstu sa zdymka ekrana (OCR)
+- [x] Kapijavańnie tekstu sa zdymka ekrana (OCR)
 - [ ] Ustaloŭščyk, jaki papiaredžvaje pra BitLocker i Secure Boot pry ŭstaloŭcy pobač z Windows
 
 ### Z červienia 2027

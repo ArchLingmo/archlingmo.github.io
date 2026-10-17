@@ -1,5 +1,11 @@
 ## Screenshots
 
+![Lingmo Studio: cuts for Shorts, Reels and TikTok from a long video](screenshots/studio-cuts.jpg)
+![Lingmo Studio: caption styles synced with speech](screenshots/studio-captions.jpg)
+![Carousel Alt+Tab: 3D window switching with a reflection](screenshots/alt-tab-carousel.jpg)
+![Lingmo icons in the launcher, third-party apps included](screenshots/icons.jpg)
+![PDF reader with page thumbnails](screenshots/reader.jpg)
+![The file manager in column view](screenshots/files-columns.jpg)
 ![Mail with a meeting invitation: Accept, Maybe or Decline](screenshots/mail.jpg)
 ![The Mail calendar in month view](screenshots/mail-calendar.jpg)
 ![Tasks: today, upcoming and overdue](screenshots/mail-tasks.jpg)

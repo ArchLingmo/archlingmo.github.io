@@ -17,7 +17,13 @@ teama că o actualizare va strica sistemul, driverele, instalarea programelor f�
 - [x] **Aplicații Android** (APK) într-o cutie, cu Waydroid, care apar în lansator ca orice altă aplicație
 - [x] **Jocuri dintr-un clic**: Steam, Proton și modul joc, cu avertisment pentru jocurile cu anti-cheat care nu funcționează pe Linux
 - [x] **Jocuri native**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Instalați din Magazin → Jocuri native. La prima pornire, furnizați un ROM extras din propriul cartuș; pachetele nu includ datele jocurilor.
-- [ ] **Mai multe jocuri native**: Zelda: Ocarina of Time (Ship of Harkinian) și Mario Kart 64 (SpaghettiKart), încă „În curând” în magazin
+
+### 09/11 – 13/12 · Creație și partajare
+
+- [ ] **Un Lingmo Studio mai isteț**: reîncadrare care urmărește subiectul principal (nu doar fața), recunoașterea celui care vorbește în fiecare secvență (diarizare) și efecte audio pe fiecare pistă
+- [ ] **Publicarea jocurilor native rămase**: Zelda: Ocarina of Time (Ship of Harkinian) și Mario Kart 64 (SpaghettiKart), acum „În curând” în Magazin, imediat ce licențele proiectelor permit distribuirea lor
+- [ ] Finalizarea mutării barelor laterale din Setări, Mail și managerul de fișiere pe **LingmoUI**, cu același aspect ca celelalte aplicații
+- [ ] Pregătirea terenului pentru **sesiunea Wayland**: testarea aplicațiilor și efectelor Lingmo pe Wayland (sesiunea completă rămâne planificată pentru 2027)
 
 ### 09/11 – 13/12 · Îngrijirea calculatorului
 
@@ -45,7 +51,7 @@ teama că o actualizare va strica sistemul, driverele, instalarea programelor f�
 - [ ] **Versiuni anterioare** ale fișierelor în managerul de fișiere, ca în Time Machine
 - [ ] **Telefon integrat**: notificări, fișiere și clipboard cu Android și iPhone (KDE Connect)
 - [ ] **Conturi în cloud**: Google Drive și OneDrive direct în managerul de fișiere
-- [ ] Copierea textului dintr-o captură de ecran (OCR)
+- [x] Copierea textului dintr-o captură de ecran (OCR)
 - [ ] Program de instalare care avertizează despre BitLocker și Secure Boot la instalarea alături de Windows
 
 ### Din iunie 2027

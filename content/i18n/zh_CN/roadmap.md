@@ -17,7 +17,13 @@ Discord 上讨论，每一项都会成为 GitHub 上公开的 pull request。
 - [x] 在隔离环境中通过 Waydroid 运行 **Android 应用**（APK），像其他应用一样出现在启动器中
 - [x] **一键畅玩游戏**：Steam、Proton 和游戏模式，并提醒哪些带反作弊的游戏无法在 Linux 上运行
 - [x] **原生游戏**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). 从商店 → 原生游戏安装。首次启动时，请提供从自己的卡带提取的 ROM；软件包不包含游戏数据。
-- [ ] **更多原生游戏**：Zelda: Ocarina of Time (Ship of Harkinian) 和 Mario Kart 64 (SpaghettiKart)，目前在商店中仍显示“即将推出”
+
+### 09/11 至 13/12 · 创作与分享
+
+- [ ] **更聪明的 Lingmo Studio**：跟随主体（不只是人脸）重新构图，识别每一段是谁在说话（说话人分离），并为每条音轨添加音频效果
+- [ ] **发布其余的原生游戏**：Zelda: Ocarina of Time (Ship of Harkinian) 和 Mario Kart 64 (SpaghettiKart)，目前在商店中显示为“即将推出”，一旦项目许可允许分发即会上线
+- [ ] 将设置、邮件和文件管理器的侧边栏全部迁移到 **LingmoUI**，与其他应用外观一致
+- [ ] 为 **Wayland 会话**铺路：在 Wayland 上测试 Lingmo 的应用和特效（完整会话仍计划于 2027 年推出）
 
 ### 09/11 至 13/12 · 电脑维护
 
@@ -45,7 +51,7 @@ Discord 上讨论，每一项都会成为 GitHub 上公开的 pull request。
 - [ ] 在文件管理器中查看文件的**历史版本**，就像 Time Machine 一样
 - [ ] **手机互联**：与 Android 和 iPhone 同步通知、文件和剪贴板 (KDE Connect)
 - [ ] **云账户**：Google Drive 和 OneDrive 直接显示在文件管理器中
-- [ ] 从截图中复制文字 (OCR)
+- [x] 从截图中复制文字 (OCR)
 - [ ] 安装程序在与 Windows 并存安装时提示 BitLocker 和 Secure Boot 相关事项
 
 ### 2027 年 6 月起

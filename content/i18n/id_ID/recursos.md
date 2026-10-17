@@ -13,6 +13,9 @@ Semua ini sudah tersedia di ArchLingmo hari ini.
 - **Efek**: jendela bergoyang, lampu ajaib, dan Alt+Tab bergaya halaman buku
 - Menu global juga untuk aplikasi GTK
 - **Widget jam dan cuaca** di desktop, dengan prakiraan cuaca asli untuk kota pilihan Anda, dikelompokkan di bawah satu ikon di bilah atas
+- **Alt+Tab "Korsel"**: berpindah jendela dalam korsel 3D bergaya cover flow, lengkap dengan pantulan
+- **Ikon Lingmo**: tema ikon milik sendiri, dengan ikon squircle (persegi membulat) yang mulus, dibuat di atas WhiteSur. Ikon aplikasi pihak ketiga otomatis mendapat pelat yang sama
+- **Pembesaran ikon Dock** hingga 200% saat kursor diarahkan dan **bilah atas** dengan pilihan tinggi siap pakai
 
 ### Kecerdasan buatan (di komputer Anda)
 
@@ -20,6 +23,7 @@ Semua ini sudah tersedia di ArchLingmo hari ini.
 - **AI di Spotlight**: awali dengan "ai:" untuk mengobrol, atau ketik pertanyaan yang diakhiri "?" lalu pilih untuk bertanya ke AI. Spotlight menampilkan berapa lama setiap jawaban dibuat dan seberapa cepat, serta memakai alat yang sama dengan Asisten
 - **Pengaturan › Kecerdasan Buatan**: status Ollama, model yang terpasang, rekomendasi untuk komputer *ini*, unduhan model dengan progres, opsi "Pikirkan sebelum menjawab", serta izin dan alat Asisten
 - **Automator**: rutinitas harian pada jam tertentu, dengan sebuah perintah dan, jika mau, AI lokal yang menjelaskan hasilnya
+- **Transkripsi dan subtitel** di Pengaturan › Kecerdasan Buatan: model whisper.cpp dengan label dan lencana "Direkomendasikan untuk komputer Anda", di samping model AI yang direkomendasikan untuk perangkat keras Anda (llmfit)
 
 ### Pengaturan
 
@@ -49,3 +53,17 @@ Semua ini sudah tersedia di ArchLingmo hari ini.
 - **Tangkapan dan rekaman layar**, dengan mikrofon dan audio sistem
 - Pemasang **Calamares** dan suara lewat **PipeWire**
 - **Game native**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Pasang dari Toko → Game native. Saat pertama dibuka, berikan ROM yang disalin dari kartrid Anda sendiri; paket tidak menyertakan data game.
+- **Tangkapan layar** (Print, Shift + Print, dan Ctrl + Print): semua yang bisa dilakukan Flameshot (alat anotasi, sematkan di layar, salin, simpan, dan baris perintah) dan lebih lagi: "Salin teks" dengan OCR langsung di komputer, sembunyikan data sensitif dengan satu klik, seleksi pintar, tangkapan bergulir, mode presentasi, riwayat yang bisa disunting, dan perekaman GIF
+- **Foto**: gambar Anda dalam pustaka, favorit, dan folder, dengan gambar mini yang sama seperti di pengelola berkas
+- **Pembaca PDF**: gambar mini halaman, daftar isi, catatan, dan paskan ke lebar
+- **Tampilan kolom di Berkas** (Ctrl + 3) dan gambar mini standar freedesktop, dipakai bersama dengan Foto
+
+### Video: Lingmo Studio
+
+- **Lingmo Studio**: penyunting video yang dibangun di atas MLT, dengan halaman seperti DaVinci Resolve: Sunting, Warna, Efek, Audio, dan Kirim
+- **Sunting**: linimasa multi-trek, ripple, roll, slip, dan slide, potongan J dan L, klip gabungan, proxy, dan panel riwayat
+- **Warna**: roda warna, kurva, HSL, LUT .cube, dan scope
+- **Audio**: mixer, ekualiser, kompresor, peredam bising, dan normalisasi kenyaringan LUFS
+- **Ekspor** ke MP4 secara bawaan, dipercepat oleh kartu grafis (NVENC atau VA-API)
+- **Buat potongan**: mengubah video panjang menjadi potongan untuk Shorts, Reels, TikTok, Kwai, LinkedIn, X, dan Stories, dengan durasi dan area aman yang direkomendasikan tiap jaringan, momen terbaik dipilih oleh AI lokal (Ollama), dan pembingkaian ulang 9:16 yang mengikuti wajah
+- **Subtitel** yang disinkronkan kata demi kata dengan whisper.cpp, di komputer Anda sendiri: sembilan gaya yang dirancang agar mudah dibaca (karaoke dengan warna yang menyapu kalimat, kata yang disorot, kata demi kata, podcast, neon, kontras tinggi, dua pembicara…) dan ekspor ke SRT, VTT, dan ASS

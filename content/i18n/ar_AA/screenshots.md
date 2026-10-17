@@ -1,5 +1,11 @@
 ## لقطات الشاشة
 
+![Lingmo Studio: مقاطع لـ Shorts وReels وTikTok من فيديو طويل](screenshots/studio-cuts.jpg)
+![Lingmo Studio: أنماط ترجمة مرئية متزامنة مع الكلام](screenshots/studio-captions.jpg)
+![Alt+Tab الدوّارة: تبديل النوافذ ثلاثي الأبعاد مع انعكاس](screenshots/alt-tab-carousel.jpg)
+![أيقونات Lingmo في المشغّل، بما فيها تطبيقات الجهات الخارجية](screenshots/icons.jpg)
+![قارئ PDF مع مصغّرات الصفحات](screenshots/reader.jpg)
+![مدير الملفات في عرض الأعمدة](screenshots/files-columns.jpg)
 ![البريد مع دعوة اجتماع: قبول أو ربما أو رفض](screenshots/mail.jpg)
 ![تقويم البريد في العرض الشهري](screenshots/mail-calendar.jpg)
 ![المهام: اليوم والقادمة والمتأخرة](screenshots/mail-tasks.jpg)

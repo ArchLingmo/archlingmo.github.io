@@ -1,5 +1,11 @@
 ## स्क्रीनशॉट
 
+![Lingmo Studio: एक लंबे वीडियो से Shorts, Reels और TikTok के लिए कट](screenshots/studio-cuts.jpg)
+![Lingmo Studio: बोली के साथ सिंक होने वाले सबटाइटल की स्टाइल](screenshots/studio-captions.jpg)
+![कैरोसेल Alt+Tab: प्रतिबिंब के साथ 3D में विंडो बदलना](screenshots/alt-tab-carousel.jpg)
+![लॉन्चर में Lingmo आइकन, दूसरे ऐप्स के भी](screenshots/icons.jpg)
+![पन्नों के थंबनेल के साथ PDF रीडर](screenshots/reader.jpg)
+![कॉलम व्यू में फ़ाइल मैनेजर](screenshots/files-columns.jpg)
 ![मीटिंग निमंत्रण के साथ मेल: स्वीकार, शायद या अस्वीकार](screenshots/mail.jpg)
 ![महीने के व्यू में मेल का कैलेंडर](screenshots/mail-calendar.jpg)
 ![टास्क: आज के, आने वाले और देर हो चुके](screenshots/mail-tasks.jpg)

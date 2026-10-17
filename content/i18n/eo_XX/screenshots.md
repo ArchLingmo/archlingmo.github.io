@@ -1,5 +1,11 @@
 ## Ekrankopioj
 
+![Lingmo Studio: tranĉaĵoj por Shorts, Reels kaj TikTok el longa video](screenshots/studio-cuts.jpg)
+![Lingmo Studio: stiloj de subtekstoj sinkronigitaj kun la parolo](screenshots/studio-captions.jpg)
+![Alt+Tab Karuselo: ŝanĝo de fenestroj en 3D, kun spegulaĵo](screenshots/alt-tab-carousel.jpg)
+![Lingmo-piktogramoj en la lanĉilo, ankaŭ por aliulaj aplikaĵoj](screenshots/icons.jpg)
+![PDF-legilo kun bildetoj de la paĝoj](screenshots/reader.jpg)
+![La dosieradministrilo en kolumna vido](screenshots/files-columns.jpg)
 ![Retpoŝto kun kunvena invito: Akcepti, Eble aŭ Rifuzi](screenshots/mail.jpg)
 ![La kalendaro de Retpoŝto en monata vido](screenshots/mail-calendar.jpg)
 ![Taskoj: hodiaŭaj, venontaj kaj malfruaj](screenshots/mail-tasks.jpg)

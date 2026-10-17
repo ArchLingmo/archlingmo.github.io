@@ -1,5 +1,11 @@
 ## Capturas de pantalla
 
+![Lingmo Studio: clips para Shorts, Reels y TikTok a partir de un video largo](screenshots/studio-cuts.jpg)
+![Lingmo Studio: estilos de subtítulos sincronizados con la voz](screenshots/studio-captions.jpg)
+![Alt+Tab Carrusel: cambio de ventanas en 3D, con reflejo](screenshots/alt-tab-carousel.jpg)
+![Íconos Lingmo en el lanzador, también en las apps de terceros](screenshots/icons.jpg)
+![Lector de PDF con las miniaturas de las páginas](screenshots/reader.jpg)
+![El administrador de archivos en vista de columnas](screenshots/files-columns.jpg)
 ![Correo con una invitación a una reunión: Aceptar, Tal vez o Rechazar](screenshots/mail.jpg)
 ![El calendario de Correo en vista de mes](screenshots/mail-calendar.jpg)
 ![Tareas: hoy, próximas y atrasadas](screenshots/mail-tasks.jpg)

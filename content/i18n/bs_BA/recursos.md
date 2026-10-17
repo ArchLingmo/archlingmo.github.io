@@ -13,6 +13,9 @@ Sve ovo već danas dolazi uz ArchLingmo.
 - **Efekti**: želatinasti prozori, čarobna lampa i Alt+Tab kao listovi knjige
 - Globalni meni i za GTK aplikacije
 - **Widgeti sata i vremenske prognoze** na radnoj površini, sa stvarnom prognozom za grad koji odaberete, grupisani pod jednom ikonom u gornjoj traci
+- **Alt+Tab "Karusel"**: mijenjajte prozore u 3D karuselu, u stilu cover flow, s odrazom
+- **Lingmo ikone**: vlastita tema ikona, s fluidnim ikonama u obliku squircle (zaobljeni kvadrat), generisanim na osnovu WhiteSur. Ikone aplikacija trećih strana automatski dobijaju istu podlogu
+- **Dock s uvećanjem** ikona do 200% kad pređete mišem i **gornja traka** s unaprijed pripremljenim visinama za odabir
 
 ### Umjetna inteligencija (na vašem računaru)
 
@@ -20,6 +23,7 @@ Sve ovo već danas dolazi uz ArchLingmo.
 - **AI u Spotlightu**: počnite sa "ai:" za razgovor ili upišite pitanje koje završava sa "?" i odaberite da pitate AI. Prikazuje koliko je trajao svaki odgovor i koliko je bio brz, a koristi iste alate kao Asistent
 - **Postavke › Umjetna inteligencija**: status Ollame, instalirani modeli, preporuke za *ovaj* računar, preuzimanje modela s prikazom napretka, opcija "Razmisli prije odgovora" te dozvole i alati Asistenta
 - **Automatizator**: dnevne rutine u zadano vrijeme, s naredbom i, ako želite, lokalnom AI koja objašnjava rezultat
+- **Transkripcija i titlovi** na stranici Postavke › Umjetna inteligencija: whisper.cpp modeli s oznakama i značkom "Preporučeno za vaš računar", pored AI modela preporučenih za vaš hardver (llmfit)
 
 ### Postavke
 
@@ -49,3 +53,17 @@ Sve ovo već danas dolazi uz ArchLingmo.
 - **Snimci ekrana i snimanje ekrana**, s mikrofonom i sistemskim zvukom
 - Instaler **Calamares** i zvuk preko **PipeWire**
 - **Nativne igre**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Instalirajte iz Prodavnice → Nativne igre. Pri prvom pokretanju priložite ROM vlastitog kertridža; paketi ne sadrže podatke igara.
+- **Snimak ekrana** (Print, Shift + Print i Ctrl + Print): sve što radi Flameshot (alati za bilješke, kačenje na ekran, kopiranje, spremanje i komandna linija) i više: "Kopiraj tekst" s OCR-om na samom računaru, skrivanje podataka jednim klikom, pametni odabir, snimanje s pomicanjem, način prezentacije, historija koja se može uređivati i snimanje u GIF
+- **Fotografije**: vaše slike u biblioteci, favoritima i folderima, s istim sličicama kao u upravitelju datoteka
+- **PDF čitač**: sličice stranica, sadržaj, bilješke i prilagođavanje širini
+- **Prikaz u kolonama u Datotekama** (Ctrl + 3) i sličice po freedesktop standardu, zajedničke s Fotografijama
+
+### Video: Lingmo Studio
+
+- **Lingmo Studio**: video uređivač izgrađen na MLT-u, sa stranicama kao u DaVinci Resolve: Uređivanje, Boja, Efekti, Zvuk i Isporuka
+- **Uređivanje**: vremenska linija s više traka, ripple, roll, slip i slide, J i L rezovi, složeni klipovi, proxy datoteke i panel historije
+- **Boja**: kotači boja, krive, HSL, .cube LUT-ovi i mjerni prikazi signala
+- **Zvuk**: mikser, ekvilajzer, kompresor, uklanjanje šuma i normalizacija glasnoće u LUFS
+- **Izvoz** podrazumijevano u MP4, s ubrzanjem preko grafičke kartice (NVENC ili VA-API)
+- **Generiši isječke**: pretvara dugi video u kratke isječke za Shorts, Reels, TikTok, Kwai, LinkedIn, X i Stories, s trajanjem i sigurnom zonom koje preporučuje svaka mreža, najboljim momentima koje bira lokalna AI (Ollama) i kadriranjem 9:16 koje prati lice
+- **Titlovi** sinhronizovani riječ po riječ uz whisper.cpp, na vašem računaru: devet stilova osmišljenih za čitanje (karaoke s bojom koja prelazi preko rečenice, istaknuta riječ, riječ po riječ, podcast, neon, visoki kontrast, dvije osobe koje govore…) i izvoz u SRT, VTT i ASS

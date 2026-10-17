@@ -1,5 +1,11 @@
 ## צילומי מסך
 
+![Lingmo Studio: קטעים ל-Shorts, ‏Reels ו-TikTok מתוך סרטון ארוך](screenshots/studio-cuts.jpg)
+![Lingmo Studio: סגנונות כתוביות מסונכרנות עם הדיבור](screenshots/studio-captions.jpg)
+![Alt+Tab קרוסלה: מעבר בין חלונות בתלת-ממד, עם השתקפות](screenshots/alt-tab-carousel.jpg)
+![סמלי Lingmo במשגר, גם באפליקציות צד שלישי](screenshots/icons.jpg)
+![קורא PDF עם תמונות ממוזערות של העמודים](screenshots/reader.jpg)
+![מנהל הקבצים בתצוגת עמודות](screenshots/files-columns.jpg)
 ![דואר עם הזמנה לפגישה: אישור, אולי או דחייה](screenshots/mail.jpg)
 ![לוח השנה של הדואר בתצוגת חודש](screenshots/mail-calendar.jpg)
 ![משימות: להיום, הקרובות ושעבר זמנן](screenshots/mail-tasks.jpg)

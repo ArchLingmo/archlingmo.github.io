@@ -1,5 +1,11 @@
 ## திரைப்பிடிப்புகள்
 
+![Lingmo Studio: ஒரு நீண்ட வீடியோவிலிருந்து Shorts, Reels மற்றும் TikTok-க்கான வெட்டுகள்](screenshots/studio-cuts.jpg)
+![Lingmo Studio: பேச்சுடன் ஒத்திசைந்த வசன பாணிகள்](screenshots/studio-captions.jpg)
+![சுழல்வட்டம் Alt+Tab: பிரதிபலிப்புடன் 3D-இல் சாளர மாற்றம்](screenshots/alt-tab-carousel.jpg)
+![தொடக்கியில் Lingmo ஐகான்கள், பிற ஆப்களிலும்](screenshots/icons.jpg)
+![பக்கச் சிறுபடங்களுடன் PDF வாசிப்பான்](screenshots/reader.jpg)
+![நெடுவரிசைக் காட்சியில் கோப்பு மேலாளர்](screenshots/files-columns.jpg)
 ![கூட்ட அழைப்புடன் அஞ்சல்: ஏற்கிறேன், ஒருவேளை அல்லது மறுக்கிறேன்](screenshots/mail.jpg)
 ![மாதக் காட்சியில் அஞ்சல் நாள்காட்டி](screenshots/mail-calendar.jpg)
 ![பணிகள்: இன்று, வரவிருப்பவை மற்றும் தாமதமானவை](screenshots/mail-tasks.jpg)

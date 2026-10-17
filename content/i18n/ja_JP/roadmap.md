@@ -17,7 +17,13 @@ Discord で話し合われ、各項目は GitHub 上の公開 pull request に�
 - [x] Waydroid によるボックス内の **Android アプリ** (APK)。ほかのアプリと同じようにランチャーに表示
 - [x] **ワンクリックでゲーム**: Steam、Proton、ゲームモード。Linux で動作しないアンチチート搭載ゲームには警告を表示
 - [x] **ネイティブゲーム**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). ストア → ネイティブゲーム からインストールできます。初回起動時に自分のカートリッジから吸い出したROMを指定してください。パッケージにゲームデータは含まれません。
-- [ ] **さらなるネイティブゲーム**: Zelda: Ocarina of Time (Ship of Harkinian) と Mario Kart 64 (SpaghettiKart)。ストアではまだ「近日公開」
+
+### 09/11〜13/12 · 作って、共有する
+
+- [ ] **もっと賢い Lingmo Studio**：顔だけでなく主な被写体を追ってリフレーミング、場面ごとに誰が話しているかを判別（話者分離）、トラックごとのオーディオエフェクト
+- [ ] **残りのネイティブゲームを公開**：Zelda: Ocarina of Time (Ship of Harkinian) と Mario Kart 64 (SpaghettiKart)。現在ストアでは「近日公開」で、各プロジェクトのライセンスで配布できるようになりしだい公開します
+- [ ] 設定、メール、ファイルマネージャーのサイドバーを **LingmoUI** に移行し終え、ほかのアプリと同じ見た目に
+- [ ] **Wayland セッション** への準備：Lingmo のアプリとエフェクトを Wayland でテスト（セッション全体は引き続き 2027 年の予定）
 
 ### 09/11〜13/12 · パソコンの手入れ
 
@@ -45,7 +51,7 @@ Discord で話し合われ、各項目は GitHub 上の公開 pull request に�
 - [ ] ファイルマネージャーでファイルの**以前のバージョン**を表示。Time Machine のように
 - [ ] **スマートフォン連携**: Android や iPhone と通知、ファイル、クリップボードを共有 (KDE Connect)
 - [ ] **クラウドアカウント**: Google Drive と OneDrive をファイルマネージャーに表示
-- [ ] スクリーンショットから文字をコピー (OCR)
+- [x] スクリーンショットから文字をコピー (OCR)
 - [ ] Windows と並べてインストールする際に BitLocker と Secure Boot について知らせるインストーラー
 
 ### 2027年6月以降

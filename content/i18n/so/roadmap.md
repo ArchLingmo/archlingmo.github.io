@@ -17,7 +17,13 @@ daryeelka kombiyuutarka iyadoo aan loo baahnayn aqoon farsamo.
 - [x] **Abka Android** (APK) oo ku jira sanduuq, Waydroid, oo ka muuqda furaha abka sida ab kasta oo kale
 - [x] **Ciyaaro hal guji**: Steam, Proton iyo habka ciyaarta, oo leh digniin ku saabsan ciyaaraha anti-cheat-ka leh ee aan ku shaqeyn Linux
 - [x] **Ciyaaraha asalka ah**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Ka rakib Dukaanka → Ciyaaraha asalka ah. Marka ugu horreysa ee aad furto, keen ROM laga soo saaray kartarijkaaga; xirmooyinku kuma jiraan xogta ciyaaraha.
-- [ ] **Ciyaaro asal ah oo kale**: Zelda: Ocarina of Time (Ship of Harkinian) iyo Mario Kart 64 (SpaghettiKart), weli "Dhowaan" ee dukaanka
+
+### 09/11 ilaa 13/12 · Abuur oo wadaag
+
+- [ ] **Lingmo Studio ka caqli badan**: dib-u-qaabayn raacaysa mawduuca ugu muhiimsan (ma aha wejiga oo keliya), ogaanshaha cidda hadlaysa qayb kasta (kala-saarista hadlayaasha) iyo saamaynno cod oo luuq kasta ah
+- [ ] **Daabac ciyaaraha asalka ah ee haray**: Zelda: Ocarina of Time (Ship of Harkinian) iyo Mario Kart 64 (SpaghettiKart), oo hadda ah "Dhowaan" Dukaanka, isla marka ay shatiyada mashaariicdu oggolaadaan in la qaybiyo
+- [ ] U dhammaystir guurinta baararka dhinaca ee Dejinta, Boostada iyo maareeyaha faylasha ee **LingmoUI**, iyagoo yeelanaya muuqaal la mid ah abka kale
+- [ ] Diyaari jidka **fadhiga Wayland**: tijaabi abka iyo saamaynnada Lingmo ee Wayland (fadhiga dhammaystiran weli waxaa loo qorsheeyay 2027)
 
 ### 09/11 ilaa 13/12 · Daryeelka kombiyuutarka
 
@@ -45,7 +51,7 @@ daryeelka kombiyuutarka iyadoo aan loo baahnayn aqoon farsamo.
 - [ ] **Noocyadii hore** ee faylasha ee maareeyaha faylasha, sida Time Machine
 - [ ] **Taleefan isku xidhan**: ogeysiisyada, faylasha iyo sabuuradda koobiyeynta ee Android iyo iPhone (KDE Connect)
 - [ ] **Akoonnada daruuraha**: Google Drive iyo OneDrive oo ka muuqda maareeyaha faylasha
-- [ ] Koobiyeynta qoraalka sawir shaashadeed (OCR)
+- [x] Koobiyeynta qoraalka sawir shaashadeed (OCR)
 - [ ] Rakibe kuu digaya BitLocker iyo Secure Boot marka aad ku rakibayso Windows agtiisa
 
 ### Laga bilaabo Juun 2027

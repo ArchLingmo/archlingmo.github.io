@@ -17,7 +17,13 @@ prendersi cura del computer senza dover essere esperti.
 - [x] **App Android** (APK) in un ambiente isolato, con Waydroid, visibili nel launcher come qualsiasi altra app
 - [x] **Giochi con un clic**: Steam, Proton e modalità gioco, con avviso per i giochi con anti-cheat che non funzionano su Linux
 - [x] **Giochi nativi**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Installa da Store → Giochi nativi. Al primo avvio, fornisci una ROM estratta dalla tua cartuccia; i pacchetti non includono dati di gioco.
-- [ ] **Altri giochi nativi**: Zelda: Ocarina of Time (Ship of Harkinian) e Mario Kart 64 (SpaghettiKart), ancora "Prossimamente" nello store
+
+### Dal 09/11 al 13/12 · Creare e condividere
+
+- [ ] **Un Lingmo Studio più intelligente**: reinquadrare seguendo il soggetto principale (non solo il volto), riconoscere chi parla in ogni parte (diarizzazione) ed effetti audio su ogni traccia
+- [ ] **Pubblicare i giochi nativi mancanti**: Zelda: Ocarina of Time (Ship of Harkinian) e Mario Kart 64 (SpaghettiKart), oggi "Prossimamente" nello Store, non appena la licenza dei progetti permetterà di distribuirli
+- [ ] Completare il passaggio a **LingmoUI** delle barre laterali di Impostazioni, Posta e gestore di file, con lo stesso aspetto delle altre app
+- [ ] Preparare la strada alla **sessione Wayland**: testare le app e gli effetti di Lingmo su Wayland (la sessione completa resta prevista per il 2027)
 
 ### Dal 09/11 al 13/12 · Prendersi cura del computer
 
@@ -45,7 +51,7 @@ prendersi cura del computer senza dover essere esperti.
 - [ ] **Versioni precedenti** dei file nel gestore di file, come in Time Machine
 - [ ] **Telefono integrato**: notifiche, file e appunti con Android e iPhone (KDE Connect)
 - [ ] **Account cloud**: Google Drive e OneDrive direttamente nel gestore di file
-- [ ] Copiare il testo da uno screenshot (OCR)
+- [x] Copiare il testo da uno screenshot (OCR)
 - [ ] Programma di installazione che avvisa di BitLocker e Secure Boot quando si installa accanto a Windows
 
 ### Da giugno 2027

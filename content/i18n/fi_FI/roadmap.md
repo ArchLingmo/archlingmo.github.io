@@ -17,7 +17,13 @@ tietokoneen ylläpito ilman teknistä osaamista.
 - [x] **Android-sovellukset** (APK) laatikossa Waydroidilla, näkyvät sovellusvalikossa kuten mikä tahansa sovellus
 - [x] **Pelit yhdellä napsautuksella**: Steam, Proton ja pelitila sekä varoitus peleistä, joiden huijauksenesto ei toimi Linuxissa
 - [x] **Natiivipelit**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Asenna kohdasta Kauppa → Natiivipelit. Anna ensimmäisellä käynnistyskerralla omalta pelikasetiltasi kopioitu ROM; paketit eivät sisällä pelidataa.
-- [ ] **Lisää natiivipelejä**: Zelda: Ocarina of Time (Ship of Harkinian) ja Mario Kart 64 (SpaghettiKart), kaupassa vielä tilassa "Tulossa pian"
+
+### 09.11.–13.12. · Luo ja jaa
+
+- [ ] **Älykkäämpi Lingmo Studio**: rajaus, joka seuraa pääkohdetta (ei vain kasvoja), tieto siitä, kuka puhuu missäkin kohdassa (puhujien tunnistus), ja ääniefektit jokaiselle raidalle
+- [ ] **Loput natiivipelit julkaistaan**: Zelda: Ocarina of Time (Ship of Harkinian) ja Mario Kart 64 (SpaghettiKart), nyt kaupassa tilassa "Tulossa pian", heti kun projektien lisenssit sallivat niiden jakelun
+- [ ] Asetusten, Sähköpostin ja tiedostonhallinnan sivupalkkien siirto **LingmoUI**:hin viedään loppuun, jotta ne näyttävät samalta kuin muut sovellukset
+- [ ] Pohjatyö **Wayland-istunnolle**: Lingmon sovellusten ja tehosteiden testaus Waylandissa (koko istunto on edelleen suunniteltu vuodelle 2027)
 
 ### 09.11.–13.12. · Tietokoneen ylläpito
 
@@ -45,7 +51,7 @@ tietokoneen ylläpito ilman teknistä osaamista.
 - [ ] Tiedostojen **aiemmat versiot** tiedostonhallinnassa, kuten Time Machinessa
 - [ ] **Puhelinintegraatio**: ilmoitukset, tiedostot ja leikepöytä Androidin ja iPhonen kanssa (KDE Connect)
 - [ ] **Pilvitilit**: Google Drive ja OneDrive näkyvät tiedostonhallinnassa
-- [ ] Tekstin kopioiminen kuvakaappauksesta (OCR)
+- [x] Tekstin kopioiminen kuvakaappauksesta (OCR)
 - [ ] Asennusohjelma, joka varoittaa BitLockerista ja Secure Bootista asennettaessa Windowsin rinnalle
 
 ### Kesäkuusta 2027 alkaen

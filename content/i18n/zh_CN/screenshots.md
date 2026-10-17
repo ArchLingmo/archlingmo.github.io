@@ -1,5 +1,11 @@
 ## 截图
 
+![Lingmo Studio：从长视频生成适用于 Shorts、Reels 和 TikTok 的短片](screenshots/studio-cuts.jpg)
+![Lingmo Studio：与语音同步的字幕样式](screenshots/studio-captions.jpg)
+![轮播式 Alt+Tab：带倒影的 3D 窗口切换](screenshots/alt-tab-carousel.jpg)
+![启动器中的 Lingmo 图标，第三方应用同样适用](screenshots/icons.jpg)
+![显示页面缩略图的 PDF 阅读器](screenshots/reader.jpg)
+![分栏视图下的文件管理器](screenshots/files-columns.jpg)
 ![带会议邀请的邮件：接受、暂定或拒绝](screenshots/mail.jpg)
 ![邮件中的日历，月视图](screenshots/mail-calendar.jpg)
 ![任务：今天、即将到来和已逾期](screenshots/mail-tasks.jpg)

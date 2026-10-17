@@ -17,7 +17,13 @@ looking after your computer without being a tech person.
 - [x] **Android apps** (APK) in a box, with Waydroid, showing up in the launcher like any other app
 - [x] **One-click gaming**: Steam, Proton and game mode, with a warning for games whose anti-cheat does not work on Linux
 - [x] **Native games**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Install from Store → Native games. On first launch, provide a ROM dumped from your own cartridge; packages include no game data.
-- [ ] **More native games**: Zelda: Ocarina of Time (Ship of Harkinian) and Mario Kart 64 (SpaghettiKart), still "Coming soon" in the store
+
+### 09/11 – 13/12 · Create and share
+
+- [ ] **A smarter Lingmo Studio**: reframe following the main subject (not just the face), know who is speaking in each part (speaker diarization) and audio effects on each track
+- [ ] **Publish the remaining native games**: Zelda: Ocarina of Time (Ship of Harkinian) and Mario Kart 64 (SpaghettiKart), now "Coming soon" in the Store, as soon as the projects' licenses allow distributing them
+- [ ] Finish moving the sidebars of Settings, Mail and the file manager to **LingmoUI**, with the same look as the other apps
+- [ ] Pave the way for the **Wayland session**: test Lingmo's apps and effects on Wayland (the full session is still planned for 2027)
 
 ### 09/11 – 13/12 · Looking after your computer
 
@@ -45,7 +51,7 @@ looking after your computer without being a tech person.
 - [ ] **Previous versions** of files in the file manager, like Time Machine
 - [ ] **Phone integration**: notifications, files and clipboard with Android and iPhone (KDE Connect)
 - [ ] **Cloud accounts**: Google Drive and OneDrive showing up in the file manager
-- [ ] Copy the text from a screenshot (OCR)
+- [x] Copy the text from a screenshot (OCR)
 - [ ] Installer that warns about BitLocker and Secure Boot when installing alongside Windows
 
 ### From June 2027

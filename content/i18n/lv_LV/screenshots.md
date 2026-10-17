@@ -1,5 +1,11 @@
 ## Ekrānuzņēmumi
 
+![Lingmo Studio: fragmenti platformām Shorts, Reels un TikTok no gara video](screenshots/studio-cuts.jpg)
+![Lingmo Studio: ar runu sinhronizēti subtitru stili](screenshots/studio-captions.jpg)
+![Alt+Tab Karuselis: logu pārslēgšana 3D ar atspulgu](screenshots/alt-tab-carousel.jpg)
+![Lingmo ikonas palaidējā, arī trešo pušu lietotnēm](screenshots/icons.jpg)
+![PDF lasītājs ar lapu sīktēliem](screenshots/reader.jpg)
+![Failu pārvaldnieks kolonnu skatā](screenshots/files-columns.jpg)
 ![Pasts ar sanāksmes ielūgumu: Pieņemt, Varbūt vai Noraidīt](screenshots/mail.jpg)
 ![Pasta kalendārs mēneša skatā](screenshots/mail-calendar.jpg)
 ![Uzdevumi: šodien, gaidāmie un nokavētie](screenshots/mail-tasks.jpg)

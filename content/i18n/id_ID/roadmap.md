@@ -17,7 +17,13 @@ merawat komputer tanpa harus paham teknis.
 - [x] **Aplikasi Android** (APK) di dalam kotak, dengan Waydroid, muncul di peluncur seperti aplikasi lainnya
 - [x] **Main game sekali klik**: Steam, Proton, dan mode game, dengan peringatan untuk game yang anti-cheat-nya tidak berjalan di Linux
 - [x] **Game native**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Pasang dari Toko → Game native. Saat pertama dibuka, berikan ROM yang disalin dari kartrid Anda sendiri; paket tidak menyertakan data game.
-- [ ] **Lebih banyak game native**: Zelda: Ocarina of Time (Ship of Harkinian) dan Mario Kart 64 (SpaghettiKart), masih "Segera hadir" di toko
+
+### 09/11 – 13/12 · Berkarya dan berbagi
+
+- [ ] **Lingmo Studio yang lebih cerdas**: membingkai ulang dengan mengikuti subjek utama (tidak hanya wajah), mengenali siapa yang berbicara di tiap bagian (diarisasi pembicara), dan efek audio di setiap trek
+- [ ] **Merilis game native yang tersisa**: Zelda: Ocarina of Time (Ship of Harkinian) dan Mario Kart 64 (SpaghettiKart), yang kini masih "Segera hadir" di Toko, segera setelah lisensi proyeknya mengizinkan untuk didistribusikan
+- [ ] Menuntaskan pemindahan bilah sisi Pengaturan, Surel, dan pengelola berkas ke **LingmoUI**, dengan tampilan yang sama seperti aplikasi lain
+- [ ] Merintis jalan untuk **sesi Wayland**: menguji aplikasi dan efek Lingmo di Wayland (sesi lengkap tetap direncanakan untuk 2027)
 
 ### 09/11 – 13/12 · Merawat komputer
 
@@ -45,7 +51,7 @@ merawat komputer tanpa harus paham teknis.
 - [ ] **Versi sebelumnya** dari file di pengelola file, seperti Time Machine
 - [ ] **Ponsel terhubung**: notifikasi, file, dan papan klip dengan Android dan iPhone (KDE Connect)
 - [ ] **Akun cloud**: Google Drive dan OneDrive muncul di pengelola file
-- [ ] Menyalin teks dari tangkapan layar (OCR)
+- [x] Menyalin teks dari tangkapan layar (OCR)
 - [ ] Pemasang yang memberi peringatan tentang BitLocker dan Secure Boot saat dipasang berdampingan dengan Windows
 
 ### Mulai Juni 2027

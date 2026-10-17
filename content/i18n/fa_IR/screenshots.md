@@ -1,5 +1,11 @@
 ## تصاویر صفحه
 
+![Lingmo Studio: برش‌هایی برای Shorts، Reels و TikTok از یک ویدیوی بلند](screenshots/studio-cuts.jpg)
+![Lingmo Studio: سبک‌های زیرنویس همگام با گفتار](screenshots/studio-captions.jpg)
+![Alt+Tab کاروسل: جابه‌جایی سه‌بعدی بین پنجره‌ها با بازتاب](screenshots/alt-tab-carousel.jpg)
+![نمادهای Lingmo در فهرست برنامه‌ها، برنامه‌های شخص ثالث هم](screenshots/icons.jpg)
+![نمایشگر PDF با بندانگشتی صفحه‌ها](screenshots/reader.jpg)
+![مدیر فایل در نمای ستونی](screenshots/files-columns.jpg)
 ![ایمیل با یک دعوت‌نامهٔ جلسه: پذیرفتن، شاید یا رد کردن](screenshots/mail.jpg)
 ![تقویم ایمیل در نمای ماه](screenshots/mail-calendar.jpg)
 ![کارها: امروز، پیش‌رو و عقب‌افتاده](screenshots/mail-tasks.jpg)

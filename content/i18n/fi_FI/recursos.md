@@ -13,6 +13,9 @@ Kaikki tämä on jo mukana ArchLingmossa.
 - **Tehosteet**: hyllyvät ikkunat, taikalamppu ja Alt+Tab kirjan sivuina
 - Yleisvalikko myös GTK-sovelluksille
 - **Kello- ja sääpienoisohjelmat** työpöydällä, oikealla sääennusteella valitsemaasi kaupunkiin, koottuna yhden kuvakkeen alle yläpalkissa
+- **Alt+Tab "Karuselli"**: vaihda ikkunaa 3D-karusellissa cover flow -tyyliin, heijastuksen kera
+- **Lingmo-kuvakkeet**: oma kuvaketeema, jossa pehmeät squircle-muotoiset kuvakkeet on luotu WhiteSurin pohjalta. Muiden valmistajien sovellusten kuvakkeet saavat saman pohjalaatan automaattisesti
+- **Telakan suurennus** jopa 200 %:iin, kun hiiri viedään kuvakkeen päälle, ja **yläpalkki**, jolle voi valita valmiin korkeuden
 
 ### Tekoäly (omalla tietokoneellasi)
 
@@ -20,6 +23,7 @@ Kaikki tämä on jo mukana ArchLingmossa.
 - **Tekoäly Spotlightissa**: aloita "ai:" keskustellaksesi, tai kirjoita kysymys, joka päättyy "?", ja valitse kysyä tekoälyltä. Se näyttää, kauanko kukin vastaus kesti ja kuinka nopea se oli, ja käyttää samoja työkaluja kuin Avustaja
 - **Asetukset › Tekoäly**: Ollaman tila, asennetut mallit, suositukset *tälle* tietokoneelle, mallien lataus edistymisen kanssa, "Mieti ennen vastaamista" -valinta sekä Avustajan oikeudet ja työkalut
 - **Automaattori**: päivittäiset rutiinit tiettyyn kellonaikaan, komennolla ja halutessasi paikallisen tekoälyn selityksellä tuloksesta
+- **Litterointi ja tekstitykset** kohdassa Asetukset › Tekoäly: whisper.cpp-mallit tunnisteineen ja "Suositeltu tietokoneellesi" -merkki, laitteistollesi suositeltujen tekoälymallien (llmfit) rinnalla
 
 ### Asetukset
 
@@ -49,3 +53,17 @@ Kaikki tämä on jo mukana ArchLingmossa.
 - **Kuvakaappaukset ja näytön tallennus** mikrofonin ja järjestelmän äänen kanssa
 - **Calamares**-asennusohjelma ja **PipeWire**-äänijärjestelmä
 - **Natiivipelit**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Asenna kohdasta Kauppa → Natiivipelit. Anna ensimmäisellä käynnistyskerralla omalta pelikasetiltasi kopioitu ROM; paketit eivät sisällä pelidataa.
+- **Kuvakaappaus** (Print, Shift + Print ja Ctrl + Print): kaikki, mitä Flameshot osaa (merkintätyökalut, kiinnitys näytölle, kopiointi, tallennus ja komentorivi), ja enemmän: "Kopioi teksti" tietokoneella itsellään toimivalla OCR:llä, tietojen peittäminen yhdellä napsautuksella, älykäs valinta, vierittävä kaappaus, esitystila, muokattava historia ja tallennus GIF-muodossa
+- **Kuvat**: kuvasi kirjastossa, suosikeissa ja kansioissa, samoilla pikkukuvilla kuin tiedostonhallinnassa
+- **PDF-lukija**: sivujen pikkukuvat, sisällysluettelo, muistiinpanot ja sovitus leveyteen
+- **Sarakenäkymä Tiedostoissa** (Ctrl + 3) ja freedesktop-standardin mukaiset pikkukuvat, jotka jaetaan Kuvien kanssa
+
+### Video: Lingmo Studio
+
+- **Lingmo Studio**: MLT:n päälle rakennettu videoeditori, jossa on DaVinci Resolven kaltaiset sivut: Muokkaa, Väri, Tehosteet, Ääni ja Toimita
+- **Muokkaus**: monen raidan aikajana, ripple, roll, slip ja slide, J- ja L-leikkaukset, yhdistelmäleikkeet, välityskopiot (proxyt) ja historiapaneeli
+- **Väri**: värirenkaat, käyrät, HSL, .cube-LUTit ja mittarit
+- **Ääni**: mikseri, taajuuskorjain, kompressori, kohinanvaimennus ja äänenvoimakkuuden normalisointi LUFS-asteikolla
+- **Vienti** oletuksena MP4-muotoon näytönohjaimen kiihdytyksellä (NVENC tai VA-API)
+- **Luo leikkeet**: muuttaa pitkän videon leikkeiksi Shortsiin, Reelsiin, TikTokiin, Kwaihin, LinkedIniin, X:ään ja Storiesiin kunkin verkoston suosittelemalla kestolla ja turva-alueella, paikallisen tekoälyn (Ollama) valitsemilla parhailla hetkillä ja kasvoja seuraavalla 9:16-rajauksella
+- **Tekstitykset** sana sanalta synkronoituina whisper.cpp:llä omalla tietokoneellasi: yhdeksän lukemista varten suunniteltua tyyliä (karaoke, jossa väri pyyhkii rivin yli, korostettu sana, sana kerrallaan, podcast, neon, suuri kontrasti, kaksi puhujaa…) ja vienti SRT-, VTT- ja ASS-muotoon

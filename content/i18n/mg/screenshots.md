@@ -1,5 +1,11 @@
 ## Sary an-efijery
 
+![Lingmo Studio: tapany ho an'ny Shorts, Reels ary TikTok avy amin'ny horonan-tsary lava](screenshots/studio-cuts.jpg)
+![Lingmo Studio: endrika dikanteny mifanaraka amin'ny feo](screenshots/studio-captions.jpg)
+![Alt+Tab Karosely: fifamadihana varavarankely amin'ny 3D, misy taratra](screenshots/alt-tab-carousel.jpg)
+![Kisary Lingmo ao amin'ny fandefasana rindranasa, eo amin'ny rindranasa avy amin'ny hafa koa](screenshots/icons.jpg)
+![Mpamaky PDF misy sary madinika ny pejy](screenshots/reader.jpg)
+![Mpitantana rakitra amin'ny fijery tsanganana](screenshots/files-columns.jpg)
 ![Mailaka misy fanasana fivoriana: Ekena, Angamba na Lavina](screenshots/mail.jpg)
 ![Ny kalandrien'ny Mailaka amin'ny fijery isam-bolana](screenshots/mail-calendar.jpg)
 ![Asa: androany, ho avy ary tara](screenshots/mail-tasks.jpg)

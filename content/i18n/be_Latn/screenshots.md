@@ -1,5 +1,11 @@
 ## Zdymki ekrana
 
+![Lingmo Studio: narezki dla Shorts, Reels i TikTok z doŭhaha videa](screenshots/studio-cuts.jpg)
+![Lingmo Studio: styli subcitraŭ, sinchranizavanych z maŭlenniem](screenshots/studio-captions.jpg)
+![Alt+Tab «Karusel»: pieraklučennie voknaŭ u 3D z adlustravanniem](screenshots/alt-tab-carousel.jpg)
+![Znački Lingmo ŭ mieniu zapusku, u tym liku ŭ staronnich prahram](screenshots/icons.jpg)
+![Prahladalnik PDF z miniaciurami staronak](screenshots/reader.jpg)
+![Fajłavy mieniedžar u vyhladzie słupkoŭ](screenshots/files-columns.jpg)
 ![Pošta z zaprašenniem na sustreču: «Pryniać», «Mahčyma» abo «Adchilić»](screenshots/mail.jpg)
 ![Kalendar Pošty ŭ vyhladzie miesiaca](screenshots/mail-calendar.jpg)
 ![Zadačy: na sionnia, nastupnyja i praterminavanyja](screenshots/mail-tasks.jpg)

@@ -1,5 +1,11 @@
 ## Ảnh chụp màn hình
 
+![Lingmo Studio: tạo video ngắn cho Shorts, Reels và TikTok từ một video dài](screenshots/studio-cuts.jpg)
+![Lingmo Studio: các kiểu phụ đề đồng bộ với giọng nói](screenshots/studio-captions.jpg)
+![Alt+Tab Băng chuyền: chuyển cửa sổ 3D có phản chiếu](screenshots/alt-tab-carousel.jpg)
+![Biểu tượng Lingmo trong trình khởi chạy, kể cả ứng dụng bên thứ ba](screenshots/icons.jpg)
+![Trình đọc PDF với hình thu nhỏ các trang](screenshots/reader.jpg)
+![Trình quản lý tệp ở chế độ xem dạng cột](screenshots/files-columns.jpg)
 ![Thư với lời mời họp: Chấp nhận, Có thể hoặc Từ chối](screenshots/mail.jpg)
 ![Lịch trong Thư ở chế độ xem theo tháng](screenshots/mail-calendar.jpg)
 ![Công việc: hôm nay, sắp tới và quá hạn](screenshots/mail-tasks.jpg)

@@ -13,6 +13,9 @@ Efa ao anatin'ny ArchLingmo androany ireto rehetra ireto.
 - **Effets**: varavarankely mihovitrovitra, jiro majika ary Alt+Tab toy ny pejin-boky
 - Menio iraisana ho an'ny rindranasa GTK koa
 - **Widget famantaranandro sy toetr'andro** eo amin'ny birao, miaraka amin'ny vinavinan'ny toetr'andro marina ho an'ny tanàna safidinao, voaangona ao ambanin'ny kisary iray eo amin'ny bara ambony
+- **Alt+Tab "Karosely"**: mifamadika varavarankely ao anaty karosely 3D, amin'ny fomba cover flow, misy taratra
+- **Kisary Lingmo**: endrika kisary manokana, misy kisary malefaka miendrika squircle (efamira boribory zoro), noforonina tamin'ny fototry ny WhiteSur. Mahazo ilay takelaka mitovy ho azy ihany koa ny kisarin'ny rindranasa avy amin'ny hafa
+- **Dock misy fanalehibiazana** ny kisary hatramin'ny 200% rehefa ampandalovina eo ny totozy, ary **bara ambony** misy haavo voaomana azo safidiana
 
 ### Faharanitan-tsaina artifisialy (ao amin'ny solosainao)
 
@@ -20,6 +23,7 @@ Efa ao anatin'ny ArchLingmo androany ireto rehetra ireto.
 - **AI ao amin'ny Spotlight**: atombohy amin'ny "ai:" mba hiresahana, na soraty fanontaniana mifarana amin'ny "?" ary safidio ny hanontany ny AI. Asehony ny faharetan'ny valiny tsirairay sy ny hafainganany, ary mampiasa ny fitaovana mitovy amin'ny an'ny Mpanampy
 - **Fikirana › Faharanitan-tsaina artifisialy**: toetry ny Ollama, modely voapetraka, tolo-kevitra ho an'ity solosaina *ity*, fakana modely miaraka amin'ny fandrosoana, ny safidy "Mieritrereta alohan'ny hamaliana", ary ny alalana sy fitaovan'ny Mpanampy
 - **Mpanao ho azy**: asa isan'andro amin'ny ora voafaritra, miaraka amin'ny baiko iray ary, raha tianao, ny AI eo an-toerana manazava ny vokatra
+- **Fanoratana ny feo sy dikanteny** ao amin'ny Fikirana › Faharanitan-tsaina artifisialy: modely whisper.cpp misy marika sy ny famantarana "Atolotra ho an'ny solosainao", eo akaikin'ny modely AI atolotra ho an'ny fitaovanao (llmfit)
 
 ### Fikirana
 
@@ -49,3 +53,17 @@ Efa ao anatin'ny ArchLingmo androany ireto rehetra ireto.
 - **Sary an-efijery sy fandraketana efijery**, miaraka amin'ny mikrô sy ny feon'ny rafitra
 - Mpametraka **Calamares** ary feo amin'ny alalan'ny **PipeWire**
 - **Lalao teratany**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Apetraho avy amin'ny Fivarotana → Lalao teratany. Amin'ny fanokafana voalohany, omeo ny ROM nalaina tamin'ny karatra lalaonao; tsy misy angona lalao ao amin'ny fonosana.
+- **Sary an-efijery** (Print, Shift + Print ary Ctrl + Print): izay rehetra ataon'ny Flameshot (fitaovana fanamarihana, fametahana eo amin'ny efijery, fandikana, fitahirizana ary tsipika baiko) sy mihoatra: "Adikao ny soratra" miaraka amin'ny OCR ao amin'ny solosainao ihany, fanafenana angona amin'ny tsindry iray, fisafidianana marani-tsaina, fakana sary misy fikorisana, fomba fampisehoana, tantara azo ovaina ary fandraketana GIF
+- **Sary**: ny sarinao ao anaty tranomboky, ankafizina ary lahatahiry, miaraka amin'ny sary madinika mitovy amin'ny an'ny mpitantana rakitra
+- **Mpamaky PDF**: sary madinika ny pejy, votoatiny, naoty ary fampifanarahana amin'ny sakany
+- **Fijery tsanganana ao amin'ny Rakitra** (Ctrl + 3) ary sary madinika manaraka ny fenitra freedesktop, iombonana amin'ny Sary
+
+### Horonan-tsary: Lingmo Studio
+
+- **Lingmo Studio**: mpanova horonan-tsary miorina amin'ny MLT, misy pejy toy ny an'ny DaVinci Resolve: Fanovana, Loko, Effets, Feo ary Famoahana
+- **Fanovana**: tsipika fotoana misy lalana maro, ripple, roll, slip ary slide, fanapahana J sy L, clip mitambatra, proxy ary tontonana tantara
+- **Loko**: kodiaran-doko, fiolahana, HSL, LUT .cube ary fitaovana fandrefesana (scopes)
+- **Feo**: mixer, égaliseur, compresseur, fampihenana tabataba ary fampitoviana ny haavon'ny feo amin'ny LUFS
+- **Avoahy** amin'ny MP4 araka ny mahazatra, nafainganin'ny karatra sary (NVENC na VA-API)
+- **Hamorona tapany**: manova horonan-tsary lava ho tapany fohy ho an'ny Shorts, Reels, TikTok, Kwai, LinkedIn, X ary Stories, miaraka amin'ny faharetana sy faritra azo antoka atolotry ny tambajotra tsirairay, ireo fotoana tsara indrindra nofidian'ny AI eo an-toerana (Ollama) ary fandrindrana 9:16 manaraka ny tarehy
+- **Dikanteny** mifanaraka teny isaky ny teny amin'ny whisper.cpp, ao amin'ny solosainao ihany: endrika sivy natao ho mora vakiana (karaoke misy loko mamakivaky ny fehezanteny, teny misongadina, teny tsirairay, podcast, neon, fifanoherana avo, olona roa miresaka…) ary famoahana amin'ny SRT, VTT ary ASS

@@ -17,7 +17,13 @@ curar li computator sin esser un expert.
 - [x] **Applicationes de Android** (APK) in un buxe, con Waydroid, visibil in li lansator quam quelcunc altri application
 - [x] **Ludes con un clic**: Steam, Proton e modo de lude, con avise pri ludes con anti-cheat queles ne functiona in Linux
 - [x] **Nativ ludes**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Installa ex Butica → Nativ ludes. Al prim lansament, provide un ROM extraet de vor propri cartuche; li paccas ne contene dates del ludes.
-- [ ] **Plu nativ ludes**: Zelda: Ocarina of Time (Ship of Harkinian) e Mario Kart 64 (SpaghettiKart), ancor "Tost" in li butica
+
+### 09/11 til 13/12 · Crear e partir
+
+- [ ] **Un Lingmo Studio plu inteligent**: reencadrar sequente li subjecte principal (ne solmen li visage), saver qui parla in chascun parte (diarisation de parlatores) e effectes de audio sur chascun piste
+- [ ] **Publicar li nativ ludes restant**: Zelda: Ocarina of Time (Ship of Harkinian) e Mario Kart 64 (SpaghettiKart), nu "Tost" in li Butica, tam rapid quam li licenties del projectes permisse distribuer les
+- [ ] Finir li transfer del panelles lateral del Parametres, del Posta e del gerente de files a **LingmoUI**, con li sam aspecte quam li altri applicationes
+- [ ] Preparar li via por li **session Wayland**: provar li applicationes e effectes de Lingmo in Wayland (li complet session es ancor previdet por 2027)
 
 ### 09/11 til 13/12 · Curar li computator
 
@@ -45,7 +51,7 @@ curar li computator sin esser un expert.
 - [ ] **Precedent versiones** del files in li gerente de files, quam in Time Machine
 - [ ] **Telefon integrat**: notificationes, files e paperiere con Android e iPhone (KDE Connect)
 - [ ] **Contos in li nube**: Google Drive e OneDrive visibil in li gerente de files
-- [ ] Copiar li textu de un captura de ecran (OCR)
+- [x] Copiar li textu de un captura de ecran (OCR)
 - [ ] Installator quel averte pri BitLocker e Secure Boot quande on installa it apu Windows
 
 ### Ex junio 2027

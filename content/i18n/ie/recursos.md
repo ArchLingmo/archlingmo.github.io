@@ -13,6 +13,9 @@ Omnicos ci-infra ja es includet in ArchLingmo hodie.
 - **Effectes**: fenestres gelatinosi, lampe magic e Alt+Tab quam págines de un libre
 - Menú global anc por applicationes GTK
 - **Widgets de horloge e tempe** sur li pupitre, con li vera previsiones por li cité que vu selecte, agruppat sub un sol icone in li panel superiori
+- **Alt+Tab "Carusel"**: changea fenestre in un carusel 3D, in li stil cover flow, con reflexion
+- **Icones de Lingmo**: un tema de icones propri, con icones fluid in forma squircle (quadrat rondat), generat súper WhiteSur. Li icones de applicationes de altri provisores recive automaticmen li sam placa
+- **Dock con agrandation** del icones til 200% quande on move li mus súper les e **panel superiori** con altores predefinit por selecter
 
 ### Intelligentie artificial (in vor computator)
 
@@ -20,6 +23,7 @@ Omnicos ci-infra ja es includet in ArchLingmo hodie.
 - **IA in Spotlight**: comensa con "ai:" por conversar, o tippa un question quel fini con "?" e selecte demandar li IA. It monstra quant témpor chascun response prendet e qualmen rapid it esset, e usa li sam utensiles quam li Assistent
 - **Parametres › Intelligentie Artificial**: statu de Ollama, modelles installat, recomandationes por *ti-ci* computator, descargas de modelles con progress, un option "Pensar ante responder", e li permissiones e utensiles del Assistent
 - **Automator**: rutines diarni a un hora fixat, con un comande e, si vu vole, li IA local quel explica li resultate
+- **Transcription e subtitules** in Parametres › Intelligentie Artificial: modelles de whisper.cpp con etiquettes e li insignie "Recomandat por vor computator", apu li modelles de IA recomandat por vor hardware (llmfit)
 
 ### Parametres
 
@@ -49,3 +53,17 @@ Omnicos ci-infra ja es includet in ArchLingmo hodie.
 - **Capturas e registration del ecran**, con microfon e audio del sistema
 - Installator **Calamares** e son per **PipeWire**
 - **Nativ ludes**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Installa ex Butica → Nativ ludes. Al prim lansament, provide un ROM extraet de vor propri cartuche; li paccas ne contene dates del ludes.
+- **Captura de ecran** (Print, Shift + Print e Ctrl + Print): omnicos quel Flameshot fa (utensiles de annotation, fixar sur li ecran, copiar, salvar e linea de comandes) e plu: "Copiar textu" con OCR in vor propri computator, celar data per un clic, selection inteligent, captura con rulation, mode de presentation, historie redactibil e registration in GIF
+- **Fotos**: vor images in un biblioteca, favorites e fólderes, con li sam miniaturas quam li gerente de files
+- **Letor de PDF**: miniaturas del págines, tabelle de contenete, notes e adjustar al larghore
+- **Vista in columnes in Files** (Ctrl + 3) e miniaturas secun li standard freedesktop, partit con Fotos
+
+### Video: Lingmo Studio
+
+- **Lingmo Studio**: un redactor de video constructet súper MLT, con págines quam tis de DaVinci Resolve: Redacter, Color, Effectes, Audio e Liverar
+- **Redaction**: linea temporal con mult pistes, ripple, roll, slip e slide, tallias J e L, clips composit, proxies e un panel de historie
+- **Color**: rotas de color, curves, HSL, LUTs .cube e scopes
+- **Audio**: mixtor, equalisator, compressor, reduction de bruit e normalisation de volume in LUFS
+- **Exportar** in MP4 predefinitmen, accelerat per li carte grafic (NVENC o VA-API)
+- **Generar tallias**: transforma un long video in tallias por Shorts, Reels, TikTok, Kwai, LinkedIn, X e Stories, con li duration e li area secur recomandat por chascun rete, li max bon momentes selectet per un IA local (Ollama) e un reencadrament 9:16 quel seque li visage
+- **Subtitules** sincronisat parol pos parol con whisper.cpp, in vor propri computator: nin stiles concipet por li lectura (karaoke con li color quel percurre li frase, parol evidentiat, parol pos parol, podcast, neon, alt contraste, du parlatores…) e exportation in SRT, VTT e ASS

@@ -1,5 +1,11 @@
 ## Skjermbilder
 
+![Lingmo Studio: klipp for Shorts, Reels og TikTok fra en lang video](screenshots/studio-cuts.jpg)
+![Lingmo Studio: undertekststiler synkronisert med talen](screenshots/studio-captions.jpg)
+![Alt+Tab Karusell: vindusbytte i 3D med speilbilde](screenshots/alt-tab-carousel.jpg)
+![Lingmo-ikoner i programstarteren, også for apper fra tredjeparter](screenshots/icons.jpg)
+![PDF-leser med miniatyrbilder av sidene](screenshots/reader.jpg)
+![Filbehandleren i kolonnevisning](screenshots/files-columns.jpg)
 ![E-post med en møteinvitasjon: Godta, Kanskje eller Avslå](screenshots/mail.jpg)
 ![Kalenderen i E-post i månedsvisning](screenshots/mail-calendar.jpg)
 ![Oppgaver: i dag, kommende og forfalte](screenshots/mail-tasks.jpg)

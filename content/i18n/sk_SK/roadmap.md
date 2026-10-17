@@ -17,7 +17,13 @@ starostlivosť o počítač bez technických znalostí.
 - [x] **Aplikácie pre Android** (APK) v boxe cez Waydroid, ktoré sa zobrazia v spúšťači ako každá iná aplikácia
 - [x] **Hry jedným kliknutím**: Steam, Proton a herný režim, s upozornením na hry, ktorých anti-cheat na Linuxe nefunguje
 - [x] **Natívne hry**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Inštalujte cez Obchod → Natívne hry. Pri prvom spustení zadajte ROM získanú z vlastnej kazety; balíky neobsahujú herné dáta.
-- [ ] **Ďalšie natívne hry**: Zelda: Ocarina of Time (Ship of Harkinian) a Mario Kart 64 (SpaghettiKart), v obchode zatiaľ „Už čoskoro“
+
+### 09/11 – 13/12 · Tvorba a zdieľanie
+
+- [ ] **Šikovnejšie Lingmo Studio**: orez, ktorý sleduje hlavný objekt (nielen tvár), rozpoznanie, kto hovorí v ktorej časti (diarizácia), a zvukové efekty na každej stope
+- [ ] **Vydať zvyšné natívne hry**: Zelda: Ocarina of Time (Ship of Harkinian) a Mario Kart 64 (SpaghettiKart), v Obchode zatiaľ „Už čoskoro“, hneď ako licencie projektov dovolia ich distribúciu
+- [ ] Dokončiť prechod bočných panelov Nastavení, Pošty a správcu súborov na **LingmoUI**, s rovnakým vzhľadom ako ostatné aplikácie
+- [ ] Pripraviť pôdu pre **reláciu Wayland**: otestovať aplikácie a efekty Lingmo na Waylande (plná relácia je stále plánovaná na rok 2027)
 
 ### 09/11 – 13/12 · Starostlivosť o počítač
 
@@ -45,7 +51,7 @@ starostlivosť o počítač bez technických znalostí.
 - [ ] **Predchádzajúce verzie** súborov v správcovi súborov, ako v Time Machine
 - [ ] **Prepojený telefón**: upozornenia, súbory a schránka s Androidom a iPhonom (KDE Connect)
 - [ ] **Cloudové účty**: Google Drive a OneDrive priamo v správcovi súborov
-- [ ] Kopírovanie textu zo snímky obrazovky (OCR)
+- [x] Kopírovanie textu zo snímky obrazovky (OCR)
 - [ ] Inštalátor, ktorý upozorní na BitLocker a Secure Boot pri inštalácii vedľa Windows
 
 ### Od júna 2027

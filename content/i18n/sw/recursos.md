@@ -13,6 +13,9 @@ Haya yote tayari yamo ndani ya ArchLingmo leo.
 - **Madoido**: madirisha yanayotetemeka kama jeli, taa ya ajabu na Alt+Tab kama kurasa za kitabu
 - Menyu ya jumla pia kwa programu za GTK
 - **Wijeti za saa na hali ya hewa** kwenye eneo-kazi, zenye utabiri halisi wa jiji unalochagua, zikiwa chini ya aikoni moja kwenye upau wa juu
+- **Alt+Tab "Jukwa"**: badilisha dirisha kwenye jukwa la 3D, kwa mtindo wa cover flow, lenye uakisi
+- **Aikoni za Lingmo**: mandhari ya aikoni yetu wenyewe, yenye aikoni laini za umbo la squircle (mraba wenye pembe za mviringo), zilizotengenezwa juu ya WhiteSur. Aikoni za programu za wahusika wengine hupata bamba lilelile zenyewe
+- **Dock yenye ukuzaji** wa aikoni hadi 200% unapopitisha kipanya na **upau wa juu** wenye vimo vilivyo tayari kuchagua
 
 ### Akili bandia (kwenye kompyuta yako)
 
@@ -20,6 +23,7 @@ Haya yote tayari yamo ndani ya ArchLingmo leo.
 - **AI katika Spotlight**: anza na "ai:" ili kuzungumza, au andika swali linaloishia na "?" na uchague kuuliza AI. Inaonyesha muda kila jibu lilichukua na kasi yake, na inatumia zana zilezile za Msaidizi
 - **Mipangilio › Akili bandia**: hali ya Ollama, modeli zilizosakinishwa, mapendekezo kwa ajili ya kompyuta *hii*, upakuaji wa modeli ukionyesha maendeleo, chaguo la "Fikiri kabla ya kujibu", na ruhusa na zana za Msaidizi
 - **Kiotomatishaji**: ratiba za kila siku kwa muda uliowekwa, zenye amri na, ukipenda, AI ya ndani ikieleza matokeo
+- **Unukuzi na manukuu** katika Mipangilio › Akili bandia: modeli za whisper.cpp zenye lebo na beji ya "Inapendekezwa kwa kompyuta yako", kando ya modeli za AI zinazopendekezwa kwa maunzi yako (llmfit)
 
 ### Mipangilio
 
@@ -49,3 +53,17 @@ Haya yote tayari yamo ndani ya ArchLingmo leo.
 - **Picha za skrini na kurekodi skrini**, pamoja na maikrofoni na sauti ya mfumo
 - Kisakinishi cha **Calamares** na sauti kupitia **PipeWire**
 - **Michezo asilia**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Sakinisha kutoka Duka → Michezo asilia. Unapofungua mara ya kwanza, toa ROM kutoka katriji yako mwenyewe; vifurushi havina data za michezo.
+- **Picha ya skrini** (Print, Shift + Print na Ctrl + Print): kila kitu ambacho Flameshot hufanya (zana za kuweka maelezo, kubandika kwenye skrini, kunakili, kuhifadhi na mstari wa amri) na zaidi: "Nakili maandishi" kwa OCR kwenye kompyuta yako yenyewe, kuficha data kwa kubofya mara moja, uteuzi mahiri, kunasa kwa kusogeza, hali ya uwasilishaji, historia inayoharirika na kurekodi GIF
+- **Picha**: picha zako katika maktaba, vipendwa na folda, zenye vijipicha vilevile vya kidhibiti cha faili
+- **Kisoma PDF**: vijipicha vya kurasa, muhtasari, madokezo na kutoshea upana
+- **Mwonekano wa safu wima katika Faili** (Ctrl + 3) na vijipicha vya kiwango cha freedesktop, vinavyoshirikiwa na Picha
+
+### Video: Lingmo Studio
+
+- **Lingmo Studio**: kihariri cha video kilichojengwa juu ya MLT, chenye kurasa kama za DaVinci Resolve: Hariri, Rangi, Madoido, Sauti na Wasilisha
+- **Uhariri**: mstari wa muda wenye njia nyingi, ripple, roll, slip na slide, mikato ya J na L, klipu zilizounganishwa, proksi na paneli ya historia
+- **Rangi**: magurudumu ya rangi, mikunjo, HSL, LUT za .cube na vipimo (scopes)
+- **Sauti**: kichanganyaji, kisawazishaji, kikandamizaji, kupunguza kelele na kusawazisha kiwango cha sauti kwa LUFS
+- **Hamisha** kwa MP4 kwa chaguomsingi, kwa kuharakishwa na kadi ya picha (NVENC au VA-API)
+- **Tengeneza vipande**: hubadilisha video ndefu kuwa vipande kwa ajili ya Shorts, Reels, TikTok, Kwai, LinkedIn, X na Stories, kwa urefu na eneo salama vinavyopendekezwa na kila mtandao, matukio bora yakichaguliwa na AI ya ndani (Ollama) na upangaji upya wa fremu wa 9:16 unaofuata uso
+- **Manukuu** yanayolingana neno kwa neno kwa whisper.cpp, kwenye kompyuta yako: mitindo tisa iliyobuniwa kwa ajili ya kusoma (karaoke yenye rangi ikipita kwenye sentensi, neno lililoangaziwa, neno kwa neno, podikasti, neon, utofautishaji wa juu, wazungumzaji wawili…) na kuhamisha kwa SRT, VTT na ASS

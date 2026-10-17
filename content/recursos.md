@@ -13,6 +13,9 @@ Tudo isto já vem no ArchLingmo hoje.
 - **Efeitos**: janelas gelatinosas, lâmpada mágica e Alt+Tab em folhas de livro
 - Menu global também para apps GTK
 - **Widgets** de relógio e de clima na área de trabalho, com a previsão real da cidade que você escolher, reunidos num ícone da barra superior
+- **Alt+Tab "Carrossel"**: troque de janela num carrossel em 3D, no estilo cover flow, com reflexo
+- **Ícones Lingmo**: tema de ícones próprio, com ícones fluidos em formato squircle, gerados sobre o WhiteSur. Os ícones de apps de terceiros ganham a mesma placa sozinhos
+- **Dock com ampliação** dos ícones até 200% ao passar o mouse e **barra de status** com alturas prontas para escolher
 
 ### Inteligência artificial (no seu computador)
 
@@ -20,6 +23,7 @@ Tudo isto já vem no ArchLingmo hoje.
 - **IA no Spotlight**: comece com "ai:" para conversar ou faça uma pergunta terminada em "?" e escolha perguntar à IA. Mostra o tempo e a velocidade de cada resposta e usa as mesmas ferramentas do Assistente
 - **Configurações › Inteligência Artificial**: estado do Ollama, modelos instalados, recomendações para *este* computador, download de modelos com progresso, a opção "Pensar antes de responder" e as permissões e ferramentas do Assistente
 - **Automatizador**: rotinas diárias num horário marcado, com um comando e, se quiser, a IA local explicando o resultado
+- **Transcrição e legendas** em Configurações › Inteligência Artificial: modelos do whisper.cpp com etiquetas e o selo "Recomendado para seu computador", ao lado dos modelos de IA recomendados para o seu hardware (llmfit)
 
 ### Configurações
 
@@ -49,3 +53,17 @@ Tudo isto já vem no ArchLingmo hoje.
 - **Capturas e gravação de tela**, com microfone e áudio do sistema
 - Instalador **Calamares** e som pelo **PipeWire**
 - **Jogos nativos**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Instale pela Loja → Jogos nativos. Na primeira abertura, forneça a ROM extraída do seu próprio cartucho; os pacotes não incluem dados dos jogos.
+- **Captura de tela** (Print, Shift + Print e Ctrl + Print): tudo o que o Flameshot faz (ferramentas de anotação, fixar na tela, copiar, salvar e linha de comando) e mais: "Copiar texto" com OCR no próprio computador, ocultar dados num clique, seleção inteligente, captura com rolagem, modo apresentação, histórico editável e gravação em GIF
+- **Fotos**: suas imagens em biblioteca, favoritos e pastas, com as mesmas miniaturas do gerenciador de arquivos
+- **Leitor de PDF**: miniaturas das páginas, sumário, notas e ajuste à largura
+- **Arquivos em colunas** (Ctrl + 3) e miniaturas no padrão freedesktop, compartilhadas com o Fotos
+
+### Vídeo: Lingmo Studio
+
+- **Lingmo Studio**: editor de vídeo feito sobre o MLT, com páginas como as do DaVinci Resolve: Editar, Cor, Efeitos, Áudio e Entregar
+- **Edição**: linha do tempo com várias trilhas, ripple, roll, slip e slide, cortes J e L, clipes compostos, proxies e painel de histórico
+- **Cor**: rodas de cor, curvas, HSL, LUTs .cube e escopos
+- **Áudio**: mixer, equalizador, compressor, redução de ruído e normalização de volume em LUFS
+- **Exportar** em MP4 por padrão, com aceleração pela placa de vídeo (NVENC ou VA-API)
+- **Gerar cortes**: transforma um vídeo longo em cortes para Shorts, Reels, TikTok, Kwai, LinkedIn, X e Stories, com a duração e a área segura recomendadas por cada rede, os melhores trechos escolhidos por uma IA local (Ollama) e o enquadramento 9:16 seguindo o rosto
+- **Legendas** sincronizadas palavra por palavra com o whisper.cpp, no seu computador: nove estilos pensados para a leitura (karaokê com a cor varrendo a frase, palavra destacada, palavra a palavra, podcast, neon, alto contraste, duas pessoas falando…) e exportação em SRT, VTT e ASS

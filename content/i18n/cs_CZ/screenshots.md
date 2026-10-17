@@ -1,5 +1,11 @@
 ## Snímky obrazovky
 
+![Lingmo Studio: klipy pro Shorts, Reels a TikTok z dlouhého videa](screenshots/studio-cuts.jpg)
+![Lingmo Studio: styly titulků synchronizovaných s řečí](screenshots/studio-captions.jpg)
+![Alt+Tab Kolotoč: přepínání oken ve 3D, s odrazem](screenshots/alt-tab-carousel.jpg)
+![Ikony Lingmo v launcheru, i u aplikací třetích stran](screenshots/icons.jpg)
+![Prohlížeč PDF s náhledy stránek](screenshots/reader.jpg)
+![Správce souborů v zobrazení ve sloupcích](screenshots/files-columns.jpg)
 ![Pošta s pozvánkou na schůzku: Přijmout, Možná nebo Odmítnout](screenshots/mail.jpg)
 ![Kalendář v Poště v zobrazení měsíce](screenshots/mail-calendar.jpg)
 ![Úkoly: dnešní, nadcházející a zpožděné](screenshots/mail-tasks.jpg)

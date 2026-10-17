@@ -1,5 +1,11 @@
 ## Снимки на екрана
 
+![Lingmo Studio: клипове за Shorts, Reels и TikTok от дълго видео](screenshots/studio-cuts.jpg)
+![Lingmo Studio: стилове субтитри, синхронизирани с речта](screenshots/studio-captions.jpg)
+![Alt+Tab „Въртележка“: 3D превключване на прозорци с отражение](screenshots/alt-tab-carousel.jpg)
+![Иконите Lingmo в менюто за стартиране, включително при приложенията от трети страни](screenshots/icons.jpg)
+![Четец на PDF с миниатюри на страниците](screenshots/reader.jpg)
+![Файловият мениджър в изглед с колони](screenshots/files-columns.jpg)
 ![Поща с покана за среща: „Приемам“, „Може би“ или „Отказвам“](screenshots/mail.jpg)
 ![Календарът на Поща в месечен изглед](screenshots/mail-calendar.jpg)
 ![Задачи: за днес, предстоящи и просрочени](screenshots/mail-tasks.jpg)

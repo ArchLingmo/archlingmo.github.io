@@ -17,7 +17,13 @@ ny fikarakarana ny solosaina nefa tsy mila ho manam-pahaizana ara-teknika.
 - [x] **Rindranasa Android** (APK) ao anaty boaty, miaraka amin'ny Waydroid, miseho ao amin'ny fandefasana rindranasa toy ny rindranasa hafa rehetra
 - [x] **Lalao amin'ny tsindry iray**: Steam, Proton ary mode lalao, miaraka amin'ny fampitandremana ho an'ny lalao izay tsy mandeha amin'ny Linux ny anti-cheat-ny
 - [x] **Lalao teratany**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Apetraho avy amin'ny Fivarotana → Lalao teratany. Amin'ny fanokafana voalohany, omeo ny ROM nalaina tamin'ny karatra lalaonao; tsy misy angona lalao ao amin'ny fonosana.
-- [ ] **Lalao teratany fanampiny**: Zelda: Ocarina of Time (Ship of Harkinian) sy Mario Kart 64 (SpaghettiKart), mbola "Ho avy tsy ho ela" ao amin'ny fivarotana
+
+### 09/11 – 13/12 · Mamorona sy mizara
+
+- [ ] **Lingmo Studio marani-tsaina kokoa**: fandrindrana manaraka ny lohahevitra fototra (tsy ny tarehy ihany), fahafantarana hoe iza no miteny amin'ny tapany tsirairay (diarization) ary effets feo amin'ny lalana tsirairay
+- [ ] **Hamoaka ireo lalao teratany sisa**: Zelda: Ocarina of Time (Ship of Harkinian) sy Mario Kart 64 (SpaghettiKart), "Ho avy tsy ho ela" ao amin'ny Fivarotana amin'izao fotoana izao, raha vao mamela ny fizarana azy ny fahazoan-dàlan'ireo tetikasa
+- [ ] Hamita ny famindrana ho amin'ny **LingmoUI** ny bara amin'ny sisiny ao amin'ny Fikirana, Mailaka ary mpitantana rakitra, mba hitovy endrika amin'ny rindranasa hafa
+- [ ] Hanomana ny lalana ho an'ny **session Wayland**: andramana amin'ny Wayland ny rindranasa sy ny effets an'i Lingmo (mbola kasaina ho amin'ny 2027 ny session feno)
 
 ### 09/11 – 13/12 · Fikarakarana ny solosaina
 
@@ -45,7 +51,7 @@ ny fikarakarana ny solosaina nefa tsy mila ho manam-pahaizana ara-teknika.
 - [ ] **Dikan-teny teo aloha** amin'ny rakitra ao amin'ny mpitantana rakitra, toy ny ao amin'ny Time Machine
 - [ ] **Finday mifandray**: fampahafantarana, rakitra ary clipboard miaraka amin'ny Android sy iPhone (KDE Connect)
 - [ ] **Kaonty cloud**: Google Drive sy OneDrive miseho ao amin'ny mpitantana rakitra
-- [ ] Adikao ny soratra avy amin'ny sary efijery (OCR)
+- [x] Adikao ny soratra avy amin'ny sary efijery (OCR)
 - [ ] Mpametraka izay mampitandrina momba ny BitLocker sy Secure Boot rehefa apetraka eo akaikin'ny Windows
 
 ### Manomboka amin'ny Jona 2027

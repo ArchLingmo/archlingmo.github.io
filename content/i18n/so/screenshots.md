@@ -1,5 +1,11 @@
 ## Sawirrada shaashadda
 
+![Lingmo Studio: qaybo gaaban oo loogu talagalay Shorts, Reels iyo TikTok oo laga sameeyay muuqaal dheer](screenshots/studio-cuts.jpg)
+![Lingmo Studio: qaababka qoraal-hoosaadyada oo la waafajiyay hadalka](screenshots/studio-captions.jpg)
+![Alt+Tab Karuusel: beddelidda daaqadaha oo 3D ah, oo leh milicsi](screenshots/alt-tab-carousel.jpg)
+![Astaamaha Lingmo ee furaha abka, oo ay ku jiraan abka dhinac saddexaad](screenshots/icons.jpg)
+![Akhriyaha PDF oo leh sawirrada yaryar ee bogagga](screenshots/reader.jpg)
+![Maareeyaha faylasha oo ku jira muuqaalka tiirarka](screenshots/files-columns.jpg)
 ![Boostada oo leh martiqaad kulan: Aqbal, Laga yaabee ama Diid](screenshots/mail.jpg)
 ![Kalandarka Boostada oo muuqaalka bisha ah](screenshots/mail-calendar.jpg)
 ![Hawlaha: maanta, kuwa soo socda iyo kuwa dib u dhacay](screenshots/mail-tasks.jpg)

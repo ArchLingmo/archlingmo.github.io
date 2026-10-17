@@ -17,7 +17,13 @@ entretenir son ordinateur sans être technicien.
 - [x] **Applications Android** (APK) dans une boîte, avec Waydroid, qui apparaissent dans le lanceur comme n’importe quelle application
 - [x] **Jeux en un clic** : Steam, Proton et mode jeu, avec un avertissement pour les jeux dont l’anti-triche ne fonctionne pas sous Linux
 - [x] **Jeux natifs**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Installez depuis Logithèque → Jeux natifs. Au premier lancement, fournissez la ROM de votre propre cartouche ; les paquets ne contiennent aucune donnée de jeu.
-- [ ] **Plus de jeux natifs** : Zelda: Ocarina of Time (Ship of Harkinian) et Mario Kart 64 (SpaghettiKart), encore « Bientôt disponible » dans la logithèque
+
+### 09/11 – 13/12 · Créer et partager
+
+- [ ] **Un Lingmo Studio plus malin** : recadrer en suivant le sujet principal (pas seulement le visage), savoir qui parle dans chaque passage (diarisation) et effets audio sur chaque piste
+- [ ] **Publier les jeux natifs manquants** : Zelda: Ocarina of Time (Ship of Harkinian) et Mario Kart 64 (SpaghettiKart), aujourd’hui « Bientôt disponible » dans la Logithèque, dès que la licence des projets permettra de les distribuer
+- [ ] Finir de passer à **LingmoUI** les barres latérales des Paramètres, de Mail et du gestionnaire de fichiers, avec le même look que les autres applications
+- [ ] Préparer le terrain pour la **session Wayland** : tester les applications et les effets de Lingmo sous Wayland (la session complète reste prévue pour 2027)
 
 ### 09/11 – 13/12 · Entretenir son ordinateur
 
@@ -45,7 +51,7 @@ entretenir son ordinateur sans être technicien.
 - [ ] **Versions précédentes** des fichiers dans le gestionnaire de fichiers, comme avec Time Machine
 - [ ] **Téléphone intégré** : notifications, fichiers et presse-papiers avec Android et iPhone (KDE Connect)
 - [ ] **Comptes cloud** : Google Drive et OneDrive dans le gestionnaire de fichiers
-- [ ] Copier le texte d’une capture d’écran (OCR)
+- [x] Copier le texte d’une capture d’écran (OCR)
 - [ ] Installateur qui prévient au sujet de BitLocker et de Secure Boot lors d’une installation à côté de Windows
 
 ### À partir de juin 2027

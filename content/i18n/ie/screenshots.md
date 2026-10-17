@@ -1,5 +1,11 @@
 ## Capturas de ecran
 
+![Lingmo Studio: tallias por Shorts, Reels e TikTok ex un long video](screenshots/studio-cuts.jpg)
+![Lingmo Studio: stiles de subtitules sincronisat con li parlada](screenshots/studio-captions.jpg)
+![Alt+Tab Carusel: change de fenestres in 3D, con reflexion](screenshots/alt-tab-carousel.jpg)
+![Icones de Lingmo in li lansator, anc por li applicationes de altri provisores](screenshots/icons.jpg)
+![Letor de PDF con li miniaturas del págines](screenshots/reader.jpg)
+![Li gerente de files in vista de columnes](screenshots/files-columns.jpg)
 ![Posta con un invitation a un reunion: Acceptar, Forsan o Refusar](screenshots/mail.jpg)
 ![Li calendare de Posta in vista de mensu](screenshots/mail-calendar.jpg)
 ![Taches: hodie, venient e retardat](screenshots/mail-tasks.jpg)

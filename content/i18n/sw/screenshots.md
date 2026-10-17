@@ -1,5 +1,11 @@
 ## Picha za skrini
 
+![Lingmo Studio: vipande kwa ajili ya Shorts, Reels na TikTok kutoka kwenye video ndefu](screenshots/studio-cuts.jpg)
+![Lingmo Studio: mitindo ya manukuu yanayolingana na usemi](screenshots/studio-captions.jpg)
+![Alt+Tab Jukwa: kubadilisha madirisha kwa 3D, kwa uakisi](screenshots/alt-tab-carousel.jpg)
+![Aikoni za Lingmo kwenye kizinduzi, pia kwa programu za wahusika wengine](screenshots/icons.jpg)
+![Kisoma PDF chenye vijipicha vya kurasa](screenshots/reader.jpg)
+![Kidhibiti cha faili katika mwonekano wa safu wima](screenshots/files-columns.jpg)
 ![Barua pepe yenye mwaliko wa mkutano: Kubali, Labda au Kataa](screenshots/mail.jpg)
 ![Kalenda ya Barua pepe katika mwonekano wa mwezi](screenshots/mail-calendar.jpg)
 ![Kazi: za leo, zijazo na zilizochelewa](screenshots/mail-tasks.jpg)

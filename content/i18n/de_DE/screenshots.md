@@ -1,5 +1,11 @@
 ## Bildschirmfotos
 
+![Lingmo Studio: Clips für Shorts, Reels und TikTok aus einem langen Video](screenshots/studio-cuts.jpg)
+![Lingmo Studio: Untertitelstile, synchron zur Sprache](screenshots/studio-captions.jpg)
+![Alt+Tab Karussell: Fensterwechsel in 3D mit Spiegelung](screenshots/alt-tab-carousel.jpg)
+![Lingmo-Symbole im Starter, auch bei Apps von Drittanbietern](screenshots/icons.jpg)
+![PDF-Betrachter mit Seitenvorschauen](screenshots/reader.jpg)
+![Dateimanager in der Spaltenansicht](screenshots/files-columns.jpg)
 ![Mail mit einer Besprechungseinladung: Annehmen, Vielleicht oder Ablehnen](screenshots/mail.jpg)
 ![Der Kalender in Mail in der Monatsansicht](screenshots/mail-calendar.jpg)
 ![Aufgaben: heute, demnächst und überfällig](screenshots/mail-tasks.jpg)

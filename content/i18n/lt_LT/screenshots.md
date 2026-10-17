@@ -1,5 +1,11 @@
 ## Ekrano nuotraukos
 
+![Lingmo Studio: ištraukos Shorts, Reels ir TikTok iš ilgo vaizdo įrašo](screenshots/studio-cuts.jpg)
+![Lingmo Studio: su kalba sinchronizuoti subtitrų stiliai](screenshots/studio-captions.jpg)
+![Alt+Tab Karuselė: langų perjungimas 3D su atspindžiu](screenshots/alt-tab-carousel.jpg)
+![Lingmo piktogramos paleidiklyje, taip pat ir trečiųjų šalių programose](screenshots/icons.jpg)
+![PDF skaitytuvas su puslapių miniatiūromis](screenshots/reader.jpg)
+![Failų tvarkytuvė stulpelių rodinyje](screenshots/files-columns.jpg)
 ![Paštas su kvietimu į susitikimą: Priimti, Galbūt arba Atmesti](screenshots/mail.jpg)
 ![Pašto kalendorius mėnesio rodinyje](screenshots/mail-calendar.jpg)
 ![Užduotys: šiandien, artėjančios ir vėluojančios](screenshots/mail-tasks.jpg)

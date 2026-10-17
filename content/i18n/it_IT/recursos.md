@@ -13,6 +13,9 @@ Tutto questo è già incluso in ArchLingmo oggi.
 - **Effetti**: finestre gelatinose, lampada magica e Alt+Tab a pagine di libro
 - Menu globale anche per le app GTK
 - **Widget di orologio e meteo** sul desktop, con le previsioni reali per la città che scegli, raggruppati sotto un'unica icona nella barra superiore
+- **Alt+Tab "Carosello"**: passa da una finestra all'altra in un carosello 3D, in stile cover flow, con riflesso
+- **Icone Lingmo**: un tema di icone proprio, con icone fluide a forma di squircle, generate a partire da WhiteSur. Le icone delle app di terze parti ricevono da sole la stessa placca
+- **Dock con ingrandimento** delle icone fino al 200% al passaggio del mouse e **barra di stato** con altezze pronte da scegliere
 
 ### Intelligenza artificiale (sul tuo computer)
 
@@ -20,6 +23,7 @@ Tutto questo è già incluso in ArchLingmo oggi.
 - **IA in Spotlight**: inizia con "ai:" per chattare, oppure scrivi una domanda che termina con "?" e scegli di chiedere all'IA. Mostra quanto tempo ha richiesto ogni risposta e a che velocità, e usa gli stessi strumenti dell'Assistente
 - **Impostazioni › Intelligenza artificiale**: stato di Ollama, modelli installati, consigli per *questo* computer, download dei modelli con avanzamento, un'opzione "Pensa prima di rispondere" e i permessi e gli strumenti dell'Assistente
 - **Automator**: routine quotidiane a un orario stabilito, con un comando e, se vuoi, l'IA locale che spiega il risultato
+- **Trascrizione e sottotitoli** in Impostazioni › Intelligenza artificiale: modelli whisper.cpp con etichette e il badge "Consigliato per il tuo computer", accanto ai modelli di IA consigliati per il tuo hardware (llmfit)
 
 ### Impostazioni
 
@@ -49,3 +53,17 @@ Tutto questo è già incluso in ArchLingmo oggi.
 - **Screenshot e registrazione dello schermo**, con microfono e audio di sistema
 - Installer **Calamares** e audio con **PipeWire**
 - **Giochi nativi**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Installa da Store → Giochi nativi. Al primo avvio, fornisci una ROM estratta dalla tua cartuccia; i pacchetti non includono dati di gioco.
+- **Screenshot** (Print, Shift + Print e Ctrl + Print): tutto ciò che fa Flameshot (strumenti di annotazione, fissa sullo schermo, copia, salva e riga di comando) e di più: "Copia testo" con OCR sul computer stesso, oscuramento dei dati con un clic, selezione intelligente, cattura a scorrimento, modalità presentazione, cronologia modificabile e registrazione in GIF
+- **Foto**: le tue immagini in libreria, preferiti e cartelle, con le stesse miniature del gestore di file
+- **Lettore PDF**: miniature delle pagine, sommario, note e adattamento alla larghezza
+- **Vista a colonne nel gestore di file** (Ctrl + 3) e miniature secondo lo standard freedesktop, condivise con Foto
+
+### Video: Lingmo Studio
+
+- **Lingmo Studio**: un editor video basato su MLT, con pagine come quelle di DaVinci Resolve: Montaggio, Colore, Effetti, Audio e Consegna
+- **Montaggio**: timeline multitraccia, ripple, roll, slip e slide, tagli J e L, clip composite, proxy e pannello della cronologia
+- **Colore**: ruote colore, curve, HSL, LUT .cube e scope
+- **Audio**: mixer, equalizzatore, compressore, riduzione del rumore e normalizzazione del volume in LUFS
+- **Esportazione** in MP4 come impostazione predefinita, con accelerazione tramite la scheda video (NVENC o VA-API)
+- **Genera clip**: trasforma un video lungo in clip brevi per Shorts, Reels, TikTok, Kwai, LinkedIn, X e Stories, con la durata e l'area sicura consigliate da ogni social, i momenti migliori scelti da un'IA locale (Ollama) e un'inquadratura 9:16 che segue il volto
+- **Sottotitoli** sincronizzati parola per parola con whisper.cpp, sul tuo computer: nove stili pensati per la lettura (karaoke con il colore che scorre sulla frase, parola evidenziata, parola per parola, podcast, neon, alto contrasto, due persone che parlano…) ed esportazione in SRT, VTT e ASS

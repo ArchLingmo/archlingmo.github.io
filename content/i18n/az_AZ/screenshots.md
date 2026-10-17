@@ -1,5 +1,11 @@
 ## Ekran şəkilləri
 
+![Lingmo Studio: uzun videodan Shorts, Reels və TikTok üçün kəsimlər](screenshots/studio-cuts.jpg)
+![Lingmo Studio: nitqlə sinxronlaşdırılmış altyazı üslubları](screenshots/studio-captions.jpg)
+![Karusel Alt+Tab: əksi olan 3D pəncərə keçidi](screenshots/alt-tab-carousel.jpg)
+![Başladıcıda Lingmo ikonları, üçüncü tərəf tətbiqlər də daxil olmaqla](screenshots/icons.jpg)
+![Səhifə miniatürləri ilə PDF oxuyucu](screenshots/reader.jpg)
+![Sütun görünüşündə fayl meneceri](screenshots/files-columns.jpg)
 ![Görüş dəvəti ilə Poçt: Qəbul et, Bəlkə və ya İmtina et](screenshots/mail.jpg)
 ![Ay görünüşündə Poçt təqvimi](screenshots/mail-calendar.jpg)
 ![Tapşırıqlar: bu gün, yaxınlaşan və gecikmiş](screenshots/mail-tasks.jpg)

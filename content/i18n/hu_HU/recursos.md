@@ -13,6 +13,9 @@ Mindez már ma is benne van az ArchLingmóban.
 - **Effektek**: kocsonyás ablakok, varázslámpa és könyvlapozós Alt+Tab
 - Globális menü a GTK-alkalmazásokhoz is
 - **Óra- és időjárás-kisalkalmazások** az asztalon, valódi előrejelzéssel a választott városra, egyetlen ikon alá csoportosítva a felső sávon
+- **„Körhinta” Alt+Tab**: válts ablakot egy 3D-s körhintában, cover flow stílusban, tükröződéssel
+- **Lingmo ikonok**: saját ikontéma, folyékony, squircle (lekerekített négyzet) formájú ikonokkal, a WhiteSur alapján generálva. A külső alkalmazások ikonjai automatikusan ugyanazt az ikonhátteret kapják
+- **Dokk nagyítással**: akár 200%-os ikonnagyítás, amikor fölé viszed az egeret, és **felső sáv** előre beállított, választható magasságokkal
 
 ### Mesterséges intelligencia (a saját gépeden)
 
@@ -20,6 +23,7 @@ Mindez már ma is benne van az ArchLingmóban.
 - **MI a Spotlightban**: kezdd "ai:" előtaggal a csevegéshez, vagy írj egy "?"-re végződő kérdést, és válaszd, hogy az MI-től kérdezed. Megmutatja, mennyi ideig tartott és milyen gyors volt az egyes válasz, és ugyanazokat az eszközöket használja, mint az Asszisztens
 - **Beállítások › Mesterséges intelligencia**: az Ollama állapota, telepített modellek, ajánlások *ehhez* a géphez, modellek letöltése folyamatjelzővel, „Gondolkodj válasz előtt” opció, valamint az Asszisztens engedélyei és eszközei
 - **Automatizáló**: napi rutinok megadott időpontban, egy paranccsal, és ha szeretnéd, a helyi MI elmagyarázza az eredményt
+- **Átírás és feliratok** a Beállítások › Mesterséges intelligencia oldalon: whisper.cpp-modellek címkékkel és „Ajánlott a gépedhez” jelvénnyel, a hardveredhez ajánlott MI-modellek mellett (llmfit)
 
 ### Beállítások
 
@@ -49,3 +53,17 @@ Mindez már ma is benne van az ArchLingmóban.
 - **Képernyőképek és képernyőfelvétel** mikrofonnal és rendszerhanggal
 - **Calamares** telepítő és **PipeWire** hangrendszer
 - **Natív játékok**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Telepítés: Áruház → Natív játékok. Első indításkor add meg a saját kazettádról készült ROM-ot; a csomagok nem tartalmaznak játékadatokat.
+- **Képernyőkép** (Print, Shift + Print és Ctrl + Print): mindaz, amit a Flameshot tud (jegyzetelőeszközök, rögzítés a képernyőre, másolás, mentés és parancssor), és még több: „Szöveg másolása” helyi OCR-rel, adatok kitakarása egy kattintással, intelligens kijelölés, görgetős képernyőkép, bemutató mód, szerkeszthető előzmények és GIF-felvétel
+- **Fotók**: a képeid könyvtárban, kedvencekben és mappákban, ugyanazokkal a bélyegképekkel, mint a fájlkezelőben
+- **PDF-olvasó**: oldalbélyegképek, tartalomjegyzék, jegyzetek és szélességhez igazítás
+- **Oszlopnézet a Fájlokban** (Ctrl + 3) és freedesktop-szabványú bélyegképek, közösen a Fotókkal
+
+### Videó: Lingmo Studio
+
+- **Lingmo Studio**: MLT-re épülő videószerkesztő, a DaVinci Resolve-éhoz hasonló oldalakkal: Vágás, Szín, Effektek, Hang és Kimenet
+- **Vágás**: többsávos idővonal, ripple, roll, slip és slide, J és L vágások, összetett klipek, proxyk és előzménypanel
+- **Szín**: színkerekek, görbék, HSL, .cube LUT-ok és videoszkópok
+- **Hang**: keverő, hangszínszabályzó, kompresszor, zajcsökkentés és LUFS-alapú hangerő-normalizálás
+- **Exportálás** alapértelmezetten MP4-be, a videokártya gyorsításával (NVENC vagy VA-API)
+- **Rövid klipek készítése**: egy hosszú videóból rövid klipeket készít Shorts, Reels, TikTok, Kwai, LinkedIn, X és Stories számára, az egyes hálózatok által ajánlott hosszal és biztonságos területtel; a legjobb pillanatokat egy helyi MI (Ollama) választja ki, a 9:16-os képkivágás pedig követi az arcot
+- **Feliratok** szóról szóra szinkronizálva a whisper.cpp-vel, a saját gépeden: kilenc, olvasásra tervezett stílus (karaoke, ahol a szín végigsöpör a mondaton, kiemelt szó, szóról szóra, podcast, neon, nagy kontraszt, két beszélő…) és exportálás SRT, VTT és ASS formátumba

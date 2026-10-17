@@ -1,5 +1,11 @@
 ## Skrinshotlar
 
+![Lingmo Studio: uzun videodan Shorts, Reels va TikTok uchun kesmalar](screenshots/studio-cuts.jpg)
+![Lingmo Studio: nutq bilan sinxronlangan subtitr uslublari](screenshots/studio-captions.jpg)
+![Karusel Alt+Tab: aksli 3D oyna almashtirish](screenshots/alt-tab-carousel.jpg)
+![Ishga tushirgichdagi Lingmo belgilari, uchinchi tomon ilovalari ham](screenshots/icons.jpg)
+![Sahifa eskizlari bilan PDF o‘quvchi](screenshots/reader.jpg)
+![Ustunlar ko‘rinishidagi fayl menejeri](screenshots/files-columns.jpg)
 ![Uchrashuv taklifnomasi bilan Pochta: «Qabul qilish», «Balki» yoki «Rad etish»](screenshots/mail.jpg)
 ![Pochta taqvimi oy ko‘rinishida](screenshots/mail-calendar.jpg)
 ![Vazifalar: bugungi, yaqinlashayotgan va muddati o‘tgan](screenshots/mail-tasks.jpg)

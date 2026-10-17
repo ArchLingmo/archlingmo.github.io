@@ -1,5 +1,11 @@
 ## Képernyőképek
 
+![Lingmo Studio: rövid klipek Shorts, Reels és TikTok számára egy hosszú videóból](screenshots/studio-cuts.jpg)
+![Lingmo Studio: a beszéddel szinkronizált feliratstílusok](screenshots/studio-captions.jpg)
+![Körhinta Alt+Tab: ablakváltás 3D-ben, tükröződéssel](screenshots/alt-tab-carousel.jpg)
+![Lingmo ikonok az indítóban, a külső alkalmazásoknál is](screenshots/icons.jpg)
+![PDF-olvasó oldalbélyegképekkel](screenshots/reader.jpg)
+![A fájlkezelő oszlopnézetben](screenshots/files-columns.jpg)
 ![Levelezés megbeszélésre szóló meghívóval: Elfogadás, Talán vagy Elutasítás](screenshots/mail.jpg)
 ![A Levelezés naptára havi nézetben](screenshots/mail-calendar.jpg)
 ![Feladatok: mai, közelgő és lejárt](screenshots/mail-tasks.jpg)

@@ -17,7 +17,13 @@ datora uzturēšana bez tehniskām zināšanām.
 - [x] **Android lietotnes** (APK) kastē, ar Waydroid, kas parādās palaidējā kā jebkura cita lietotne
 - [x] **Spēles ar vienu klikšķi**: Steam, Proton un spēļu režīms, ar brīdinājumu par spēlēm, kuru pretkrāpšanas sistēma nedarbojas Linux
 - [x] **Vietējās spēles**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Instalējiet no Veikals → Vietējās spēles. Pirmajā palaišanas reizē norādiet ROM, kas nolasīts no jūsu pašu kasetnes; pakotnēs nav spēļu datu.
-- [ ] **Vairāk vietējo spēļu**: Zelda: Ocarina of Time (Ship of Harkinian) un Mario Kart 64 (SpaghettiKart), veikalā joprojām “Drīzumā”
+
+### 09/11 – 13/12 · Radīt un dalīties
+
+- [ ] **Gudrāks Lingmo Studio**: kadrējums, kas seko galvenajam objektam (ne tikai sejai), atpazīšana, kurš runā katrā daļā (runātāju nošķiršana), un audio efekti katram celiņam
+- [ ] **Izlaist atlikušās vietējās spēles**: Zelda: Ocarina of Time (Ship of Harkinian) un Mario Kart 64 (SpaghettiKart), kas Veikalā pašlaik ir “Drīzumā”, tiklīdz projektu licences ļaus tās izplatīt
+- [ ] Pabeigt Iestatījumu, Pasta un failu pārvaldnieka sānjoslu pāreju uz **LingmoUI**, lai tās izskatītos tāpat kā pārējās lietotnes
+- [ ] Sagatavot ceļu **Wayland sesijai**: pārbaudīt Lingmo lietotnes un efektus Wayland vidē (pilnā sesija joprojām plānota 2027. gadam)
 
 ### 09/11 – 13/12 · Datora uzturēšana
 
@@ -45,7 +51,7 @@ datora uzturēšana bez tehniskām zināšanām.
 - [ ] **Iepriekšējās versijas** failiem failu pārvaldniekā, kā Time Machine
 - [ ] **Integrēts tālrunis**: paziņojumi, faili un starpliktuve ar Android un iPhone (KDE Connect)
 - [ ] **Mākoņa konti**: Google Drive un OneDrive failu pārvaldniekā
-- [ ] Teksta kopēšana no ekrānuzņēmuma (OCR)
+- [x] Teksta kopēšana no ekrānuzņēmuma (OCR)
 - [ ] Instalētājs, kas brīdina par BitLocker un Secure Boot, instalējot blakus Windows
 
 ### No 2027. gada jūnija

@@ -1,5 +1,11 @@
 ## Capturi de ecran
 
+![Lingmo Studio: clipuri pentru Shorts, Reels și TikTok dintr-un video lung](screenshots/studio-cuts.jpg)
+![Lingmo Studio: stiluri de subtitrare sincronizate cu vorbirea](screenshots/studio-captions.jpg)
+![Alt+Tab Carusel: comutarea ferestrelor în 3D, cu reflexie](screenshots/alt-tab-carousel.jpg)
+![Pictograme Lingmo în lansator, inclusiv la aplicațiile terțe](screenshots/icons.jpg)
+![Cititor PDF cu miniaturile paginilor](screenshots/reader.jpg)
+![Managerul de fișiere în vizualizarea pe coloane](screenshots/files-columns.jpg)
 ![Mail cu o invitație la ședință: Accept, Poate sau Refuz](screenshots/mail.jpg)
 ![Calendarul din Mail în vizualizarea pe lună](screenshots/mail-calendar.jpg)
 ![Sarcini: azi, viitoare și întârziate](screenshots/mail-tasks.jpg)

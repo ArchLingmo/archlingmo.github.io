@@ -17,7 +17,13 @@ a számítógép karbantartása szakértelem nélkül.
 - [x] **Android-alkalmazások** (APK) dobozban, Waydroiddal, amelyek ugyanúgy megjelennek az indítóban, mint bármely más alkalmazás
 - [x] **Játékok egy kattintással**: Steam, Proton és játékmód, figyelmeztetéssel azokra a csalásvédelmet használó játékokra, amelyek nem futnak Linuxon
 - [x] **Natív játékok**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Telepítés: Áruház → Natív játékok. Első indításkor add meg a saját kazettádról készült ROM-ot; a csomagok nem tartalmaznak játékadatokat.
-- [ ] **További natív játékok**: Zelda: Ocarina of Time (Ship of Harkinian) és Mario Kart 64 (SpaghettiKart), az áruházban még „Hamarosan” állapotban
+
+### 11.09. – 12.13. · Alkotás és megosztás
+
+- [ ] **Okosabb Lingmo Studio**: képkivágás, amely a fő témát követi (nem csak az arcot), annak felismerése, hogy ki beszél az egyes részekben (beszélőazonosítás), és hangeffektek minden sávon
+- [ ] **A hátralévő natív játékok kiadása**: Zelda: Ocarina of Time (Ship of Harkinian) és Mario Kart 64 (SpaghettiKart), amelyek most „Hamarosan” állapotban vannak az Áruházban, amint a projektek licence engedi a terjesztésüket
+- [ ] A Beállítások, a Levelezés és a fájlkezelő oldalsávjainak teljes átállítása **LingmoUI**-ra, ugyanazzal a megjelenéssel, mint a többi alkalmazás
+- [ ] A **Wayland-munkamenet** előkészítése: a Lingmo alkalmazásainak és effektjeinek tesztelése Waylanden (a teljes munkamenet továbbra is 2027-re van tervezve)
 
 ### 11.09. – 12.13. · A számítógép karbantartása
 
@@ -45,7 +51,7 @@ a számítógép karbantartása szakértelem nélkül.
 - [ ] A fájlok **korábbi verziói** a fájlkezelőben, mint a Time Machine-ben
 - [ ] **Telefonintegráció**: értesítések, fájlok és vágólap Androiddal és iPhone-nal (KDE Connect)
 - [ ] **Felhőfiókok**: a Google Drive és a OneDrive megjelenik a fájlkezelőben
-- [ ] Szöveg másolása képernyőképről (OCR)
+- [x] Szöveg másolása képernyőképről (OCR)
 - [ ] Telepítő, amely figyelmeztet a BitLockerre és a Secure Bootra, ha a Windows mellé telepítesz
 
 ### 2027 júniusától

@@ -13,6 +13,9 @@ Waxyaabahan oo dhan maanta ayay ku jiraan ArchLingmo.
 - **Saamaynno**: daaqado jelly oo kale u gariira, laambadda sixirka, iyo Alt+Tab oo u eg bogagga buug
 - Menu guud oo xitaa loogu talagalay abka GTK
 - **Widget-yada saacadda iyo cimilada** ee desktop-ka, oo leh saadaasha dhabta ah ee magaalada aad doorato, laguna ururiyay hal astaan oo ku jira bar-ka sare
+- **Alt+Tab "Karuusel"**: ku beddel daaqadaha karuusel 3D ah, qaabka cover flow, oo leh milicsi
+- **Astaamaha Lingmo**: mawduuc astaamo u gaar ah, oo leh astaamo siman oo qaab squircle ah (afargees geesaha la wareejiyay), laga dhisay WhiteSur. Astaamaha abka dhinac saddexaad si toos ah ayay u helaan isla saxankaas
+- **Dock oo weyneysa** astaamaha ilaa 200% marka jiirka la dul saaro iyo **bar-ka sare** oo leh dhererro diyaarsan oo aad ka dooran karto
 
 ### Sirdoonka macmalka ah (kombiyuutarkaaga dushiisa)
 
@@ -20,6 +23,7 @@ Waxyaabahan oo dhan maanta ayay ku jiraan ArchLingmo.
 - **AI-ga Spotlight**: ku bilow "ai:" si aad ula sheekaysato, ama qor su'aal ku dhammaata "?" oo dooro inaad AI-ga weydiiso. Wuxuu muujiyaa inta uu jawaab kastaa qaatay iyo xawaaraha ay ahayd, wuxuuna isticmaalaa qalabka uu Kaaliyuhu isticmaalo
 - **Dejinta › Sirdoonka macmalka ah**: xaaladda Ollama, moodellada la rakibay, talooyin loogu talagalay kombiyuutarkan *gaarka ah*, soo dejinta moodellada oo leh horumarka, ikhtiyaarka "Ka fikir ka hor intaadan jawaabin", iyo oggolaanshaha iyo qalabka Kaaliyaha
 - **Otomaatiyeeye**: hawl maalinle ah oo waqti go'an, oo leh amar iyo, haddii aad rabto, AI-ga maxalliga ah oo sharxaya natiijada
+- **Qoraal-u-beddelka codka iyo qoraal-hoosaadyada** ee Dejinta › Sirdoonka macmalka ah: moodellada whisper.cpp oo leh calaamado iyo sumadda "Lagu taliyay kombiyuutarkaaga", oo ku xiga moodellada AI ee loogu talagalay qalabkaaga (llmfit)
 
 ### Dejinta
 
@@ -49,3 +53,17 @@ Waxyaabahan oo dhan maanta ayay ku jiraan ArchLingmo.
 - **Sawirro iyo duubista shaashadda**, oo leh makarafoon iyo codka nidaamka
 - Rakibaha **Calamares** iyo cod iyada oo loo marayo **PipeWire**
 - **Ciyaaraha asalka ah**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Ka rakib Dukaanka → Ciyaaraha asalka ah. Marka ugu horreysa ee aad furto, keen ROM laga soo saaray kartarijkaaga; xirmooyinku kuma jiraan xogta ciyaaraha.
+- **Sawirka shaashadda** (Print, Shift + Print iyo Ctrl + Print): wax kasta oo Flameshot sameeyo (qalabka faallooyinka, ku dhejinta shaashadda, koobiyeynta, kaydinta iyo khadka amarrada) iyo wax ka badan: "Koobi qoraalka" oo leh OCR kombiyuutarkaaga dushiisa, qarinta xogta hal guji, xulasho caqli leh, sawir qaadis la rogrogo, habka bandhigga, taariikh la tafatiri karo iyo duubis GIF ah
+- **Sawirrada**: sawirradaada oo ku jira maktabad, kuwa la jecel yahay iyo galal, oo leh isla sawirrada yaryar ee maareeyaha faylasha
+- **Akhriyaha PDF**: sawirrada yaryar ee bogagga, tusmada, qoraallada iyo ku habaynta ballaca
+- **Muuqaalka tiirarka ee Faylasha** (Ctrl + 3) iyo sawirro yaryar oo raacaya heerka freedesktop, oo la wadaago Sawirrada
+
+### Muuqaal: Lingmo Studio
+
+- **Lingmo Studio**: tafatire muuqaal oo lagu dhisay MLT, oo leh bogag la mid ah kuwa DaVinci Resolve: Tafatir, Midab, Saamaynno, Cod iyo Gudbin
+- **Tafatirka**: jadwal-waqtiyeed leh luuq badan, ripple, roll, slip iyo slide, gooyniinka J iyo L, kilibyo isku dhafan, proxy-yo iyo guddi taariikheed
+- **Midab**: giraangiraha midabka, qalooca, HSL, LUT-yada .cube iyo cabbirayaasha (scopes)
+- **Cod**: isku-dare, isle'eeg (equalizer), cadaadiye (compressor), dhimista buuqa iyo is-waafajinta heerka codka ee LUFS
+- **U dhoofi** MP4 si caadi ah, oo uu dardargeliyo kaarka sawirka (NVENC ama VA-API)
+- **Samee qaybo gaaban**: wuxuu muuqaal dheer u beddelaa qaybo gaaban oo loogu talagalay Shorts, Reels, TikTok, Kwai, LinkedIn, X iyo Stories, oo leh dhererka iyo aagga badbaadada ah ee shabakad kastaa ku talisay, daqiiqadaha ugu fiican oo uu doortay AI maxalli ah (Ollama) iyo dib-u-qaabayn 9:16 ah oo raacaysa wejiga
+- **Qoraal-hoosaadyo** la waafajiyay kelmad-kelmad iyadoo la adeegsanayo whisper.cpp, kombiyuutarkaaga dushiisa: sagaal qaab oo loogu talagalay akhriska (karaoke oo midabku dul marayo jumladda, kelmad la iftiimiyay, kelmad-kelmad, podcast, neon, kala-duwanaansho sare, laba qof oo hadlaya…) iyo u dhoofinta SRT, VTT iyo ASS

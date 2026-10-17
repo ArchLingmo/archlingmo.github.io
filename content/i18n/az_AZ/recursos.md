@@ -13,6 +13,9 @@ Bütün bunlar artıq bu gün ArchLingmo-da var.
 - **Effektlər**: jele pəncərələr, sehrli lampa və kitab vərəqləri kimi Alt+Tab
 - GTK tətbiqləri üçün də qlobal menyu
 - İş masasında **saat və hava widgetləri**: seçdiyiniz şəhər üçün real proqnozla, üst paneldə bir ikonun altında toplanıb
+- **"Karusel" Alt+Tab**: pəncərələr arasında cover flow üslubunda, əksi olan 3D karuseldə keçid edin
+- **Lingmo ikonları**: WhiteSur əsasında yaradılmış, squircle (yumşaq künclü kvadrat) formalı axıcı ikonlarla öz ikon mövzumuz. Üçüncü tərəf tətbiqlərin ikonları da eyni lövhəni avtomatik alır
+- Siçanı üzərinə gətirəndə ikonları 200%-ə qədər böyüdən **dok** və hazır hündürlük seçimləri olan **status paneli**
 
 ### Süni intellekt (öz kompüterinizdə)
 
@@ -20,6 +23,7 @@ Bütün bunlar artıq bu gün ArchLingmo-da var.
 - **Spotlight-da süni intellekt**: söhbət üçün "ai:" ilə başlayın və ya "?" ilə bitən sual yazıb süni intellektdən soruşmağı seçin. Hər cavabın nə qədər çəkdiyini və nə qədər sürətli olduğunu göstərir, Köməkçi ilə eyni alətlərdən istifadə edir
 - **Parametrlər › Süni intellekt**: Ollama vəziyyəti, quraşdırılmış modellər, *bu* kompüter üçün tövsiyələr, irəliləyişi göstərilən model yükləmələri, "Cavab verməzdən əvvəl düşün" seçimi, Köməkçinin icazələri və alətləri
 - **Avtomatlaşdırıcı**: müəyyən saatda gündəlik rutinlər, əmrlə və istəsəniz nəticəni izah edən lokal süni intellektlə
+- Parametrlər › Süni intellekt bölməsində **transkripsiya və altyazılar**: etiketli və "Kompüteriniz üçün tövsiyə olunur" nişanlı whisper.cpp modelləri, avadanlığınız üçün tövsiyə olunan süni intellekt modellərinin yanında (llmfit)
 
 ### Parametrlər
 
@@ -49,3 +53,17 @@ Bütün bunlar artıq bu gün ArchLingmo-da var.
 - Mikrofon və sistem səsi ilə **ekran şəkilləri və ekran yazısı**
 - **Calamares** quraşdırıcısı və **PipeWire** ilə səs
 - **Doğma oyunlar**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Mağaza → Doğma oyunlar bölməsindən quraşdırın. İlk açılışda öz kartricinizdən çıxarılmış ROM-u təqdim edin; paketlərə oyun məlumatları daxil deyil.
+- **Ekran şəkli** (Print, Shift + Print və Ctrl + Print): Flameshot-un etdiyi hər şey (annotasiya alətləri, ekrana bərkitmə, kopyalama, saxlama və komanda sətri) və daha çoxu: kompüterin özündə OCR ilə "Mətni kopyala", bir kliklə məlumatı gizlətmə, ağıllı seçim, sürüşdürməli çəkiliş, təqdimat rejimi, redaktə edilə bilən tarixçə və GIF yazısı
+- **Şəkillər**: şəkilləriniz kitabxanada, seçilmişlərdə və qovluqlarda, fayl meneceri ilə eyni miniatürlərlə
+- **PDF oxuyucu**: səhifə miniatürləri, mündəricat, qeydlər və enə görə sığdırma
+- **Fayllarda sütun görünüşü** (Ctrl + 3) və Şəkillər ilə paylaşılan, freedesktop standartında miniatürlər
+
+### Video: Lingmo Studio
+
+- **Lingmo Studio**: MLT üzərində qurulmuş, DaVinci Resolve-dakı kimi səhifələri olan video redaktoru: Redaktə, Rəng, Effektlər, Səs və Təhvil
+- **Redaktə**: çoxtrekli zaman xətti, ripple, roll, slip və slide, J və L kəsimləri, birləşmiş kliplər, proxy-lər və tarixçə paneli
+- **Rəng**: rəng çarxları, əyrilər, HSL, .cube LUT-ları və skoplar
+- **Səs**: mikser, ekvalayzer, kompressor, küyün azaldılması və LUFS ilə səs səviyyəsinin normallaşdırılması
+- Defolt olaraq MP4-ə, videokartla sürətləndirilmiş (NVENC və ya VA-API) **ixrac**
+- **Kəsimlər yarat**: uzun videonu Shorts, Reels, TikTok, Kwai, LinkedIn, X və Stories üçün kəsimlərə çevirir; hər şəbəkənin tövsiyə etdiyi müddət və təhlükəsiz zona ilə, ən yaxşı anları lokal süni intellekt (Ollama) seçir və 9:16 yenidən kadrlama üzü izləyir
+- whisper.cpp ilə, öz kompüterinizdə söz-söz sinxronlaşdırılmış **altyazılar**: oxumaq üçün düşünülmüş doqquz üslub (rəngin sətir boyunca keçdiyi karaoke, vurğulanmış söz, söz-söz, podkast, neon, yüksək kontrast, iki danışan…) və SRT, VTT və ASS formatlarına ixrac

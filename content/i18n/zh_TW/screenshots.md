@@ -1,5 +1,11 @@
 ## 螢幕截圖
 
+![Lingmo Studio：從長影片產生 Shorts、Reels 與 TikTok 短片](screenshots/studio-cuts.jpg)
+![Lingmo Studio：與語音同步的字幕樣式](screenshots/studio-captions.jpg)
+![輪播 Alt+Tab：帶倒影的 3D 視窗切換](screenshots/alt-tab-carousel.jpg)
+![啟動器中的 Lingmo 圖示，第三方 App 也一樣](screenshots/icons.jpg)
+![顯示頁面縮圖的 PDF 閱讀器](screenshots/reader.jpg)
+![欄狀檢視下的檔案管理員](screenshots/files-columns.jpg)
 ![附會議邀請的郵件：接受、也許或拒絕](screenshots/mail.jpg)
 ![郵件中的行事曆，月檢視](screenshots/mail-calendar.jpg)
 ![待辦事項：今天、即將到來與已逾期](screenshots/mail-tasks.jpg)

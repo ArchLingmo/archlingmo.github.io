@@ -17,7 +17,13 @@ texnik bilimsiz kompyuterni parvarish qilish.
 - [x] Qutida Waydroid orqali ishlaydigan **Android ilovalari** (APK), ular ishga tushirgichda boshqa ilovalar kabi ko‘rinadi
 - [x] **Bir bosishda o‘yinlar**: Steam, Proton va o‘yin rejimi, Linux’da ishlamaydigan anti-cheat’li o‘yinlar haqida ogohlantirish bilan
 - [x] **Mahalliy o‘yinlar**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Do‘kon → Mahalliy o‘yinlar bo‘limidan o‘rnating. Birinchi ishga tushirishda o‘z kartrijingizdan olingan ROMni ko‘rsating; paketlarda o‘yin ma’lumotlari yo‘q.
-- [ ] **Ko‘proq mahalliy o‘yinlar**: Zelda: Ocarina of Time (Ship of Harkinian) va Mario Kart 64 (SpaghettiKart), do‘konda hali «Tez orada»
+
+### 09/11 – 13/12 · Yarating va ulashing
+
+- [ ] **Aqlliroq Lingmo Studio**: asosiy obyektni (faqat yuzni emas) kuzatib boradigan qayta kadrlash, har bir qismda kim gapirayotganini aniqlash (so‘zlovchilarni ajratish) va har bir yo‘lakda audio effektlar
+- [ ] **Qolgan mahalliy o‘yinlarni chiqarish**: hozir Do‘konda «Tez orada» bo‘lgan Zelda: Ocarina of Time (Ship of Harkinian) va Mario Kart 64 (SpaghettiKart), loyihalar litsenziyasi ularni tarqatishga ruxsat berishi bilanoq
+- [ ] Sozlamalar, Pochta va fayl menejerining yon panellarini boshqa ilovalar bilan bir xil ko‘rinishda **LingmoUI**’ga o‘tkazishni yakunlash
+- [ ] **Wayland seansi** uchun zamin tayyorlash: Lingmo ilovalari va effektlarini Wayland’da sinab ko‘rish (to‘liq seans hali ham 2027-yilga rejalashtirilgan)
 
 ### 09/11 – 13/12 · Kompyuterni parvarish qilish
 
@@ -45,7 +51,7 @@ texnik bilimsiz kompyuterni parvarish qilish.
 - [ ] Fayl menejerida fayllarning **oldingi versiyalari**, xuddi Time Machine’dagidek
 - [ ] **Telefon integratsiyasi**: Android va iPhone bilan bildirishnomalar, fayllar va almashish buferi (KDE Connect)
 - [ ] **Bulut hisoblari**: Google Drive va OneDrive fayl menejerida ko‘rinadi
-- [ ] Skrinshotdan matnni nusxalash (OCR)
+- [x] Skrinshotdan matnni nusxalash (OCR)
 - [ ] Windows yonida o‘rnatishda BitLocker va Secure Boot haqida ogohlantiradigan o‘rnatuvchi
 
 ### 2027-yil iyunidan boshlab

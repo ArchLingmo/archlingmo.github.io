@@ -1,5 +1,11 @@
 ## Снимци екрана
 
+![Lingmo Studio: исечци за Shorts, Reels и TikTok од дугачког видеа](screenshots/studio-cuts.jpg)
+![Lingmo Studio: стилови титлова синхронизованих са говором](screenshots/studio-captions.jpg)
+![Alt+Tab Вртешка: 3D промена прозора са одразом](screenshots/alt-tab-carousel.jpg)
+![Lingmo иконице у покретачу, укључујући апликације трећих страна](screenshots/icons.jpg)
+![Читач PDF-а са сличицама страница](screenshots/reader.jpg)
+![Управник датотека у приказу по колонама](screenshots/files-columns.jpg)
 ![Пошта са позивом на састанак: Прихвати, Можда или Одбиј](screenshots/mail.jpg)
 ![Календар у Пошти у месечном приказу](screenshots/mail-calendar.jpg)
 ![Задаци: данас, предстојећи и закаснели](screenshots/mail-tasks.jpg)
