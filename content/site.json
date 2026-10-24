@@ -1,5 +1,6 @@
 {
   "name": "ArchLingmo",
+  "url": "https://devalexandre.github.io/archlingmo/",
   "tagline": "O desktop Lingmo em Qt 6, sobre o Arch Linux.",
   "version": "2026.10.11",
   "iso": {
