@@ -24,6 +24,10 @@ Alt dette følger med ArchLingmo allerede i dag.
 - **Indstillinger › Kunstig intelligens**: Ollama-status, installerede modeller, anbefalinger til *denne* computer, download af modeller med fremskridt, en "Tænk før svar"-indstilling og Assistentens tilladelser og værktøjer
 - **Automator**: daglige rutiner på et fast tidspunkt, med en kommando og, hvis du vil, den lokale AI, der forklarer resultatet
 - **Transskription og undertekster** i Indstillinger › Kunstig intelligens: whisper.cpp-modeller med mærkater og mærket "Anbefalet til din computer", ved siden af de AI-modeller, der anbefales til din hardware (llmfit)
+- **Assistant flows**: build automations from blocks, a trigger (a time, a new e-mail, a voice command or a shortcut) plus app actions, follow every run step by step and approve once what the flow may do
+- **Agents and voice**: assistants with their own instructions, model and tools, called in the chat, in a flow or from Spotlight ("ai:@name"). And talk to the Assistant by voice with Meta + Shift + I
+- **Ask about the screen** (Meta + S): circle or select any area of the screen to explain, translate, summarize, copy its text or search the web. It is analyzed on your computer and nothing is sent
+- **App actions** (Lingmo Intents): Clock, Mail, Notes, Files, Screenshots and other apps offer actions to the Assistant, Flows and Spotlight: type what you want, such as an alarm at 7, and confirm. In Settings › Artificial Intelligence you can turn off an app or a single action, and sending or changing anything always asks first
 
 ### Indstillinger
 
@@ -33,6 +37,7 @@ Alt dette følger med ArchLingmo allerede i dag.
 - Siderne **Genveje** og **Opstart**, hvor du vælger, hvad der starter sammen med systemet
 - **Opdateringer uden terminal**: besked i bjælken og en "Opdatér"-knap
 - Fås på **48 sprog**
+- **Folders that follow your language**: when you switch language, your personal folders (Documents, Videos, Pictures…) get the new names; folders that exist in two languages are merged without deleting anything, and you can undo it
 
 ### Kamera og sikkerhed
 
@@ -67,3 +72,4 @@ Alt dette følger med ArchLingmo allerede i dag.
 - **Eksportér** til MP4 som standard, accelereret af grafikkortet (NVENC eller VA-API)
 - **Lav klip**: forvandler en lang video til klip til Shorts, Reels, TikTok, Kwai, LinkedIn, X og Stories, med den længde og det sikre område, hvert netværk anbefaler, de bedste øjeblikke valgt af en lokal AI (Ollama) og en 9:16-beskæring, der følger ansigtet
 - **Undertekster** synkroniseret ord for ord med whisper.cpp, på din egen computer: ni stilarter skabt til læsning (karaoke, hvor farven glider hen over linjen, fremhævet ord, ord for ord, podcast, neon, høj kontrast, to talere…) og eksport til SRT, VTT og ASS
+- **Cut**: the quick page for assembling a video, with the whole timeline in miniature above the detailed one, smart trim and shortcuts to Generate cuts and Captions

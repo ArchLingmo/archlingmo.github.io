@@ -24,6 +24,10 @@
 - **සැකසුම් › කෘත්‍රිම බුද්ධිය**: Ollama තත්ත්වය, ස්ථාපිත මාදිලි, *මෙම* පරිගණකය සඳහා නිර්දේශ, ප්‍රගතිය පෙන්වමින් මාදිලි බාගැනීම, "පිළිතුරු දීමට පෙර සිතන්න" විකල්පය සහ සහායකයාගේ අවසර සහ මෙවලම්
 - **ස්වයංක්‍රීයකරු**: නියමිත වේලාවක දෛනික කාර්ය චර්යා, විධානයක් සමඟ සහ ඔබ කැමති නම් ප්‍රතිඵලය පැහැදිලි කරන දේශීය AI සමඟ
 - සැකසුම් › කෘත්‍රිම බුද්ධිය තුළ **පිටපත් කිරීම සහ උපසිරැසි**: ටැග් සහ "ඔබේ පරිගණකයට නිර්දේශිත" ලාංඡනය සහිත whisper.cpp මාදිලි, ඔබේ දෘඪාංග සඳහා නිර්දේශිත AI මාදිලි (llmfit) සමඟ
+- **Assistant flows**: build automations from blocks, a trigger (a time, a new e-mail, a voice command or a shortcut) plus app actions, follow every run step by step and approve once what the flow may do
+- **Agents and voice**: assistants with their own instructions, model and tools, called in the chat, in a flow or from Spotlight ("ai:@name"). And talk to the Assistant by voice with Meta + Shift + I
+- **Ask about the screen** (Meta + S): circle or select any area of the screen to explain, translate, summarize, copy its text or search the web. It is analyzed on your computer and nothing is sent
+- **App actions** (Lingmo Intents): Clock, Mail, Notes, Files, Screenshots and other apps offer actions to the Assistant, Flows and Spotlight: type what you want, such as an alarm at 7, and confirm. In Settings › Artificial Intelligence you can turn off an app or a single action, and sending or changing anything always asks first
 
 ### සැකසුම්
 
@@ -33,6 +37,7 @@
 - පද්ධතිය සමඟ විවෘත වන දේ තෝරා ගැනීමට **කෙටිමං** සහ **ආරම්භය** පිටු
 - **ටර්මිනලය නැතිව යාවත්කාලීන**: තීරුවේ දැනුම්දීමක් සහ "යාවත්කාලීන කරන්න" බොත්තම
 - **භාෂා 48කින්** ලබා ගත හැක
+- **Folders that follow your language**: when you switch language, your personal folders (Documents, Videos, Pictures…) get the new names; folders that exist in two languages are merged without deleting anything, and you can undo it
 
 ### කැමරාව සහ ආරක්ෂාව
 
@@ -67,3 +72,4 @@
 - පෙරනිමියෙන් MP4 වෙත **අපනයනය**, ග්‍රැෆික් කාඩ්පත මගින් වේගවත් කළ (NVENC හෝ VA-API)
 - **කැපීම් සාදන්න**: දිගු වීඩියෝවක් Shorts, Reels, TikTok, Kwai, LinkedIn, X සහ Stories සඳහා කැපීම් බවට පත් කරයි, එක් එක් ජාලය නිර්දේශ කරන දිග සහ ආරක්ෂිත ප්‍රදේශය සමඟ, හොඳම අවස්ථා දේශීය AI (Ollama) මගින් තෝරා, මුහුණ අනුගමනය කරන 9:16 රාමුගත කිරීමක් සමඟ
 - ඔබේම පරිගණකයේ whisper.cpp සමඟ වචනයෙන් වචනය සමමුහුර්ත කළ **උපසිරැසි**: කියවීම සඳහා නිර්මාණය කළ ශෛලී නවයක් (පේළිය දිගේ වර්ණය ගලා යන කැරෝකේ, ඉස්මතු කළ වචනය, වචනයෙන් වචනය, පොඩ්කාස්ට්, නියොන්, ඉහළ වෙනස, කථිකයන් දෙදෙනෙක්…) සහ SRT, VTT සහ ASS වෙත අපනයනය
+- **Cut**: the quick page for assembling a video, with the whole timeline in miniature above the detailed one, smart trim and shortcuts to Generate cuts and Captions

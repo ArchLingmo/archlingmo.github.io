@@ -17,6 +17,10 @@ starostlivosť o počítač bez technických znalostí.
 - [x] **Aplikácie pre Android** (APK) v boxe cez Waydroid, ktoré sa zobrazia v spúšťači ako každá iná aplikácia
 - [x] **Hry jedným kliknutím**: Steam, Proton a herný režim, s upozornením na hry, ktorých anti-cheat na Linuxe nefunguje
 - [x] **Natívne hry**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Inštalujte cez Obchod → Natívne hry. Pri prvom spustení zadajte ROM získanú z vlastnej kazety; balíky neobsahujú herné dáta.
+- [x] **Ask about the screen** (Meta + S): circle an area to explain, translate or summarize it, with the AI on your computer
+- [x] **App actions** (Lingmo Intents): apps offer actions to the Assistant, Flows and Spotlight
+- [x] **Assistant with flows, agents and voice** (Meta + Shift + I)
+- [x] **One keyboard and mouse for several computers** (Deskflow), with a shared clipboard
 
 ### 09/11 – 13/12 · Tvorba a zdieľanie
 
@@ -49,7 +53,7 @@ starostlivosť o počítač bez technických znalostí.
 
 - [ ] **Zmena rozloženia** jedným kliknutím: štýl macOS, štýl Windows alebo Lingmo
 - [ ] **Predchádzajúce verzie** súborov v správcovi súborov, ako v Time Machine
-- [ ] **Prepojený telefón**: upozornenia, súbory a schránka s Androidom a iPhonom (KDE Connect)
+- [x] **Prepojený telefón**: upozornenia, súbory a schránka s Androidom a iPhonom (KDE Connect)
 - [ ] **Cloudové účty**: Google Drive a OneDrive priamo v správcovi súborov
 - [x] Kopírovanie textu zo snímky obrazovky (OCR)
 - [ ] Inštalátor, ktorý upozorní na BitLocker a Secure Boot pri inštalácii vedľa Windows

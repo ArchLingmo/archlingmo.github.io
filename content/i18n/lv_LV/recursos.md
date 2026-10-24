@@ -24,6 +24,10 @@ Tas viss ArchLingmo ir pieejams jau šodien.
 - **Iestatījumi › Mākslīgais intelekts**: Ollama statuss, instalētie modeļi, ieteikumi *šim* datoram, modeļu lejupielāde ar progresu, opcija “Padomāt pirms atbildes” un Asistenta atļaujas un rīki
 - **Automatizētājs**: ikdienas rutīnas noteiktā laikā ar komandu un, ja vēlaties, lokālo AI, kas izskaidro rezultātu
 - **Transkripcija un subtitri** sadaļā Iestatījumi › Mākslīgais intelekts: whisper.cpp modeļi ar birkām un emblēmu “Ieteicams jūsu datoram” blakus AI modeļiem, kas ieteikti jūsu aparatūrai (llmfit)
+- **Assistant flows**: build automations from blocks, a trigger (a time, a new e-mail, a voice command or a shortcut) plus app actions, follow every run step by step and approve once what the flow may do
+- **Agents and voice**: assistants with their own instructions, model and tools, called in the chat, in a flow or from Spotlight ("ai:@name"). And talk to the Assistant by voice with Meta + Shift + I
+- **Ask about the screen** (Meta + S): circle or select any area of the screen to explain, translate, summarize, copy its text or search the web. It is analyzed on your computer and nothing is sent
+- **App actions** (Lingmo Intents): Clock, Mail, Notes, Files, Screenshots and other apps offer actions to the Assistant, Flows and Spotlight: type what you want, such as an alarm at 7, and confirm. In Settings › Artificial Intelligence you can turn off an app or a single action, and sending or changing anything always asks first
 
 ### Iestatījumi
 
@@ -33,6 +37,7 @@ Tas viss ArchLingmo ir pieejams jau šodien.
 - Lapas **Īsinājumtaustiņi** un **Palaišana**, lai izvēlētos, kas atveras kopā ar sistēmu
 - **Atjauninājumi bez termināļa**: paziņojums augšējā joslā un poga “Atjaunināt”
 - Pieejams **48 valodās**
+- **Folders that follow your language**: when you switch language, your personal folders (Documents, Videos, Pictures…) get the new names; folders that exist in two languages are merged without deleting anything, and you can undo it
 
 ### Kamera un drošība
 
@@ -67,3 +72,4 @@ Tas viss ArchLingmo ir pieejams jau šodien.
 - **Eksports** uz MP4 pēc noklusējuma ar videokartes paātrinājumu (NVENC vai VA-API)
 - **Veidot fragmentus**: pārvērš garu video fragmentos platformām Shorts, Reels, TikTok, Kwai, LinkedIn, X un Stories ar katra tīkla ieteikto garumu un drošo zonu, labākajiem mirkļiem, ko izvēlas lokālais AI (Ollama), un 9:16 kadrējumu, kas seko sejai
 - **Subtitri**, sinhronizēti vārdu pa vārdam ar whisper.cpp jūsu pašu datorā: deviņi lasīšanai veidoti stili (karaoke, kur krāsa slīd pāri rindai, izcelts vārds, vārds pa vārdam, podkāsts, neons, augsts kontrasts, divi runātāji…) un eksports uz SRT, VTT un ASS
+- **Cut**: the quick page for assembling a video, with the whole timeline in miniature above the detailed one, smart trim and shortcuts to Generate cuts and Captions

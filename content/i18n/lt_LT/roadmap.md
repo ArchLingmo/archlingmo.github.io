@@ -17,6 +17,10 @@ kompiuterio priežiūra nebūnant techniniu žinovu.
 - [x] **Android programėlės** (APK) dėžėje, su Waydroid, rodomos paleidiklyje kaip bet kuri kita programėlė
 - [x] **Žaidimai vienu spustelėjimu**: Steam, Proton ir žaidimų režimas, su įspėjimu apie žaidimus su apsauga nuo sukčiavimo, kurie neveikia Linux
 - [x] **Vietiniai žaidimai**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Įdiekite iš Parduotuvė → Vietiniai žaidimai. Pirmą kartą paleidę pateikite ROM, nukopijuotą iš savo kasetės; paketuose nėra žaidimų duomenų.
+- [x] **Ask about the screen** (Meta + S): circle an area to explain, translate or summarize it, with the AI on your computer
+- [x] **App actions** (Lingmo Intents): apps offer actions to the Assistant, Flows and Spotlight
+- [x] **Assistant with flows, agents and voice** (Meta + Shift + I)
+- [x] **One keyboard and mouse for several computers** (Deskflow), with a shared clipboard
 
 ### 09/11–13/12 · Kurti ir dalytis
 
@@ -49,7 +53,7 @@ kompiuterio priežiūra nebūnant techniniu žinovu.
 
 - [ ] **Išdėstymo keitimas** vienu spustelėjimu: macOS stilius, Windows stilius arba Lingmo
 - [ ] **Ankstesnės failų versijos** failų tvarkytuvėje, kaip Time Machine
-- [ ] **Integruotas telefonas**: pranešimai, failai ir iškarpinė su Android ir iPhone (KDE Connect)
+- [x] **Integruotas telefonas**: pranešimai, failai ir iškarpinė su Android ir iPhone (KDE Connect)
 - [ ] **Debesų paskyros**: Google Drive ir OneDrive rodomi failų tvarkytuvėje
 - [x] Teksto kopijavimas iš ekrano nuotraukos (OCR)
 - [ ] Diegimo programa, įspėjanti apie BitLocker ir Secure Boot diegiant šalia Windows

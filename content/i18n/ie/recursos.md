@@ -24,6 +24,10 @@ Omnicos ci-infra ja es includet in ArchLingmo hodie.
 - **Parametres › Intelligentie Artificial**: statu de Ollama, modelles installat, recomandationes por *ti-ci* computator, descargas de modelles con progress, un option "Pensar ante responder", e li permissiones e utensiles del Assistent
 - **Automator**: rutines diarni a un hora fixat, con un comande e, si vu vole, li IA local quel explica li resultate
 - **Transcription e subtitules** in Parametres › Intelligentie Artificial: modelles de whisper.cpp con etiquettes e li insignie "Recomandat por vor computator", apu li modelles de IA recomandat por vor hardware (llmfit)
+- **Assistant flows**: build automations from blocks, a trigger (a time, a new e-mail, a voice command or a shortcut) plus app actions, follow every run step by step and approve once what the flow may do
+- **Agents and voice**: assistants with their own instructions, model and tools, called in the chat, in a flow or from Spotlight ("ai:@name"). And talk to the Assistant by voice with Meta + Shift + I
+- **Ask about the screen** (Meta + S): circle or select any area of the screen to explain, translate, summarize, copy its text or search the web. It is analyzed on your computer and nothing is sent
+- **App actions** (Lingmo Intents): Clock, Mail, Notes, Files, Screenshots and other apps offer actions to the Assistant, Flows and Spotlight: type what you want, such as an alarm at 7, and confirm. In Settings › Artificial Intelligence you can turn off an app or a single action, and sending or changing anything always asks first
 
 ### Parametres
 
@@ -33,6 +37,7 @@ Omnicos ci-infra ja es includet in ArchLingmo hodie.
 - Págines de **Rapid-tastes** e de **Lansa automatic** por selecter quo aperte se con li sistema
 - **Actualisationes sin terminal**: avise in li panel superiori e un buton "Actualisar"
 - Disponibil in **48 lingues**
+- **Folders that follow your language**: when you switch language, your personal folders (Documents, Videos, Pictures…) get the new names; folders that exist in two languages are merged without deleting anything, and you can undo it
 
 ### Camera e securitá
 
@@ -67,3 +72,4 @@ Omnicos ci-infra ja es includet in ArchLingmo hodie.
 - **Exportar** in MP4 predefinitmen, accelerat per li carte grafic (NVENC o VA-API)
 - **Generar tallias**: transforma un long video in tallias por Shorts, Reels, TikTok, Kwai, LinkedIn, X e Stories, con li duration e li area secur recomandat por chascun rete, li max bon momentes selectet per un IA local (Ollama) e un reencadrament 9:16 quel seque li visage
 - **Subtitules** sincronisat parol pos parol con whisper.cpp, in vor propri computator: nin stiles concipet por li lectura (karaoke con li color quel percurre li frase, parol evidentiat, parol pos parol, podcast, neon, alt contraste, du parlatores…) e exportation in SRT, VTT e ASS
+- **Cut**: the quick page for assembling a video, with the whole timeline in miniature above the detailed one, smart trim and shortcuts to Generate cuts and Captions

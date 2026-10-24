@@ -1,5 +1,17 @@
 ## Capturas de tela
 
+![Perguntar sobre a tela (Meta + S): traduzir uma área da tela, com a IA no seu computador](screenshots/screen-ask.jpg)
+![Spotlight sugere a ação do app: Relógio › Criar alarme](screenshots/intents-spotlight.jpg)
+![Fluxo do Assistente em execução, passo a passo](screenshots/assistant-flow-run.jpg)
+![Agentes do Assistente, cada um com instruções e ferramentas próprias](screenshots/assistant-agents.jpg)
+![Aprovar uma vez o que um fluxo pode fazer](screenshots/assistant-approval.jpg)
+![Configurações › Ações dos apps: ligue ou desligue cada ação](screenshots/intents-settings.jpg)
+![Pastas pessoais renomeadas para o novo idioma, sem apagar nada](screenshots/user-dirs.jpg)
+![Lingmo Studio: página Editar](screenshots/studio-edit.jpg)
+![Lingmo Studio: página Cor, com rodas de cor e escopos](screenshots/studio-color.jpg)
+![Lingmo Studio: página Corte](screenshots/studio-cut-page.jpg)
+![Lingmo Studio: mixer da página Áudio](screenshots/studio-audio.jpg)
+![Lingmo Studio: página Entregar, com os formatos de exportação](screenshots/studio-deliver.jpg)
 ![Vidro Lingmo: barra de status, dock e notificação em vidro fosco](screenshots/silicio/glass-desktop.jpg)
 ![A Ilha com um timer e uma cópia de arquivos](screenshots/silicio/island.jpg)
 ![Enviar um arquivo para um dispositivo próximo](screenshots/silicio/phone-send.jpg)

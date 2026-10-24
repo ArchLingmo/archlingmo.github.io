@@ -24,6 +24,10 @@
 - **הגדרות › בינה מלאכותית**: מצב Ollama, מודלים מותקנים, המלצות עבור המחשב *הזה*, הורדת מודלים עם התקדמות, אפשרות "לחשוב לפני שעונים", וההרשאות והכלים של העוזר
 - **אוטומציה**: שגרות יומיות בשעה קבועה, עם פקודה ואם תרצו גם הסבר של התוצאה מהבינה המלאכותית המקומית
 - **תמלול וכתוביות** בהגדרות › בינה מלאכותית: מודלים של whisper.cpp עם תגיות ותג "מומלץ למחשב שלכם", לצד מודלי הבינה המלאכותית המומלצים לחומרה שלכם (llmfit)
+- **Assistant flows**: build automations from blocks, a trigger (a time, a new e-mail, a voice command or a shortcut) plus app actions, follow every run step by step and approve once what the flow may do
+- **Agents and voice**: assistants with their own instructions, model and tools, called in the chat, in a flow or from Spotlight ("ai:@name"). And talk to the Assistant by voice with Meta + Shift + I
+- **Ask about the screen** (Meta + S): circle or select any area of the screen to explain, translate, summarize, copy its text or search the web. It is analyzed on your computer and nothing is sent
+- **App actions** (Lingmo Intents): Clock, Mail, Notes, Files, Screenshots and other apps offer actions to the Assistant, Flows and Spotlight: type what you want, such as an alarm at 7, and confirm. In Settings › Artificial Intelligence you can turn off an app or a single action, and sending or changing anything always asks first
 
 ### הגדרות
 
@@ -33,6 +37,7 @@
 - עמודי **קיצורי מקלדת** ו-**הפעלה אוטומטית** כדי לבחור מה נפתח עם המערכת
 - **עדכונים בלי מסוף**: התראה בסרגל וכפתור "עדכון"
 - זמין ב-**48 שפות**
+- **Folders that follow your language**: when you switch language, your personal folders (Documents, Videos, Pictures…) get the new names; folders that exist in two languages are merged without deleting anything, and you can undo it
 
 ### מצלמה ואבטחה
 
@@ -67,3 +72,4 @@
 - **ייצוא** ל-MP4 כברירת מחדל, עם האצה של כרטיס המסך (NVENC או VA-API)
 - **יצירת קטעים**: הופך סרטון ארוך לקטעים ל-Shorts, ‏Reels, ‏TikTok, ‏Kwai, ‏LinkedIn, ‏X ו-Stories, עם האורך והאזור הבטוח המומלצים לכל רשת, הרגעים הטובים ביותר שנבחרים על ידי בינה מלאכותית מקומית (Ollama) ומסגור מחדש ל-9:16 שעוקב אחרי הפנים
 - **כתוביות** מסונכרנות מילה אחר מילה עם whisper.cpp, במחשב שלכם: תשעה סגנונות שתוכננו לקריאה (קריוקי עם צבע שעובר לאורך השורה, מילה מודגשת, מילה אחר מילה, פודקאסט, ניאון, ניגודיות גבוהה, שני דוברים…) וייצוא ל-SRT, ‏VTT ו-ASS
+- **Cut**: the quick page for assembling a video, with the whole timeline in miniature above the detailed one, smart trim and shortcuts to Generate cuts and Captions

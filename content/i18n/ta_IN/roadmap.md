@@ -17,6 +17,10 @@ Discord-இல் விவாதிக்கப்படுகின்றன; 
 - [x] பெட்டியில் **Android ஆப்கள்** (APK), Waydroid உடன், மற்ற ஆப்களைப் போலவே தொடக்கியில் தோன்றும்
 - [x] **ஒரே கிளிக்கில் விளையாட்டுகள்**: Steam, Proton மற்றும் கேம் பயன்முறை; anti-cheat Linux-இல் வேலை செய்யாத விளையாட்டுகளுக்கு எச்சரிக்கையுடன்
 - [x] **நேட்டிவ் விளையாட்டுகள்**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). கடை → நேட்டிவ் விளையாட்டுகள் என்பதிலிருந்து நிறுவவும். முதலில் திறக்கும்போது உங்கள் கார்ட்ரிட்ஜிலிருந்து எடுத்த ROM-ஐ வழங்கவும்; தொகுப்புகளில் விளையாட்டுத் தரவு இல்லை.
+- [x] **Ask about the screen** (Meta + S): circle an area to explain, translate or summarize it, with the AI on your computer
+- [x] **App actions** (Lingmo Intents): apps offer actions to the Assistant, Flows and Spotlight
+- [x] **Assistant with flows, agents and voice** (Meta + Shift + I)
+- [x] **One keyboard and mouse for several computers** (Deskflow), with a shared clipboard
 
 ### 09/11 – 13/12 · உருவாக்கிப் பகிருங்கள்
 
@@ -49,7 +53,7 @@ Discord-இல் விவாதிக்கப்படுகின்றன; 
 
 - [ ] ஒரே கிளிக்கில் **தளவமைப்பை மாற்றுதல்**: macOS பாணி, Windows பாணி அல்லது Lingmo
 - [ ] கோப்பு மேலாளரில் கோப்புகளின் **முந்தைய பதிப்புகள்**, Time Machine போல
-- [ ] **ஒருங்கிணைந்த கைப்பேசி**: Android மற்றும் iPhone உடன் அறிவிப்புகள், கோப்புகள் மற்றும் கிளிப்போர்டு (KDE Connect)
+- [x] **ஒருங்கிணைந்த கைப்பேசி**: Android மற்றும் iPhone உடன் அறிவிப்புகள், கோப்புகள் மற்றும் கிளிப்போர்டு (KDE Connect)
 - [ ] **கிளவுட் கணக்குகள்**: Google Drive மற்றும் OneDrive கோப்பு மேலாளரில் தோன்றும்
 - [x] திரைப்பிடிப்பிலிருந்து உரையை நகலெடுத்தல் (OCR)
 - [ ] Windows அருகில் நிறுவும்போது BitLocker மற்றும் Secure Boot பற்றி எச்சரிக்கும் நிறுவி

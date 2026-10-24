@@ -17,6 +17,10 @@ chăm sóc máy tính mà không cần rành kỹ thuật.
 - [x] **Ứng dụng Android** (APK) trong hộp, với Waydroid, hiện trong trình khởi chạy như mọi ứng dụng khác
 - [x] **Chơi game chỉ với một cú nhấp**: Steam, Proton và chế độ chơi game, kèm cảnh báo cho các game có hệ thống chống gian lận không chạy trên Linux
 - [x] **Trò chơi gốc Linux**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Cài đặt từ Cửa hàng → Trò chơi gốc Linux. Khi mở lần đầu, cung cấp ROM từ băng trò chơi của bạn; các gói không chứa dữ liệu trò chơi.
+- [x] **Ask about the screen** (Meta + S): circle an area to explain, translate or summarize it, with the AI on your computer
+- [x] **App actions** (Lingmo Intents): apps offer actions to the Assistant, Flows and Spotlight
+- [x] **Assistant with flows, agents and voice** (Meta + Shift + I)
+- [x] **One keyboard and mouse for several computers** (Deskflow), with a shared clipboard
 
 ### 09/11 – 13/12 · Sáng tạo và chia sẻ
 
@@ -49,7 +53,7 @@ chăm sóc máy tính mà không cần rành kỹ thuật.
 
 - [ ] **Đổi bố cục** chỉ với một cú nhấp: kiểu macOS, kiểu Windows hoặc Lingmo
 - [ ] **Phiên bản trước** của tệp ngay trong trình quản lý tệp, giống Time Machine
-- [ ] **Kết nối điện thoại**: thông báo, tệp và bộ nhớ tạm với Android và iPhone (KDE Connect)
+- [x] **Kết nối điện thoại**: thông báo, tệp và bộ nhớ tạm với Android và iPhone (KDE Connect)
 - [ ] **Tài khoản đám mây**: Google Drive và OneDrive hiện trong trình quản lý tệp
 - [x] Sao chép chữ từ ảnh chụp màn hình (OCR)
 - [ ] Trình cài đặt cảnh báo về BitLocker và Secure Boot khi cài song song với Windows

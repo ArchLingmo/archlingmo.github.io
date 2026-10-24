@@ -17,6 +17,10 @@ dohlad za kamputaram biez techničnych viedaŭ.
 - [x] **Prahramy Android** (APK) u skryni praz Waydroid, jakija źjaŭliajucca ŭ mieniu zapusku, jak luboja inšaja prahrama
 - [x] **Huĺni ŭ adzin klik**: Steam, Proton i huĺniavy režym, z papiarežańniem pra huĺni, čyja anty-čyt sistema nie pracuje ŭ Linux
 - [x] **Natyŭnyja hulni**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Ustaliavannie z Kramy → Natyŭnyja hulni. Pry pieršym zapusku patrebna ROM ulasnaha kartrydža; pakiety nie zmiaščajuć danych hulniaŭ.
+- [x] **Ask about the screen** (Meta + S): circle an area to explain, translate or summarize it, with the AI on your computer
+- [x] **App actions** (Lingmo Intents): apps offer actions to the Assistant, Flows and Spotlight
+- [x] **Assistant with flows, agents and voice** (Meta + Shift + I)
+- [x] **One keyboard and mouse for several computers** (Deskflow), with a shared clipboard
 
 ### 09/11 – 13/12 · Stvarać i dzialicca
 
@@ -49,7 +53,7 @@ dohlad za kamputaram biez techničnych viedaŭ.
 
 - [ ] **Źmianić makiet** adnym klikam: styl macOS, styl Windows abo Lingmo
 - [ ] **Papiarednija versii** fajłaŭ u kiraŭniku fajłaŭ, jak u Time Machine
-- [ ] **Intehravany telefon**: apaviaščeńni, fajły i bufier abmienu z Android i iPhone (KDE Connect)
+- [x] **Intehravany telefon**: apaviaščeńni, fajły i bufier abmienu z Android i iPhone (KDE Connect)
 - [ ] **Vobłačnyja ŭlikovyja zapisy**: Google Drive i OneDrive u kiraŭniku fajłaŭ
 - [x] Kapijavańnie tekstu sa zdymka ekrana (OCR)
 - [ ] Ustaloŭščyk, jaki papiaredžvaje pra BitLocker i Secure Boot pry ŭstaloŭcy pobač z Windows

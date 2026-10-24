@@ -17,6 +17,10 @@
 - [x] **אפליקציות Android** ‏(APK) בקופסה, עם Waydroid, שמופיעות במשגר כמו כל אפליקציה אחרת
 - [x] **משחקים בלחיצה אחת**: Steam, ‏Proton ומצב משחק, עם אזהרה על משחקים עם מערכת נגד רמאות שלא עובדים ב-Linux
 - [x] **משחקים טבעיים**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). התקינו מהחנות ← משחקים טבעיים. בהפעלה הראשונה יש לספק ROM מהמחסנית שלכם; החבילות אינן כוללות נתוני משחק.
+- [x] **Ask about the screen** (Meta + S): circle an area to explain, translate or summarize it, with the AI on your computer
+- [x] **App actions** (Lingmo Intents): apps offer actions to the Assistant, Flows and Spotlight
+- [x] **Assistant with flows, agents and voice** (Meta + Shift + I)
+- [x] **One keyboard and mouse for several computers** (Deskflow), with a shared clipboard
 
 ### 09/11 עד 13/12 · ליצור ולשתף
 
@@ -49,7 +53,7 @@
 
 - [ ] **החלפת פריסה** בלחיצה אחת: בסגנון macOS, בסגנון Windows או Lingmo
 - [ ] **גרסאות קודמות** של קבצים במנהל הקבצים, כמו ב-Time Machine
-- [ ] **טלפון משולב**: התראות, קבצים ולוח העתקה עם Android ו-iPhone ‏(KDE Connect)
+- [x] **טלפון משולב**: התראות, קבצים ולוח העתקה עם Android ו-iPhone ‏(KDE Connect)
 - [ ] **חשבונות ענן**: Google Drive ו-OneDrive מופיעים במנהל הקבצים
 - [x] העתקת טקסט מצילום מסך (OCR)
 - [ ] מתקין שמזהיר לגבי BitLocker ו-Secure Boot בעת התקנה לצד Windows

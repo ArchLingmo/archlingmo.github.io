@@ -97,6 +97,30 @@
       {
         "icon": "mic-ai",
         "color": "#AF52DE"
+      },
+      {
+        "icon": "flow-chart",
+        "color": "#FF9500",
+        "image": "screenshots/features/assistant-flows.jpg",
+        "full": "screenshots/assistant-flow-run.jpg"
+      },
+      {
+        "icon": "robot-2",
+        "color": "#34C759",
+        "image": "screenshots/features/assistant-agents.jpg",
+        "full": "screenshots/assistant-agents.jpg"
+      },
+      {
+        "icon": "focus-3",
+        "color": "#5856D6",
+        "image": "screenshots/features/screen-ask.jpg",
+        "full": "screenshots/screen-ask.jpg"
+      },
+      {
+        "icon": "apps-2-add",
+        "color": "#007AFF",
+        "image": "screenshots/features/intents.jpg",
+        "full": "screenshots/intents-spotlight.jpg"
       }
     ],
     [
@@ -135,6 +159,12 @@
         "color": "#30B0C7",
         "image": "screenshots/features/language.jpg",
         "full": "screenshots/full/language.jpg"
+      },
+      {
+        "icon": "folder-transfer",
+        "color": "#34AADC",
+        "image": "screenshots/features/user-dirs.jpg",
+        "full": "screenshots/user-dirs.jpg"
       }
     ],
     [
@@ -244,23 +274,33 @@
     [
       {
         "icon": "clapperboard",
-        "color": "#8E44AD"
+        "color": "#8E44AD",
+        "image": "screenshots/features/studio-start.jpg",
+        "full": "screenshots/studio-start.jpg"
       },
       {
         "icon": "align-item-left",
-        "color": "#5856D6"
+        "color": "#5856D6",
+        "image": "screenshots/features/studio-edit.jpg",
+        "full": "screenshots/studio-edit.jpg"
       },
       {
         "icon": "contrast-drop-2",
-        "color": "#FF9500"
+        "color": "#FF9500",
+        "image": "screenshots/features/studio-color.jpg",
+        "full": "screenshots/studio-color.jpg"
       },
       {
         "icon": "equalizer-3",
-        "color": "#34C759"
+        "color": "#34C759",
+        "image": "screenshots/features/studio-audio.jpg",
+        "full": "screenshots/studio-audio.jpg"
       },
       {
         "icon": "upload-2",
-        "color": "#007AFF"
+        "color": "#007AFF",
+        "image": "screenshots/features/studio-deliver.jpg",
+        "full": "screenshots/studio-deliver.jpg"
       },
       {
         "icon": "scissors-cut",
@@ -273,6 +313,12 @@
         "color": "#30B0C7",
         "image": "screenshots/features/studio-captions.jpg",
         "full": "screenshots/studio-captions.jpg"
+      },
+      {
+        "icon": "scissors-2",
+        "color": "#FF9500",
+        "image": "screenshots/features/studio-cut-page.jpg",
+        "full": "screenshots/studio-cut-page.jpg"
       }
     ]
   ]

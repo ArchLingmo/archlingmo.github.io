@@ -17,6 +17,10 @@ Discord で話し合われ、各項目は GitHub 上の公開 pull request に�
 - [x] Waydroid によるボックス内の **Android アプリ** (APK)。ほかのアプリと同じようにランチャーに表示
 - [x] **ワンクリックでゲーム**: Steam、Proton、ゲームモード。Linux で動作しないアンチチート搭載ゲームには警告を表示
 - [x] **ネイティブゲーム**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). ストア → ネイティブゲーム からインストールできます。初回起動時に自分のカートリッジから吸い出したROMを指定してください。パッケージにゲームデータは含まれません。
+- [x] **画面について質問**（Meta + S）：範囲を囲んで、パソコン上の AI で説明、翻訳、要約
+- [x] **アプリのアクション**（Lingmo Intents）：アプリがアシスタント、フロー、Spotlight にアクションを提供
+- [x] **フロー、エージェント、音声に対応したアシスタント**（Meta + Shift + I）
+- [x] **1 組のキーボードとマウスで複数のパソコンを操作**（Deskflow）。クリップボードも共有
 
 ### 09/11〜13/12 · 作って、共有する
 
@@ -49,7 +53,7 @@ Discord で話し合われ、各項目は GitHub 上の公開 pull request に�
 
 - [ ] ワンクリックで**レイアウトを切り替え**: macOS 風、Windows 風、または Lingmo
 - [ ] ファイルマネージャーでファイルの**以前のバージョン**を表示。Time Machine のように
-- [ ] **スマートフォン連携**: Android や iPhone と通知、ファイル、クリップボードを共有 (KDE Connect)
+- [x] **スマートフォン連携**: Android や iPhone と通知、ファイル、クリップボードを共有 (KDE Connect)
 - [ ] **クラウドアカウント**: Google Drive と OneDrive をファイルマネージャーに表示
 - [x] スクリーンショットから文字をコピー (OCR)
 - [ ] Windows と並べてインストールする際に BitLocker と Secure Boot について知らせるインストーラー

@@ -24,6 +24,10 @@ Haya yote tayari yamo ndani ya ArchLingmo leo.
 - **Mipangilio › Akili bandia**: hali ya Ollama, modeli zilizosakinishwa, mapendekezo kwa ajili ya kompyuta *hii*, upakuaji wa modeli ukionyesha maendeleo, chaguo la "Fikiri kabla ya kujibu", na ruhusa na zana za Msaidizi
 - **Kiotomatishaji**: ratiba za kila siku kwa muda uliowekwa, zenye amri na, ukipenda, AI ya ndani ikieleza matokeo
 - **Unukuzi na manukuu** katika Mipangilio › Akili bandia: modeli za whisper.cpp zenye lebo na beji ya "Inapendekezwa kwa kompyuta yako", kando ya modeli za AI zinazopendekezwa kwa maunzi yako (llmfit)
+- **Assistant flows**: build automations from blocks, a trigger (a time, a new e-mail, a voice command or a shortcut) plus app actions, follow every run step by step and approve once what the flow may do
+- **Agents and voice**: assistants with their own instructions, model and tools, called in the chat, in a flow or from Spotlight ("ai:@name"). And talk to the Assistant by voice with Meta + Shift + I
+- **Ask about the screen** (Meta + S): circle or select any area of the screen to explain, translate, summarize, copy its text or search the web. It is analyzed on your computer and nothing is sent
+- **App actions** (Lingmo Intents): Clock, Mail, Notes, Files, Screenshots and other apps offer actions to the Assistant, Flows and Spotlight: type what you want, such as an alarm at 7, and confirm. In Settings › Artificial Intelligence you can turn off an app or a single action, and sending or changing anything always asks first
 
 ### Mipangilio
 
@@ -33,6 +37,7 @@ Haya yote tayari yamo ndani ya ArchLingmo leo.
 - Kurasa za **Njia za mkato** na **Kuanza kiotomatiki** ili kuchagua kinachofunguka pamoja na mfumo
 - **Masasisho bila terminal**: arifa kwenye upau na kitufe cha "Sasisha"
 - Inapatikana kwa **lugha 48**
+- **Folders that follow your language**: when you switch language, your personal folders (Documents, Videos, Pictures…) get the new names; folders that exist in two languages are merged without deleting anything, and you can undo it
 
 ### Kamera na usalama
 
@@ -67,3 +72,4 @@ Haya yote tayari yamo ndani ya ArchLingmo leo.
 - **Hamisha** kwa MP4 kwa chaguomsingi, kwa kuharakishwa na kadi ya picha (NVENC au VA-API)
 - **Tengeneza vipande**: hubadilisha video ndefu kuwa vipande kwa ajili ya Shorts, Reels, TikTok, Kwai, LinkedIn, X na Stories, kwa urefu na eneo salama vinavyopendekezwa na kila mtandao, matukio bora yakichaguliwa na AI ya ndani (Ollama) na upangaji upya wa fremu wa 9:16 unaofuata uso
 - **Manukuu** yanayolingana neno kwa neno kwa whisper.cpp, kwenye kompyuta yako: mitindo tisa iliyobuniwa kwa ajili ya kusoma (karaoke yenye rangi ikipita kwenye sentensi, neno lililoangaziwa, neno kwa neno, podikasti, neon, utofautishaji wa juu, wazungumzaji wawili…) na kuhamisha kwa SRT, VTT na ASS
+- **Cut**: the quick page for assembling a video, with the whole timeline in miniature above the detailed one, smart trim and shortcuts to Generate cuts and Captions

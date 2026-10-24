@@ -24,6 +24,10 @@ To vše ArchLingmo obsahuje už dnes.
 - **Nastavení › Umělá inteligence**: stav Ollama, nainstalované modely, doporučení pro *tento* počítač, stahování modelů s průběhem, volba „Přemýšlet před odpovědí“ a oprávnění a nástroje Asistenta
 - **Automatizátor**: denní rutiny v nastavený čas, s příkazem a, pokud chcete, s lokální AI, která vysvětlí výsledek
 - **Přepis a titulky** v Nastavení › Umělá inteligence: modely whisper.cpp se štítky a odznakem „Doporučeno pro váš počítač“, vedle modelů AI doporučených pro váš hardware (llmfit)
+- **Assistant flows**: build automations from blocks, a trigger (a time, a new e-mail, a voice command or a shortcut) plus app actions, follow every run step by step and approve once what the flow may do
+- **Agents and voice**: assistants with their own instructions, model and tools, called in the chat, in a flow or from Spotlight ("ai:@name"). And talk to the Assistant by voice with Meta + Shift + I
+- **Ask about the screen** (Meta + S): circle or select any area of the screen to explain, translate, summarize, copy its text or search the web. It is analyzed on your computer and nothing is sent
+- **App actions** (Lingmo Intents): Clock, Mail, Notes, Files, Screenshots and other apps offer actions to the Assistant, Flows and Spotlight: type what you want, such as an alarm at 7, and confirm. In Settings › Artificial Intelligence you can turn off an app or a single action, and sending or changing anything always asks first
 
 ### Nastavení
 
@@ -33,6 +37,7 @@ To vše ArchLingmo obsahuje už dnes.
 - Stránky **Zkratky** a **Po spuštění**, kde vyberete, co se spustí se systémem
 - **Aktualizace bez terminálu**: upozornění v panelu a tlačítko „Aktualizovat“
 - Dostupné ve **48 jazycích**
+- **Folders that follow your language**: when you switch language, your personal folders (Documents, Videos, Pictures…) get the new names; folders that exist in two languages are merged without deleting anything, and you can undo it
 
 ### Kamera a zabezpečení
 
@@ -67,3 +72,4 @@ To vše ArchLingmo obsahuje už dnes.
 - **Export** standardně do MP4, s akcelerací grafickou kartou (NVENC nebo VA-API)
 - **Vytvořit klipy**: z dlouhého videa udělá krátké klipy pro Shorts, Reels, TikTok, Kwai, LinkedIn, X a Stories, s délkou a bezpečnou zónou doporučenou každou sítí, nejlepšími momenty vybranými lokální AI (Ollama) a ořezem 9:16, který sleduje obličej
 - **Titulky** synchronizované slovo po slově pomocí whisper.cpp, přímo ve vašem počítači: devět stylů navržených pro čtení (karaoke s barvou přejíždějící po větě, zvýrazněné slovo, slovo po slově, podcast, neon, vysoký kontrast, dva mluvčí…) a export do SRT, VTT a ASS
+- **Cut**: the quick page for assembling a video, with the whole timeline in miniature above the detailed one, smart trim and shortcuts to Generate cuts and Captions

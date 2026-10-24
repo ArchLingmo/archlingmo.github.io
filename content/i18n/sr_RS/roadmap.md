@@ -17,6 +17,10 @@ Discord-у, а свака ставка постаје отворен pull reques
 - [x] **Android апликације** (APK) у кутији, уз Waydroid, које се појављују у покретачу као и свака друга апликација
 - [x] **Игре једним кликом**: Steam, Proton и режим за игре, уз упозорење за игре чији анти-чит не ради на Linux-у
 - [x] **Нативне игре**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Инсталација: Продавница → Нативне игре. При првом покретању приложите ROM преузет са сопственог кертриџа; пакети не садрже податке игара.
+- [x] **Ask about the screen** (Meta + S): circle an area to explain, translate or summarize it, with the AI on your computer
+- [x] **App actions** (Lingmo Intents): apps offer actions to the Assistant, Flows and Spotlight
+- [x] **Assistant with flows, agents and voice** (Meta + Shift + I)
+- [x] **One keyboard and mouse for several computers** (Deskflow), with a shared clipboard
 
 ### 09/11 – 13/12 · Стварање и дељење
 
@@ -49,7 +53,7 @@ Discord-у, а свака ставка постаје отворен pull reques
 
 - [ ] **Промена распореда** једним кликом: macOS стил, Windows стил или Lingmo
 - [ ] **Претходне верзије** датотека у менаџеру датотека, као у Time Machine
-- [ ] **Повезан телефон**: обавештења, датотеке и оставу са Android-ом и iPhone-ом (KDE Connect)
+- [x] **Повезан телефон**: обавештења, датотеке и оставу са Android-ом и iPhone-ом (KDE Connect)
 - [ ] **Налози у облаку**: Google Drive и OneDrive у менаџеру датотека
 - [x] Копирање текста са снимка екрана (OCR)
 - [ ] Инсталер који упозорава на BitLocker и Secure Boot при инсталацији поред Windows-а

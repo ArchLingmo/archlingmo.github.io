@@ -24,6 +24,10 @@ Efa ao anatin'ny ArchLingmo androany ireto rehetra ireto.
 - **Fikirana › Faharanitan-tsaina artifisialy**: toetry ny Ollama, modely voapetraka, tolo-kevitra ho an'ity solosaina *ity*, fakana modely miaraka amin'ny fandrosoana, ny safidy "Mieritrereta alohan'ny hamaliana", ary ny alalana sy fitaovan'ny Mpanampy
 - **Mpanao ho azy**: asa isan'andro amin'ny ora voafaritra, miaraka amin'ny baiko iray ary, raha tianao, ny AI eo an-toerana manazava ny vokatra
 - **Fanoratana ny feo sy dikanteny** ao amin'ny Fikirana › Faharanitan-tsaina artifisialy: modely whisper.cpp misy marika sy ny famantarana "Atolotra ho an'ny solosainao", eo akaikin'ny modely AI atolotra ho an'ny fitaovanao (llmfit)
+- **Assistant flows**: build automations from blocks, a trigger (a time, a new e-mail, a voice command or a shortcut) plus app actions, follow every run step by step and approve once what the flow may do
+- **Agents and voice**: assistants with their own instructions, model and tools, called in the chat, in a flow or from Spotlight ("ai:@name"). And talk to the Assistant by voice with Meta + Shift + I
+- **Ask about the screen** (Meta + S): circle or select any area of the screen to explain, translate, summarize, copy its text or search the web. It is analyzed on your computer and nothing is sent
+- **App actions** (Lingmo Intents): Clock, Mail, Notes, Files, Screenshots and other apps offer actions to the Assistant, Flows and Spotlight: type what you want, such as an alarm at 7, and confirm. In Settings › Artificial Intelligence you can turn off an app or a single action, and sending or changing anything always asks first
 
 ### Fikirana
 
@@ -33,6 +37,7 @@ Efa ao anatin'ny ArchLingmo androany ireto rehetra ireto.
 - Pejy **Hitsin-dàlana** sy **Fanombohana** hisafidianana izay misokatra miaraka amin'ny rafitra
 - **Fanavaozana tsy mila terminal**: fampandrenesana eo amin'ny bara sy bokotra "Havaozina"
 - Misy amin'ny **fiteny 48**
+- **Folders that follow your language**: when you switch language, your personal folders (Documents, Videos, Pictures…) get the new names; folders that exist in two languages are merged without deleting anything, and you can undo it
 
 ### Fakantsary sy fiarovana
 
@@ -67,3 +72,4 @@ Efa ao anatin'ny ArchLingmo androany ireto rehetra ireto.
 - **Avoahy** amin'ny MP4 araka ny mahazatra, nafainganin'ny karatra sary (NVENC na VA-API)
 - **Hamorona tapany**: manova horonan-tsary lava ho tapany fohy ho an'ny Shorts, Reels, TikTok, Kwai, LinkedIn, X ary Stories, miaraka amin'ny faharetana sy faritra azo antoka atolotry ny tambajotra tsirairay, ireo fotoana tsara indrindra nofidian'ny AI eo an-toerana (Ollama) ary fandrindrana 9:16 manaraka ny tarehy
 - **Dikanteny** mifanaraka teny isaky ny teny amin'ny whisper.cpp, ao amin'ny solosainao ihany: endrika sivy natao ho mora vakiana (karaoke misy loko mamakivaky ny fehezanteny, teny misongadina, teny tsirairay, podcast, neon, fifanoherana avo, olona roa miresaka…) ary famoahana amin'ny SRT, VTT ary ASS
+- **Cut**: the quick page for assembling a video, with the whole timeline in miniature above the detailed one, smart trim and shortcuts to Generate cuts and Captions

@@ -24,6 +24,10 @@ Usio heta ŭžo jość u ArchLingmo sionnia.
 - **Nałady › Štučny intelekt**: stan Ollama, ustalavanyja madeli, rekamiendacyi dla *hetaha* kamputara, spampoŭvannie madelaŭ z prahresam, opcyja «Padumać pierad adkazam», dazvoły i instrumienty Pamočnika
 - **Aŭtamatyzatar**: štodzionnyja ruciny ŭ zadadzieny čas, z kamandaj i, kali chočacie, tłumačenniem vyniku ad lakalnaha ŠI
 - **Transkrypcyja i subcitry** u raździele Nałady › Štučny intelekt: madeli whisper.cpp z mietkami i paznakaj «Rekamiendavana dla vašaha kamputara», pobač z madelami ŠI, rekamiendavanymi dla vašaha abstalavannia (llmfit)
+- **Assistant flows**: build automations from blocks, a trigger (a time, a new e-mail, a voice command or a shortcut) plus app actions, follow every run step by step and approve once what the flow may do
+- **Agents and voice**: assistants with their own instructions, model and tools, called in the chat, in a flow or from Spotlight ("ai:@name"). And talk to the Assistant by voice with Meta + Shift + I
+- **Ask about the screen** (Meta + S): circle or select any area of the screen to explain, translate, summarize, copy its text or search the web. It is analyzed on your computer and nothing is sent
+- **App actions** (Lingmo Intents): Clock, Mail, Notes, Files, Screenshots and other apps offer actions to the Assistant, Flows and Spotlight: type what you want, such as an alarm at 7, and confirm. In Settings › Artificial Intelligence you can turn off an app or a single action, and sending or changing anything always asks first
 
 ### Nałady
 
@@ -33,6 +37,7 @@ Usio heta ŭžo jość u ArchLingmo sionnia.
 - Staronki **Spałučenni kłaviš** i **Aŭtazapusk**, kab vybrać, što adkryvajecca razam z sistemaj
 - **Abnaŭlenni biez terminała**: apaviaščennie na paneli i knopka «Abnavić»
 - Dastupny na **48 movach**
+- **Folders that follow your language**: when you switch language, your personal folders (Documents, Videos, Pictures…) get the new names; folders that exist in two languages are merged without deleting anything, and you can undo it
 
 ### Kamiera i biaspieka
 
@@ -67,3 +72,4 @@ Usio heta ŭžo jość u ArchLingmo sionnia.
 - **Ekspart** u MP4 pa zmaŭčanni, z aparatnym paskarenniem na videakarcie (NVENC abo VA-API)
 - **Stvarennie narezak**: pieratvaraje doŭhaje videa ŭ narezki dla Shorts, Reels, TikTok, Kwai, LinkedIn, X i Stories z rekamiendavanaj dla kožnaj sietki praciahłaściu i biaspiečnaj zonaj, lepšymi momantami, jakija vybiraje lakalny ŠI (Ollama), i kadravanniem 9:16, jakoje sočyć za tvaram
 - **Subcitry**, sinchranizavanyja słova ŭ słova z dapamohaj whisper.cpp, prosta na vašym kamputary: dzieviać styliaŭ, pradumanych dla zručnaha čytannia (karaoke z koleram, jaki prabiahaje pa radku, vyłučanaje słova, pa adnym słovie, padkast, nieon, vysoki kantrast, dva surazmoŭcy…), i ekspart u SRT, VTT i ASS
+- **Cut**: the quick page for assembling a video, with the whole timeline in miniature above the detailed one, smart trim and shortcuts to Generate cuts and Captions

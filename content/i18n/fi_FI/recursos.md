@@ -24,6 +24,10 @@ Kaikki tämä on jo mukana ArchLingmossa.
 - **Asetukset › Tekoäly**: Ollaman tila, asennetut mallit, suositukset *tälle* tietokoneelle, mallien lataus edistymisen kanssa, "Mieti ennen vastaamista" -valinta sekä Avustajan oikeudet ja työkalut
 - **Automaattori**: päivittäiset rutiinit tiettyyn kellonaikaan, komennolla ja halutessasi paikallisen tekoälyn selityksellä tuloksesta
 - **Litterointi ja tekstitykset** kohdassa Asetukset › Tekoäly: whisper.cpp-mallit tunnisteineen ja "Suositeltu tietokoneellesi" -merkki, laitteistollesi suositeltujen tekoälymallien (llmfit) rinnalla
+- **Assistant flows**: build automations from blocks, a trigger (a time, a new e-mail, a voice command or a shortcut) plus app actions, follow every run step by step and approve once what the flow may do
+- **Agents and voice**: assistants with their own instructions, model and tools, called in the chat, in a flow or from Spotlight ("ai:@name"). And talk to the Assistant by voice with Meta + Shift + I
+- **Ask about the screen** (Meta + S): circle or select any area of the screen to explain, translate, summarize, copy its text or search the web. It is analyzed on your computer and nothing is sent
+- **App actions** (Lingmo Intents): Clock, Mail, Notes, Files, Screenshots and other apps offer actions to the Assistant, Flows and Spotlight: type what you want, such as an alarm at 7, and confirm. In Settings › Artificial Intelligence you can turn off an app or a single action, and sending or changing anything always asks first
 
 ### Asetukset
 
@@ -33,6 +37,7 @@ Kaikki tämä on jo mukana ArchLingmossa.
 - **Pikanäppäimet**- ja **Automaattinen käynnistys** -sivut, joista valitset, mitä käynnistyy järjestelmän mukana
 - **Päivitykset ilman päätettä**: ilmoitus palkissa ja "Päivitä"-painike
 - Saatavilla **48 kielellä**
+- **Folders that follow your language**: when you switch language, your personal folders (Documents, Videos, Pictures…) get the new names; folders that exist in two languages are merged without deleting anything, and you can undo it
 
 ### Kamera ja tietoturva
 
@@ -67,3 +72,4 @@ Kaikki tämä on jo mukana ArchLingmossa.
 - **Vienti** oletuksena MP4-muotoon näytönohjaimen kiihdytyksellä (NVENC tai VA-API)
 - **Luo leikkeet**: muuttaa pitkän videon leikkeiksi Shortsiin, Reelsiin, TikTokiin, Kwaihin, LinkedIniin, X:ään ja Storiesiin kunkin verkoston suosittelemalla kestolla ja turva-alueella, paikallisen tekoälyn (Ollama) valitsemilla parhailla hetkillä ja kasvoja seuraavalla 9:16-rajauksella
 - **Tekstitykset** sana sanalta synkronoituina whisper.cpp:llä omalla tietokoneellasi: yhdeksän lukemista varten suunniteltua tyyliä (karaoke, jossa väri pyyhkii rivin yli, korostettu sana, sana kerrallaan, podcast, neon, suuri kontrasti, kaksi puhujaa…) ja vienti SRT-, VTT- ja ASS-muotoon
+- **Cut**: the quick page for assembling a video, with the whole timeline in miniature above the detailed one, smart trim and shortcuts to Generate cuts and Captions

@@ -1,5 +1,17 @@
 ## Bildschirmfotos
 
+![Zum Bildschirm fragen (Meta + S): einen Bildschirmbereich übersetzen, mit der KI auf Ihrem Computer](screenshots/screen-ask.jpg)
+![Spotlight schlägt eine App-Aktion vor: Uhr › Wecker erstellen](screenshots/intents-spotlight.jpg)
+![Ein Ablauf des Assistenten läuft, Schritt für Schritt](screenshots/assistant-flow-run.jpg)
+![Agenten des Assistenten, jeder mit eigenen Anweisungen und Werkzeugen](screenshots/assistant-agents.jpg)
+![Einmal freigeben, was ein Ablauf darf](screenshots/assistant-approval.jpg)
+![Einstellungen › App-Aktionen: jede Aktion ein- oder ausschalten](screenshots/intents-settings.jpg)
+![Persönliche Ordner für die neue Sprache umbenannt, ohne etwas zu löschen](screenshots/user-dirs.jpg)
+![Lingmo Studio: die Seite Schnitt](screenshots/studio-edit.jpg)
+![Lingmo Studio: die Seite Farbe, mit Farbrädern und Scopes](screenshots/studio-color.jpg)
+![Lingmo Studio: die Seite Zuschnitt](screenshots/studio-cut-page.jpg)
+![Lingmo Studio: das Mischpult auf der Seite Audio](screenshots/studio-audio.jpg)
+![Lingmo Studio: die Seite Ausgabe, mit den Exportformaten](screenshots/studio-deliver.jpg)
 ![Lingmo-Glas: Statusleiste, Dock und Benachrichtigung aus Milchglas](screenshots/silicio/glass-desktop.jpg)
 ![Die Insel mit einem Timer und einem Kopiervorgang](screenshots/silicio/island.jpg)
 ![Eine Datei an ein Gerät in der Nähe senden](screenshots/silicio/phone-send.jpg)

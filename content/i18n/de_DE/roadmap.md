@@ -17,6 +17,10 @@ den Computer pflegen, ohne technisch versiert sein zu müssen.
 - [x] **Android-Apps** (APK) in einer Box, mit Waydroid, die im Starter wie jede andere App erscheinen
 - [x] **Spielen mit einem Klick**: Steam, Proton und Spielmodus, mit Hinweis auf Spiele, deren Anti-Cheat unter Linux nicht funktioniert
 - [x] **Native Spiele**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Installation über Store → Native Spiele. Beim ersten Start wird die ROM des eigenen Moduls benötigt; die Pakete enthalten keine Spieldaten.
+- [x] **Zum Bildschirm fragen** (Meta + S): einen Bereich einkreisen, um ihn zu erklären, zu übersetzen oder zusammenzufassen, mit der KI auf Ihrem Computer
+- [x] **App-Aktionen** (Lingmo Intents): Apps bieten dem Assistenten, den Abläufen und Spotlight Aktionen an
+- [x] **Assistent mit Abläufen, Agenten und Sprache** (Meta + Umschalt + I)
+- [x] **Eine Tastatur und eine Maus für mehrere Computer** (Deskflow), mit gemeinsamer Zwischenablage
 
 ### 09/11 – 13/12 · Erstellen und teilen
 
@@ -49,7 +53,7 @@ den Computer pflegen, ohne technisch versiert sein zu müssen.
 
 - [ ] **Layout wechseln** mit einem Klick: macOS-Stil, Windows-Stil oder Lingmo
 - [ ] **Frühere Versionen** von Dateien im Dateimanager, wie bei Time Machine
-- [ ] **Smartphone-Anbindung**: Benachrichtigungen, Dateien und Zwischenablage mit Android und iPhone (KDE Connect)
+- [x] **Smartphone-Anbindung**: Benachrichtigungen, Dateien und Zwischenablage mit Android und iPhone (KDE Connect)
 - [ ] **Cloud-Konten**: Google Drive und OneDrive direkt im Dateimanager
 - [x] Text aus einem Screenshot kopieren (OCR)
 - [ ] Installer, der bei der Installation neben Windows auf BitLocker und Secure Boot hinweist

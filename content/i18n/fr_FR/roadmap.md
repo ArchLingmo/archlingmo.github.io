@@ -17,6 +17,10 @@ entretenir son ordinateur sans être technicien.
 - [x] **Applications Android** (APK) dans une boîte, avec Waydroid, qui apparaissent dans le lanceur comme n’importe quelle application
 - [x] **Jeux en un clic** : Steam, Proton et mode jeu, avec un avertissement pour les jeux dont l’anti-triche ne fonctionne pas sous Linux
 - [x] **Jeux natifs**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Installez depuis Logithèque → Jeux natifs. Au premier lancement, fournissez la ROM de votre propre cartouche ; les paquets ne contiennent aucune donnée de jeu.
+- [x] **Demander à propos de l’écran** (Meta + S) : entourez une zone pour l’expliquer, la traduire ou la résumer, avec l’IA de votre ordinateur
+- [x] **Actions des applications** (Lingmo Intents) : les applications proposent des actions à l’Assistant, aux Flux et à Spotlight
+- [x] **Assistant avec flux, agents et voix** (Meta + Maj + I)
+- [x] **Un clavier et une souris pour plusieurs ordinateurs** (Deskflow), avec le presse-papiers partagé
 
 ### 09/11 – 13/12 · Créer et partager
 
@@ -49,7 +53,7 @@ entretenir son ordinateur sans être technicien.
 
 - [ ] **Changer de disposition** en un clic : style macOS, style Windows ou Lingmo
 - [ ] **Versions précédentes** des fichiers dans le gestionnaire de fichiers, comme avec Time Machine
-- [ ] **Téléphone intégré** : notifications, fichiers et presse-papiers avec Android et iPhone (KDE Connect)
+- [x] **Téléphone intégré** : notifications, fichiers et presse-papiers avec Android et iPhone (KDE Connect)
 - [ ] **Comptes cloud** : Google Drive et OneDrive dans le gestionnaire de fichiers
 - [x] Copier le texte d’une capture d’écran (OCR)
 - [ ] Installateur qui prévient au sujet de BitLocker et de Secure Boot lors d’une installation à côté de Windows

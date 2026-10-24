@@ -17,6 +17,10 @@ daryeelka kombiyuutarka iyadoo aan loo baahnayn aqoon farsamo.
 - [x] **Abka Android** (APK) oo ku jira sanduuq, Waydroid, oo ka muuqda furaha abka sida ab kasta oo kale
 - [x] **Ciyaaro hal guji**: Steam, Proton iyo habka ciyaarta, oo leh digniin ku saabsan ciyaaraha anti-cheat-ka leh ee aan ku shaqeyn Linux
 - [x] **Ciyaaraha asalka ah**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Ka rakib Dukaanka → Ciyaaraha asalka ah. Marka ugu horreysa ee aad furto, keen ROM laga soo saaray kartarijkaaga; xirmooyinku kuma jiraan xogta ciyaaraha.
+- [x] **Ask about the screen** (Meta + S): circle an area to explain, translate or summarize it, with the AI on your computer
+- [x] **App actions** (Lingmo Intents): apps offer actions to the Assistant, Flows and Spotlight
+- [x] **Assistant with flows, agents and voice** (Meta + Shift + I)
+- [x] **One keyboard and mouse for several computers** (Deskflow), with a shared clipboard
 
 ### 09/11 ilaa 13/12 · Abuur oo wadaag
 
@@ -49,7 +53,7 @@ daryeelka kombiyuutarka iyadoo aan loo baahnayn aqoon farsamo.
 
 - [ ] **Beddel qaabka** hal guji: qaabka macOS, qaabka Windows ama Lingmo
 - [ ] **Noocyadii hore** ee faylasha ee maareeyaha faylasha, sida Time Machine
-- [ ] **Taleefan isku xidhan**: ogeysiisyada, faylasha iyo sabuuradda koobiyeynta ee Android iyo iPhone (KDE Connect)
+- [x] **Taleefan isku xidhan**: ogeysiisyada, faylasha iyo sabuuradda koobiyeynta ee Android iyo iPhone (KDE Connect)
 - [ ] **Akoonnada daruuraha**: Google Drive iyo OneDrive oo ka muuqda maareeyaha faylasha
 - [x] Koobiyeynta qoraalka sawir shaashadeed (OCR)
 - [ ] Rakibe kuu digaya BitLocker iyo Secure Boot marka aad ku rakibayso Windows agtiisa

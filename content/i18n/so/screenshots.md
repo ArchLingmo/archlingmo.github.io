@@ -1,5 +1,17 @@
 ## Sawirrada shaashadda
 
+![Ask about the screen (Meta + S): translating an area of the screen with the AI on your computer](screenshots/screen-ask.jpg)
+![Spotlight suggests an app action: Clock › Create alarm](screenshots/intents-spotlight.jpg)
+![An Assistant flow running, step by step](screenshots/assistant-flow-run.jpg)
+![Assistant agents, each with its own instructions and tools](screenshots/assistant-agents.jpg)
+![Approving once what a flow may do](screenshots/assistant-approval.jpg)
+![Settings › App actions: turn each action on or off](screenshots/intents-settings.jpg)
+![Personal folders renamed for the new language, without deleting anything](screenshots/user-dirs.jpg)
+![Lingmo Studio: the Edit page](screenshots/studio-edit.jpg)
+![Lingmo Studio: the Color page, with color wheels and scopes](screenshots/studio-color.jpg)
+![Lingmo Studio: the Cut page](screenshots/studio-cut-page.jpg)
+![Lingmo Studio: the mixer on the Audio page](screenshots/studio-audio.jpg)
+![Lingmo Studio: the Deliver page, with the export formats](screenshots/studio-deliver.jpg)
 ![Lingmo Studio: qaybo gaaban oo loogu talagalay Shorts, Reels iyo TikTok oo laga sameeyay muuqaal dheer](screenshots/studio-cuts.jpg)
 ![Lingmo Studio: qaababka qoraal-hoosaadyada oo la waafajiyay hadalka](screenshots/studio-captions.jpg)
 ![Alt+Tab Karuusel: beddelidda daaqadaha oo 3D ah, oo leh milicsi](screenshots/alt-tab-carousel.jpg)

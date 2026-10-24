@@ -24,6 +24,10 @@ Toate acestea sunt deja incluse în ArchLingmo.
 - **Setări › Inteligență artificială**: starea Ollama, modelele instalate, recomandări pentru *acest* calculator, descărcarea modelelor cu progres, opțiunea „Gândește înainte de a răspunde” și permisiunile și instrumentele Asistentului
 - **Automator**: rutine zilnice la o oră stabilită, cu o comandă și, dacă doriți, AI-ul local care explică rezultatul
 - **Transcriere și subtitrări** în Setări › Inteligență artificială: modele whisper.cpp cu etichete și insigna „Recomandat pentru calculatorul dumneavoastră”, alături de modelele AI recomandate pentru hardware-ul dumneavoastră (llmfit)
+- **Assistant flows**: build automations from blocks, a trigger (a time, a new e-mail, a voice command or a shortcut) plus app actions, follow every run step by step and approve once what the flow may do
+- **Agents and voice**: assistants with their own instructions, model and tools, called in the chat, in a flow or from Spotlight ("ai:@name"). And talk to the Assistant by voice with Meta + Shift + I
+- **Ask about the screen** (Meta + S): circle or select any area of the screen to explain, translate, summarize, copy its text or search the web. It is analyzed on your computer and nothing is sent
+- **App actions** (Lingmo Intents): Clock, Mail, Notes, Files, Screenshots and other apps offer actions to the Assistant, Flows and Spotlight: type what you want, such as an alarm at 7, and confirm. In Settings › Artificial Intelligence you can turn off an app or a single action, and sending or changing anything always asks first
 
 ### Setări
 
@@ -33,6 +37,7 @@ Toate acestea sunt deja incluse în ArchLingmo.
 - Pagini de **Scurtături** și **Pornire automată** pentru a alege ce se deschide odată cu sistemul
 - **Actualizări fără terminal**: notificare în bară și butonul „Actualizează”
 - Disponibil în **48 de limbi**
+- **Folders that follow your language**: when you switch language, your personal folders (Documents, Videos, Pictures…) get the new names; folders that exist in two languages are merged without deleting anything, and you can undo it
 
 ### Cameră și securitate
 
@@ -67,3 +72,4 @@ Toate acestea sunt deja incluse în ArchLingmo.
 - **Export** implicit în MP4, accelerat de placa video (NVENC sau VA-API)
 - **Generare de clipuri**: transformă un video lung în clipuri scurte pentru Shorts, Reels, TikTok, Kwai, LinkedIn, X și Stories, cu durata și zona sigură recomandate de fiecare rețea, cele mai bune momente alese de o inteligență artificială locală (Ollama) și o încadrare 9:16 care urmărește fața
 - **Subtitrări** sincronizate cuvânt cu cuvânt cu whisper.cpp, pe calculatorul dumneavoastră: nouă stiluri gândite pentru lectură (karaoke cu culoarea care trece peste frază, cuvânt evidențiat, cuvânt cu cuvânt, podcast, neon, contrast ridicat, doi vorbitori…) și export în SRT, VTT și ASS
+- **Cut**: the quick page for assembling a video, with the whole timeline in miniature above the detailed one, smart trim and shortcuts to Generate cuts and Captions

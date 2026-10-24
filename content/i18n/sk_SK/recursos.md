@@ -24,6 +24,10 @@ Toto všetko už ArchLingmo obsahuje dnes.
 - **Nastavenia › Umelá inteligencia**: stav Ollama, nainštalované modely, odporúčania pre *tento* počítač, sťahovanie modelov s priebehom, voľba „Premýšľať pred odpoveďou“ a povolenia a nástroje Asistenta
 - **Automatizátor**: denné rutiny v nastavený čas, s príkazom a, ak chcete, s lokálnou AI, ktorá vysvetlí výsledok
 - **Prepis a titulky** na stránke Nastavenia › Umelá inteligencia: modely whisper.cpp so štítkami a odznakom „Odporúčané pre váš počítač“, vedľa modelov AI odporúčaných pre váš hardvér (llmfit)
+- **Assistant flows**: build automations from blocks, a trigger (a time, a new e-mail, a voice command or a shortcut) plus app actions, follow every run step by step and approve once what the flow may do
+- **Agents and voice**: assistants with their own instructions, model and tools, called in the chat, in a flow or from Spotlight ("ai:@name"). And talk to the Assistant by voice with Meta + Shift + I
+- **Ask about the screen** (Meta + S): circle or select any area of the screen to explain, translate, summarize, copy its text or search the web. It is analyzed on your computer and nothing is sent
+- **App actions** (Lingmo Intents): Clock, Mail, Notes, Files, Screenshots and other apps offer actions to the Assistant, Flows and Spotlight: type what you want, such as an alarm at 7, and confirm. In Settings › Artificial Intelligence you can turn off an app or a single action, and sending or changing anything always asks first
 
 ### Nastavenia
 
@@ -33,6 +37,7 @@ Toto všetko už ArchLingmo obsahuje dnes.
 - Stránky **Klávesové skratky** a **Automatické spúšťanie**, kde vyberiete, čo sa otvorí so systémom
 - **Aktualizácie bez terminálu**: upozornenie na paneli a tlačidlo „Aktualizovať“
 - Dostupné v **48 jazykoch**
+- **Folders that follow your language**: when you switch language, your personal folders (Documents, Videos, Pictures…) get the new names; folders that exist in two languages are merged without deleting anything, and you can undo it
 
 ### Kamera a zabezpečenie
 
@@ -67,3 +72,4 @@ Toto všetko už ArchLingmo obsahuje dnes.
 - **Export** predvolene do MP4, s akceleráciou grafickou kartou (NVENC alebo VA-API)
 - **Vytvoriť klipy**: z dlhého videa urobí krátke klipy pre Shorts, Reels, TikTok, Kwai, LinkedIn, X a Stories, s dĺžkou a bezpečnou zónou odporúčanou každou sieťou, najlepšími momentmi vybranými lokálnou AI (Ollama) a orezom 9:16, ktorý sleduje tvár
 - **Titulky** synchronizované slovo po slove pomocou whisper.cpp, priamo vo vašom počítači: deväť štýlov navrhnutých na čítanie (karaoke s farbou prechádzajúcou po vete, zvýraznené slovo, slovo po slove, podcast, neón, vysoký kontrast, dvaja hovoriaci…) a export do SRT, VTT a ASS
+- **Cut**: the quick page for assembling a video, with the whole timeline in miniature above the detailed one, smart trim and shortcuts to Generate cuts and Captions

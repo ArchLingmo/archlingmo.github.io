@@ -1,5 +1,17 @@
 ## スクリーンショット
 
+![画面について質問（Meta + S）：パソコン上の AI で画面の一部を翻訳](screenshots/screen-ask.jpg)
+![Spotlight がアプリのアクションを提案：時計 › アラームを作成](screenshots/intents-spotlight.jpg)
+![実行中のアシスタントのフロー（ステップごとに表示）](screenshots/assistant-flow-run.jpg)
+![アシスタントのエージェント。それぞれ独自の指示とツールを持ちます](screenshots/assistant-agents.jpg)
+![フローにできることを一度だけ承認](screenshots/assistant-approval.jpg)
+![設定 › アプリのアクション：アクションごとにオン／オフ](screenshots/intents-settings.jpg)
+![新しい言語に合わせて名前が変わった個人フォルダー（何も削除しません）](screenshots/user-dirs.jpg)
+![Lingmo Studio：編集ページ](screenshots/studio-edit.jpg)
+![Lingmo Studio：カラーホイールとスコープのあるカラーページ](screenshots/studio-color.jpg)
+![Lingmo Studio：カットページ](screenshots/studio-cut-page.jpg)
+![Lingmo Studio：オーディオページのミキサー](screenshots/studio-audio.jpg)
+![Lingmo Studio：書き出し形式を選ぶ書き出しページ](screenshots/studio-deliver.jpg)
 ![Lingmo ガラス：すりガラスのステータスバー、Dock、通知](screenshots/silicio/glass-desktop.jpg)
 ![タイマーとファイルコピーを表示するアイランド](screenshots/silicio/island.jpg)
 ![近くのデバイスにファイルを送信](screenshots/silicio/phone-send.jpg)

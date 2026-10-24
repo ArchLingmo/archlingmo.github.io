@@ -17,6 +17,10 @@ ny fikarakarana ny solosaina nefa tsy mila ho manam-pahaizana ara-teknika.
 - [x] **Rindranasa Android** (APK) ao anaty boaty, miaraka amin'ny Waydroid, miseho ao amin'ny fandefasana rindranasa toy ny rindranasa hafa rehetra
 - [x] **Lalao amin'ny tsindry iray**: Steam, Proton ary mode lalao, miaraka amin'ny fampitandremana ho an'ny lalao izay tsy mandeha amin'ny Linux ny anti-cheat-ny
 - [x] **Lalao teratany**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Apetraho avy amin'ny Fivarotana → Lalao teratany. Amin'ny fanokafana voalohany, omeo ny ROM nalaina tamin'ny karatra lalaonao; tsy misy angona lalao ao amin'ny fonosana.
+- [x] **Ask about the screen** (Meta + S): circle an area to explain, translate or summarize it, with the AI on your computer
+- [x] **App actions** (Lingmo Intents): apps offer actions to the Assistant, Flows and Spotlight
+- [x] **Assistant with flows, agents and voice** (Meta + Shift + I)
+- [x] **One keyboard and mouse for several computers** (Deskflow), with a shared clipboard
 
 ### 09/11 – 13/12 · Mamorona sy mizara
 
@@ -49,7 +53,7 @@ ny fikarakarana ny solosaina nefa tsy mila ho manam-pahaizana ara-teknika.
 
 - [ ] **Manova ny fandaminana** amin'ny tsindry iray: endrika macOS, endrika Windows na Lingmo
 - [ ] **Dikan-teny teo aloha** amin'ny rakitra ao amin'ny mpitantana rakitra, toy ny ao amin'ny Time Machine
-- [ ] **Finday mifandray**: fampahafantarana, rakitra ary clipboard miaraka amin'ny Android sy iPhone (KDE Connect)
+- [x] **Finday mifandray**: fampahafantarana, rakitra ary clipboard miaraka amin'ny Android sy iPhone (KDE Connect)
 - [ ] **Kaonty cloud**: Google Drive sy OneDrive miseho ao amin'ny mpitantana rakitra
 - [x] Adikao ny soratra avy amin'ny sary efijery (OCR)
 - [ ] Mpametraka izay mampitandrina momba ny BitLocker sy Secure Boot rehefa apetraka eo akaikin'ny Windows

@@ -1,5 +1,17 @@
 ## 截图
 
+![询问屏幕内容（Meta + S）：用电脑上的 AI 翻译屏幕的一块区域](screenshots/screen-ask.jpg)
+![Spotlight 推荐应用操作：时钟 › 创建闹钟](screenshots/intents-spotlight.jpg)
+![正在运行的助手工作流，逐步显示](screenshots/assistant-flow-run.jpg)
+![助手的智能体，各有自己的指令和工具](screenshots/assistant-agents.jpg)
+![一次性批准工作流可以做的事](screenshots/assistant-approval.jpg)
+![设置 › 应用操作：逐个开启或关闭操作](screenshots/intents-settings.jpg)
+![个人文件夹按新语言重命名，不删除任何内容](screenshots/user-dirs.jpg)
+![Lingmo Studio：剪辑页面](screenshots/studio-edit.jpg)
+![Lingmo Studio：调色页面，带色轮和示波器](screenshots/studio-color.jpg)
+![Lingmo Studio：快剪页面](screenshots/studio-cut-page.jpg)
+![Lingmo Studio：音频页面的调音台](screenshots/studio-audio.jpg)
+![Lingmo Studio：交付页面与导出格式](screenshots/studio-deliver.jpg)
 ![Lingmo 玻璃：磨砂玻璃的状态栏、程序坞和通知](screenshots/silicio/glass-desktop.jpg)
 ![灵动岛显示计时器和文件复制](screenshots/silicio/island.jpg)
 ![把文件发送到附近的设备](screenshots/silicio/phone-send.jpg)

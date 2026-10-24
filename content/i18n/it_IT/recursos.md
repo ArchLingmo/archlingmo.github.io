@@ -24,6 +24,10 @@ Tutto questo è già incluso in ArchLingmo oggi.
 - **Impostazioni › Intelligenza artificiale**: stato di Ollama, modelli installati, consigli per *questo* computer, download dei modelli con avanzamento, un'opzione "Pensa prima di rispondere" e i permessi e gli strumenti dell'Assistente
 - **Automator**: routine quotidiane a un orario stabilito, con un comando e, se vuoi, l'IA locale che spiega il risultato
 - **Trascrizione e sottotitoli** in Impostazioni › Intelligenza artificiale: modelli whisper.cpp con etichette e il badge "Consigliato per il tuo computer", accanto ai modelli di IA consigliati per il tuo hardware (llmfit)
+- **Flussi dell'Assistente**: crea automazioni a blocchi, con un attivatore (un orario, una nuova e-mail, un comando vocale o una scorciatoia) e le azioni delle app, segui ogni esecuzione passo passo e approva una sola volta ciò che il flusso può fare
+- **Agenti e voce**: assistenti con istruzioni, modello e strumenti propri, richiamati nella chat, in un flusso o da Spotlight ("ai:@nome"). E parla con l'Assistente a voce con Meta + Maiusc + I
+- **Chiedi sullo schermo** (Meta + S): cerchia o seleziona qualsiasi area dello schermo per spiegarla, tradurla, riassumerla, copiarne il testo o cercare sul web. L'analisi avviene sul tuo computer e non viene inviato nulla
+- **Azioni delle app** (Lingmo Intents): Orologio, Posta, Note, File, Screenshot e altre app offrono azioni all'Assistente, ai Flussi e a Spotlight: scrivi ciò che vuoi, per esempio una sveglia alle 7, e conferma. In Impostazioni › Intelligenza artificiale disattivi un'app o una singola azione, e inviare o modificare qualcosa chiede sempre prima conferma
 
 ### Impostazioni
 
@@ -33,6 +37,7 @@ Tutto questo è già incluso in ArchLingmo oggi.
 - Pagine **Scorciatoie** e **Avvio automatico** per scegliere cosa si apre all'avvio del sistema
 - **Aggiornamenti senza terminale**: avviso nella barra superiore e pulsante "Aggiorna"
 - Disponibile in **48 lingue**
+- **Cartelle che seguono la lingua**: quando cambi lingua, le cartelle personali (Documenti, Video, Immagini…) prendono i nuovi nomi; le cartelle presenti in due lingue vengono unite senza cancellare nulla, e puoi annullare
 
 ### Fotocamera e sicurezza
 
@@ -67,3 +72,4 @@ Tutto questo è già incluso in ArchLingmo oggi.
 - **Esportazione** in MP4 come impostazione predefinita, con accelerazione tramite la scheda video (NVENC o VA-API)
 - **Genera clip**: trasforma un video lungo in clip brevi per Shorts, Reels, TikTok, Kwai, LinkedIn, X e Stories, con la durata e l'area sicura consigliate da ogni social, i momenti migliori scelti da un'IA locale (Ollama) e un'inquadratura 9:16 che segue il volto
 - **Sottotitoli** sincronizzati parola per parola con whisper.cpp, sul tuo computer: nove stili pensati per la lettura (karaoke con il colore che scorre sulla frase, parola evidenziata, parola per parola, podcast, neon, alto contrasto, due persone che parlano…) ed esportazione in SRT, VTT e ASS
+- **Taglio**: la pagina rapida per montare il video, con l'intera timeline in miniatura sopra quella dettagliata, rifinitura intelligente e scorciatoie per Genera clip e Sottotitoli

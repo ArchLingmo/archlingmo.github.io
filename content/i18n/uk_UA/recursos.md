@@ -24,6 +24,10 @@
 - **Налаштування › Штучний інтелект**: стан Ollama, встановлені моделі, рекомендації для *цього* комп’ютера, завантаження моделей із поступом, параметр «Подумати перед відповіддю», а також дозволи й інструменти Помічника
 - **Автоматизатор**: щоденні процедури у визначений час, із командою та, за бажанням, локальним ШІ, який пояснює результат
 - **Транскрипція та субтитри** в розділі Налаштування › Штучний інтелект: моделі whisper.cpp з мітками й позначкою «Рекомендовано для вашого комп’ютера», поруч із моделями ШІ, рекомендованими для вашого обладнання (llmfit)
+- **Assistant flows**: build automations from blocks, a trigger (a time, a new e-mail, a voice command or a shortcut) plus app actions, follow every run step by step and approve once what the flow may do
+- **Agents and voice**: assistants with their own instructions, model and tools, called in the chat, in a flow or from Spotlight ("ai:@name"). And talk to the Assistant by voice with Meta + Shift + I
+- **Ask about the screen** (Meta + S): circle or select any area of the screen to explain, translate, summarize, copy its text or search the web. It is analyzed on your computer and nothing is sent
+- **App actions** (Lingmo Intents): Clock, Mail, Notes, Files, Screenshots and other apps offer actions to the Assistant, Flows and Spotlight: type what you want, such as an alarm at 7, and confirm. In Settings › Artificial Intelligence you can turn off an app or a single action, and sending or changing anything always asks first
 
 ### Налаштування
 
@@ -33,6 +37,7 @@
 - Сторінки **Комбінації клавіш** та **Автозапуск**, щоб обрати, що відкривається разом із системою
 - **Оновлення без термінала**: сповіщення на панелі та кнопка «Оновити»
 - Доступно **48 мовами**
+- **Folders that follow your language**: when you switch language, your personal folders (Documents, Videos, Pictures…) get the new names; folders that exist in two languages are merged without deleting anything, and you can undo it
 
 ### Камера та безпека
 
@@ -67,3 +72,4 @@
 - **Експорт** у MP4 за замовчуванням, з апаратним прискоренням на відеокарті (NVENC або VA-API)
 - **Створення нарізок**: перетворює довге відео на нарізки для Shorts, Reels, TikTok, Kwai, LinkedIn, X і Stories з рекомендованою для кожної мережі тривалістю й безпечною зоною, найкращими моментами, які вибирає локальний ШІ (Ollama), і кадруванням 9:16, що стежить за обличчям
 - **Субтитри**, синхронізовані слово в слово за допомогою whisper.cpp, просто на вашому комп’ютері: дев’ять стилів, продуманих для зручного читання (караоке з кольором, що пробігає рядком, виділене слово, по одному слову, подкаст, неон, висока контрастність, двоє співрозмовників…), та експорт у SRT, VTT і ASS
+- **Cut**: the quick page for assembling a video, with the whole timeline in miniature above the detailed one, smart trim and shortcuts to Generate cuts and Captions

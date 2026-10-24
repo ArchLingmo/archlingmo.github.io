@@ -24,6 +24,10 @@ All of this ships with ArchLingmo today.
 - **Settings › Artificial Intelligence**: Ollama status, installed models, recommendations for *this* computer, model downloads with progress, a "Think before answering" option, and the Assistant's permissions and tools
 - **Automator**: daily routines at a set time, with a command and, if you like, the local AI explaining the result
 - **Transcription and captions** in Settings › Artificial Intelligence: whisper.cpp models with tags and a "Recommended for your computer" badge, next to the AI models recommended for your hardware (llmfit)
+- **Assistant flows**: build automations from blocks, a trigger (a time, a new e-mail, a voice command or a shortcut) plus app actions, follow every run step by step and approve once what the flow may do
+- **Agents and voice**: assistants with their own instructions, model and tools, called in the chat, in a flow or from Spotlight ("ai:@name"). And talk to the Assistant by voice with Meta + Shift + I
+- **Ask about the screen** (Meta + S): circle or select any area of the screen to explain, translate, summarize, copy its text or search the web. It is analyzed on your computer and nothing is sent
+- **App actions** (Lingmo Intents): Clock, Mail, Notes, Files, Screenshots and other apps offer actions to the Assistant, Flows and Spotlight: type what you want, such as an alarm at 7, and confirm. In Settings › Artificial Intelligence you can turn off an app or a single action, and sending or changing anything always asks first
 
 ### Settings
 
@@ -33,6 +37,7 @@ All of this ships with ArchLingmo today.
 - **Shortcuts** and **Startup** pages to choose what opens with the system
 - **Updates without the terminal**: a notice in the top bar and an "Update" button
 - Available in **48 languages**
+- **Folders that follow your language**: when you switch language, your personal folders (Documents, Videos, Pictures…) get the new names; folders that exist in two languages are merged without deleting anything, and you can undo it
 
 ### Camera and security
 
@@ -67,3 +72,4 @@ All of this ships with ArchLingmo today.
 - **Export** to MP4 by default, accelerated by the graphics card (NVENC or VA-API)
 - **Generate cuts**: turns a long video into cuts for Shorts, Reels, TikTok, Kwai, LinkedIn, X and Stories, with each network's recommended length and safe area, the best moments picked by a local AI (Ollama) and a 9:16 reframe that follows the face
 - **Captions** synced word by word with whisper.cpp, on your own computer: nine styles designed for reading (karaoke with the color sweeping across the line, highlighted word, word by word, podcast, neon, high contrast, two speakers…) and export to SRT, VTT and ASS
+- **Cut**: the quick page for assembling a video, with the whole timeline in miniature above the detailed one, smart trim and shortcuts to Generate cuts and Captions

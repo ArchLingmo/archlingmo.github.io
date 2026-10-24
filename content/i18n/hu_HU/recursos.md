@@ -24,6 +24,10 @@ Mindez már ma is benne van az ArchLingmóban.
 - **Beállítások › Mesterséges intelligencia**: az Ollama állapota, telepített modellek, ajánlások *ehhez* a géphez, modellek letöltése folyamatjelzővel, „Gondolkodj válasz előtt” opció, valamint az Asszisztens engedélyei és eszközei
 - **Automatizáló**: napi rutinok megadott időpontban, egy paranccsal, és ha szeretnéd, a helyi MI elmagyarázza az eredményt
 - **Átírás és feliratok** a Beállítások › Mesterséges intelligencia oldalon: whisper.cpp-modellek címkékkel és „Ajánlott a gépedhez” jelvénnyel, a hardveredhez ajánlott MI-modellek mellett (llmfit)
+- **Assistant flows**: build automations from blocks, a trigger (a time, a new e-mail, a voice command or a shortcut) plus app actions, follow every run step by step and approve once what the flow may do
+- **Agents and voice**: assistants with their own instructions, model and tools, called in the chat, in a flow or from Spotlight ("ai:@name"). And talk to the Assistant by voice with Meta + Shift + I
+- **Ask about the screen** (Meta + S): circle or select any area of the screen to explain, translate, summarize, copy its text or search the web. It is analyzed on your computer and nothing is sent
+- **App actions** (Lingmo Intents): Clock, Mail, Notes, Files, Screenshots and other apps offer actions to the Assistant, Flows and Spotlight: type what you want, such as an alarm at 7, and confirm. In Settings › Artificial Intelligence you can turn off an app or a single action, and sending or changing anything always asks first
 
 ### Beállítások
 
@@ -33,6 +37,7 @@ Mindez már ma is benne van az ArchLingmóban.
 - **Gyorsbillentyűk** és **Automatikus indítás** oldal, ahol kiválaszthatod, mi induljon el a rendszerrel
 - **Frissítés terminál nélkül**: értesítés a sávon és „Frissítés” gomb
 - Elérhető **48 nyelven**
+- **Folders that follow your language**: when you switch language, your personal folders (Documents, Videos, Pictures…) get the new names; folders that exist in two languages are merged without deleting anything, and you can undo it
 
 ### Kamera és biztonság
 
@@ -67,3 +72,4 @@ Mindez már ma is benne van az ArchLingmóban.
 - **Exportálás** alapértelmezetten MP4-be, a videokártya gyorsításával (NVENC vagy VA-API)
 - **Rövid klipek készítése**: egy hosszú videóból rövid klipeket készít Shorts, Reels, TikTok, Kwai, LinkedIn, X és Stories számára, az egyes hálózatok által ajánlott hosszal és biztonságos területtel; a legjobb pillanatokat egy helyi MI (Ollama) választja ki, a 9:16-os képkivágás pedig követi az arcot
 - **Feliratok** szóról szóra szinkronizálva a whisper.cpp-vel, a saját gépeden: kilenc, olvasásra tervezett stílus (karaoke, ahol a szín végigsöpör a mondaton, kiemelt szó, szóról szóra, podcast, neon, nagy kontraszt, két beszélő…) és exportálás SRT, VTT és ASS formátumba
+- **Cut**: the quick page for assembling a video, with the whole timeline in miniature above the detailed one, smart trim and shortcuts to Generate cuts and Captions

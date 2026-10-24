@@ -24,6 +24,10 @@ Semua ini sudah tersedia di ArchLingmo hari ini.
 - **Pengaturan › Kecerdasan Buatan**: status Ollama, model yang terpasang, rekomendasi untuk komputer *ini*, unduhan model dengan progres, opsi "Pikirkan sebelum menjawab", serta izin dan alat Asisten
 - **Automator**: rutinitas harian pada jam tertentu, dengan sebuah perintah dan, jika mau, AI lokal yang menjelaskan hasilnya
 - **Transkripsi dan subtitel** di Pengaturan › Kecerdasan Buatan: model whisper.cpp dengan label dan lencana "Direkomendasikan untuk komputer Anda", di samping model AI yang direkomendasikan untuk perangkat keras Anda (llmfit)
+- **Assistant flows**: build automations from blocks, a trigger (a time, a new e-mail, a voice command or a shortcut) plus app actions, follow every run step by step and approve once what the flow may do
+- **Agents and voice**: assistants with their own instructions, model and tools, called in the chat, in a flow or from Spotlight ("ai:@name"). And talk to the Assistant by voice with Meta + Shift + I
+- **Ask about the screen** (Meta + S): circle or select any area of the screen to explain, translate, summarize, copy its text or search the web. It is analyzed on your computer and nothing is sent
+- **App actions** (Lingmo Intents): Clock, Mail, Notes, Files, Screenshots and other apps offer actions to the Assistant, Flows and Spotlight: type what you want, such as an alarm at 7, and confirm. In Settings › Artificial Intelligence you can turn off an app or a single action, and sending or changing anything always asks first
 
 ### Pengaturan
 
@@ -33,6 +37,7 @@ Semua ini sudah tersedia di ArchLingmo hari ini.
 - Halaman **Pintasan** dan **Aplikasi Awal** untuk memilih apa yang terbuka bersama sistem
 - **Pembaruan tanpa terminal**: pemberitahuan di bilah atas dan tombol "Perbarui"
 - Tersedia dalam **48 bahasa**
+- **Folders that follow your language**: when you switch language, your personal folders (Documents, Videos, Pictures…) get the new names; folders that exist in two languages are merged without deleting anything, and you can undo it
 
 ### Kamera dan keamanan
 
@@ -67,3 +72,4 @@ Semua ini sudah tersedia di ArchLingmo hari ini.
 - **Ekspor** ke MP4 secara bawaan, dipercepat oleh kartu grafis (NVENC atau VA-API)
 - **Buat potongan**: mengubah video panjang menjadi potongan untuk Shorts, Reels, TikTok, Kwai, LinkedIn, X, dan Stories, dengan durasi dan area aman yang direkomendasikan tiap jaringan, momen terbaik dipilih oleh AI lokal (Ollama), dan pembingkaian ulang 9:16 yang mengikuti wajah
 - **Subtitel** yang disinkronkan kata demi kata dengan whisper.cpp, di komputer Anda sendiri: sembilan gaya yang dirancang agar mudah dibaca (karaoke dengan warna yang menyapu kalimat, kata yang disorot, kata demi kata, podcast, neon, kontras tinggi, dua pembicara…) dan ekspor ke SRT, VTT, dan ASS
+- **Cut**: the quick page for assembling a video, with the whole timeline in miniature above the detailed one, smart trim and shortcuts to Generate cuts and Captions

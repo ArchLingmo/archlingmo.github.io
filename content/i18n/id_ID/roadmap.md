@@ -17,6 +17,10 @@ merawat komputer tanpa harus paham teknis.
 - [x] **Aplikasi Android** (APK) di dalam kotak, dengan Waydroid, muncul di peluncur seperti aplikasi lainnya
 - [x] **Main game sekali klik**: Steam, Proton, dan mode game, dengan peringatan untuk game yang anti-cheat-nya tidak berjalan di Linux
 - [x] **Game native**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Pasang dari Toko → Game native. Saat pertama dibuka, berikan ROM yang disalin dari kartrid Anda sendiri; paket tidak menyertakan data game.
+- [x] **Ask about the screen** (Meta + S): circle an area to explain, translate or summarize it, with the AI on your computer
+- [x] **App actions** (Lingmo Intents): apps offer actions to the Assistant, Flows and Spotlight
+- [x] **Assistant with flows, agents and voice** (Meta + Shift + I)
+- [x] **One keyboard and mouse for several computers** (Deskflow), with a shared clipboard
 
 ### 09/11 – 13/12 · Berkarya dan berbagi
 
@@ -49,7 +53,7 @@ merawat komputer tanpa harus paham teknis.
 
 - [ ] **Ganti tata letak** dengan sekali klik: gaya macOS, gaya Windows, atau Lingmo
 - [ ] **Versi sebelumnya** dari file di pengelola file, seperti Time Machine
-- [ ] **Ponsel terhubung**: notifikasi, file, dan papan klip dengan Android dan iPhone (KDE Connect)
+- [x] **Ponsel terhubung**: notifikasi, file, dan papan klip dengan Android dan iPhone (KDE Connect)
 - [ ] **Akun cloud**: Google Drive dan OneDrive muncul di pengelola file
 - [x] Menyalin teks dari tangkapan layar (OCR)
 - [ ] Pemasang yang memberi peringatan tentang BitLocker dan Secure Boot saat dipasang berdampingan dengan Windows

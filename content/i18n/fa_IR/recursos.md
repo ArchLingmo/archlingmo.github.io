@@ -24,6 +24,10 @@
 - **تنظیمات › هوش مصنوعی**: وضعیت Ollama، مدل‌های نصب‌شده، پیشنهادها برای *همین* رایانه، دانلود مدل با نمایش پیشرفت، گزینهٔ «پیش از پاسخ فکر کن» و مجوزها و ابزارهای دستیار
 - **خودکارساز**: کارهای روزانه در ساعت مشخص، با یک فرمان و در صورت تمایل توضیح نتیجه توسط هوش مصنوعی محلی
 - **رونویسی و زیرنویس** در تنظیمات › هوش مصنوعی: مدل‌های whisper.cpp با برچسب‌ها و نشان «پیشنهادی برای رایانهٔ شما»، در کنار مدل‌های هوش مصنوعی پیشنهادی برای سخت‌افزار شما (llmfit)
+- **Assistant flows**: build automations from blocks, a trigger (a time, a new e-mail, a voice command or a shortcut) plus app actions, follow every run step by step and approve once what the flow may do
+- **Agents and voice**: assistants with their own instructions, model and tools, called in the chat, in a flow or from Spotlight ("ai:@name"). And talk to the Assistant by voice with Meta + Shift + I
+- **Ask about the screen** (Meta + S): circle or select any area of the screen to explain, translate, summarize, copy its text or search the web. It is analyzed on your computer and nothing is sent
+- **App actions** (Lingmo Intents): Clock, Mail, Notes, Files, Screenshots and other apps offer actions to the Assistant, Flows and Spotlight: type what you want, such as an alarm at 7, and confirm. In Settings › Artificial Intelligence you can turn off an app or a single action, and sending or changing anything always asks first
 
 ### تنظیمات
 
@@ -33,6 +37,7 @@
 - صفحه‌های **میان‌برها** و **اجرای خودکار** برای انتخاب آنچه همراه سیستم باز می‌شود
 - **به‌روزرسانی بدون ترمینال**: اعلان روی نوار و دکمهٔ «به‌روزرسانی»
 - در دسترس به **48 زبان**
+- **Folders that follow your language**: when you switch language, your personal folders (Documents, Videos, Pictures…) get the new names; folders that exist in two languages are merged without deleting anything, and you can undo it
 
 ### دوربین و امنیت
 
@@ -67,3 +72,4 @@
 - **خروجی گرفتن** به‌طور پیش‌فرض در MP4، با شتاب‌دهی کارت گرافیک (NVENC یا VA-API)
 - **ساخت برش‌ها**: یک ویدیوی بلند را به برش‌هایی برای Shorts، Reels، TikTok، Kwai، LinkedIn، X و Stories تبدیل می‌کند، با مدت و محدودهٔ امن پیشنهادی هر شبکه، بهترین لحظه‌ها به انتخاب یک هوش مصنوعی محلی (Ollama) و کادربندی دوبارهٔ 9:16 که چهره را دنبال می‌کند
 - **زیرنویس** همگام کلمه‌به‌کلمه با whisper.cpp، روی رایانهٔ خودتان: نُه سبک طراحی‌شده برای خواندن (کارائوکه با رنگی که روی جمله می‌گذرد، کلمهٔ برجسته، کلمه‌به‌کلمه، پادکست، نئون، کنتراست بالا، دو گوینده…) و خروجی در SRT، VTT و ASS
+- **Cut**: the quick page for assembling a video, with the whole timeline in miniature above the detailed one, smart trim and shortcuts to Generate cuts and Captions

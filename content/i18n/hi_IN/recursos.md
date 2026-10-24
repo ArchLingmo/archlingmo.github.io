@@ -24,6 +24,10 @@
 - **सेटिंग्स › आर्टिफ़िशियल इंटेलिजेंस**: Ollama की स्थिति, इंस्टॉल किए गए मॉडल, *इसी* कंप्यूटर के लिए सुझाव, प्रगति के साथ मॉडल डाउनलोड, "जवाब देने से पहले सोचें" विकल्प, और असिस्टेंट की अनुमतियाँ और टूल
 - **ऑटोमेटर**: तय समय पर रोज़ के रूटीन, एक कमांड के साथ और चाहें तो लोकल AI नतीजा समझाए
 - सेटिंग्स › आर्टिफ़िशियल इंटेलिजेंस में **ट्रांसक्रिप्शन और सबटाइटल**: टैग और "आपके कंप्यूटर के लिए सुझाया गया" बैज वाले whisper.cpp मॉडल, आपके हार्डवेयर के लिए सुझाए गए AI मॉडल (llmfit) के साथ
+- **Assistant flows**: build automations from blocks, a trigger (a time, a new e-mail, a voice command or a shortcut) plus app actions, follow every run step by step and approve once what the flow may do
+- **Agents and voice**: assistants with their own instructions, model and tools, called in the chat, in a flow or from Spotlight ("ai:@name"). And talk to the Assistant by voice with Meta + Shift + I
+- **Ask about the screen** (Meta + S): circle or select any area of the screen to explain, translate, summarize, copy its text or search the web. It is analyzed on your computer and nothing is sent
+- **App actions** (Lingmo Intents): Clock, Mail, Notes, Files, Screenshots and other apps offer actions to the Assistant, Flows and Spotlight: type what you want, such as an alarm at 7, and confirm. In Settings › Artificial Intelligence you can turn off an app or a single action, and sending or changing anything always asks first
 
 ### सेटिंग्स
 
@@ -33,6 +37,7 @@
 - **शॉर्टकट** और **स्टार्टअप** पेज, जहाँ आप चुनते हैं कि सिस्टम के साथ क्या खुले
 - **टर्मिनल के बिना अपडेट**: बार में सूचना और "अपडेट करें" बटन
 - **48 भाषाओं** में उपलब्ध
+- **Folders that follow your language**: when you switch language, your personal folders (Documents, Videos, Pictures…) get the new names; folders that exist in two languages are merged without deleting anything, and you can undo it
 
 ### कैमरा और सुरक्षा
 
@@ -67,3 +72,4 @@
 - डिफ़ॉल्ट रूप से MP4 में **एक्सपोर्ट**, ग्राफ़िक्स कार्ड की मदद से तेज़ (NVENC या VA-API)
 - **कट बनाएँ**: एक लंबे वीडियो को Shorts, Reels, TikTok, Kwai, LinkedIn, X और Stories के लिए कट में बदलता है, हर नेटवर्क की सुझाई गई लंबाई और सुरक्षित क्षेत्र के साथ, सबसे अच्छे हिस्से लोकल AI (Ollama) चुनता है और 9:16 फ़्रेमिंग चेहरे के साथ चलती है
 - आपके अपने कंप्यूटर पर whisper.cpp से शब्द-दर-शब्द सिंक होने वाले **सबटाइटल**: पढ़ने के लिए बनाई गई नौ स्टाइल (लाइन पर फैलते रंग वाला कराओके, हाइलाइट किया गया शब्द, शब्द-दर-शब्द, पॉडकास्ट, नियॉन, हाई कंट्रास्ट, दो बोलने वाले…) और SRT, VTT और ASS में एक्सपोर्ट
+- **Cut**: the quick page for assembling a video, with the whole timeline in miniature above the detailed one, smart trim and shortcuts to Generate cuts and Captions

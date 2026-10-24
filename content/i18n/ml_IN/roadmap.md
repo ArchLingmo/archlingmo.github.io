@@ -17,6 +17,10 @@ Discord-ൽ ചർച്ച ചെയ്യുന്നു, ഓരോ ഇനവ�
 - [x] Waydroid ഉപയോഗിച്ച് ബോക്സിൽ **Android ആപ്പുകൾ** (APK), മറ്റേതൊരു ആപ്പിനെയും പോലെ ലോഞ്ചറിൽ കാണാം
 - [x] **ഒറ്റ ക്ലിക്കിൽ ഗെയിമുകൾ**: Steam, Proton, ഗെയിം മോഡ്, Linux-ൽ പ്രവർത്തിക്കാത്ത ആന്റി-ചീറ്റ് ഗെയിമുകളെക്കുറിച്ചുള്ള മുന്നറിയിപ്പോടെ
 - [x] **നേറ്റീവ് ഗെയിമുകൾ**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). സ്റ്റോർ → നേറ്റീവ് ഗെയിമുകൾ എന്നതിൽ നിന്ന് ഇൻസ്റ്റാൾ ചെയ്യുക. ആദ്യം തുറക്കുമ്പോൾ നിങ്ങളുടെ സ്വന്തം കാർട്രിഡ്ജിൽ നിന്നുള്ള ROM നൽകുക; പാക്കേജുകളിൽ ഗെയിം ഡാറ്റയില്ല.
+- [x] **Ask about the screen** (Meta + S): circle an area to explain, translate or summarize it, with the AI on your computer
+- [x] **App actions** (Lingmo Intents): apps offer actions to the Assistant, Flows and Spotlight
+- [x] **Assistant with flows, agents and voice** (Meta + Shift + I)
+- [x] **One keyboard and mouse for several computers** (Deskflow), with a shared clipboard
 
 ### 09/11 മുതൽ 13/12 വരെ · സൃഷ്ടിക്കുക, പങ്കിടുക
 
@@ -49,7 +53,7 @@ Discord-ൽ ചർച്ച ചെയ്യുന്നു, ഓരോ ഇനവ�
 
 - [ ] ഒറ്റ ക്ലിക്കിൽ **ലേഔട്ട് മാറ്റുക**: macOS ശൈലി, Windows ശൈലി അല്ലെങ്കിൽ Lingmo
 - [ ] ഫയൽ മാനേജറിൽ ഫയലുകളുടെ **മുൻ പതിപ്പുകൾ**, Time Machine-ലെ പോലെ
-- [ ] **ഫോൺ സംയോജനം**: Android, iPhone എന്നിവയുമായി അറിയിപ്പുകൾ, ഫയലുകൾ, ക്ലിപ്പ്ബോർഡ് (KDE Connect)
+- [x] **ഫോൺ സംയോജനം**: Android, iPhone എന്നിവയുമായി അറിയിപ്പുകൾ, ഫയലുകൾ, ക്ലിപ്പ്ബോർഡ് (KDE Connect)
 - [ ] **ക്ലൗഡ് അക്കൗണ്ടുകൾ**: Google Drive, OneDrive എന്നിവ ഫയൽ മാനേജറിൽ കാണാം
 - [x] സ്ക്രീൻഷോട്ടിൽ നിന്ന് ടെക്സ്റ്റ് പകർത്തൽ (OCR)
 - [ ] Windows-നൊപ്പം ഇൻസ്റ്റാൾ ചെയ്യുമ്പോൾ BitLocker, Secure Boot എന്നിവയെക്കുറിച്ച് മുന്നറിയിപ്പ് നൽകുന്ന ഇൻസ്റ്റാളർ

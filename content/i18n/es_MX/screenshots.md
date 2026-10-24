@@ -1,5 +1,17 @@
 ## Capturas de pantalla
 
+![Ask about the screen (Meta + S): translating an area of the screen with the AI on your computer](screenshots/screen-ask.jpg)
+![Spotlight suggests an app action: Clock › Create alarm](screenshots/intents-spotlight.jpg)
+![An Assistant flow running, step by step](screenshots/assistant-flow-run.jpg)
+![Assistant agents, each with its own instructions and tools](screenshots/assistant-agents.jpg)
+![Approving once what a flow may do](screenshots/assistant-approval.jpg)
+![Settings › App actions: turn each action on or off](screenshots/intents-settings.jpg)
+![Personal folders renamed for the new language, without deleting anything](screenshots/user-dirs.jpg)
+![Lingmo Studio: the Edit page](screenshots/studio-edit.jpg)
+![Lingmo Studio: the Color page, with color wheels and scopes](screenshots/studio-color.jpg)
+![Lingmo Studio: the Cut page](screenshots/studio-cut-page.jpg)
+![Lingmo Studio: the mixer on the Audio page](screenshots/studio-audio.jpg)
+![Lingmo Studio: the Deliver page, with the export formats](screenshots/studio-deliver.jpg)
 ![Lingmo Studio: clips para Shorts, Reels y TikTok a partir de un video largo](screenshots/studio-cuts.jpg)
 ![Lingmo Studio: estilos de subtítulos sincronizados con la voz](screenshots/studio-captions.jpg)
 ![Alt+Tab Carrusel: cambio de ventanas en 3D, con reflejo](screenshots/alt-tab-carousel.jpg)

@@ -24,6 +24,10 @@ Tudo isto já vem no ArchLingmo hoje.
 - **Definições › Inteligência Artificial**: estado do Ollama, modelos instalados, recomendações para *este* computador, transferência de modelos com progresso, a opção "Pensar antes de responder" e as permissões e ferramentas do Assistente
 - **Automatizador**: rotinas diárias a uma hora marcada, com um comando e, se quiser, a IA local a explicar o resultado
 - **Transcrição e legendas** em Definições › Inteligência Artificial: modelos do whisper.cpp com etiquetas e o selo "Recomendado para o seu computador", ao lado dos modelos de IA recomendados para o seu hardware (llmfit)
+- **Assistant flows**: build automations from blocks, a trigger (a time, a new e-mail, a voice command or a shortcut) plus app actions, follow every run step by step and approve once what the flow may do
+- **Agents and voice**: assistants with their own instructions, model and tools, called in the chat, in a flow or from Spotlight ("ai:@name"). And talk to the Assistant by voice with Meta + Shift + I
+- **Ask about the screen** (Meta + S): circle or select any area of the screen to explain, translate, summarize, copy its text or search the web. It is analyzed on your computer and nothing is sent
+- **App actions** (Lingmo Intents): Clock, Mail, Notes, Files, Screenshots and other apps offer actions to the Assistant, Flows and Spotlight: type what you want, such as an alarm at 7, and confirm. In Settings › Artificial Intelligence you can turn off an app or a single action, and sending or changing anything always asks first
 
 ### Definições
 
@@ -33,6 +37,7 @@ Tudo isto já vem no ArchLingmo hoje.
 - Páginas de **Atalhos** e de **Arranque** para escolher o que abre com o sistema
 - **Atualizações sem terminal**: aviso na barra e botão "Atualizar"
 - Em **48 idiomas**, com o português completo
+- **Folders that follow your language**: when you switch language, your personal folders (Documents, Videos, Pictures…) get the new names; folders that exist in two languages are merged without deleting anything, and you can undo it
 
 ### Câmara e segurança
 
@@ -67,3 +72,4 @@ Tudo isto já vem no ArchLingmo hoje.
 - **Exportar** em MP4 por predefinição, com aceleração pela placa gráfica (NVENC ou VA-API)
 - **Gerar excertos**: transforma um vídeo longo em excertos para Shorts, Reels, TikTok, Kwai, LinkedIn, X e Stories, com a duração e a área segura recomendadas por cada rede, os melhores momentos escolhidos por uma IA local (Ollama) e o enquadramento 9:16 a seguir o rosto
 - **Legendas** sincronizadas palavra a palavra com o whisper.cpp, no seu computador: nove estilos pensados para a leitura (karaoke com a cor a varrer a frase, palavra destacada, palavra a palavra, podcast, néon, alto contraste, duas pessoas a falar…) e exportação em SRT, VTT e ASS
+- **Cut**: the quick page for assembling a video, with the whole timeline in miniature above the detailed one, smart trim and shortcuts to Generate cuts and Captions

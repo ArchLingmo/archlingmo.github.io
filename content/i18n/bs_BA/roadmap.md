@@ -17,6 +17,10 @@ održavanje računara bez potrebe da budete stručnjak.
 - [x] **Android aplikacije** (APK) u kutiji, pomoću Waydroida, koje se pojavljuju u pokretaču kao i svaka druga aplikacija
 - [x] **Igre jednim klikom**: Steam, Proton i režim za igre, s upozorenjem za igre sa anti-cheat zaštitom koje ne rade na Linuxu
 - [x] **Nativne igre**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Instalirajte iz Prodavnice → Nativne igre. Pri prvom pokretanju priložite ROM vlastitog kertridža; paketi ne sadrže podatke igara.
+- [x] **Ask about the screen** (Meta + S): circle an area to explain, translate or summarize it, with the AI on your computer
+- [x] **App actions** (Lingmo Intents): apps offer actions to the Assistant, Flows and Spotlight
+- [x] **Assistant with flows, agents and voice** (Meta + Shift + I)
+- [x] **One keyboard and mouse for several computers** (Deskflow), with a shared clipboard
 
 ### 09.11. do 13.12. · Stvaranje i dijeljenje
 
@@ -49,7 +53,7 @@ održavanje računara bez potrebe da budete stručnjak.
 
 - [ ] **Promjena rasporeda** jednim klikom: stil macOS, stil Windows ili Lingmo
 - [ ] **Prethodne verzije** fajlova u upravitelju fajlova, kao u Time Machine
-- [ ] **Integrisan telefon**: obavještenja, fajlovi i međuspremnik s Androidom i iPhoneom (KDE Connect)
+- [x] **Integrisan telefon**: obavještenja, fajlovi i međuspremnik s Androidom i iPhoneom (KDE Connect)
 - [ ] **Računi u oblaku**: Google Drive i OneDrive vidljivi u upravitelju fajlova
 - [x] Kopiranje teksta sa snimka ekrana (OCR)
 - [ ] Instalacijski program koji upozorava na BitLocker i Secure Boot pri instalaciji pored Windowsa

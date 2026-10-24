@@ -17,6 +17,10 @@ Discord 上討論，每個項目都會成為 GitHub 上公開的 pull request。
 - [x] 透過 Waydroid 在隔離箱內執行 **Android 應用程式**（APK），像其他程式一樣出現在啟動器中
 - [x] **一按即玩遊戲**：Steam、Proton 和遊戲模式，並就反作弊系統無法在 Linux 上運作的遊戲發出警告
 - [x] **原生遊戲**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). 從商店 → 原生遊戲安裝。首次啟動時，請提供從自己的卡帶擷取的 ROM；套件不包含遊戲資料。
+- [x] **Ask about the screen** (Meta + S): circle an area to explain, translate or summarize it, with the AI on your computer
+- [x] **App actions** (Lingmo Intents): apps offer actions to the Assistant, Flows and Spotlight
+- [x] **Assistant with flows, agents and voice** (Meta + Shift + I)
+- [x] **One keyboard and mouse for several computers** (Deskflow), with a shared clipboard
 
 ### 09/11 – 13/12 · 創作與分享
 
@@ -49,7 +53,7 @@ Discord 上討論，每個項目都會成為 GitHub 上公開的 pull request。
 
 - [ ] 一按**切換版面**：macOS 風格、Windows 風格或 Lingmo
 - [ ] 在檔案管理員中查看檔案的**舊版本**，就像 Time Machine
-- [ ] **手機整合**：與 Android 和 iPhone 同步通知、檔案和剪貼簿（KDE Connect）
+- [x] **手機整合**：與 Android 和 iPhone 同步通知、檔案和剪貼簿（KDE Connect）
 - [ ] **雲端帳戶**：Google Drive 和 OneDrive 直接顯示在檔案管理員中
 - [x] 從螢幕截圖中複製文字（OCR）
 - [ ] 安裝程式在與 Windows 並存安裝時，會提醒 BitLocker 和 Secure Boot 相關事項

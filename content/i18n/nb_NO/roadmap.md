@@ -17,6 +17,10 @@ frykten for at en oppdatering ødelegger systemet, drivere, å installere progra
 - [x] **Android-apper** (APK) i en boks, med Waydroid, som vises i programstarteren som alle andre apper
 - [x] **Spill med ett klikk**: Steam, Proton og spillmodus, med varsel om spill med anti-juks som ikke fungerer på Linux
 - [x] **Native spill**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Installer fra butikken → Native spill. Ved første start trenger du en ROM fra din egen kassett; pakkene inneholder ingen spilldata.
+- [x] **Ask about the screen** (Meta + S): circle an area to explain, translate or summarize it, with the AI on your computer
+- [x] **App actions** (Lingmo Intents): apps offer actions to the Assistant, Flows and Spotlight
+- [x] **Assistant with flows, agents and voice** (Meta + Shift + I)
+- [x] **One keyboard and mouse for several computers** (Deskflow), with a shared clipboard
 
 ### 09/11 til 13/12 · Skap og del
 
@@ -49,7 +53,7 @@ frykten for at en oppdatering ødelegger systemet, drivere, å installere progra
 
 - [ ] **Bytt oppsett** med ett klikk: macOS-stil, Windows-stil eller Lingmo
 - [ ] **Tidligere versjoner** av filer i filbehandleren, som i Time Machine
-- [ ] **Integrert mobil**: varsler, filer og utklippstavle med Android og iPhone (KDE Connect)
+- [x] **Integrert mobil**: varsler, filer og utklippstavle med Android og iPhone (KDE Connect)
 - [ ] **Skykontoer**: Google Drive og OneDrive rett i filbehandleren
 - [x] Kopier tekst fra et skjermbilde (OCR)
 - [ ] Installasjonsprogram som varsler om BitLocker og Secure Boot når du installerer ved siden av Windows

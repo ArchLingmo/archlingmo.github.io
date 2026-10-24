@@ -1,5 +1,17 @@
 ## Captures d’écran
 
+![Demander à propos de l’écran (Meta + S) : traduire une zone de l’écran avec l’IA de votre ordinateur](screenshots/screen-ask.jpg)
+![Spotlight propose l’action d’une application : Horloge › Créer une alarme](screenshots/intents-spotlight.jpg)
+![Un flux de l’Assistant en cours d’exécution, pas à pas](screenshots/assistant-flow-run.jpg)
+![Les agents de l’Assistant, chacun avec ses instructions et ses outils](screenshots/assistant-agents.jpg)
+![Approuver une seule fois ce qu’un flux peut faire](screenshots/assistant-approval.jpg)
+![Paramètres › Actions des applications : activez ou désactivez chaque action](screenshots/intents-settings.jpg)
+![Dossiers personnels renommés dans la nouvelle langue, sans rien supprimer](screenshots/user-dirs.jpg)
+![Lingmo Studio : la page Montage](screenshots/studio-edit.jpg)
+![Lingmo Studio : la page Couleur, avec roues chromatiques et oscilloscopes](screenshots/studio-color.jpg)
+![Lingmo Studio : la page Coupe](screenshots/studio-cut-page.jpg)
+![Lingmo Studio : la console de mixage de la page Audio](screenshots/studio-audio.jpg)
+![Lingmo Studio : la page Livraison, avec les formats d’export](screenshots/studio-deliver.jpg)
 ![Verre Lingmo : barre d’état, dock et notification en verre dépoli](screenshots/silicio/glass-desktop.jpg)
 ![L’Île avec un minuteur et une copie de fichiers](screenshots/silicio/island.jpg)
 ![Envoyer un fichier à un appareil à proximité](screenshots/silicio/phone-send.jpg)

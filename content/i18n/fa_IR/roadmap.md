@@ -17,6 +17,10 @@ Discord ما بررسی می‌شوند و هر مورد به یک pull request 
 - [x] **برنامه‌های Android** ‏(APK) در یک جعبه، با Waydroid، که مانند هر برنامهٔ دیگری در فهرست برنامه‌ها ظاهر می‌شوند
 - [x] **بازی با یک کلیک**: Steam، Proton و حالت بازی، همراه با هشدار برای بازی‌هایی که ضدتقلبشان روی Linux کار نمی‌کند
 - [x] **بازی‌های بومی**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). از فروشگاه ← بازی‌های بومی نصب کنید. در اجرای نخست، ROM استخراج‌شده از کارتریج خود را ارائه دهید؛ بسته‌ها شامل داده‌های بازی نیستند.
+- [x] **Ask about the screen** (Meta + S): circle an area to explain, translate or summarize it, with the AI on your computer
+- [x] **App actions** (Lingmo Intents): apps offer actions to the Assistant, Flows and Spotlight
+- [x] **Assistant with flows, agents and voice** (Meta + Shift + I)
+- [x] **One keyboard and mouse for several computers** (Deskflow), with a shared clipboard
 
 ### 09/11 – 13/12 · ساختن و هم‌رسانی
 
@@ -49,7 +53,7 @@ Discord ما بررسی می‌شوند و هر مورد به یک pull request 
 
 - [ ] **تغییر چیدمان** با یک کلیک: سبک macOS، سبک Windows یا Lingmo
 - [ ] **نسخه‌های قبلی** فایل‌ها در مدیر فایل، مانند Time Machine
-- [ ] **گوشی یکپارچه**: اعلان‌ها، فایل‌ها و بریده‌دان با Android و iPhone ‏(KDE Connect)
+- [x] **گوشی یکپارچه**: اعلان‌ها، فایل‌ها و بریده‌دان با Android و iPhone ‏(KDE Connect)
 - [ ] **حساب‌های ابری**: Google Drive و OneDrive در مدیر فایل
 - [x] کپی متن از یک تصویر صفحه (OCR)
 - [ ] نصب‌کننده‌ای که هنگام نصب در کنار Windows دربارهٔ BitLocker و Secure Boot هشدار می‌دهد

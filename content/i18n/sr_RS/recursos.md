@@ -24,6 +24,10 @@
 - **Подешавања › Вештачка интелигенција**: стање Ollama, инсталирани модели, препоруке за *овај* рачунар, преузимање модела са напретком, опција „Размисли пре одговора“ и дозволе и алати Асистента
 - **Аутоматизатор**: дневне рутине у задато време, са командом и, ако желите, локалним AI-јем који објашњава резултат
 - **Транскрипција и титлови** у Подешавања › Вештачка интелигенција: whisper.cpp модели са ознакама и беџом „Препоручено за ваш рачунар“, поред AI модела препоручених за ваш хардвер (llmfit)
+- **Assistant flows**: build automations from blocks, a trigger (a time, a new e-mail, a voice command or a shortcut) plus app actions, follow every run step by step and approve once what the flow may do
+- **Agents and voice**: assistants with their own instructions, model and tools, called in the chat, in a flow or from Spotlight ("ai:@name"). And talk to the Assistant by voice with Meta + Shift + I
+- **Ask about the screen** (Meta + S): circle or select any area of the screen to explain, translate, summarize, copy its text or search the web. It is analyzed on your computer and nothing is sent
+- **App actions** (Lingmo Intents): Clock, Mail, Notes, Files, Screenshots and other apps offer actions to the Assistant, Flows and Spotlight: type what you want, such as an alarm at 7, and confirm. In Settings › Artificial Intelligence you can turn off an app or a single action, and sending or changing anything always asks first
 
 ### Подешавања
 
@@ -33,6 +37,7 @@
 - Странице **Пречице** и **Аутоматско покретање** да изаберете шта се отвара са системом
 - **Ажурирања без терминала**: обавештење на панелу и дугме „Ажурирај“
 - Доступно на **48 језика**
+- **Folders that follow your language**: when you switch language, your personal folders (Documents, Videos, Pictures…) get the new names; folders that exist in two languages are merged without deleting anything, and you can undo it
 
 ### Камера и безбедност
 
@@ -67,3 +72,4 @@
 - **Извоз** у MP4 подразумевано, уз убрзање преко графичке картице (NVENC или VA-API)
 - **Прављење исечака**: претвара дугачак видео у исечке за Shorts, Reels, TikTok, Kwai, LinkedIn, X и Stories, са трајањем и безбедном зоном које препоручује свака мрежа, најбољим тренуцима које бира локални AI (Ollama) и кадрирањем 9:16 које прати лице
 - **Титлови** синхронизовани реч по реч помоћу whisper.cpp, на вашем рачунару: девет стилова осмишљених за читање (караоке са бојом која прелази преко реда, истакнута реч, реч по реч, подкаст, неон, висок контраст, две особе које говоре…) и извоз у SRT, VTT и ASS
+- **Cut**: the quick page for assembling a video, with the whole timeline in miniature above the detailed one, smart trim and shortcuts to Generate cuts and Captions

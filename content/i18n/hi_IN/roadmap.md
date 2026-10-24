@@ -17,6 +17,10 @@ Discord पर चर्चा होती है, और हर आइटम G
 - [x] बॉक्स में **Android ऐप्स** (APK), Waydroid के साथ, जो किसी भी दूसरे ऐप की तरह लॉन्चर में दिखते हैं
 - [x] **एक क्लिक में गेम**: Steam, Proton और गेम मोड, उन एंटी-चीट वाले गेम के लिए चेतावनी के साथ जो Linux पर नहीं चलते
 - [x] **नेटिव गेम**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). स्टोर → नेटिव गेम से इंस्टॉल करें। पहली बार खोलने पर अपने कार्ट्रिज से निकाली गई ROM दें; पैकेज में गेम का डेटा शामिल नहीं है।
+- [x] **Ask about the screen** (Meta + S): circle an area to explain, translate or summarize it, with the AI on your computer
+- [x] **App actions** (Lingmo Intents): apps offer actions to the Assistant, Flows and Spotlight
+- [x] **Assistant with flows, agents and voice** (Meta + Shift + I)
+- [x] **One keyboard and mouse for several computers** (Deskflow), with a shared clipboard
 
 ### 09/11 से 13/12 · बनाएँ और साझा करें
 
@@ -49,7 +53,7 @@ Discord पर चर्चा होती है, और हर आइटम G
 
 - [ ] एक क्लिक में **लेआउट बदलें**: macOS स्टाइल, Windows स्टाइल या Lingmo
 - [ ] फ़ाइल मैनेजर में फ़ाइलों के **पिछले संस्करण**, Time Machine की तरह
-- [ ] **फ़ोन इंटीग्रेशन**: Android और iPhone के साथ सूचनाएँ, फ़ाइलें और क्लिपबोर्ड (KDE Connect)
+- [x] **फ़ोन इंटीग्रेशन**: Android और iPhone के साथ सूचनाएँ, फ़ाइलें और क्लिपबोर्ड (KDE Connect)
 - [ ] **क्लाउड खाते**: Google Drive और OneDrive फ़ाइल मैनेजर में दिखते हैं
 - [x] स्क्रीनशॉट से टेक्स्ट कॉपी करना (OCR)
 - [ ] इंस्टॉलर जो Windows के साथ इंस्टॉल करते समय BitLocker और Secure Boot के बारे में चेतावनी देता है

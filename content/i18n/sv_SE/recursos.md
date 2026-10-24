@@ -24,6 +24,10 @@ Allt det här finns redan i ArchLingmo i dag.
 - **Inställningar › Artificiell intelligens**: Ollamas status, installerade modeller, rekommendationer för *den här* datorn, nedladdning av modeller med förlopp, alternativet ”Tänk innan du svarar” samt Assistentens behörigheter och verktyg
 - **Automatisering**: dagliga rutiner vid en bestämd tid, med ett kommando och, om du vill, den lokala AI:n som förklarar resultatet
 - **Transkribering och undertexter** i Inställningar › Artificiell intelligens: whisper.cpp-modeller med etiketter och märket ”Rekommenderas för din dator”, bredvid de AI-modeller som rekommenderas för din hårdvara (llmfit)
+- **Assistant flows**: build automations from blocks, a trigger (a time, a new e-mail, a voice command or a shortcut) plus app actions, follow every run step by step and approve once what the flow may do
+- **Agents and voice**: assistants with their own instructions, model and tools, called in the chat, in a flow or from Spotlight ("ai:@name"). And talk to the Assistant by voice with Meta + Shift + I
+- **Ask about the screen** (Meta + S): circle or select any area of the screen to explain, translate, summarize, copy its text or search the web. It is analyzed on your computer and nothing is sent
+- **App actions** (Lingmo Intents): Clock, Mail, Notes, Files, Screenshots and other apps offer actions to the Assistant, Flows and Spotlight: type what you want, such as an alarm at 7, and confirm. In Settings › Artificial Intelligence you can turn off an app or a single action, and sending or changing anything always asks first
 
 ### Inställningar
 
@@ -33,6 +37,7 @@ Allt det här finns redan i ArchLingmo i dag.
 - Sidorna **Kortkommandon** och **Autostart** för att välja vad som öppnas när datorn startar
 - **Uppdateringar utan terminal**: en avisering i panelen och en knapp för att ”Uppdatera”
 - Finns på **48 språk**
+- **Folders that follow your language**: when you switch language, your personal folders (Documents, Videos, Pictures…) get the new names; folders that exist in two languages are merged without deleting anything, and you can undo it
 
 ### Kamera och säkerhet
 
@@ -67,3 +72,4 @@ Allt det här finns redan i ArchLingmo i dag.
 - **Exportera** till MP4 som standard, accelererat av grafikkortet (NVENC eller VA-API)
 - **Skapa klipp**: gör om en lång video till klipp för Shorts, Reels, TikTok, Kwai, LinkedIn, X och Stories, med den längd och säkra yta som varje nätverk rekommenderar, de bästa ögonblicken utvalda av en lokal AI (Ollama) och en 9:16-inramning som följer ansiktet
 - **Undertexter** synkade ord för ord med whisper.cpp, på din egen dator: nio stilar gjorda för läsning (karaoke där färgen sveper över raden, markerat ord, ord för ord, podcast, neon, hög kontrast, två talare…) och export till SRT, VTT och ASS
+- **Cut**: the quick page for assembling a video, with the whole timeline in miniature above the detailed one, smart trim and shortcuts to Generate cuts and Captions

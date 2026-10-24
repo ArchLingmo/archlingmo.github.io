@@ -17,6 +17,10 @@ kutunza kompyuta bila kuhitaji kuwa mtaalamu.
 - [x] **Programu za Android** (APK) ndani ya kisanduku, kwa Waydroid, zikionekana kwenye kizinduzi kama programu nyingine yoyote
 - [x] **Michezo kwa kubofya mara moja**: Steam, Proton na hali ya michezo, pamoja na onyo kwa michezo yenye anti-cheat isiyofanya kazi kwenye Linux
 - [x] **Michezo asilia**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Sakinisha kutoka Duka → Michezo asilia. Unapofungua mara ya kwanza, toa ROM kutoka katriji yako mwenyewe; vifurushi havina data za michezo.
+- [x] **Ask about the screen** (Meta + S): circle an area to explain, translate or summarize it, with the AI on your computer
+- [x] **App actions** (Lingmo Intents): apps offer actions to the Assistant, Flows and Spotlight
+- [x] **Assistant with flows, agents and voice** (Meta + Shift + I)
+- [x] **One keyboard and mouse for several computers** (Deskflow), with a shared clipboard
 
 ### 09/11 hadi 13/12 · Unda na ushiriki
 
@@ -49,7 +53,7 @@ kutunza kompyuta bila kuhitaji kuwa mtaalamu.
 
 - [ ] **Badilisha mpangilio** kwa kubofya mara moja: mtindo wa macOS, mtindo wa Windows au Lingmo
 - [ ] **Matoleo ya awali** ya faili katika kidhibiti faili, kama ilivyo kwenye Time Machine
-- [ ] **Simu iliyounganishwa**: arifa, faili na ubao wa kunakili pamoja na Android na iPhone (KDE Connect)
+- [x] **Simu iliyounganishwa**: arifa, faili na ubao wa kunakili pamoja na Android na iPhone (KDE Connect)
 - [ ] **Akaunti za wingu**: Google Drive na OneDrive zikionekana kwenye kidhibiti faili
 - [x] Kunakili maandishi kutoka kwenye picha ya skrini (OCR)
 - [ ] Kisakinishi kinachoonya kuhusu BitLocker na Secure Boot unaposakinisha kando ya Windows

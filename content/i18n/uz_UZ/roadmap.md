@@ -17,6 +17,10 @@ texnik bilimsiz kompyuterni parvarish qilish.
 - [x] Qutida Waydroid orqali ishlaydigan **Android ilovalari** (APK), ular ishga tushirgichda boshqa ilovalar kabi ko‘rinadi
 - [x] **Bir bosishda o‘yinlar**: Steam, Proton va o‘yin rejimi, Linux’da ishlamaydigan anti-cheat’li o‘yinlar haqida ogohlantirish bilan
 - [x] **Mahalliy o‘yinlar**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Do‘kon → Mahalliy o‘yinlar bo‘limidan o‘rnating. Birinchi ishga tushirishda o‘z kartrijingizdan olingan ROMni ko‘rsating; paketlarda o‘yin ma’lumotlari yo‘q.
+- [x] **Ask about the screen** (Meta + S): circle an area to explain, translate or summarize it, with the AI on your computer
+- [x] **App actions** (Lingmo Intents): apps offer actions to the Assistant, Flows and Spotlight
+- [x] **Assistant with flows, agents and voice** (Meta + Shift + I)
+- [x] **One keyboard and mouse for several computers** (Deskflow), with a shared clipboard
 
 ### 09/11 – 13/12 · Yarating va ulashing
 
@@ -49,7 +53,7 @@ texnik bilimsiz kompyuterni parvarish qilish.
 
 - [ ] Bir bosishda **tartibni almashtirish**: macOS uslubi, Windows uslubi yoki Lingmo
 - [ ] Fayl menejerida fayllarning **oldingi versiyalari**, xuddi Time Machine’dagidek
-- [ ] **Telefon integratsiyasi**: Android va iPhone bilan bildirishnomalar, fayllar va almashish buferi (KDE Connect)
+- [x] **Telefon integratsiyasi**: Android va iPhone bilan bildirishnomalar, fayllar va almashish buferi (KDE Connect)
 - [ ] **Bulut hisoblari**: Google Drive va OneDrive fayl menejerida ko‘rinadi
 - [x] Skrinshotdan matnni nusxalash (OCR)
 - [ ] Windows yonida o‘rnatishda BitLocker va Secure Boot haqida ogohlantiradigan o‘rnatuvchi

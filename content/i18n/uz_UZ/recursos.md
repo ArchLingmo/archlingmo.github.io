@@ -24,6 +24,10 @@ Bularning barchasi ArchLingmo’da hozirdanoq mavjud.
 - **Sozlamalar › Sun’iy intellekt**: Ollama holati, o‘rnatilgan modellar, *aynan shu* kompyuter uchun tavsiyalar, jarayoni ko‘rinadigan model yuklab olish, "Javob berishdan oldin o‘ylash" parametri hamda Yordamchining ruxsatlari va vositalari
 - **Avtomatlashtiruvchi**: belgilangan vaqtda kundalik vazifalar — buyruq va, xohlasangiz, natijani tushuntirib beradigan mahalliy sun’iy intellekt
 - Sozlamalar › Sun’iy intellekt bo‘limida **transkripsiya va subtitrlar**: teglar va «Kompyuteringiz uchun tavsiya etiladi» nishoni bilan whisper.cpp modellari, uskunangiz uchun tavsiya etilgan sun’iy intellekt modellari yonida (llmfit)
+- **Assistant flows**: build automations from blocks, a trigger (a time, a new e-mail, a voice command or a shortcut) plus app actions, follow every run step by step and approve once what the flow may do
+- **Agents and voice**: assistants with their own instructions, model and tools, called in the chat, in a flow or from Spotlight ("ai:@name"). And talk to the Assistant by voice with Meta + Shift + I
+- **Ask about the screen** (Meta + S): circle or select any area of the screen to explain, translate, summarize, copy its text or search the web. It is analyzed on your computer and nothing is sent
+- **App actions** (Lingmo Intents): Clock, Mail, Notes, Files, Screenshots and other apps offer actions to the Assistant, Flows and Spotlight: type what you want, such as an alarm at 7, and confirm. In Settings › Artificial Intelligence you can turn off an app or a single action, and sending or changing anything always asks first
 
 ### Sozlamalar
 
@@ -33,6 +37,7 @@ Bularning barchasi ArchLingmo’da hozirdanoq mavjud.
 - **Tezkor tugmalar** va **Avtoishga tushirish** sahifalari — tizim bilan birga nima ochilishini tanlang
 - **Terminalsiz yangilanishlar**: panelda bildirishnoma va «Yangilash» tugmasi
 - **48 tilda** mavjud
+- **Folders that follow your language**: when you switch language, your personal folders (Documents, Videos, Pictures…) get the new names; folders that exist in two languages are merged without deleting anything, and you can undo it
 
 ### Kamera va xavfsizlik
 
@@ -67,3 +72,4 @@ Bularning barchasi ArchLingmo’da hozirdanoq mavjud.
 - Sukut bo‘yicha MP4 formatiga, videokarta yordamida tezlashtirilgan (NVENC yoki VA-API) **eksport**
 - **Kesmalar yaratish**: uzun videoni Shorts, Reels, TikTok, Kwai, LinkedIn, X va Stories uchun kesmalarga aylantiradi — har bir tarmoq tavsiya qilgan davomiylik va xavfsiz hudud bilan, eng yaxshi lahzalarni mahalliy sun’iy intellekt (Ollama) tanlaydi, 9:16 qayta kadrlash esa yuzni kuzatib boradi
 - whisper.cpp yordamida o‘z kompyuteringizda so‘zma-so‘z sinxronlangan **subtitrlar**: o‘qish uchun mo‘ljallangan to‘qqizta uslub (rang qator bo‘ylab o‘tadigan karaoke, ajratilgan so‘z, so‘zma-so‘z, podkast, neon, yuqori kontrast, ikki so‘zlovchi…) va SRT, VTT hamda ASS formatlariga eksport
+- **Cut**: the quick page for assembling a video, with the whole timeline in miniature above the detailed one, smart trim and shortcuts to Generate cuts and Captions

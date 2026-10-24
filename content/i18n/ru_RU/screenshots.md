@@ -1,5 +1,17 @@
 ## Скриншоты
 
+![Спросить об экране (Meta + S): перевод области экрана с помощью ИИ на вашем компьютере](screenshots/screen-ask.jpg)
+![Spotlight предлагает действие приложения: Часы › Создать будильник](screenshots/intents-spotlight.jpg)
+![Сценарий Ассистента выполняется шаг за шагом](screenshots/assistant-flow-run.jpg)
+![Агенты Ассистента, у каждого свои инструкции и инструменты](screenshots/assistant-agents.jpg)
+![Один раз одобрить, что разрешено сценарию](screenshots/assistant-approval.jpg)
+![Настройки › Действия приложений: включайте и отключайте каждое действие](screenshots/intents-settings.jpg)
+![Личные папки переименованы под новый язык, ничего не удалено](screenshots/user-dirs.jpg)
+![Lingmo Studio: страница Монтаж](screenshots/studio-edit.jpg)
+![Lingmo Studio: страница Цвет с цветовыми кругами и скопами](screenshots/studio-color.jpg)
+![Lingmo Studio: страница Нарезка](screenshots/studio-cut-page.jpg)
+![Lingmo Studio: микшер на странице Звук](screenshots/studio-audio.jpg)
+![Lingmo Studio: страница Экспорт с форматами вывода](screenshots/studio-deliver.jpg)
 ![Стекло Lingmo: строка состояния, док и уведомление из матового стекла](screenshots/silicio/glass-desktop.jpg)
 ![Остров с таймером и копированием файлов](screenshots/silicio/island.jpg)
 ![Отправка файла на устройство рядом](screenshots/silicio/phone-send.jpg)

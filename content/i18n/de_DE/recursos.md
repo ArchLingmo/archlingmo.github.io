@@ -24,6 +24,10 @@ All das ist in ArchLingmo schon heute enthalten.
 - **Einstellungen › Künstliche Intelligenz**: Ollama-Status, installierte Modelle, Empfehlungen für *diesen* Computer, Modell-Downloads mit Fortschrittsanzeige, die Option „Vor dem Antworten nachdenken“ sowie die Berechtigungen und Werkzeuge des Assistenten
 - **Automatisierung**: tägliche Routinen zu einer festen Uhrzeit, mit einem Befehl und auf Wunsch der lokalen KI, die das Ergebnis erklärt
 - **Transkription und Untertitel** unter Einstellungen › Künstliche Intelligenz: whisper.cpp-Modelle mit Etiketten und dem Abzeichen „Empfohlen für Ihren Computer“, neben den für Ihre Hardware empfohlenen KI-Modellen (llmfit)
+- **Abläufe des Assistenten**: Automatisierungen aus Bausteinen bauen, mit einem Auslöser (eine Uhrzeit, eine neue E-Mail, ein Sprachbefehl oder ein Tastenkürzel) und den Aktionen der Apps, jeden Lauf Schritt für Schritt verfolgen und einmal freigeben, was der Ablauf darf
+- **Agenten und Sprache**: Assistenten mit eigenen Anweisungen, eigenem Modell und eigenen Werkzeugen, aufgerufen im Chat, in einem Ablauf oder über Spotlight („ai:@name“). Und mit Meta + Umschalt + I sprechen Sie per Stimme mit dem Assistenten
+- **Zum Bildschirm fragen** (Meta + S): einen beliebigen Bereich des Bildschirms einkreisen oder auswählen, um ihn zu erklären, zu übersetzen, zusammenzufassen, seinen Text zu kopieren oder im Web zu suchen. Die Analyse läuft auf Ihrem Computer, nichts wird gesendet
+- **App-Aktionen** (Lingmo Intents): Uhr, Mail, Notizen, Dateien, Bildschirmfotos und andere Apps bieten dem Assistenten, den Abläufen und Spotlight Aktionen an: Tippen Sie, was Sie möchten, etwa einen Wecker um 7 Uhr, und bestätigen Sie. Unter Einstellungen › Künstliche Intelligenz schalten Sie eine App oder einzelne Aktion ab, und Senden oder Ändern fragt immer vorher nach
 
 ### Einstellungen
 
@@ -33,6 +37,7 @@ All das ist in ArchLingmo schon heute enthalten.
 - Seiten für **Tastenkürzel** und **Autostart**, um festzulegen, was beim Systemstart geöffnet wird
 - **Updates ohne Terminal**: Hinweis in der Leiste und ein Knopf „Aktualisieren“
 - Verfügbar in **48 Sprachen**
+- **Ordner, die der Sprache folgen**: Wenn Sie die Sprache wechseln, bekommen Ihre persönlichen Ordner (Dokumente, Videos, Bilder…) die neuen Namen; Ordner, die es in zwei Sprachen gibt, werden zusammengeführt, ohne etwas zu löschen, und Sie können es rückgängig machen
 
 ### Kamera und Sicherheit
 
@@ -67,3 +72,4 @@ All das ist in ArchLingmo schon heute enthalten.
 - **Export** standardmäßig als MP4, beschleunigt durch die Grafikkarte (NVENC oder VA-API)
 - **Clips erstellen**: macht aus einem langen Video kurze Clips für Shorts, Reels, TikTok, Kwai, LinkedIn, X und Stories, mit der von jedem Netzwerk empfohlenen Länge und dem sicheren Bereich, den besten Momenten, ausgewählt von einer lokalen KI (Ollama), und einem 9:16-Bildausschnitt, der dem Gesicht folgt
 - **Untertitel**, Wort für Wort synchronisiert mit whisper.cpp, auf Ihrem eigenen Computer: neun Stile, gemacht zum Lesen (Karaoke mit Farbverlauf über den Satz, hervorgehobenes Wort, Wort für Wort, Podcast, Neon, hoher Kontrast, zwei Sprecher…) und Export als SRT, VTT und ASS
+- **Zuschnitt**: die schnelle Seite zum Zusammenstellen des Videos, mit der ganzen Zeitleiste als Miniatur über der detaillierten, intelligentem Trimmen und Abkürzungen zu Clips erzeugen und Untertitel

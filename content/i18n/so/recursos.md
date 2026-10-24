@@ -24,6 +24,10 @@ Waxyaabahan oo dhan maanta ayay ku jiraan ArchLingmo.
 - **Dejinta › Sirdoonka macmalka ah**: xaaladda Ollama, moodellada la rakibay, talooyin loogu talagalay kombiyuutarkan *gaarka ah*, soo dejinta moodellada oo leh horumarka, ikhtiyaarka "Ka fikir ka hor intaadan jawaabin", iyo oggolaanshaha iyo qalabka Kaaliyaha
 - **Otomaatiyeeye**: hawl maalinle ah oo waqti go'an, oo leh amar iyo, haddii aad rabto, AI-ga maxalliga ah oo sharxaya natiijada
 - **Qoraal-u-beddelka codka iyo qoraal-hoosaadyada** ee Dejinta › Sirdoonka macmalka ah: moodellada whisper.cpp oo leh calaamado iyo sumadda "Lagu taliyay kombiyuutarkaaga", oo ku xiga moodellada AI ee loogu talagalay qalabkaaga (llmfit)
+- **Assistant flows**: build automations from blocks, a trigger (a time, a new e-mail, a voice command or a shortcut) plus app actions, follow every run step by step and approve once what the flow may do
+- **Agents and voice**: assistants with their own instructions, model and tools, called in the chat, in a flow or from Spotlight ("ai:@name"). And talk to the Assistant by voice with Meta + Shift + I
+- **Ask about the screen** (Meta + S): circle or select any area of the screen to explain, translate, summarize, copy its text or search the web. It is analyzed on your computer and nothing is sent
+- **App actions** (Lingmo Intents): Clock, Mail, Notes, Files, Screenshots and other apps offer actions to the Assistant, Flows and Spotlight: type what you want, such as an alarm at 7, and confirm. In Settings › Artificial Intelligence you can turn off an app or a single action, and sending or changing anything always asks first
 
 ### Dejinta
 
@@ -33,6 +37,7 @@ Waxyaabahan oo dhan maanta ayay ku jiraan ArchLingmo.
 - Bogagga **Gaaban-furayaasha** iyo **Bilowga** si aad u doorato waxa la furmaya marka nidaamku bilaabmo
 - **Cusboonaysiin aan terminal lahayn**: ogeysiis ku jira bar-ka iyo badhan "Cusboonaysii"
 - Waxaa lagu heli karaa **48 luqadood**
+- **Folders that follow your language**: when you switch language, your personal folders (Documents, Videos, Pictures…) get the new names; folders that exist in two languages are merged without deleting anything, and you can undo it
 
 ### Kamarada iyo amniga
 
@@ -67,3 +72,4 @@ Waxyaabahan oo dhan maanta ayay ku jiraan ArchLingmo.
 - **U dhoofi** MP4 si caadi ah, oo uu dardargeliyo kaarka sawirka (NVENC ama VA-API)
 - **Samee qaybo gaaban**: wuxuu muuqaal dheer u beddelaa qaybo gaaban oo loogu talagalay Shorts, Reels, TikTok, Kwai, LinkedIn, X iyo Stories, oo leh dhererka iyo aagga badbaadada ah ee shabakad kastaa ku talisay, daqiiqadaha ugu fiican oo uu doortay AI maxalli ah (Ollama) iyo dib-u-qaabayn 9:16 ah oo raacaysa wejiga
 - **Qoraal-hoosaadyo** la waafajiyay kelmad-kelmad iyadoo la adeegsanayo whisper.cpp, kombiyuutarkaaga dushiisa: sagaal qaab oo loogu talagalay akhriska (karaoke oo midabku dul marayo jumladda, kelmad la iftiimiyay, kelmad-kelmad, podcast, neon, kala-duwanaansho sare, laba qof oo hadlaya…) iyo u dhoofinta SRT, VTT iyo ASS
+- **Cut**: the quick page for assembling a video, with the whole timeline in miniature above the detailed one, smart trim and shortcuts to Generate cuts and Captions

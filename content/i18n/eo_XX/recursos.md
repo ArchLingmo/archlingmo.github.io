@@ -24,6 +24,10 @@
 - **Agordoj › Artefarita inteligenteco**: stato de Ollama, instalitaj modeloj, rekomendoj por *ĉi tiu* komputilo, elŝutado de modeloj kun progreso, la opcio «Pensi antaŭ respondi» kaj la permesoj kaj iloj de la Asistanto
 - **Aŭtomatigilo**: ĉiutagaj rutinoj je difinita horo, kun komando kaj, se vi volas, la loka AI klarigante la rezulton
 - **Transskribo kaj subtekstoj** en Agordoj › Artefarita inteligenteco: modeloj de whisper.cpp kun etikedoj kaj la insigno «Rekomendita por via komputilo», apud la AI-modeloj rekomenditaj por via aparataro (llmfit)
+- **Assistant flows**: build automations from blocks, a trigger (a time, a new e-mail, a voice command or a shortcut) plus app actions, follow every run step by step and approve once what the flow may do
+- **Agents and voice**: assistants with their own instructions, model and tools, called in the chat, in a flow or from Spotlight ("ai:@name"). And talk to the Assistant by voice with Meta + Shift + I
+- **Ask about the screen** (Meta + S): circle or select any area of the screen to explain, translate, summarize, copy its text or search the web. It is analyzed on your computer and nothing is sent
+- **App actions** (Lingmo Intents): Clock, Mail, Notes, Files, Screenshots and other apps offer actions to the Assistant, Flows and Spotlight: type what you want, such as an alarm at 7, and confirm. In Settings › Artificial Intelligence you can turn off an app or a single action, and sending or changing anything always asks first
 
 ### Agordoj
 
@@ -33,6 +37,7 @@
 - Paĝoj **Klavkombinoj** kaj **Aŭtomata lanĉo** por elekti kio malfermiĝas kun la sistemo
 - **Ĝisdatigoj sen terminalo**: avizo en la breto kaj butono «Ĝisdatigi»
 - Disponebla en **48 lingvoj**
+- **Folders that follow your language**: when you switch language, your personal folders (Documents, Videos, Pictures…) get the new names; folders that exist in two languages are merged without deleting anything, and you can undo it
 
 ### Kamerao kaj sekureco
 
@@ -67,3 +72,4 @@
 - **Eksporti** al MP4 defaŭlte, akcelite de la grafika karto (NVENC aŭ VA-API)
 - **Generi tranĉaĵojn**: transformas longan videon en tranĉaĵojn por Shorts, Reels, TikTok, Kwai, LinkedIn, X kaj Stories, kun la daŭro kaj sekura areo rekomenditaj de ĉiu reto, la plej bonaj momentoj elektitaj de loka AI (Ollama) kaj 9:16-rekadrigo, kiu sekvas la vizaĝon
 - **Subtekstoj** sinkronigitaj vorton post vorto per whisper.cpp, en via propra komputilo: naŭ stiloj desegnitaj por legado (karaokeo kun la koloro trairanta la frazon, emfazita vorto, vorto post vorto, podkasto, neono, alta kontrasto, du parolantoj…) kaj eksporto al SRT, VTT kaj ASS
+- **Cut**: the quick page for assembling a video, with the whole timeline in miniature above the detailed one, smart trim and shortcuts to Generate cuts and Captions

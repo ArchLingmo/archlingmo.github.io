@@ -17,6 +17,10 @@ curar li computator sin esser un expert.
 - [x] **Applicationes de Android** (APK) in un buxe, con Waydroid, visibil in li lansator quam quelcunc altri application
 - [x] **Ludes con un clic**: Steam, Proton e modo de lude, con avise pri ludes con anti-cheat queles ne functiona in Linux
 - [x] **Nativ ludes**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Installa ex Butica → Nativ ludes. Al prim lansament, provide un ROM extraet de vor propri cartuche; li paccas ne contene dates del ludes.
+- [x] **Ask about the screen** (Meta + S): circle an area to explain, translate or summarize it, with the AI on your computer
+- [x] **App actions** (Lingmo Intents): apps offer actions to the Assistant, Flows and Spotlight
+- [x] **Assistant with flows, agents and voice** (Meta + Shift + I)
+- [x] **One keyboard and mouse for several computers** (Deskflow), with a shared clipboard
 
 ### 09/11 til 13/12 · Crear e partir
 
@@ -49,7 +53,7 @@ curar li computator sin esser un expert.
 
 - [ ] **Changear li arangeament** con un clic: stil macOS, stil Windows o Lingmo
 - [ ] **Precedent versiones** del files in li gerente de files, quam in Time Machine
-- [ ] **Telefon integrat**: notificationes, files e paperiere con Android e iPhone (KDE Connect)
+- [x] **Telefon integrat**: notificationes, files e paperiere con Android e iPhone (KDE Connect)
 - [ ] **Contos in li nube**: Google Drive e OneDrive visibil in li gerente de files
 - [x] Copiar li textu de un captura de ecran (OCR)
 - [ ] Installator quel averte pri BitLocker e Secure Boot quande on installa it apu Windows

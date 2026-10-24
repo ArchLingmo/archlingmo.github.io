@@ -9,7 +9,7 @@ color: "#2779FF"
 version: 2026.11
 status: upcoming
 cover: screenshots/silicio/glass-desktop.jpg
-summary: Vidro Lingmo e a Ilha, ícones próprios, o Lingmo Studio, celular e PC juntos, um teclado e um mouse para vários computadores. E o Assistente começa a ganhar fluxos, agentes e voz.
+summary: Vidro Lingmo e a Ilha, ícones próprios, o Lingmo Studio, celular e PC juntos, um teclado e um mouse para vários computadores. E o Assistente ganha fluxos, agentes e voz, as ações dos apps e o Perguntar sobre a tela.
 ---
 
 A próxima versão do ArchLingmo se chama **Silício**. Ela ainda está sendo preparada; este
@@ -78,11 +78,43 @@ Editar, Cor, Efeitos, Áudio e Entregar.
 
 ![Lingmo Studio gerando cortes para Shorts e Reels](screenshots/studio-cuts.jpg)
 
-## Assistente: fluxos, agentes e voz (em andamento)
+As páginas foram redesenhadas no estilo do DaVinci: o **Corte** para montar rápido, o
+**Editar** com Media Pool, Inspetor e linha do tempo, o **Cor** com rodas de cor e escopos,
+o **Áudio** com mixer e normalização em LUFS e o **Entregar** com os formatos e a fila de
+renderização. Ao abrir, o gerenciador de projetos mostra os recentes e os modelos.
 
-O Assistente continua rodando no seu computador, e está aprendendo a fazer mais:
-**fluxos** de várias etapas, **agentes** que trabalham numa tarefa até o fim e **conversa
-por voz**. Essa parte ainda está em desenvolvimento e pode chegar aos poucos.
+![Lingmo Studio, página Cor](screenshots/studio-color.jpg)
+
+## Assistente: fluxos, agentes e voz
+
+O Assistente continua rodando no seu computador, e agora faz mais:
+
+- **Fluxos**: automações montadas com blocos. Um gatilho (um horário, um e-mail novo, um
+  comando de voz ou um atalho) liga as ações dos apps, e cada execução fica registrada
+  passo a passo. Você aprova uma vez o que o fluxo pode fazer.
+- **Agentes**: assistentes com instruções, modelo e ferramentas próprios, chamados na
+  conversa, num fluxo ou pelo Spotlight com "ai:@nome".
+- **Voz**: aperte **Meta + Shift + I** e fale com o Assistente.
+
+![Um fluxo do Assistente em execução](screenshots/assistant-flow-run.jpg)
+
+## Lingmo Intents: as ações dos apps
+
+Relógio, E-mail, Notas, Arquivos, Capturas, Celular e outros apps agora oferecem
+**ações** ao Assistente, aos Fluxos e ao Spotlight. Digite "criar alarme 7h" no Spotlight,
+peça ao Assistente ou arraste a ação para um fluxo: o formulário é gerado sozinho. Enviar
+ou alterar algo sempre pede confirmação, e em Configurações › Inteligência Artificial ›
+Ações dos apps você desliga um app inteiro ou só uma ação.
+
+![Spotlight sugerindo Relógio › Criar alarme](screenshots/intents-spotlight.jpg)
+
+## Perguntar sobre a tela
+
+Com **Meta + S**, circule ou selecione qualquer área da tela e peça para **explicar,
+traduzir, resumir**, copiar o texto ou buscar na web. A IA roda no seu computador e nada é
+enviado; dá para continuar a conversa no Assistente.
+
+![Perguntar sobre a tela traduzindo uma nota](screenshots/screen-ask.jpg)
 
 ## Celular ↔ PC
 
@@ -104,9 +136,14 @@ estão na mesa, e a conexão é criptografada.
 
 - A **Lingmo Camera** (enquadramento automático, desfoque de fundo e login pelo rosto) agora
   vem **instalada por padrão**.
-- O **KWin X11 continua vivo no Plasma 6.8**: o Arch deixou só o Wayland, então
+- O **X11 continua vivo no Plasma 6.8**: o Arch deixou só o Wayland, então
   recompilamos o `kwin-x11` com as bibliotecas atuais do KDE e empacotamos o
   `kglobalacceld-x11`, para os atalhos do KWin (Alt+Tab, Alt+F4...) funcionarem no X11.
+- **Pastas que seguem o idioma**: ao trocar o idioma, as pastas pessoais (Documentos,
+  Vídeos, Imagens…) ganham os novos nomes. Se a mesma pasta existir nos dois idiomas, o
+  conteúdo é juntado sem apagar nada, e dá para desfazer.
+- **Em breve no Otimizador**: limpar os caches de desenvolvimento (npm, Cargo, Go, Gradle,
+  Docker e outros), mostrando quanto espaço cada um ocupa antes de apagar.
 - **Sessão mais segura**: se a placa de vídeo falhar ao iniciar (por exemplo, depois de
   atualizar o driver sem reiniciar), a dock e a barra de status voltam sozinhas com
   **renderização por software**, em vez de a área de trabalho sumir.

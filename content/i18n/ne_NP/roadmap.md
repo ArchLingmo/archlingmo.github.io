@@ -17,6 +17,10 @@ Discord मा छलफल गरिन्छ, र हरेक बुँदा
 - [x] Waydroid सँग बाकसमा **Android एप** (APK), अरू एपजस्तै लन्चरमा देखिने
 - [x] **एक क्लिकमा खेलहरू**: Steam, Proton र गेम मोड, Linux मा नचल्ने anti-cheat भएका खेलहरूका लागि चेतावनीसहित
 - [x] **नेटिभ खेलहरू**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). स्टोर → नेटिभ खेलहरूबाट स्थापना गर्नुहोस्। पहिलो पटक खोल्दा आफ्नै कार्ट्रिजबाट निकालिएको ROM दिनुहोस्; प्याकेजमा खेलको डेटा हुँदैन।
+- [x] **Ask about the screen** (Meta + S): circle an area to explain, translate or summarize it, with the AI on your computer
+- [x] **App actions** (Lingmo Intents): apps offer actions to the Assistant, Flows and Spotlight
+- [x] **Assistant with flows, agents and voice** (Meta + Shift + I)
+- [x] **One keyboard and mouse for several computers** (Deskflow), with a shared clipboard
 
 ### 09/11 – 13/12 · बनाउनुहोस् र साझा गर्नुहोस्
 
@@ -49,7 +53,7 @@ Discord मा छलफल गरिन्छ, र हरेक बुँदा
 
 - [ ] एक क्लिकमा **लेआउट बदल्नुहोस्**: macOS शैली, Windows शैली वा Lingmo
 - [ ] फाइल व्यवस्थापकमा फाइलहरूका **अघिल्ला संस्करणहरू**, Time Machine जस्तै
-- [ ] **जोडिएको मोबाइल**: Android र iPhone सँग सूचना, फाइल र क्लिपबोर्ड (KDE Connect)
+- [x] **जोडिएको मोबाइल**: Android र iPhone सँग सूचना, फाइल र क्लिपबोर्ड (KDE Connect)
 - [ ] **क्लाउड खाताहरू**: Google Drive र OneDrive फाइल व्यवस्थापकमा देखिने
 - [x] स्क्रिनसटबाट पाठ प्रतिलिपि गर्नुहोस् (OCR)
 - [ ] Windows सँगै इन्स्टल गर्दा BitLocker र Secure Boot बारे चेतावनी दिने इन्स्टलर

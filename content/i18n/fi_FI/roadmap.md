@@ -17,6 +17,10 @@ tietokoneen ylläpito ilman teknistä osaamista.
 - [x] **Android-sovellukset** (APK) laatikossa Waydroidilla, näkyvät sovellusvalikossa kuten mikä tahansa sovellus
 - [x] **Pelit yhdellä napsautuksella**: Steam, Proton ja pelitila sekä varoitus peleistä, joiden huijauksenesto ei toimi Linuxissa
 - [x] **Natiivipelit**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Asenna kohdasta Kauppa → Natiivipelit. Anna ensimmäisellä käynnistyskerralla omalta pelikasetiltasi kopioitu ROM; paketit eivät sisällä pelidataa.
+- [x] **Ask about the screen** (Meta + S): circle an area to explain, translate or summarize it, with the AI on your computer
+- [x] **App actions** (Lingmo Intents): apps offer actions to the Assistant, Flows and Spotlight
+- [x] **Assistant with flows, agents and voice** (Meta + Shift + I)
+- [x] **One keyboard and mouse for several computers** (Deskflow), with a shared clipboard
 
 ### 09.11.–13.12. · Luo ja jaa
 
@@ -49,7 +53,7 @@ tietokoneen ylläpito ilman teknistä osaamista.
 
 - [ ] **Vaihda asettelua** yhdellä napsautuksella: macOS-tyyli, Windows-tyyli tai Lingmo
 - [ ] Tiedostojen **aiemmat versiot** tiedostonhallinnassa, kuten Time Machinessa
-- [ ] **Puhelinintegraatio**: ilmoitukset, tiedostot ja leikepöytä Androidin ja iPhonen kanssa (KDE Connect)
+- [x] **Puhelinintegraatio**: ilmoitukset, tiedostot ja leikepöytä Androidin ja iPhonen kanssa (KDE Connect)
 - [ ] **Pilvitilit**: Google Drive ja OneDrive näkyvät tiedostonhallinnassa
 - [x] Tekstin kopioiminen kuvakaappauksesta (OCR)
 - [ ] Asennusohjelma, joka varoittaa BitLockerista ja Secure Bootista asennettaessa Windowsin rinnalle

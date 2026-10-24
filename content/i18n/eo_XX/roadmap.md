@@ -17,6 +17,10 @@ prizorgi la komputilon sen esti teknikisto.
 - [x] **Android-aplikaĵoj** (APK) en skatolo, kun Waydroid, aperantaj en la lanĉilo kiel ajna alia aplikaĵo
 - [x] **Ludoj per unu klako**: Steam, Proton kaj luda reĝimo, kun averto pri ludoj, kies kontraŭtrompa sistemo ne funkcias en Linux
 - [x] **Indiĝenaj ludoj**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Instalu el Vendejo → Indiĝenaj ludoj. Je la unua lanĉo, donu ROM el via propra kartoĉo; la pakaĵoj ne enhavas ludajn datumojn.
+- [x] **Ask about the screen** (Meta + S): circle an area to explain, translate or summarize it, with the AI on your computer
+- [x] **App actions** (Lingmo Intents): apps offer actions to the Assistant, Flows and Spotlight
+- [x] **Assistant with flows, agents and voice** (Meta + Shift + I)
+- [x] **One keyboard and mouse for several computers** (Deskflow), with a shared clipboard
 
 ### 09/11 – 13/12 · Krei kaj kunhavigi
 
@@ -49,7 +53,7 @@ prizorgi la komputilon sen esti teknikisto.
 
 - [ ] **Ŝanĝi la aranĝon** per unu klako: stilo macOS, stilo Windows aŭ Lingmo
 - [ ] **Antaŭaj versioj** de dosieroj en la dosieradministrilo, kiel en Time Machine
-- [ ] **Integrita telefono**: sciigoj, dosieroj kaj tondujo kun Android kaj iPhone (KDE Connect)
+- [x] **Integrita telefono**: sciigoj, dosieroj kaj tondujo kun Android kaj iPhone (KDE Connect)
 - [ ] **Nubaj kontoj**: Google Drive kaj OneDrive aperas en la dosieradministrilo
 - [x] Kopii la tekston de ekrankopio (OCR)
 - [ ] Instalilo, kiu avertas pri BitLocker kaj Secure Boot dum instalado apud Windows

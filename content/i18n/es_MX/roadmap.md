@@ -17,6 +17,10 @@ cuidar la computadora sin necesidad de ser experto.
 - [x] **Apps de Android** (APK) en una caja, con Waydroid, que aparecen en el lanzador como cualquier otra app
 - [x] **Juegos en un clic**: Steam, Proton y modo juego, con aviso para juegos con anti-cheat que no funcionan en Linux
 - [x] **Juegos nativos**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Instala desde Tienda → Juegos nativos. Al abrir por primera vez, proporciona la ROM de tu propio cartucho; los paquetes no incluyen datos del juego.
+- [x] **Ask about the screen** (Meta + S): circle an area to explain, translate or summarize it, with the AI on your computer
+- [x] **App actions** (Lingmo Intents): apps offer actions to the Assistant, Flows and Spotlight
+- [x] **Assistant with flows, agents and voice** (Meta + Shift + I)
+- [x] **One keyboard and mouse for several computers** (Deskflow), with a shared clipboard
 
 ### 09/11 al 13/12 · Crear y compartir
 
@@ -49,7 +53,7 @@ cuidar la computadora sin necesidad de ser experto.
 
 - [ ] **Cambiar el diseño** con un clic: estilo macOS, estilo Windows o Lingmo
 - [ ] **Versiones anteriores** de los archivos en el administrador de archivos, como en Time Machine
-- [ ] **Celular integrado**: notificaciones, archivos y portapapeles con Android y iPhone (KDE Connect)
+- [x] **Celular integrado**: notificaciones, archivos y portapapeles con Android y iPhone (KDE Connect)
 - [ ] **Cuentas en la nube**: Google Drive y OneDrive dentro del administrador de archivos
 - [x] Copiar el texto de una captura de pantalla (OCR)
 - [ ] Instalador que avisa sobre BitLocker y Secure Boot al instalar junto a Windows

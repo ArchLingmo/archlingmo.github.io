@@ -1,7 +1,7 @@
 ---
 title: ArchLingmo Silicon (Si)
 element: Silicon
-summary: Lingmo Glass and the Island, our own icons, Lingmo Studio, your phone and PC together, one keyboard and mouse for several computers. And the Assistant starts to learn flows, agents and voice.
+summary: Lingmo Glass and the Island, our own icons, Lingmo Studio, your phone and PC together, one keyboard and mouse for several computers. And the Assistant gets flows, agents and voice, app actions and Ask about the screen.
 ---
 
 The next ArchLingmo release is called **Silicon**. It's still being put together; this post
@@ -70,11 +70,43 @@ Effects, Audio and Deliver.
 
 ![Lingmo Studio generating cuts for Shorts and Reels](screenshots/studio-cuts.jpg)
 
-## Assistant: flows, agents and voice (in progress)
+The pages were redesigned in DaVinci style: **Cut** for quick assembly, **Edit** with the
+Media Pool, Inspector and timeline, **Colour** with colour wheels and scopes, **Audio** with
+a mixer and LUFS normalization, and **Deliver** with the formats and the render queue. On
+launch, the project manager shows your recent projects and templates.
 
-The Assistant still runs on your computer, and it's learning to do more: multi-step
-**flows**, **agents** that see a task through, and **voice** conversations. This part is
-still being built and may arrive bit by bit.
+![Lingmo Studio, the Colour page](screenshots/studio-color.jpg)
+
+## Assistant: flows, agents and voice
+
+The Assistant still runs on your computer, and now it does more:
+
+- **Flows**: automations built from blocks. A trigger (a time, a new e-mail, a voice
+  command or a shortcut) starts the app actions, and every run is logged step by step. You
+  approve once what the flow may do.
+- **Agents**: assistants with their own instructions, model and tools, called in the chat,
+  in a flow or from Spotlight with "ai:@name".
+- **Voice**: press **Meta + Shift + I** and talk to the Assistant.
+
+![An Assistant flow running](screenshots/assistant-flow-run.jpg)
+
+## Lingmo Intents: app actions
+
+Clock, Mail, Notes, Files, Screenshots, Phone and other apps now offer **actions** to the
+Assistant, Flows and Spotlight. Type what you want in Spotlight, such as an alarm at 7, ask
+the Assistant, or drag the action into a flow: the form is generated for you. Sending or
+changing anything always asks first, and in Settings › Artificial Intelligence › App
+actions you can turn off a whole app or a single action.
+
+![Spotlight suggesting Clock › Create alarm](screenshots/intents-spotlight.jpg)
+
+## Ask about the screen
+
+With **Meta + S**, circle or select any area of the screen and ask to **explain,
+translate, summarize** it, copy its text or search the web. The AI runs on your computer
+and nothing is sent; you can carry on the conversation in the Assistant.
+
+![Ask about the screen translating a note](screenshots/screen-ask.jpg)
 
 ## Phone ↔ PC
 
@@ -96,9 +128,14 @@ the connection is encrypted.
 
 - **Lingmo Camera** (auto framing, background blur and face login) is now **installed by
   default**.
-- **KWin X11 lives on with Plasma 6.8**: Arch went Wayland-only, so we rebuild `kwin-x11`
+- **X11 lives on with Plasma 6.8**: Arch went Wayland-only, so we rebuild `kwin-x11`
   against the current KDE libraries and package `kglobalacceld-x11`, so KWin's shortcuts
   (Alt+Tab, Alt+F4...) keep working on X11.
+- **Folders that follow your language**: when you switch language, your personal folders
+  (Documents, Videos, Pictures…) get the new names. If the same folder exists in both
+  languages, the contents are merged without deleting anything, and you can undo it.
+- **Coming soon to the Optimizer**: cleaning developer caches (npm, Cargo, Go, Gradle,
+  Docker and more), showing how much space each one takes before deleting.
 - **A safer session**: if the graphics stack fails at start (say, after a driver update
   without a reboot), the dock and status bar come back by themselves with **software
   rendering** instead of the desktop disappearing.

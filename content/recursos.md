@@ -24,6 +24,10 @@ Tudo isto já vem no ArchLingmo hoje.
 - **Configurações › Inteligência Artificial**: estado do Ollama, modelos instalados, recomendações para *este* computador, download de modelos com progresso, a opção "Pensar antes de responder" e as permissões e ferramentas do Assistente
 - **Automatizador**: rotinas diárias num horário marcado, com um comando e, se quiser, a IA local explicando o resultado
 - **Transcrição e legendas** em Configurações › Inteligência Artificial: modelos do whisper.cpp com etiquetas e o selo "Recomendado para seu computador", ao lado dos modelos de IA recomendados para o seu hardware (llmfit)
+- **Fluxos do Assistente**: monte automações com blocos, um gatilho (um horário, um e-mail novo, um comando de voz ou um atalho) e as ações dos apps, acompanhe cada execução passo a passo e aprove uma vez o que o fluxo pode fazer
+- **Agentes e voz**: assistentes com instruções, modelo e ferramentas próprios, chamados na conversa, num fluxo ou pelo Spotlight ("ai:@nome"). E converse com o Assistente por voz com Meta + Shift + I
+- **Perguntar sobre a tela** (Meta + S): circule ou selecione qualquer área da tela para explicar, traduzir, resumir, copiar o texto ou buscar na web. A análise é feita no seu computador e nada é enviado
+- **Ações dos apps** (Lingmo Intents): Relógio, E-mail, Notas, Arquivos, Capturas e outros apps oferecem ações ao Assistente, aos Fluxos e ao Spotlight: digite "criar alarme 7h" e confirme. Em Configurações › Inteligência Artificial você desliga um app ou uma ação, e enviar ou alterar algo sempre pede confirmação antes
 
 ### Configurações
 
@@ -33,6 +37,7 @@ Tudo isto já vem no ArchLingmo hoje.
 - Páginas de **Atalhos** e de **Inicialização** para escolher o que abre com o sistema
 - **Atualizações sem terminal**: aviso na barra e botão "Atualizar"
 - Em **48 idiomas**, com o português completo
+- **Pastas que seguem o idioma**: ao trocar o idioma, as pastas pessoais (Documentos, Vídeos, Imagens…) ganham os novos nomes; pastas repetidas em dois idiomas são juntadas sem apagar nada, e dá para desfazer
 
 ### Câmera e segurança
 
@@ -67,3 +72,4 @@ Tudo isto já vem no ArchLingmo hoje.
 - **Exportar** em MP4 por padrão, com aceleração pela placa de vídeo (NVENC ou VA-API)
 - **Gerar cortes**: transforma um vídeo longo em cortes para Shorts, Reels, TikTok, Kwai, LinkedIn, X e Stories, com a duração e a área segura recomendadas por cada rede, os melhores trechos escolhidos por uma IA local (Ollama) e o enquadramento 9:16 seguindo o rosto
 - **Legendas** sincronizadas palavra por palavra com o whisper.cpp, no seu computador: nove estilos pensados para a leitura (karaokê com a cor varrendo a frase, palavra destacada, palavra a palavra, podcast, neon, alto contraste, duas pessoas falando…) e exportação em SRT, VTT e ASS
+- **Corte**: a página rápida para montar o vídeo, com a linha do tempo inteira em miniatura acima da detalhada, aparar inteligente e atalhos para Gerar cortes e Legendas

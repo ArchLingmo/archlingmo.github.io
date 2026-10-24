@@ -17,6 +17,10 @@ Discord, а кожны пункт становіцца адкрытым pull req
 - [x] **Праграмы Android** (APK) у скрыні праз Waydroid, якія з'яўляюцца ў меню запуску, як любая іншая праграма
 - [x] **Гульні ў адзін клік**: Steam, Proton і гульнявы рэжым, з папярэджаннем пра гульні з анцічытам, якія не працуюць у Linux
 - [x] **Натыўныя гульні**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Усталяванне з Крамы → Натыўныя гульні. Пры першым запуску патрэбна ROM уласнага картрыджа; пакеты не змяшчаюць даных гульняў.
+- [x] **Ask about the screen** (Meta + S): circle an area to explain, translate or summarize it, with the AI on your computer
+- [x] **App actions** (Lingmo Intents): apps offer actions to the Assistant, Flows and Spotlight
+- [x] **Assistant with flows, agents and voice** (Meta + Shift + I)
+- [x] **One keyboard and mouse for several computers** (Deskflow), with a shared clipboard
 
 ### З 09/11 па 13/12 · Ствараць і дзяліцца
 
@@ -49,7 +53,7 @@ Discord, а кожны пункт становіцца адкрытым pull req
 
 - [ ] **Змена кампаноўкі** ў адзін клік: у стылі macOS, у стылі Windows або Lingmo
 - [ ] **Папярэднія версіі** файлаў у файлавым менеджары, як у Time Machine
-- [ ] **Інтэграцыя з тэлефонам**: апавяшчэнні, файлы і буфер абмену з Android і iPhone (KDE Connect)
+- [x] **Інтэграцыя з тэлефонам**: апавяшчэнні, файлы і буфер абмену з Android і iPhone (KDE Connect)
 - [ ] **Воблачныя акаўнты**: Google Drive і OneDrive проста ў файлавым менеджары
 - [x] Капіяванне тэксту са здымка экрана (OCR)
 - [ ] Усталёўшчык, які папярэджвае пра BitLocker і Secure Boot пры ўсталёўцы побач з Windows

@@ -24,6 +24,10 @@
 - **ക്രമീകരണങ്ങൾ › നിർമ്മിത ബുദ്ധി**: Ollama-യുടെ നില, ഇൻസ്റ്റാൾ ചെയ്ത മോഡലുകൾ, *ഈ* കമ്പ്യൂട്ടറിനുള്ള ശുപാർശകൾ, പുരോഗതി കാണിക്കുന്ന മോഡൽ ഡൗൺലോഡുകൾ, "ഉത്തരം നൽകുന്നതിന് മുമ്പ് ചിന്തിക്കുക" ഓപ്ഷൻ, അസിസ്റ്റന്റിന്റെ അനുമതികളും ടൂളുകളും
 - **ഓട്ടോമേറ്റർ**: നിശ്ചിത സമയത്ത് ദിനചര്യകൾ, ഒരു കമാൻഡോടെ, വേണമെങ്കിൽ ഫലം വിശദീകരിക്കുന്ന ലോക്കൽ AI-യോടെ
 - ക്രമീകരണങ്ങൾ › നിർമ്മിത ബുദ്ധി എന്നതിൽ **ട്രാൻസ്ക്രിപ്ഷനും സബ്ടൈറ്റിലുകളും**: ടാഗുകളും "നിങ്ങളുടെ കമ്പ്യൂട്ടറിന് ശുപാർശ ചെയ്യുന്നത്" ബാഡ്ജുമുള്ള whisper.cpp മോഡലുകൾ, നിങ്ങളുടെ ഹാർഡ്‌വെയറിന് ശുപാർശ ചെയ്യുന്ന AI മോഡലുകൾക്കൊപ്പം (llmfit)
+- **Assistant flows**: build automations from blocks, a trigger (a time, a new e-mail, a voice command or a shortcut) plus app actions, follow every run step by step and approve once what the flow may do
+- **Agents and voice**: assistants with their own instructions, model and tools, called in the chat, in a flow or from Spotlight ("ai:@name"). And talk to the Assistant by voice with Meta + Shift + I
+- **Ask about the screen** (Meta + S): circle or select any area of the screen to explain, translate, summarize, copy its text or search the web. It is analyzed on your computer and nothing is sent
+- **App actions** (Lingmo Intents): Clock, Mail, Notes, Files, Screenshots and other apps offer actions to the Assistant, Flows and Spotlight: type what you want, such as an alarm at 7, and confirm. In Settings › Artificial Intelligence you can turn off an app or a single action, and sending or changing anything always asks first
 
 ### ക്രമീകരണങ്ങൾ
 
@@ -33,6 +37,7 @@
 - സിസ്റ്റത്തോടൊപ്പം എന്ത് തുറക്കണമെന്ന് തിരഞ്ഞെടുക്കാൻ **കുറുക്കുവഴികൾ**, **സ്റ്റാർട്ടപ്പ്** പേജുകൾ
 - **ടെർമിനൽ ഇല്ലാതെ അപ്ഡേറ്റുകൾ**: ബാറിൽ അറിയിപ്പും "അപ്ഡേറ്റ് ചെയ്യുക" ബട്ടണും
 - **48 ഭാഷകളിൽ** ലഭ്യം
+- **Folders that follow your language**: when you switch language, your personal folders (Documents, Videos, Pictures…) get the new names; folders that exist in two languages are merged without deleting anything, and you can undo it
 
 ### ക്യാമറയും സുരക്ഷയും
 
@@ -67,3 +72,4 @@
 - സ്ഥിരസ്ഥിതിയായി MP4-ലേക്ക് **എക്സ്പോർട്ട്**, ഗ്രാഫിക്സ് കാർഡ് വഴി വേഗത്തിൽ (NVENC അല്ലെങ്കിൽ VA-API)
 - **കട്ടുകൾ സൃഷ്ടിക്കുക**: ഒരു നീണ്ട വീഡിയോയെ Shorts, Reels, TikTok, Kwai, LinkedIn, X, Stories എന്നിവയ്ക്കുള്ള കട്ടുകളാക്കി മാറ്റുന്നു, ഓരോ നെറ്റ്‌വർക്കും ശുപാർശ ചെയ്യുന്ന ദൈർഘ്യവും സുരക്ഷിത മേഖലയും പാലിച്ച്, മികച്ച ഭാഗങ്ങൾ ലോക്കൽ AI (Ollama) തിരഞ്ഞെടുക്കുന്നു, 9:16 ഫ്രെയിമിംഗ് മുഖത്തെ പിന്തുടരുന്നു
 - നിങ്ങളുടെ സ്വന്തം കമ്പ്യൂട്ടറിൽ whisper.cpp ഉപയോഗിച്ച് വാക്കിന് വാക്ക് സമന്വയിപ്പിച്ച **സബ്ടൈറ്റിലുകൾ**: വായനയ്ക്കായി രൂപകൽപ്പന ചെയ്ത ഒമ്പത് ശൈലികൾ (വരിയിലൂടെ നിറം നീങ്ങുന്ന കരോക്കെ, ഹൈലൈറ്റ് ചെയ്ത വാക്ക്, വാക്കിന് വാക്ക്, പോഡ്‌കാസ്റ്റ്, നിയോൺ, ഉയർന്ന കോൺട്രാസ്റ്റ്, രണ്ട് സംസാരിക്കുന്നവർ…), SRT, VTT, ASS എന്നിവയിലേക്ക് എക്സ്പോർട്ട്
+- **Cut**: the quick page for assembling a video, with the whole timeline in miniature above the detailed one, smart trim and shortcuts to Generate cuts and Captions

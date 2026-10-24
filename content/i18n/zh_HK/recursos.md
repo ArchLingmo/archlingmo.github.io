@@ -24,6 +24,10 @@
 - **設定 › 人工智能**：Ollama 狀態、已安裝的模型、針對*這部*電腦的建議、附進度顯示的模型下載、「回答前先思考」選項，以及助理的權限和工具
 - **自動化工具**：在指定時間執行的每日例行工作，執行一個指令，亦可讓本機 AI 解釋結果
 - **語音轉錄及字幕**位於設定 › 人工智能：whisper.cpp 模型附有標籤及「建議用於你的電腦」標記，旁邊是針對你的硬件建議的 AI 模型（llmfit）
+- **Assistant flows**: build automations from blocks, a trigger (a time, a new e-mail, a voice command or a shortcut) plus app actions, follow every run step by step and approve once what the flow may do
+- **Agents and voice**: assistants with their own instructions, model and tools, called in the chat, in a flow or from Spotlight ("ai:@name"). And talk to the Assistant by voice with Meta + Shift + I
+- **Ask about the screen** (Meta + S): circle or select any area of the screen to explain, translate, summarize, copy its text or search the web. It is analyzed on your computer and nothing is sent
+- **App actions** (Lingmo Intents): Clock, Mail, Notes, Files, Screenshots and other apps offer actions to the Assistant, Flows and Spotlight: type what you want, such as an alarm at 7, and confirm. In Settings › Artificial Intelligence you can turn off an app or a single action, and sending or changing anything always asks first
 
 ### 設定
 
@@ -33,6 +37,7 @@
 - **快捷鍵**及**開機啟動**頁面，自選開機時要開啟的程式
 - **毋須終端機即可更新**：頂部列會有提示，並附「更新」按鈕
 - 提供 **48 種語言**
+- **Folders that follow your language**: when you switch language, your personal folders (Documents, Videos, Pictures…) get the new names; folders that exist in two languages are merged without deleting anything, and you can undo it
 
 ### 相機與安全
 
@@ -67,3 +72,4 @@
 - **匯出**預設為 MP4，並以顯示卡加速（NVENC 或 VA-API）
 - **生成短片**：把長片剪成適合 Shorts、Reels、TikTok、Kwai、LinkedIn、X 及 Stories 的短片，按各平台建議的長度及安全區域處理，由本機 AI（Ollama）揀選最精彩的片段，並跟隨面部重新構圖為 9:16
 - **字幕**透過 whisper.cpp 在你自己的電腦上逐字同步：九款為閱讀而設計的樣式（顏色掃過整句的卡拉 OK、突出單字、逐字顯示、Podcast、霓虹、高對比、兩人對話⋯⋯），並可匯出為 SRT、VTT 及 ASS
+- **Cut**: the quick page for assembling a video, with the whole timeline in miniature above the detailed one, smart trim and shortcuts to Generate cuts and Captions

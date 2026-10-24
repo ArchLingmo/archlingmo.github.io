@@ -17,6 +17,10 @@ Discord، ويتحول كل بند إلى pull request مفتوح على GitHub.
 - [x] **تطبيقات Android** ‏(APK) في صندوق عبر Waydroid، تظهر في المشغّل مثل أي تطبيق آخر
 - [x] **الألعاب بنقرة واحدة**: Steam وProton ووضع الألعاب، مع تنبيه للألعاب التي لا يعمل نظام مكافحة الغش فيها على Linux
 - [x] **ألعاب أصلية**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). ثبّتها من المتجر ← الألعاب الأصلية. عند التشغيل الأول، قدّم ملف ROM المستخرج من خرطوشتك الخاصة؛ لا تتضمن الحزم بيانات الألعاب.
+- [x] **Ask about the screen** (Meta + S): circle an area to explain, translate or summarize it, with the AI on your computer
+- [x] **App actions** (Lingmo Intents): apps offer actions to the Assistant, Flows and Spotlight
+- [x] **Assistant with flows, agents and voice** (Meta + Shift + I)
+- [x] **One keyboard and mouse for several computers** (Deskflow), with a shared clipboard
 
 ### 09/11 – 13/12 · الإنشاء والمشاركة
 
@@ -49,7 +53,7 @@ Discord، ويتحول كل بند إلى pull request مفتوح على GitHub.
 
 - [ ] **تبديل التخطيط** بنقرة واحدة: نمط macOS أو نمط Windows أو Lingmo
 - [ ] **الإصدارات السابقة** من الملفات في مدير الملفات، كما في Time Machine
-- [ ] **ربط الهاتف**: الإشعارات والملفات والحافظة مع Android وiPhone ‏(KDE Connect)
+- [x] **ربط الهاتف**: الإشعارات والملفات والحافظة مع Android وiPhone ‏(KDE Connect)
 - [ ] **الحسابات السحابية**: Google Drive وOneDrive داخل مدير الملفات
 - [x] نسخ النص من لقطة الشاشة (OCR)
 - [ ] مثبّت ينبّه إلى BitLocker وSecure Boot عند التثبيت بجانب Windows

@@ -24,6 +24,10 @@
 - **அமைப்புகள் › செயற்கை நுண்ணறிவு**: Ollama நிலை, நிறுவப்பட்ட மாதிரிகள், *இந்தக்* கணினிக்கான பரிந்துரைகள், முன்னேற்றத்துடன் மாதிரிப் பதிவிறக்கம், "பதிலளிக்கும் முன் யோசி" விருப்பம், உதவியாளரின் அனுமதிகள் மற்றும் கருவிகள்
 - **தானியக்கி**: குறிப்பிட்ட நேரத்தில் தினசரி வழக்கங்கள், ஒரு கட்டளையுடன், விரும்பினால் உள்ளூர் AI முடிவை விளக்கும்
 - அமைப்புகள் › செயற்கை நுண்ணறிவு பகுதியில் **படியெடுத்தல் மற்றும் வசனங்கள்**: குறிச்சொற்களும் "உங்கள் கணினிக்குப் பரிந்துரைக்கப்பட்டது" என்ற முத்திரையும் கொண்ட whisper.cpp மாதிரிகள், உங்கள் வன்பொருளுக்குப் பரிந்துரைக்கப்பட்ட AI மாதிரிகளுடன் (llmfit)
+- **Assistant flows**: build automations from blocks, a trigger (a time, a new e-mail, a voice command or a shortcut) plus app actions, follow every run step by step and approve once what the flow may do
+- **Agents and voice**: assistants with their own instructions, model and tools, called in the chat, in a flow or from Spotlight ("ai:@name"). And talk to the Assistant by voice with Meta + Shift + I
+- **Ask about the screen** (Meta + S): circle or select any area of the screen to explain, translate, summarize, copy its text or search the web. It is analyzed on your computer and nothing is sent
+- **App actions** (Lingmo Intents): Clock, Mail, Notes, Files, Screenshots and other apps offer actions to the Assistant, Flows and Spotlight: type what you want, such as an alarm at 7, and confirm. In Settings › Artificial Intelligence you can turn off an app or a single action, and sending or changing anything always asks first
 
 ### அமைப்புகள்
 
@@ -33,6 +37,7 @@
 - கணினியுடன் எது திறக்க வேண்டும் என்பதைத் தேர்வுசெய்ய **குறுக்குவழிகள்** மற்றும் **தொடக்கம்** பக்கங்கள்
 - **டெர்மினல் இல்லாமல் புதுப்பிப்புகள்**: பட்டையில் அறிவிப்பு மற்றும் “புதுப்பி” பொத்தான்
 - **48 மொழிகளில்** கிடைக்கிறது
+- **Folders that follow your language**: when you switch language, your personal folders (Documents, Videos, Pictures…) get the new names; folders that exist in two languages are merged without deleting anything, and you can undo it
 
 ### கேமரா மற்றும் பாதுகாப்பு
 
@@ -67,3 +72,4 @@
 - இயல்பாக MP4-இல் **ஏற்றுமதி**, வரைகலை அட்டை மூலம் விரைவுபடுத்தப்பட்டது (NVENC அல்லது VA-API)
 - **வெட்டுகளை உருவாக்கு**: ஒரு நீண்ட வீடியோவை Shorts, Reels, TikTok, Kwai, LinkedIn, X மற்றும் Stories-க்கான வெட்டுகளாக மாற்றுகிறது, ஒவ்வொரு தளமும் பரிந்துரைக்கும் நீளம் மற்றும் பாதுகாப்பான பகுதியுடன், சிறந்த தருணங்களை உள்ளூர் AI (Ollama) தேர்ந்தெடுக்கிறது, 9:16 சட்டகமிடல் முகத்தைப் பின்தொடர்கிறது
 - உங்கள் சொந்தக் கணினியிலேயே whisper.cpp மூலம் சொல்லுக்குச் சொல் ஒத்திசைக்கப்பட்ட **வசனங்கள்**: வாசிப்பதற்காக வடிவமைக்கப்பட்ட ஒன்பது பாணிகள் (வரியின் மேல் நிறம் படரும் கரோக்கி, முன்னிலைப்படுத்தப்பட்ட சொல், சொல்லுக்குச் சொல், பாட்காஸ்ட், நியான், உயர் வேறுபாடு, இரண்டு பேச்சாளர்கள்…) மற்றும் SRT, VTT, ASS-இல் ஏற்றுமதி
+- **Cut**: the quick page for assembling a video, with the whole timeline in miniature above the detailed one, smart trim and shortcuts to Generate cuts and Captions

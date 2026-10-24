@@ -24,6 +24,10 @@ Visa tai ArchLingmo turi jau šiandien.
 - **Nustatymai › Dirbtinis intelektas**: Ollama būsena, įdiegti modeliai, rekomendacijos *šiam* kompiuteriui, modelių atsisiuntimas su eiga, parinktis „Pagalvoti prieš atsakant“ bei Asistento leidimai ir įrankiai
 - **Automatizatorius**: kasdienės rutinos nustatytu laiku, su komanda ir, jei norite, vietiniu DI, paaiškinančiu rezultatą
 - **Transkribavimas ir subtitrai** skiltyje Nustatymai › Dirbtinis intelektas: whisper.cpp modeliai su žymomis ir ženkleliu „Rekomenduojama jūsų kompiuteriui“, šalia jūsų aparatinei įrangai rekomenduojamų DI modelių (llmfit)
+- **Assistant flows**: build automations from blocks, a trigger (a time, a new e-mail, a voice command or a shortcut) plus app actions, follow every run step by step and approve once what the flow may do
+- **Agents and voice**: assistants with their own instructions, model and tools, called in the chat, in a flow or from Spotlight ("ai:@name"). And talk to the Assistant by voice with Meta + Shift + I
+- **Ask about the screen** (Meta + S): circle or select any area of the screen to explain, translate, summarize, copy its text or search the web. It is analyzed on your computer and nothing is sent
+- **App actions** (Lingmo Intents): Clock, Mail, Notes, Files, Screenshots and other apps offer actions to the Assistant, Flows and Spotlight: type what you want, such as an alarm at 7, and confirm. In Settings › Artificial Intelligence you can turn off an app or a single action, and sending or changing anything always asks first
 
 ### Nustatymai
 
@@ -33,6 +37,7 @@ Visa tai ArchLingmo turi jau šiandien.
 - **Sparčiųjų klavišų** ir **Paleisties** puslapiai, kuriuose pasirenkate, kas paleidžiama kartu su sistema
 - **Atnaujinimai be terminalo**: pranešimas viršutinėje juostoje ir mygtukas „Atnaujinti“
 - Prieinama **48 kalbomis**
+- **Folders that follow your language**: when you switch language, your personal folders (Documents, Videos, Pictures…) get the new names; folders that exist in two languages are merged without deleting anything, and you can undo it
 
 ### Kamera ir saugumas
 
@@ -67,3 +72,4 @@ Visa tai ArchLingmo turi jau šiandien.
 - **Eksportas** į MP4 pagal numatytuosius nustatymus, spartinamas vaizdo plokštės (NVENC arba VA-API)
 - **Kurti ištraukas**: ilgą vaizdo įrašą paverčia ištraukomis Shorts, Reels, TikTok, Kwai, LinkedIn, X ir Stories, su kiekvieno tinklo rekomenduojama trukme ir saugia zona, geriausiomis akimirkomis, kurias parenka vietinis DI (Ollama), ir 9:16 kadravimu, sekančiu veidą
 - **Subtitrai**, sinchronizuoti žodis po žodžio su whisper.cpp, jūsų pačių kompiuteryje: devyni skaitymui pritaikyti stiliai (karaokė, kai spalva perbėga per eilutę, paryškintas žodis, žodis po žodžio, tinklalaidė, neonas, didelis kontrastas, du kalbėtojai…) ir eksportas į SRT, VTT ir ASS
+- **Cut**: the quick page for assembling a video, with the whole timeline in miniature above the detailed one, smart trim and shortcuts to Generate cuts and Captions

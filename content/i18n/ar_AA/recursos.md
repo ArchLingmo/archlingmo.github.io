@@ -24,6 +24,10 @@
 - **الإعدادات › الذكاء الاصطناعي**: حالة Ollama، والنماذج المثبّتة، وتوصيات تناسب *هذا* الحاسوب، وتنزيل النماذج مع شريط التقدم، وخيار «فكّر قبل الإجابة»، وأذونات المساعد وأدواته
 - **المؤتمِت**: مهام يومية روتينية في وقت محدد، مع أمر، وإن أردت، شرح للنتيجة من الذكاء الاصطناعي المحلي
 - **النسخ النصي والترجمة المرئية** في الإعدادات › الذكاء الاصطناعي: نماذج whisper.cpp مع وسوم وشارة «موصى به لحاسوبك»، بجانب نماذج الذكاء الاصطناعي الموصى بها لعتادك (llmfit)
+- **Assistant flows**: build automations from blocks, a trigger (a time, a new e-mail, a voice command or a shortcut) plus app actions, follow every run step by step and approve once what the flow may do
+- **Agents and voice**: assistants with their own instructions, model and tools, called in the chat, in a flow or from Spotlight ("ai:@name"). And talk to the Assistant by voice with Meta + Shift + I
+- **Ask about the screen** (Meta + S): circle or select any area of the screen to explain, translate, summarize, copy its text or search the web. It is analyzed on your computer and nothing is sent
+- **App actions** (Lingmo Intents): Clock, Mail, Notes, Files, Screenshots and other apps offer actions to the Assistant, Flows and Spotlight: type what you want, such as an alarm at 7, and confirm. In Settings › Artificial Intelligence you can turn off an app or a single action, and sending or changing anything always asks first
 
 ### الإعدادات
 
@@ -33,6 +37,7 @@
 - صفحتا **الاختصارات** و**بدء التشغيل** لاختيار ما يُفتح مع النظام
 - **تحديثات بلا طرفية**: تنبيه في الشريط وزر «تحديث»
 - متوفر في **48 لغة**
+- **Folders that follow your language**: when you switch language, your personal folders (Documents, Videos, Pictures…) get the new names; folders that exist in two languages are merged without deleting anything, and you can undo it
 
 ### الكاميرا والأمان
 
@@ -67,3 +72,4 @@
 - **التصدير** إلى MP4 افتراضيًا، مع تسريع عبر بطاقة الرسوميات (NVENC أو VA-API)
 - **إنشاء المقاطع القصيرة**: يحوّل فيديو طويلًا إلى مقاطع لـ Shorts وReels وTikTok وKwai وLinkedIn وX وStories، بالمدة والمنطقة الآمنة الموصى بهما لكل شبكة، وأفضل اللحظات يختارها ذكاء اصطناعي محلي (Ollama)، وإعادة تأطير 9:16 تتبع الوجه
 - **ترجمة مرئية** متزامنة كلمةً بكلمة عبر whisper.cpp، على حاسوبك: تسعة أنماط مصمّمة لسهولة القراءة (كاريوكي يمرّ فيه اللون على السطر، وكلمة مميّزة، وكلمة تلو كلمة، وبودكاست، ونيون، وتباين عالٍ، ومتحدثان…) والتصدير إلى SRT وVTT وASS
+- **Cut**: the quick page for assembling a video, with the whole timeline in miniature above the detailed one, smart trim and shortcuts to Generate cuts and Captions

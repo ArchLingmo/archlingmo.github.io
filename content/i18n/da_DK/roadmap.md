@@ -17,6 +17,10 @@ at passe på computeren uden at være teknisk.
 - [x] **Android-apps** (APK) i en boks med Waydroid, som vises i programstarteren som enhver anden app
 - [x] **Spil med ét klik**: Steam, Proton og spiltilstand, med en advarsel om spil, hvis anti-cheat ikke virker på Linux
 - [x] **Native spil**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Installer fra Butik → Native spil. Ved første start skal du angive en ROM fra din egen kassette; pakkerne indeholder ingen spildata.
+- [x] **Ask about the screen** (Meta + S): circle an area to explain, translate or summarize it, with the AI on your computer
+- [x] **App actions** (Lingmo Intents): apps offer actions to the Assistant, Flows and Spotlight
+- [x] **Assistant with flows, agents and voice** (Meta + Shift + I)
+- [x] **One keyboard and mouse for several computers** (Deskflow), with a shared clipboard
 
 ### 09/11 – 13/12 · Skab og del
 
@@ -49,7 +53,7 @@ at passe på computeren uden at være teknisk.
 
 - [ ] **Skift layout** med ét klik: macOS-stil, Windows-stil eller Lingmo
 - [ ] **Tidligere versioner** af filer i filhåndteringen, som i Time Machine
-- [ ] **Integreret telefon**: notifikationer, filer og udklipsholder med Android og iPhone (KDE Connect)
+- [x] **Integreret telefon**: notifikationer, filer og udklipsholder med Android og iPhone (KDE Connect)
 - [ ] **Cloudkonti**: Google Drive og OneDrive vises i filhåndteringen
 - [x] Kopiér teksten fra et skærmbillede (OCR)
 - [ ] Installationsprogram, der advarer om BitLocker og Secure Boot ved installation ved siden af Windows

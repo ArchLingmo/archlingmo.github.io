@@ -17,6 +17,10 @@ texniki bilik tələb etmədən kompüterə qulluq etmək.
 - [x] Waydroid ilə qutuda işləyən və digər tətbiqlər kimi başladıcıda görünən **Android tətbiqləri** (APK)
 - [x] **Bir kliklə oyunlar**: Steam, Proton və oyun rejimi, Linux-da işləməyən anti-cheat oyunlar barədə xəbərdarlıqla
 - [x] **Doğma oyunlar**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Mağaza → Doğma oyunlar bölməsindən quraşdırın. İlk açılışda öz kartricinizdən çıxarılmış ROM-u təqdim edin; paketlərə oyun məlumatları daxil deyil.
+- [x] **Ask about the screen** (Meta + S): circle an area to explain, translate or summarize it, with the AI on your computer
+- [x] **App actions** (Lingmo Intents): apps offer actions to the Assistant, Flows and Spotlight
+- [x] **Assistant with flows, agents and voice** (Meta + Shift + I)
+- [x] **One keyboard and mouse for several computers** (Deskflow), with a shared clipboard
 
 ### 09/11 – 13/12 · Yaradın və paylaşın
 
@@ -49,7 +53,7 @@ texniki bilik tələb etmədən kompüterə qulluq etmək.
 
 - [ ] Bir kliklə **tərtibatı dəyişmək**: macOS üslubu, Windows üslubu və ya Lingmo
 - [ ] Fayl menecerində faylların **əvvəlki versiyaları**, Time Machine-dəki kimi
-- [ ] **Telefon inteqrasiyası**: Android və iPhone ilə bildirişlər, fayllar və mübadilə buferi (KDE Connect)
+- [x] **Telefon inteqrasiyası**: Android və iPhone ilə bildirişlər, fayllar və mübadilə buferi (KDE Connect)
 - [ ] **Bulud hesabları**: Google Drive və OneDrive fayl menecerində görünür
 - [x] Ekran görüntüsündən mətni kopyalamaq (OCR)
 - [ ] Windows ilə yanaşı quraşdırarkən BitLocker və Secure Boot barədə xəbərdarlıq edən quraşdırıcı

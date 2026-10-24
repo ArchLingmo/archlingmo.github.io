@@ -24,6 +24,10 @@
 - **Настройки › Изкуствен интелект**: състояние на Ollama, инсталирани модели, препоръки за *този* компютър, изтегляне на модели с напредък, опция „Помисли, преди да отговориш“ и разрешенията и инструментите на Асистента
 - **Автоматизатор**: ежедневни рутини в зададен час, с команда и, ако желаете, локалният ИИ обяснява резултата
 - **Транскрипция и субтитри** в Настройки › Изкуствен интелект: модели на whisper.cpp с етикети и значка „Препоръчано за вашия компютър“, до моделите на ИИ, препоръчани за вашия хардуер (llmfit)
+- **Assistant flows**: build automations from blocks, a trigger (a time, a new e-mail, a voice command or a shortcut) plus app actions, follow every run step by step and approve once what the flow may do
+- **Agents and voice**: assistants with their own instructions, model and tools, called in the chat, in a flow or from Spotlight ("ai:@name"). And talk to the Assistant by voice with Meta + Shift + I
+- **Ask about the screen** (Meta + S): circle or select any area of the screen to explain, translate, summarize, copy its text or search the web. It is analyzed on your computer and nothing is sent
+- **App actions** (Lingmo Intents): Clock, Mail, Notes, Files, Screenshots and other apps offer actions to the Assistant, Flows and Spotlight: type what you want, such as an alarm at 7, and confirm. In Settings › Artificial Intelligence you can turn off an app or a single action, and sending or changing anything always asks first
 
 ### Настройки
 
@@ -33,6 +37,7 @@
 - Страници **Клавишни комбинации** и **Автоматично стартиране**, за да изберете какво се отваря заедно със системата
 - **Обновления без терминал**: известие в панела и бутон „Обнови“
 - Достъпен на **48 езика**
+- **Folders that follow your language**: when you switch language, your personal folders (Documents, Videos, Pictures…) get the new names; folders that exist in two languages are merged without deleting anything, and you can undo it
 
 ### Камера и сигурност
 
@@ -67,3 +72,4 @@
 - **Експорт** в MP4 по подразбиране, с ускорение от видеокартата (NVENC или VA-API)
 - **Създаване на клипове**: превръща дълго видео в кратки клипове за Shorts, Reels, TikTok, Kwai, LinkedIn, X и Stories, с препоръчаните за всяка мрежа продължителност и безопасна зона, най-добрите моменти, избрани от локален ИИ (Ollama), и кадриране 9:16, което следва лицето
 - **Субтитри**, синхронизирани дума по дума с whisper.cpp, на вашия компютър: девет стила, създадени за лесно четене (караоке с цвят, който преминава по реда, открояване на думата, дума по дума, подкаст, неон, висок контраст, двама говорещи…) и експорт в SRT, VTT и ASS
+- **Cut**: the quick page for assembling a video, with the whole timeline in miniature above the detailed one, smart trim and shortcuts to Generate cuts and Captions

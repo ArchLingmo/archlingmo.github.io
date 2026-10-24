@@ -17,6 +17,10 @@ teknik bilgi gerektirmeden bilgisayara bakmak.
 - [x] Waydroid ile bir kutu içinde, başlatıcıda diğer uygulamalar gibi görünen **Android uygulamaları** (APK)
 - [x] **Tek tıkla oyun**: Steam, Proton ve oyun modu; hile önleyicisi Linux'ta çalışmayan oyunlar için uyarıyla
 - [x] **Yerel oyunlar**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Mağaza → Yerel oyunlar'dan yükleyin. İlk açılışta kendi kartuşunuzdan alınan ROM'u sağlayın; paketler oyun verilerini içermez.
+- [x] **Ask about the screen** (Meta + S): circle an area to explain, translate or summarize it, with the AI on your computer
+- [x] **App actions** (Lingmo Intents): apps offer actions to the Assistant, Flows and Spotlight
+- [x] **Assistant with flows, agents and voice** (Meta + Shift + I)
+- [x] **One keyboard and mouse for several computers** (Deskflow), with a shared clipboard
 
 ### 09/11 – 13/12 · Üretmek ve paylaşmak
 
@@ -49,7 +53,7 @@ teknik bilgi gerektirmeden bilgisayara bakmak.
 
 - [ ] Tek tıkla **düzen değiştirme**: macOS tarzı, Windows tarzı veya Lingmo
 - [ ] Dosya yöneticisinde dosyaların **önceki sürümleri**, Time Machine'deki gibi
-- [ ] **Telefon entegrasyonu**: Android ve iPhone ile bildirimler, dosyalar ve pano (KDE Connect)
+- [x] **Telefon entegrasyonu**: Android ve iPhone ile bildirimler, dosyalar ve pano (KDE Connect)
 - [ ] **Bulut hesapları**: Google Drive ve OneDrive dosya yöneticisinde görünür
 - [x] Ekran görüntüsündeki metni kopyalama (OCR)
 - [ ] Windows'un yanına kurarken BitLocker ve Secure Boot hakkında uyaran yükleyici

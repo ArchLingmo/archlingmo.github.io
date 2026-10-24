@@ -17,6 +17,10 @@ a számítógép karbantartása szakértelem nélkül.
 - [x] **Android-alkalmazások** (APK) dobozban, Waydroiddal, amelyek ugyanúgy megjelennek az indítóban, mint bármely más alkalmazás
 - [x] **Játékok egy kattintással**: Steam, Proton és játékmód, figyelmeztetéssel azokra a csalásvédelmet használó játékokra, amelyek nem futnak Linuxon
 - [x] **Natív játékok**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). Telepítés: Áruház → Natív játékok. Első indításkor add meg a saját kazettádról készült ROM-ot; a csomagok nem tartalmaznak játékadatokat.
+- [x] **Ask about the screen** (Meta + S): circle an area to explain, translate or summarize it, with the AI on your computer
+- [x] **App actions** (Lingmo Intents): apps offer actions to the Assistant, Flows and Spotlight
+- [x] **Assistant with flows, agents and voice** (Meta + Shift + I)
+- [x] **One keyboard and mouse for several computers** (Deskflow), with a shared clipboard
 
 ### 11.09. – 12.13. · Alkotás és megosztás
 
@@ -49,7 +53,7 @@ a számítógép karbantartása szakértelem nélkül.
 
 - [ ] **Elrendezésváltás** egy kattintással: macOS-stílus, Windows-stílus vagy Lingmo
 - [ ] A fájlok **korábbi verziói** a fájlkezelőben, mint a Time Machine-ben
-- [ ] **Telefonintegráció**: értesítések, fájlok és vágólap Androiddal és iPhone-nal (KDE Connect)
+- [x] **Telefonintegráció**: értesítések, fájlok és vágólap Androiddal és iPhone-nal (KDE Connect)
 - [ ] **Felhőfiókok**: a Google Drive és a OneDrive megjelenik a fájlkezelőben
 - [x] Szöveg másolása képernyőképről (OCR)
 - [ ] Telepítő, amely figyelmeztet a BitLockerre és a Secure Bootra, ha a Windows mellé telepítesz

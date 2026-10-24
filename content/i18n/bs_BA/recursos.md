@@ -24,6 +24,10 @@ Sve ovo već danas dolazi uz ArchLingmo.
 - **Postavke › Umjetna inteligencija**: status Ollame, instalirani modeli, preporuke za *ovaj* računar, preuzimanje modela s prikazom napretka, opcija "Razmisli prije odgovora" te dozvole i alati Asistenta
 - **Automatizator**: dnevne rutine u zadano vrijeme, s naredbom i, ako želite, lokalnom AI koja objašnjava rezultat
 - **Transkripcija i titlovi** na stranici Postavke › Umjetna inteligencija: whisper.cpp modeli s oznakama i značkom "Preporučeno za vaš računar", pored AI modela preporučenih za vaš hardver (llmfit)
+- **Assistant flows**: build automations from blocks, a trigger (a time, a new e-mail, a voice command or a shortcut) plus app actions, follow every run step by step and approve once what the flow may do
+- **Agents and voice**: assistants with their own instructions, model and tools, called in the chat, in a flow or from Spotlight ("ai:@name"). And talk to the Assistant by voice with Meta + Shift + I
+- **Ask about the screen** (Meta + S): circle or select any area of the screen to explain, translate, summarize, copy its text or search the web. It is analyzed on your computer and nothing is sent
+- **App actions** (Lingmo Intents): Clock, Mail, Notes, Files, Screenshots and other apps offer actions to the Assistant, Flows and Spotlight: type what you want, such as an alarm at 7, and confirm. In Settings › Artificial Intelligence you can turn off an app or a single action, and sending or changing anything always asks first
 
 ### Postavke
 
@@ -33,6 +37,7 @@ Sve ovo već danas dolazi uz ArchLingmo.
 - Stranice **Prečice** i **Automatsko pokretanje** za odabir onoga što se pokreće sa sistemom
 - **Ažuriranja bez terminala**: obavještenje u traci i dugme "Ažuriraj"
 - Dostupno na **48 jezika**
+- **Folders that follow your language**: when you switch language, your personal folders (Documents, Videos, Pictures…) get the new names; folders that exist in two languages are merged without deleting anything, and you can undo it
 
 ### Kamera i sigurnost
 
@@ -67,3 +72,4 @@ Sve ovo već danas dolazi uz ArchLingmo.
 - **Izvoz** podrazumijevano u MP4, s ubrzanjem preko grafičke kartice (NVENC ili VA-API)
 - **Generiši isječke**: pretvara dugi video u kratke isječke za Shorts, Reels, TikTok, Kwai, LinkedIn, X i Stories, s trajanjem i sigurnom zonom koje preporučuje svaka mreža, najboljim momentima koje bira lokalna AI (Ollama) i kadriranjem 9:16 koje prati lice
 - **Titlovi** sinhronizovani riječ po riječ uz whisper.cpp, na vašem računaru: devet stilova osmišljenih za čitanje (karaoke s bojom koja prelazi preko rečenice, istaknuta riječ, riječ po riječ, podcast, neon, visoki kontrast, dvije osobe koje govore…) i izvoz u SRT, VTT i ASS
+- **Cut**: the quick page for assembling a video, with the whole timeline in miniature above the detailed one, smart trim and shortcuts to Generate cuts and Captions

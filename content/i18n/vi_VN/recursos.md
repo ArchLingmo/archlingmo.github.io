@@ -24,6 +24,10 @@ Tất cả những điều này đã có sẵn trong ArchLingmo ngay hôm nay.
 - **Cài đặt › Trí tuệ nhân tạo**: trạng thái Ollama, các mô hình đã cài, gợi ý dành cho *chính* máy tính này, tải mô hình kèm tiến độ, tùy chọn "Suy nghĩ trước khi trả lời", cùng quyền và công cụ của Trợ lý
 - **Tự động hóa**: tác vụ hằng ngày vào giờ đã đặt, với một lệnh và, nếu muốn, AI cục bộ giải thích kết quả
 - **Chép lời và phụ đề** trong Cài đặt › Trí tuệ nhân tạo: các mô hình whisper.cpp kèm nhãn và huy hiệu “Đề xuất cho máy tính của bạn”, bên cạnh các mô hình AI được gợi ý cho phần cứng của bạn (llmfit)
+- **Assistant flows**: build automations from blocks, a trigger (a time, a new e-mail, a voice command or a shortcut) plus app actions, follow every run step by step and approve once what the flow may do
+- **Agents and voice**: assistants with their own instructions, model and tools, called in the chat, in a flow or from Spotlight ("ai:@name"). And talk to the Assistant by voice with Meta + Shift + I
+- **Ask about the screen** (Meta + S): circle or select any area of the screen to explain, translate, summarize, copy its text or search the web. It is analyzed on your computer and nothing is sent
+- **App actions** (Lingmo Intents): Clock, Mail, Notes, Files, Screenshots and other apps offer actions to the Assistant, Flows and Spotlight: type what you want, such as an alarm at 7, and confirm. In Settings › Artificial Intelligence you can turn off an app or a single action, and sending or changing anything always asks first
 
 ### Cài đặt
 
@@ -33,6 +37,7 @@ Tất cả những điều này đã có sẵn trong ArchLingmo ngay hôm nay.
 - Trang **Phím tắt** và **Khởi động** để chọn những gì mở cùng hệ thống
 - **Cập nhật không cần terminal**: thông báo trên thanh và nút “Cập nhật”
 - Có sẵn bằng **48 ngôn ngữ**
+- **Folders that follow your language**: when you switch language, your personal folders (Documents, Videos, Pictures…) get the new names; folders that exist in two languages are merged without deleting anything, and you can undo it
 
 ### Camera và bảo mật
 
@@ -67,3 +72,4 @@ Tất cả những điều này đã có sẵn trong ArchLingmo ngay hôm nay.
 - **Xuất** sang MP4 theo mặc định, tăng tốc bằng card đồ họa (NVENC hoặc VA-API)
 - **Tạo video ngắn**: biến một video dài thành các đoạn ngắn cho Shorts, Reels, TikTok, Kwai, LinkedIn, X và Stories, với độ dài và vùng an toàn mà mỗi mạng xã hội khuyến nghị, những đoạn hay nhất do AI cục bộ (Ollama) chọn và khung hình 9:16 bám theo khuôn mặt
 - **Phụ đề** đồng bộ từng từ với whisper.cpp, ngay trên máy tính của bạn: chín kiểu được thiết kế để dễ đọc (karaoke với màu chạy dọc câu, làm nổi bật từ, từng từ một, podcast, neon, độ tương phản cao, hai người nói…) và xuất ra SRT, VTT và ASS
+- **Cut**: the quick page for assembling a video, with the whole timeline in miniature above the detailed one, smart trim and shortcuts to Generate cuts and Captions

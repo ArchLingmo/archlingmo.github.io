@@ -17,6 +17,10 @@ Discord හි සාකච්ඡා කෙරෙන අතර, සෑම අය
 - [x] Waydroid සමඟ පෙට්ටියක් තුළ **Android යෙදුම්** (APK), වෙනත් ඕනෑම යෙදුමක් මෙන් දියත්කරුවේ පෙනේ
 - [x] **එක් ක්ලික් එකකින් ක්‍රීඩා**: Steam, Proton සහ ක්‍රීඩා මාදිලිය, Linux හි ක්‍රියා නොකරන anti-cheat සහිත ක්‍රීඩා ගැන අනතුරු ඇඟවීමක් සමඟ
 - [x] **ස්වදේශීය ක්‍රීඩා**: Zelda: Majora’s Mask (Zelda64Recomp / 2 Ship 2 Harkinian), Super Mario 64 (Ghostship), Star Fox 64 (Starship), Banjo-Kazooie (Banjo: Recompiled). වෙළඳසැල → ස්වදේශීය ක්‍රීඩා වෙතින් ස්ථාපනය කරන්න. පළමු වරට විවෘත කරන විට ඔබේම කාට්රිජයෙන් ලබාගත් ROM එකක් සපයන්න; පැකේජවල ක්‍රීඩා දත්ත ඇතුළත් නොවේ.
+- [x] **Ask about the screen** (Meta + S): circle an area to explain, translate or summarize it, with the AI on your computer
+- [x] **App actions** (Lingmo Intents): apps offer actions to the Assistant, Flows and Spotlight
+- [x] **Assistant with flows, agents and voice** (Meta + Shift + I)
+- [x] **One keyboard and mouse for several computers** (Deskflow), with a shared clipboard
 
 ### 09/11 සිට 13/12 දක්වා · නිර්මාණය කර බෙදා ගන්න
 
@@ -49,7 +53,7 @@ Discord හි සාකච්ඡා කෙරෙන අතර, සෑම අය
 
 - [ ] එක් ක්ලික් එකකින් **පිරිසැලසුම මාරු කරන්න**: macOS ශෛලිය, Windows ශෛලිය හෝ Lingmo
 - [ ] ගොනු කළමනාකරුවේ ගොනුවල **පෙර අනුවාද**, Time Machine හි මෙන්
-- [ ] **දුරකථන ඒකාබද්ධ කිරීම**: Android සහ iPhone සමඟ දැනුම්දීම්, ගොනු සහ පසුරු පුවරුව (KDE Connect)
+- [x] **දුරකථන ඒකාබද්ධ කිරීම**: Android සහ iPhone සමඟ දැනුම්දීම්, ගොනු සහ පසුරු පුවරුව (KDE Connect)
 - [ ] **වලාකුළු ගිණුම්**: Google Drive සහ OneDrive ගොනු කළමනාකරුවේ පෙනේ
 - [x] තිර රූපයකින් පෙළ පිටපත් කිරීම (OCR)
 - [ ] Windows අසල ස්ථාපනය කරන විට BitLocker සහ Secure Boot ගැන අනතුරු අඟවන ස්ථාපකය

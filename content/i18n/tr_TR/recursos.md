@@ -24,6 +24,10 @@ Bunların hepsi bugün ArchLingmo'da hazır.
 - **Ayarlar › Yapay Zekâ**: Ollama durumu, yüklü modeller, *bu* bilgisayar için öneriler, ilerlemesi görünen model indirme, "Yanıtlamadan önce düşün" seçeneği ve Asistan'ın izinleri ve araçları
 - **Otomatikleştirici**: belirli bir saatte günlük rutinler; bir komutla ve isterseniz sonucu açıklayan yerel yapay zekâyla
 - Ayarlar › Yapay Zekâ'da **yazıya dökme ve altyazılar**: etiketli ve "Bilgisayarınız için önerilen" rozetli whisper.cpp modelleri, donanımınız için önerilen yapay zekâ modellerinin yanında (llmfit)
+- **Assistant flows**: build automations from blocks, a trigger (a time, a new e-mail, a voice command or a shortcut) plus app actions, follow every run step by step and approve once what the flow may do
+- **Agents and voice**: assistants with their own instructions, model and tools, called in the chat, in a flow or from Spotlight ("ai:@name"). And talk to the Assistant by voice with Meta + Shift + I
+- **Ask about the screen** (Meta + S): circle or select any area of the screen to explain, translate, summarize, copy its text or search the web. It is analyzed on your computer and nothing is sent
+- **App actions** (Lingmo Intents): Clock, Mail, Notes, Files, Screenshots and other apps offer actions to the Assistant, Flows and Spotlight: type what you want, such as an alarm at 7, and confirm. In Settings › Artificial Intelligence you can turn off an app or a single action, and sending or changing anything always asks first
 
 ### Ayarlar
 
@@ -33,6 +37,7 @@ Bunların hepsi bugün ArchLingmo'da hazır.
 - Sistemle birlikte neyin açılacağını seçmek için **Kısayollar** ve **Başlangıç** sayfaları
 - **Terminalsiz güncelleme**: çubukta bildirim ve bir “Güncelle” düğmesi
 - **48 dilde** kullanılabilir
+- **Folders that follow your language**: when you switch language, your personal folders (Documents, Videos, Pictures…) get the new names; folders that exist in two languages are merged without deleting anything, and you can undo it
 
 ### Kamera ve güvenlik
 
@@ -67,3 +72,4 @@ Bunların hepsi bugün ArchLingmo'da hazır.
 - Varsayılan olarak MP4'e, ekran kartıyla hızlandırılmış (NVENC veya VA-API) **dışa aktarma**
 - **Kesit oluştur**: uzun bir videoyu Shorts, Reels, TikTok, Kwai, LinkedIn, X ve Stories için kesitlere dönüştürür; her ağın önerdiği süre ve güvenli alanla, en iyi anları yerel bir yapay zekâ (Ollama) seçer ve 9:16 yeniden çerçeveleme yüzü takip eder
 - whisper.cpp ile, kendi bilgisayarınızda kelime kelime eşitlenmiş **altyazılar**: okumak için tasarlanmış dokuz stil (rengin satır boyunca ilerlediği karaoke, vurgulanan kelime, kelime kelime, podcast, neon, yüksek kontrast, iki konuşmacı…) ve SRT, VTT ve ASS olarak dışa aktarma
+- **Cut**: the quick page for assembling a video, with the whole timeline in miniature above the detailed one, smart trim and shortcuts to Generate cuts and Captions
