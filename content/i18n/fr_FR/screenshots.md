@@ -1,5 +1,10 @@
 ## Captures d’écran
 
+![Verre Lingmo : barre d’état, dock et notification en verre dépoli](screenshots/silicio/glass-desktop.jpg)
+![L’Île avec un minuteur et une copie de fichiers](screenshots/silicio/island.jpg)
+![Envoyer un fichier à un appareil à proximité](screenshots/silicio/phone-send.jpg)
+![Clavier et souris partagés entre ordinateurs](screenshots/silicio/continuity.jpg)
+![Paramètres › Apparence : intensité du verre et Réduire les animations](screenshots/silicio/settings-glass.jpg)
 ![Lingmo Studio : extraits pour Shorts, Reels et TikTok à partir d’une longue vidéo](screenshots/studio-cuts.jpg)
 ![Lingmo Studio : styles de sous-titres synchronisés avec la parole](screenshots/studio-captions.jpg)
 ![Alt+Tab Carrousel : changement de fenêtre en 3D, avec reflet](screenshots/alt-tab-carousel.jpg)

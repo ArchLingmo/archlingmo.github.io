@@ -1,5 +1,10 @@
 ## Screenshots
 
+![Lingmo Glass: status bar, dock and a notification in frosted glass](screenshots/silicio/glass-desktop.jpg)
+![The Island with a timer and a file copy](screenshots/silicio/island.jpg)
+![Sending a file to a nearby device](screenshots/silicio/phone-send.jpg)
+![Keyboard and mouse shared between computers](screenshots/silicio/continuity.jpg)
+![Settings › Appearance: glass strength and Reduce motion](screenshots/silicio/settings-glass.jpg)
 ![Lingmo Studio: cuts for Shorts, Reels and TikTok from a long video](screenshots/studio-cuts.jpg)
 ![Lingmo Studio: caption styles synced with speech](screenshots/studio-captions.jpg)
 ![Carousel Alt+Tab: 3D window switching with a reflection](screenshots/alt-tab-carousel.jpg)

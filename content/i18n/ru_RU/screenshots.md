@@ -1,5 +1,10 @@
 ## Скриншоты
 
+![Стекло Lingmo: строка состояния, док и уведомление из матового стекла](screenshots/silicio/glass-desktop.jpg)
+![Остров с таймером и копированием файлов](screenshots/silicio/island.jpg)
+![Отправка файла на устройство рядом](screenshots/silicio/phone-send.jpg)
+![Общие клавиатура и мышь для нескольких компьютеров](screenshots/silicio/continuity.jpg)
+![Настройки › Оформление: сила стекла и «Уменьшить движение»](screenshots/silicio/settings-glass.jpg)
 ![Lingmo Studio: нарезки для Shorts, Reels и TikTok из длинного видео](screenshots/studio-cuts.jpg)
 ![Lingmo Studio: стили субтитров, синхронизированных с речью](screenshots/studio-captions.jpg)
 ![Alt+Tab «Карусель»: переключение окон в 3D с отражением](screenshots/alt-tab-carousel.jpg)

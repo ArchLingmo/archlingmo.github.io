@@ -1,5 +1,10 @@
 ## スクリーンショット
 
+![Lingmo ガラス：すりガラスのステータスバー、Dock、通知](screenshots/silicio/glass-desktop.jpg)
+![タイマーとファイルコピーを表示するアイランド](screenshots/silicio/island.jpg)
+![近くのデバイスにファイルを送信](screenshots/silicio/phone-send.jpg)
+![複数のコンピューターでキーボードとマウスを共有](screenshots/silicio/continuity.jpg)
+![設定 › 外観：ガラスの強さと視差効果を減らす](screenshots/silicio/settings-glass.jpg)
 ![Lingmo Studio：長い動画から Shorts、Reels、TikTok 向けのショート動画を作成](screenshots/studio-cuts.jpg)
 ![Lingmo Studio：音声と同期する字幕のスタイル](screenshots/studio-captions.jpg)
 ![カルーセル Alt+Tab：映り込み付きの 3D ウィンドウ切り替え](screenshots/alt-tab-carousel.jpg)

@@ -1,5 +1,10 @@
 ## Bildschirmfotos
 
+![Lingmo-Glas: Statusleiste, Dock und Benachrichtigung aus Milchglas](screenshots/silicio/glass-desktop.jpg)
+![Die Insel mit einem Timer und einem Kopiervorgang](screenshots/silicio/island.jpg)
+![Eine Datei an ein Gerät in der Nähe senden](screenshots/silicio/phone-send.jpg)
+![Tastatur und Maus für mehrere Computer](screenshots/silicio/continuity.jpg)
+![Einstellungen › Darstellung: Glasstärke und Bewegung reduzieren](screenshots/silicio/settings-glass.jpg)
 ![Lingmo Studio: Clips für Shorts, Reels und TikTok aus einem langen Video](screenshots/studio-cuts.jpg)
 ![Lingmo Studio: Untertitelstile, synchron zur Sprache](screenshots/studio-captions.jpg)
 ![Alt+Tab Karussell: Fensterwechsel in 3D mit Spiegelung](screenshots/alt-tab-carousel.jpg)

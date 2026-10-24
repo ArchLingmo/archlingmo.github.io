@@ -1,5 +1,10 @@
 ## 截图
 
+![Lingmo 玻璃：磨砂玻璃的状态栏、程序坞和通知](screenshots/silicio/glass-desktop.jpg)
+![灵动岛显示计时器和文件复制](screenshots/silicio/island.jpg)
+![把文件发送到附近的设备](screenshots/silicio/phone-send.jpg)
+![多台电脑共用键盘和鼠标](screenshots/silicio/continuity.jpg)
+![设置 › 外观：玻璃强度和减少动态效果](screenshots/silicio/settings-glass.jpg)
 ![Lingmo Studio：从长视频生成适用于 Shorts、Reels 和 TikTok 的短片](screenshots/studio-cuts.jpg)
 ![Lingmo Studio：与语音同步的字幕样式](screenshots/studio-captions.jpg)
 ![轮播式 Alt+Tab：带倒影的 3D 窗口切换](screenshots/alt-tab-carousel.jpg)

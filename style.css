@@ -501,6 +501,8 @@ img { max-width: 100%; }
 
 .mock-dock {
   position: absolute;
+  /* Absolutely placed at left: 50%, it would shrink to half the desktop */
+  width: max-content;
   bottom: calc(var(--u) * 1.2);
   left: 50%;
   translate: -50% 0;
@@ -635,9 +637,9 @@ img { max-width: 100%; }
   transition: transform var(--long) var(--ease);
 }
 .card-wide:hover .card-float { transform: translateY(-6px); }
-.card-wide:nth-of-type(5) { grid-template-columns: minmax(0, 1.1fr) minmax(0, 0.9fr); }
-.card-wide:nth-of-type(5) .card-shot { order: -1; }
-.card-wide:nth-of-type(5) .card-float { right: auto; left: 55%; width: 50%; }
+.card-flip { grid-template-columns: minmax(0, 1.1fr) minmax(0, 0.9fr); }
+.card-flip .card-shot { order: -1; }
+.card-flip .card-float { right: auto; left: 55%; width: 50%; }
 .card-thumb {
   display: block;
   width: 100%;
@@ -647,6 +649,7 @@ img { max-width: 100%; }
   cursor: zoom-in;
 }
 .card-apps { grid-column: span 1; }
+.card-full { grid-column: 1 / -1; }
 .icon-grid {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
@@ -774,7 +777,7 @@ thead th { color: var(--muted); font-weight: 600; }
   color: var(--muted);
   font-size: 15px;
 }
-#sobre li strong { color: var(--text); display: block; font-size: 16px; }
+#sobre li strong { color: var(--text); font-size: 16px; }
 
 /* Recursos: a card per item, with a coloured squircle icon and, for some, a picture */
 .features h3 { margin-top: 36px; font-size: 22px; }
@@ -1048,7 +1051,7 @@ dialog#lightbox[open] img { animation: pop var(--long) var(--ease); }
 
 @media (max-width: 980px) {
   .bento { grid-template-columns: repeat(2, minmax(0, 1fr)); }
-  .card-wide, .card-wide:nth-of-type(5) { grid-column: 1 / -1; }
+  .card-wide, .card-flip { grid-column: 1 / -1; }
   .download-grid { grid-template-columns: minmax(0, 1fr); }
 }
 
@@ -1077,8 +1080,8 @@ dialog#lightbox[open] img { animation: pop var(--long) var(--ease); }
 
 @media (max-width: 640px) {
   .bento { grid-template-columns: minmax(0, 1fr); }
-  .card-wide, .card-wide:nth-of-type(5) { grid-template-columns: minmax(0, 1fr); }
-  .card-wide:nth-of-type(5) .card-shot { order: 0; }
+  .card-wide, .card-flip { grid-template-columns: minmax(0, 1fr); }
+  .card-flip .card-shot { order: 0; }
   .card-float { right: -2%; bottom: -8%; }
   .card-shot { margin-bottom: 8%; }
   .gallery-grid { grid-template-columns: minmax(0, 1fr); }
@@ -1092,8 +1095,10 @@ dialog#lightbox[open] img { animation: pop var(--long) var(--ease); }
 
 /* ---------- Right-to-left ---------- */
 
+/* Fallback English text inside a right-to-left page keeps its own direction */
+[dir="rtl"] :is(p, h1, h2, h3, small, b)[data-i18n] { unicode-bidi: plaintext; }
 [dir="rtl"] .card-float { right: auto; left: -6%; }
-[dir="rtl"] .card-wide:nth-of-type(5) .card-float { left: auto; right: 55%; }
+[dir="rtl"] .card-flip .card-float { left: auto; right: 55%; }
 [dir="rtl"] .post-cover .element { left: auto; right: 14px; }
 [dir="rtl"] .release-pill .chevron, [dir="rtl"] .release-banner .chevron, [dir="rtl"] .post-back .arrow { transform: scaleX(-1); }
 

@@ -1,5 +1,10 @@
 ## Screenshot
 
+![Vetro Lingmo: barra di stato, dock e notifica in vetro smerigliato](screenshots/silicio/glass-desktop.jpg)
+![L’Isola con un timer e una copia di file](screenshots/silicio/island.jpg)
+![Inviare un file a un dispositivo vicino](screenshots/silicio/phone-send.jpg)
+![Tastiera e mouse condivisi tra computer](screenshots/silicio/continuity.jpg)
+![Impostazioni › Aspetto: intensità del vetro e Riduci movimento](screenshots/silicio/settings-glass.jpg)
 ![Lingmo Studio: clip per Shorts, Reels e TikTok da un video lungo](screenshots/studio-cuts.jpg)
 ![Lingmo Studio: stili di sottotitoli sincronizzati con il parlato](screenshots/studio-captions.jpg)
 ![Alt+Tab Carosello: cambio di finestra in 3D, con riflesso](screenshots/alt-tab-carousel.jpg)

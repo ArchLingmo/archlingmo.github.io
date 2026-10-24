@@ -1,5 +1,10 @@
 ## Capturas de pantalla
 
+![Cristal Lingmo: barra de estado, dock y una notificación de cristal esmerilado](screenshots/silicio/glass-desktop.jpg)
+![La Isla con un temporizador y una copia de archivos](screenshots/silicio/island.jpg)
+![Enviar un archivo a un dispositivo cercano](screenshots/silicio/phone-send.jpg)
+![Teclado y ratón compartidos entre ordenadores](screenshots/silicio/continuity.jpg)
+![Ajustes › Apariencia: intensidad del cristal y Reducir movimiento](screenshots/silicio/settings-glass.jpg)
 ![Lingmo Studio: clips para Shorts, Reels y TikTok a partir de un vídeo largo](screenshots/studio-cuts.jpg)
 ![Lingmo Studio: estilos de subtítulos sincronizados con la voz](screenshots/studio-captions.jpg)
 ![Alt+Tab Carrusel: cambio de ventanas en 3D, con reflejo](screenshots/alt-tab-carousel.jpg)
