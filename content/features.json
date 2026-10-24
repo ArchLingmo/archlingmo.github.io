@@ -22,9 +22,7 @@
       },
       {
         "icon": "search-2",
-        "color": "#8E8E93",
-        "image": "screenshots/features/spotlight.jpg",
-        "full": "screenshots/spotlight.jpg"
+        "color": "#8E8E93"
       },
       {
         "icon": "clipboard",
@@ -52,9 +50,7 @@
       },
       {
         "icon": "sun-cloudy",
-        "color": "#FF9F0A",
-        "image": "screenshots/features/widgets.jpg",
-        "full": "screenshots/widgets.jpg"
+        "color": "#FF9F0A"
       },
       {
         "icon": "stack",
@@ -188,9 +184,7 @@
       },
       {
         "icon": "folder-6",
-        "color": "#007AFF",
-        "image": "screenshots/features/files.jpg",
-        "full": "screenshots/files.jpg"
+        "color": "#007AFF"
       },
       {
         "icon": "terminal-box",
