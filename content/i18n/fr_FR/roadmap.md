@@ -58,6 +58,13 @@ entretenir son ordinateur sans être technicien.
 - [x] Copier le texte d’une capture d’écran (OCR)
 - [ ] Installateur qui prévient au sujet de BitLocker et de Secure Boot lors d’une installation à côté de Windows
 
+### 01/02 – 31/05/2027 · Learning with Lingmo
+
+- [ ] **Lingmo Tutor for children**: kids ask by speaking, typing, a photo of their notebook or a PDF of the lesson, and the Tutor explains in the system language, at their age level, with a clear voice and the text highlighted
+- [ ] **Teach without handing over the answer**: hints and questions that get the child thinking, similar exercises to practise and maths checked before it is shown
+- [ ] **Reading aloud with help**: the child reads a text and the Tutor helps with pronunciation and fluency
+- [ ] **Parent mode**: age and subjects, screen time, history kept only on the computer and an always-on topic filter; nothing goes online
+
 ### À partir de juin 2027
 
 - [ ] Assistant IA : résumer, traduire et expliquer le texte sélectionné dans n’importe quelle application

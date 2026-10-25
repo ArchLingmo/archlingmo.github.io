@@ -58,6 +58,13 @@ Discord मा छलफल गरिन्छ, र हरेक बुँदा
 - [x] स्क्रिनसटबाट पाठ प्रतिलिपि गर्नुहोस् (OCR)
 - [ ] Windows सँगै इन्स्टल गर्दा BitLocker र Secure Boot बारे चेतावनी दिने इन्स्टलर
 
+### 01/02 – 31/05/2027 · Learning with Lingmo
+
+- [ ] **Lingmo Tutor for children**: kids ask by speaking, typing, a photo of their notebook or a PDF of the lesson, and the Tutor explains in the system language, at their age level, with a clear voice and the text highlighted
+- [ ] **Teach without handing over the answer**: hints and questions that get the child thinking, similar exercises to practise and maths checked before it is shown
+- [ ] **Reading aloud with help**: the child reads a text and the Tutor helps with pronunciation and fluency
+- [ ] **Parent mode**: age and subjects, screen time, history kept only on the computer and an always-on topic filter; nothing goes online
+
 ### जुन 2027 देखि
 
 - [ ] AI सहायक: जुनसुकै एपमा चयन गरिएको पाठको सारांश, अनुवाद र व्याख्या

@@ -58,6 +58,13 @@ Discord पर चर्चा होती है, और हर आइटम G
 - [x] स्क्रीनशॉट से टेक्स्ट कॉपी करना (OCR)
 - [ ] इंस्टॉलर जो Windows के साथ इंस्टॉल करते समय BitLocker और Secure Boot के बारे में चेतावनी देता है
 
+### 01/02 – 31/05/2027 · Learning with Lingmo
+
+- [ ] **Lingmo Tutor for children**: kids ask by speaking, typing, a photo of their notebook or a PDF of the lesson, and the Tutor explains in the system language, at their age level, with a clear voice and the text highlighted
+- [ ] **Teach without handing over the answer**: hints and questions that get the child thinking, similar exercises to practise and maths checked before it is shown
+- [ ] **Reading aloud with help**: the child reads a text and the Tutor helps with pronunciation and fluency
+- [ ] **Parent mode**: age and subjects, screen time, history kept only on the computer and an always-on topic filter; nothing goes online
+
 ### जून 2027 से
 
 - [ ] AI असिस्टेंट: किसी भी ऐप में चुने गए टेक्स्ट का सारांश, अनुवाद और व्याख्या

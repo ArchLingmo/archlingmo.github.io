@@ -58,6 +58,13 @@ Discord-இல் விவாதிக்கப்படுகின்றன; 
 - [x] திரைப்பிடிப்பிலிருந்து உரையை நகலெடுத்தல் (OCR)
 - [ ] Windows அருகில் நிறுவும்போது BitLocker மற்றும் Secure Boot பற்றி எச்சரிக்கும் நிறுவி
 
+### 01/02 – 31/05/2027 · Learning with Lingmo
+
+- [ ] **Lingmo Tutor for children**: kids ask by speaking, typing, a photo of their notebook or a PDF of the lesson, and the Tutor explains in the system language, at their age level, with a clear voice and the text highlighted
+- [ ] **Teach without handing over the answer**: hints and questions that get the child thinking, similar exercises to practise and maths checked before it is shown
+- [ ] **Reading aloud with help**: the child reads a text and the Tutor helps with pronunciation and fluency
+- [ ] **Parent mode**: age and subjects, screen time, history kept only on the computer and an always-on topic filter; nothing goes online
+
 ### ஜூன் 2027 முதல்
 
 - [ ] AI உதவியாளர்: எந்த ஆப்பிலும் தேர்ந்தெடுத்த உரையைச் சுருக்குதல், மொழிபெயர்த்தல், விளக்குதல்

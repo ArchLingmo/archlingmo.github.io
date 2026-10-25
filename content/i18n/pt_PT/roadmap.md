@@ -58,6 +58,13 @@ cuidar do computador sem ser preciso perceber de informática.
 - [x] Copiar o texto de uma captura de ecrã (OCR)
 - [ ] Instalador que avisa sobre BitLocker e Secure Boot ao instalar ao lado do Windows
 
+### 01/02 a 31/05/2027 · Aprender com o Lingmo
+
+- [ ] **Lingmo Tutor para crianças**: a criança pergunta falando, escrevendo, com foto do caderno ou PDF da lição, e o Tutor explica no idioma do sistema, no nível da idade, com voz clara e o texto destacado
+- [ ] **Ensinar sem entregar a resposta**: dicas e perguntas que levam a criança a pensar, exercícios parecidos para praticar e contas conferidas antes de mostrar
+- [ ] **Ler em voz alta com ajuda**: a criança lê um texto e o Tutor ajuda na pronúncia e na fluência
+- [ ] **Modo dos pais**: idade e matérias, tempo de uso, histórico só no computador e filtro de assuntos sempre ligado; nada vai para a internet
+
 ### A partir de junho de 2027
 
 - [ ] Assistente de IA: resumir, traduzir e explicar o texto selecionado em qualquer aplicação

@@ -58,6 +58,13 @@ looking after your computer without being a tech person.
 - [x] Copy the text from a screenshot (OCR)
 - [ ] Installer that warns about BitLocker and Secure Boot when installing alongside Windows
 
+### 01/02 – 31/05/2027 · Learning with Lingmo
+
+- [ ] **Lingmo Tutor for children**: kids ask by speaking, typing, a photo of their notebook or a PDF of the lesson, and the Tutor explains in the system language, at their age level, with a clear voice and the text highlighted
+- [ ] **Teach without handing over the answer**: hints and questions that get the child thinking, similar exercises to practise and maths checked before it is shown
+- [ ] **Reading aloud with help**: the child reads a text and the Tutor helps with pronunciation and fluency
+- [ ] **Parent mode**: age and subjects, screen time, history kept only on the computer and an always-on topic filter; nothing goes online
+
 ### From June 2027
 
 - [ ] AI Assistant: summarize, translate and explain the selected text in any app

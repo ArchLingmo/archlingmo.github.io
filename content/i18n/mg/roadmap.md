@@ -58,6 +58,13 @@ ny fikarakarana ny solosaina nefa tsy mila ho manam-pahaizana ara-teknika.
 - [x] Adikao ny soratra avy amin'ny sary efijery (OCR)
 - [ ] Mpametraka izay mampitandrina momba ny BitLocker sy Secure Boot rehefa apetraka eo akaikin'ny Windows
 
+### 01/02 – 31/05/2027 · Learning with Lingmo
+
+- [ ] **Lingmo Tutor for children**: kids ask by speaking, typing, a photo of their notebook or a PDF of the lesson, and the Tutor explains in the system language, at their age level, with a clear voice and the text highlighted
+- [ ] **Teach without handing over the answer**: hints and questions that get the child thinking, similar exercises to practise and maths checked before it is shown
+- [ ] **Reading aloud with help**: the child reads a text and the Tutor helps with pronunciation and fluency
+- [ ] **Parent mode**: age and subjects, screen time, history kept only on the computer and an always-on topic filter; nothing goes online
+
 ### Manomboka amin'ny Jona 2027
 
 - [ ] Mpanampy AI: mamintina, mandika ary manazava ny soratra voafidy amin'ny rindranasa rehetra

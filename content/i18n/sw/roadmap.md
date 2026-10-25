@@ -58,6 +58,13 @@ kutunza kompyuta bila kuhitaji kuwa mtaalamu.
 - [x] Kunakili maandishi kutoka kwenye picha ya skrini (OCR)
 - [ ] Kisakinishi kinachoonya kuhusu BitLocker na Secure Boot unaposakinisha kando ya Windows
 
+### 01/02 – 31/05/2027 · Learning with Lingmo
+
+- [ ] **Lingmo Tutor for children**: kids ask by speaking, typing, a photo of their notebook or a PDF of the lesson, and the Tutor explains in the system language, at their age level, with a clear voice and the text highlighted
+- [ ] **Teach without handing over the answer**: hints and questions that get the child thinking, similar exercises to practise and maths checked before it is shown
+- [ ] **Reading aloud with help**: the child reads a text and the Tutor helps with pronunciation and fluency
+- [ ] **Parent mode**: age and subjects, screen time, history kept only on the computer and an always-on topic filter; nothing goes online
+
 ### Kuanzia Juni 2027
 
 - [ ] Msaidizi wa AI: kufupisha, kutafsiri na kueleza maandishi yaliyochaguliwa katika programu yoyote

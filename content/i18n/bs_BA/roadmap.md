@@ -58,6 +58,13 @@ održavanje računara bez potrebe da budete stručnjak.
 - [x] Kopiranje teksta sa snimka ekrana (OCR)
 - [ ] Instalacijski program koji upozorava na BitLocker i Secure Boot pri instalaciji pored Windowsa
 
+### 01/02 – 31/05/2027 · Learning with Lingmo
+
+- [ ] **Lingmo Tutor for children**: kids ask by speaking, typing, a photo of their notebook or a PDF of the lesson, and the Tutor explains in the system language, at their age level, with a clear voice and the text highlighted
+- [ ] **Teach without handing over the answer**: hints and questions that get the child thinking, similar exercises to practise and maths checked before it is shown
+- [ ] **Reading aloud with help**: the child reads a text and the Tutor helps with pronunciation and fluency
+- [ ] **Parent mode**: age and subjects, screen time, history kept only on the computer and an always-on topic filter; nothing goes online
+
 ### Od juna 2027.
 
 - [ ] AI asistent: sažimanje, prevođenje i objašnjavanje odabranog teksta u bilo kojoj aplikaciji
