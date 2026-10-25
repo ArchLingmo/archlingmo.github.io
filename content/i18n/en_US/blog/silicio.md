@@ -134,8 +134,9 @@ the connection is encrypted.
 - **Folders that follow your language**: when you switch language, your personal folders
   (Documents, Videos, Pictures…) get the new names. If the same folder exists in both
   languages, the contents are merged without deleting anything, and you can undo it.
-- **Coming soon to the Optimizer**: cleaning developer caches (npm, Cargo, Go, Gradle,
-  Docker and more), showing how much space each one takes before deleting.
+- **An Optimizer for developers**: the Development tab finds and cleans pacman, Docker, Go,
+  Node, Python, Rust, Gradle, JetBrains and AI model caches, showing how much each one takes
+  and asking before deleting anything.
 - **A safer session**: if the graphics stack fails at start (say, after a driver update
   without a reboot), the dock and status bar come back by themselves with **software
   rendering** instead of the desktop disappearing.

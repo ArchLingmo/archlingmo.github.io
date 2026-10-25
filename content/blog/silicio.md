@@ -142,8 +142,9 @@ estão na mesa, e a conexão é criptografada.
 - **Pastas que seguem o idioma**: ao trocar o idioma, as pastas pessoais (Documentos,
   Vídeos, Imagens…) ganham os novos nomes. Se a mesma pasta existir nos dois idiomas, o
   conteúdo é juntado sem apagar nada, e dá para desfazer.
-- **Em breve no Otimizador**: limpar os caches de desenvolvimento (npm, Cargo, Go, Gradle,
-  Docker e outros), mostrando quanto espaço cada um ocupa antes de apagar.
+- **Otimizador para quem programa**: a aba Desenvolvimento encontra e limpa caches de
+  pacman, Docker, Go, Node, Python, Rust, Gradle, JetBrains e modelos de IA, mostrando quanto
+  cada um ocupa e pedindo confirmação antes de apagar.
 - **Sessão mais segura**: se a placa de vídeo falhar ao iniciar (por exemplo, depois de
   atualizar o driver sem reiniciar), a dock e a barra de status voltam sozinhas com
   **renderização por software**, em vez de a área de trabalho sumir.
