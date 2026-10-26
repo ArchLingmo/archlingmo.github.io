@@ -12,5 +12,6 @@
   "discord": "https://discord.gg/pykAf7uMy",
   "github": "https://github.com/devalexandre/lingmo-desktop",
   "repo": "https://devalexandre.github.io/archlingmo-repo",
-  "releases": "devalexandre/archlingmo-archiso-config"
+  "releases": "devalexandre/archlingmo-archiso-config",
+  "downloadPage": "https://sourceforge.net/projects/archlingmo/files/"
 }

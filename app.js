@@ -298,8 +298,11 @@ function applyConfig(config) {
   }
 
   const iso = config.iso || {};
-  setLink("download-button", iso.url, t("soon.iso"));
-  setLink("download-button-2", iso.url, t("soon.iso"));
+  // the download buttons go to SourceForge (it counts the downloads); GitHub's release
+  // still gives the version, size and checksum shown beside them
+  const downloadUrl = config.downloadPage || iso.url;
+  setLink("download-button", downloadUrl, t("soon.iso"));
+  setLink("download-button-2", downloadUrl, t("soon.iso"));
   setLink("discord-button", config.discord, t("soon.discord"));
   if (config.github)
     setLink("github-button", config.github, "GitHub");
