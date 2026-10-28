@@ -14,7 +14,7 @@ ISO 镜像支持 *live* 模式：无需安装即可试用，满意的话，点�
 ```ini
 [archlingmo]
 SigLevel = Optional TrustAll
-Server = https://devalexandre.github.io/archlingmo-repo/$arch
+Server = https://archlingmo.github.io/archlingmo-repo/$arch
 ```
 
 然后一次性安装整个桌面：

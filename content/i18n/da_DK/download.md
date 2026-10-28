@@ -14,7 +14,7 @@ Tilføj vores pakkearkiv til `/etc/pacman.conf`:
 ```ini
 [archlingmo]
 SigLevel = Optional TrustAll
-Server = https://devalexandre.github.io/archlingmo-repo/$arch
+Server = https://archlingmo.github.io/archlingmo-repo/$arch
 ```
 
 Og installér hele skrivebordet på én gang:

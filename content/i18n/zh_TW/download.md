@@ -14,7 +14,7 @@ ISO 映像檔是 *Live* 版：不必安裝就能試用，喜歡的話，再點�
 ```ini
 [archlingmo]
 SigLevel = Optional TrustAll
-Server = https://devalexandre.github.io/archlingmo-repo/$arch
+Server = https://archlingmo.github.io/archlingmo-repo/$arch
 ```
 
 然後一次安裝整個桌面：

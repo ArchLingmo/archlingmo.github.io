@@ -14,7 +14,7 @@ ISO образът е *live*: можете да го изпробвате без
 ```ini
 [archlingmo]
 SigLevel = Optional TrustAll
-Server = https://devalexandre.github.io/archlingmo-repo/$arch
+Server = https://archlingmo.github.io/archlingmo-repo/$arch
 ```
 
 И инсталирайте цялата работна среда наведнъж:

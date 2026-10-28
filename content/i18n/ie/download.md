@@ -14,7 +14,7 @@ Adjunter nor depositoria a `/etc/pacman.conf`:
 ```ini
 [archlingmo]
 SigLevel = Optional TrustAll
-Server = https://devalexandre.github.io/archlingmo-repo/$arch
+Server = https://archlingmo.github.io/archlingmo-repo/$arch
 ```
 
 E installar li tot ambientie de pupitre in un vez:

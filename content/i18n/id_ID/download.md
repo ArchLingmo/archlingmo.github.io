@@ -14,7 +14,7 @@ Tambahkan repositori kami ke `/etc/pacman.conf`:
 ```ini
 [archlingmo]
 SigLevel = Optional TrustAll
-Server = https://devalexandre.github.io/archlingmo-repo/$arch
+Server = https://archlingmo.github.io/archlingmo-repo/$arch
 ```
 
 Lalu pasang seluruh desktop sekaligus:

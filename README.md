@@ -1,6 +1,6 @@
 # ArchLingmo — site
 
-Página do ArchLingmo, publicada pelo GitHub Pages: https://devalexandre.github.io/archlingmo/
+Página do ArchLingmo, publicada pelo GitHub Pages: https://archlingmo.github.io/
 
 O texto vem dos arquivos em `content/` e é montado no navegador; não há build.
 
@@ -51,7 +51,7 @@ Depois de editar um post, execute `make` (Python 3, sem dependências). O script
 precisam acompanhar os posts na publicação. Não há compilação do site.
 
 O botão da ISO continua consultando o último release de
-`devalexandre/archlingmo-archiso-config`; `content/site.json` é a alternativa
+`ArchLingmo/archlingmo-archiso-config`; `content/site.json` é a alternativa
 quando a API está indisponível. O release futuro no blog não altera esse download.
 
 ## Codinomes no desktop

@@ -14,7 +14,7 @@ Depomuzu `/etc/pacman.conf` dosyasına ekleyin:
 ```ini
 [archlingmo]
 SigLevel = Optional TrustAll
-Server = https://devalexandre.github.io/archlingmo-repo/$arch
+Server = https://archlingmo.github.io/archlingmo-repo/$arch
 ```
 
 Ve masaüstünün tamamını tek seferde kurun:

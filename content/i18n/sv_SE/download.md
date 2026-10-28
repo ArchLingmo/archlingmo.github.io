@@ -14,7 +14,7 @@ Lägg till vårt förråd i `/etc/pacman.conf`:
 ```ini
 [archlingmo]
 SigLevel = Optional TrustAll
-Server = https://devalexandre.github.io/archlingmo-repo/$arch
+Server = https://archlingmo.github.io/archlingmo-repo/$arch
 ```
 
 Och installera hela skrivbordet på en gång:

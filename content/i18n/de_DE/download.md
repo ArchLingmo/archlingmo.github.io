@@ -14,7 +14,7 @@ Füge unser Repository zu `/etc/pacman.conf` hinzu:
 ```ini
 [archlingmo]
 SigLevel = Optional TrustAll
-Server = https://devalexandre.github.io/archlingmo-repo/$arch
+Server = https://archlingmo.github.io/archlingmo-repo/$arch
 ```
 
 Und installiere den kompletten Desktop in einem Schritt:

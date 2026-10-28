@@ -14,7 +14,7 @@ ISO රූපය *live* එකකි: ස්ථාපනය නොකර අත�
 ```ini
 [archlingmo]
 SigLevel = Optional TrustAll
-Server = https://devalexandre.github.io/archlingmo-repo/$arch
+Server = https://archlingmo.github.io/archlingmo-repo/$arch
 ```
 
 ඉන්පසු සම්පූර්ණ ඩෙස්ක්ටොපයම එකවර ස්ථාපනය කරන්න:

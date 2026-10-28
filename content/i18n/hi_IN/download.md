@@ -14,7 +14,7 @@ ISO इमेज *live* है: आप इसे बिना इंस्टॉ
 ```ini
 [archlingmo]
 SigLevel = Optional TrustAll
-Server = https://devalexandre.github.io/archlingmo-repo/$arch
+Server = https://archlingmo.github.io/archlingmo-repo/$arch
 ```
 
 और पूरा डेस्कटॉप एक साथ इंस्टॉल करें:

@@ -14,7 +14,7 @@ ISO-образ є *live*-системою: його можна спробува�
 ```ini
 [archlingmo]
 SigLevel = Optional TrustAll
-Server = https://devalexandre.github.io/archlingmo-repo/$arch
+Server = https://archlingmo.github.io/archlingmo-repo/$arch
 ```
 
 І встановіть усю стільницю за один раз:

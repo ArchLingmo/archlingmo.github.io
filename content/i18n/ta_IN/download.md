@@ -14,7 +14,7 @@ ISO படிமம் *live* வகை: நிறுவாமலேயே ம�
 ```ini
 [archlingmo]
 SigLevel = Optional TrustAll
-Server = https://devalexandre.github.io/archlingmo-repo/$arch
+Server = https://archlingmo.github.io/archlingmo-repo/$arch
 ```
 
 பின்னர் முழு டெஸ்க்டாப்பையும் ஒரே முறையில் நிறுவுங்கள்:

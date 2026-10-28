@@ -14,7 +14,7 @@ ISO イメージは *ライブ* 起動に対応しています。インストー
 ```ini
 [archlingmo]
 SigLevel = Optional TrustAll
-Server = https://devalexandre.github.io/archlingmo-repo/$arch
+Server = https://archlingmo.github.io/archlingmo-repo/$arch
 ```
 
 そしてデスクトップ一式をまとめてインストールします：

@@ -14,7 +14,7 @@ ISO-вобраз працуе ў рэжыме *live*: сістэму можна 
 ```ini
 [archlingmo]
 SigLevel = Optional TrustAll
-Server = https://devalexandre.github.io/archlingmo-repo/$arch
+Server = https://archlingmo.github.io/archlingmo-repo/$arch
 ```
 
 І ўсталюйце ўсё асяроддзе адразу:

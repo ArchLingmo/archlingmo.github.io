@@ -14,7 +14,7 @@ ISO-образ — это *live*-система: её можно попробо�
 ```ini
 [archlingmo]
 SigLevel = Optional TrustAll
-Server = https://devalexandre.github.io/archlingmo-repo/$arch
+Server = https://archlingmo.github.io/archlingmo-repo/$arch
 ```
 
 И установите весь рабочий стол одной командой:

@@ -10,7 +10,7 @@
   <meta property="og:title" content="ArchLingmo">
   <meta property="og:description" content="O desktop Lingmo em Qt 6, sobre o Arch Linux.">
   <meta property="og:image" content="screenshots/silicio/glass-desktop.jpg">
-  <link rel="icon" href="assets/mark.svg" type="image/svg+xml">
+  <link rel="icon" href="assets/archlingmo-symbol.svg" type="image/svg+xml">
   <link rel="alternate" type="application/atom+xml" title="ArchLingmo: Novidades" href="feed.xml">
   <link rel="alternate" type="application/atom+xml" title="ArchLingmo: News" href="feed.en.xml" hreflang="en">
   <!-- The saved light/dark choice, before the first paint so the page doesn't flash -->
@@ -35,7 +35,7 @@
   <!-- Top bar: the Lingmo status bar, in glass -->
   <header class="topbar glass">
     <a class="brand" href="#">
-      <img src="assets/mark.svg" alt="" width="22" height="22">
+      <img src="assets/archlingmo-symbol.svg" alt="" width="22" height="22">
       <span>ArchLingmo</span>
     </a>
     <nav class="links" id="nav-links">
@@ -192,6 +192,32 @@
     <!-- The next release, from the blog -->
     <aside class="block release-banner" id="release-banner" hidden></aside>
 
+    <!-- Axo, the ArchLingmo mascot -->
+    <section class="block axo" id="axo">
+      <div class="axo-intro">
+        <img class="axo-hero" src="assets/axo/axo-3d.webp" alt="Axo" width="360" height="360" loading="lazy">
+        <div>
+          <p class="eyebrow" data-i18n="axo.eyebrow">Mascote</p>
+          <h2 data-i18n="axo.title">Conheça o Axo</h2>
+          <p class="axo-tagline" data-i18n="axo.tagline">Seu sistema, sem fronteiras.</p>
+          <p data-i18n="axo.lead">Curioso, inteligente e sempre pronto para explorar novas possibilidades com você. O Axo aparece nos apps, no Tutor e em tudo que tem IA no ArchLingmo.</p>
+        </div>
+      </div>
+      <div class="axo-faces">
+          <figure><img src="assets/axo/axo-feliz.webp" alt="" width="96" height="96" loading="lazy"><figcaption data-i18n="axo.face.happy">Feliz</figcaption></figure>
+          <figure><img src="assets/axo/axo-saudacao.webp" alt="" width="96" height="96" loading="lazy"><figcaption data-i18n="axo.face.hello">Saudação</figcaption></figure>
+          <figure><img src="assets/axo/axo-curioso.webp" alt="" width="96" height="96" loading="lazy"><figcaption data-i18n="axo.face.curious">Curioso</figcaption></figure>
+          <figure><img src="assets/axo/axo-surpreso.webp" alt="" width="96" height="96" loading="lazy"><figcaption data-i18n="axo.face.surprised">Surpreso</figcaption></figure>
+          <figure><img src="assets/axo/axo-rindo.webp" alt="" width="96" height="96" loading="lazy"><figcaption data-i18n="axo.face.laughing">Rindo</figcaption></figure>
+          <figure><img src="assets/axo/axo-concentrado.webp" alt="" width="96" height="96" loading="lazy"><figcaption data-i18n="axo.face.focused">Concentrado</figcaption></figure>
+          <figure><img src="assets/axo/axo-apaixonado.webp" alt="" width="96" height="96" loading="lazy"><figcaption data-i18n="axo.face.love">Apaixonado</figcaption></figure>
+          <figure><img src="assets/axo/axo-dormindo.webp" alt="" width="96" height="96" loading="lazy"><figcaption data-i18n="axo.face.sleeping">Dormindo</figcaption></figure>
+          <figure><img src="assets/axo/axo-programando.webp" alt="" width="96" height="96" loading="lazy"><figcaption data-i18n="axo.face.coding">Programando</figcaption></figure>
+          <figure><img src="assets/axo/axo-ideia.webp" alt="" width="96" height="96" loading="lazy"><figcaption data-i18n="axo.face.idea">Ideia</figcaption></figure>
+          <figure><img src="assets/axo/axo-confiante.webp" alt="" width="96" height="96" loading="lazy"><figcaption data-i18n="axo.face.confident">Confiante</figcaption></figure>
+      </div>
+    </section>
+
     <section id="sobre" class="block prose" data-md="content/intro.md"></section>
     <section id="recursos" class="block features" data-md="content/recursos.md"></section>
     <section id="capturas" class="block gallery" data-md="content/screenshots.md"></section>
@@ -230,7 +256,7 @@
           <span class="community-icon discord"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M19.3 5.3A16.6 16.6 0 0 0 15.2 4l-.5 1a15.4 15.4 0 0 0-5.4 0l-.5-1a16.6 16.6 0 0 0-4.1 1.3C2 9.2 1.3 13 1.6 16.7a16.7 16.7 0 0 0 5 2.5l1.1-1.7a10.7 10.7 0 0 1-1.7-.8l.4-.3a11.9 11.9 0 0 0 11.2 0l.4.3c-.5.3-1.1.6-1.7.8l1.1 1.7a16.7 16.7 0 0 0 5-2.5c.4-4.3-.7-8.1-3.1-11.4ZM8.5 14.5c-1 0-1.8-.9-1.8-2s.8-2 1.8-2 1.8.9 1.8 2-.8 2-1.8 2Zm7 0c-1 0-1.8-.9-1.8-2s.8-2 1.8-2 1.8.9 1.8 2-.8 2-1.8 2Z"/></svg></span>
           <span><b>Discord</b><small data-i18n="community.discord">Converse com a gente.</small></span>
         </a>
-        <a id="github-button" class="card community-card" href="https://github.com/devalexandre/lingmo-desktop">
+        <a id="github-button" class="card community-card" href="https://github.com/ArchLingmo/lingmo-desktop">
           <span class="community-icon github"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2a10 10 0 0 0-3.2 19.5c.5.1.7-.2.7-.5v-1.7c-2.8.6-3.4-1.3-3.4-1.3-.4-1.2-1.1-1.5-1.1-1.5-.9-.6.1-.6.1-.6 1 .1 1.5 1 1.5 1 .9 1.6 2.4 1.1 3 .9.1-.7.4-1.1.6-1.4-2.2-.2-4.6-1.1-4.6-5 0-1.1.4-2 1-2.7-.1-.3-.4-1.3.1-2.7 0 0 .8-.3 2.8 1a9.6 9.6 0 0 1 5 0c1.9-1.3 2.8-1 2.8-1 .5 1.4.2 2.4.1 2.7.6.7 1 1.6 1 2.7 0 3.9-2.3 4.7-4.6 5 .4.3.7.9.7 1.9V21c0 .3.2.6.7.5A10 10 0 0 0 12 2Z"/></svg></span>
           <span><b>GitHub</b><small data-i18n="community.github">Código, issues e pull requests.</small></span>
         </a>
