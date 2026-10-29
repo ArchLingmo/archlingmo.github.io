@@ -7,7 +7,7 @@ symbol: He
 number: 2
 color: "#FEA042"
 version: 2026.10.11
-status: current
+status: past
 cover: screenshots/desktop.jpg
 summary: A primeira versão com nome. O desktop Lingmo inteiro em Qt 6 sobre o Arch, com IA local, apps próprios, programas de fora em caixas isoladas e jogos em um clique.
 ---

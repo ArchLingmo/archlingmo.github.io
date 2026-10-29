@@ -1,11 +1,12 @@
 ---
 title: ArchLingmo Silicon (Si)
 element: Silicon
-summary: Lingmo Glass and the Island, our own icons, Lingmo Studio, your phone and PC together, one keyboard and mouse for several computers. And the Assistant gets flows, agents and voice, app actions and Ask about the screen.
+summary: Lingmo Glass and the Island, Lingmo Tutor with Axo, live translation, Voice Studio and File actions. Plus our own icons, Lingmo Studio, your phone and PC together and the Assistant with flows, agents and voice.
 ---
 
-The next ArchLingmo release is called **Silicon**. It's still being put together; this post
-covers what is already done in the repositories and lands in the next ISO.
+ArchLingmo **Silicon** is here. The new ISO brings Lingmo Glass, the Island and the local AI
+apps: **Lingmo Tutor**, **live translation**, **Voice Studio** and **File actions**. If you
+already run ArchLingmo, `sudo pacman -Syu` brings all of it.
 
 ## Why Silicon
 
@@ -25,6 +26,12 @@ status bar. Both ship at 3840 × 2160 in Settings › Background.
 
 ![Silicon light wallpaper](assets/silicio-light.jpg)
 ![Silicon dark wallpaper](assets/silicio-dark.jpg)
+
+And **Axo**, the ArchLingmo mascot, gets four backgrounds of its own: day, night, AI and dream.
+Every wallpaper carries the new ArchLingmo logo.
+
+![Axo day wallpaper](assets/axo-dia.jpg)
+![Axo night wallpaper](assets/axo-noite.jpg)
 
 ## Lingmo Glass and the Island
 
@@ -124,8 +131,51 @@ the connection is encrypted.
 
 ![Shared keyboard and mouse in Settings](screenshots/silicio/continuity.jpg)
 
+## Lingmo Tutor
+
+A tutor with **Axo**, the ArchLingmo mascot, running entirely on your computer. Ask by voice,
+text, photo or PDF: it teaches with questions and hints instead of handing over the answer,
+and math is checked by SymPy.
+
+- **Child and adult profiles**, each with its own data. The child profile is protected by the
+  parents' PIN, with a local history and a subject filter.
+- **English course from A1 to C2**: a placement test and 40 hand-written units with
+  pronunciation, role-play, the 4/3/2 fluency activity and writing with a correction rubric.
+- **Study with your own material**: EPUB, PDF, DOCX, ODT and images turn into reading with
+  tap-a-word, summaries, quizzes and answers that cite the page.
+- **Fast**: the model stays loaded while the app is open and answers appear as they are
+  written, with the first words in about a second.
+
+## Live translation
+
+Press **Meta + Shift + T**: **subtitles** for any video or call, **dubbed listening** in your
+language and **translated speech**. The **Lingmo Translator** microphone carries your
+translated voice into OBS, Teams or Meet, and it can speak with your own cloned voice.
+
+## Voice Studio and dictation
+
+Create and clone voices, listen to books and documents in the **Reader** (PDF, EPUB, DOCX,
+ODT and TXT, with word highlighting) and export the audio as mp3, m4a, opus or m4b with
+chapters. With **Meta + H**, dictate in any app: the text appears as you speak. No audio
+carries a watermark.
+
+## Podcast dubber
+
+Dubs a whole episode into another language, keeping each speaker's voice.
+
+## File actions
+
+Drag a file and tap **Shift, Ctrl or Alt** (or press **Meta + Shift + A**): a wheel opens
+around the pointer with the conversions for that file type. Images, videos, audio, PDFs and
+documents, with the progress on the Island. In the file manager the same wheel is under
+**Convert…** in the right-click menu. The engine is the open source FileAction.
+
 ## Under the hood
 
+- **Safe graphics**: a new boot menu entry starts without modesetting, for recent NVIDIA
+  cards where the screen stays black.
+- **zram by default**: compressed swap in memory that keeps the desktop alive when AI models
+  or the Studio fill the RAM.
 - **Lingmo Camera** (auto framing, background blur and face login) is now **installed by
   default**.
 - **X11 lives on with Plasma 6.8**: Arch went Wayland-only, so we rebuild `kwin-x11`
@@ -143,4 +193,4 @@ the connection is encrypted.
 - And more: **Inter** as the default font, notifications with actions and quick reply, the
   **Photos** app, the **PDF Reader** and a new screenshot tool with OCR.
 
-Want to try it early? Use the [ArchLingmo repository](#download) and follow along on Discord.
+[Download the ISO](#download) and tell us how it went on Discord.

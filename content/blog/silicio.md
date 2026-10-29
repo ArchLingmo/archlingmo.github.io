@@ -1,19 +1,20 @@
 ---
 title: ArchLingmo Silício (Si)
-date: 2026-10-24
+date: 2026-10-29
 codename: silicon
 element: Silício
 symbol: Si
 number: 14
 color: "#2779FF"
-version: 2026.11
-status: upcoming
+version: 2026.10.29
+status: current
 cover: screenshots/silicio/glass-desktop.jpg
-summary: Vidro Lingmo e a Ilha, ícones próprios, o Lingmo Studio, celular e PC juntos, um teclado e um mouse para vários computadores. E o Assistente ganha fluxos, agentes e voz, as ações dos apps e o Perguntar sobre a tela.
+summary: Vidro Lingmo e a Ilha, o Lingmo Tutor com o Axo, tradução ao vivo, o Estúdio de Voz e as Ações de arquivo. Mais ícones próprios, o Lingmo Studio, celular e PC juntos e o Assistente com fluxos, agentes e voz.
 ---
 
-A próxima versão do ArchLingmo se chama **Silício**. Ela ainda está sendo preparada; este
-post conta o que já está pronto nos repositórios e chega na próxima ISO.
+O ArchLingmo **Silício** chegou. A ISO nova traz o Vidro Lingmo, a Ilha e os apps de IA
+local: o **Lingmo Tutor**, a **tradução ao vivo**, o **Estúdio de Voz** e as **Ações de
+arquivo**. Quem já usa o ArchLingmo recebe tudo pelo `sudo pacman -Syu`.
 
 ## Por que Silício
 
@@ -33,6 +34,12 @@ Os arquivos vêm em 3840 × 2160 e aparecem em Configurações › Plano de fund
 
 ![Wallpaper Silício claro](assets/silicio-light.jpg)
 ![Wallpaper Silício escuro](assets/silicio-dark.jpg)
+
+E o **Axo**, o mascote do ArchLingmo, ganha quatro fundos só dele: dia, noite, IA e sonho.
+Todos os papéis de parede levam a logo nova do ArchLingmo.
+
+![Wallpaper Axo de dia](assets/axo-dia.jpg)
+![Wallpaper Axo à noite](assets/axo-noite.jpg)
 
 ## Vidro Lingmo e a Ilha
 
@@ -132,8 +139,51 @@ estão na mesa, e a conexão é criptografada.
 
 ![Teclado e mouse compartilhados nas Configurações](screenshots/silicio/continuity.jpg)
 
+## Lingmo Tutor
+
+Um tutor com o **Axo**, o mascote do ArchLingmo, que roda inteiro no seu computador. Pergunte
+por voz, texto, foto ou PDF: ele ensina com perguntas e dicas em vez de entregar a resposta, e
+as contas são conferidas pelo SymPy.
+
+- **Perfis de criança e de adulto**, cada um com os seus dados. O de criança fica protegido
+  pelo PIN dos pais, com histórico local e filtro de assuntos.
+- **Curso de inglês do A1 ao C2**: teste de nível e 40 unidades escritas à mão, com
+  pronúncia, role-play, a atividade 4/3/2 de fluência e redação com critérios de correção.
+- **Estude com o seu material**: livros e documentos em EPUB, PDF, DOCX, ODT e imagens viram
+  leitura com toque na palavra, resumos, quiz e respostas com a página citada.
+- **Rápido**: o modelo fica carregado enquanto o app está aberto e a resposta aparece
+  enquanto é escrita, com as primeiras palavras em cerca de um segundo.
+
+## Tradução ao vivo
+
+Aperte **Meta + Shift + T**: **legendas** de qualquer vídeo ou chamada, **ouvir dublado** no
+seu idioma e **falar traduzido**. O microfone **Lingmo Tradutor** leva a sua voz traduzida
+para o OBS, o Teams ou o Meet, e pode falar com a sua própria voz clonada.
+
+## Estúdio de Voz e ditado
+
+Crie e clone vozes, ouça livros e documentos no **Leitor** (PDF, EPUB, DOCX, ODT e TXT, com
+destaque das palavras) e exporte o áudio em mp3, m4a, opus ou m4b com capítulos. Com
+**Meta + H**, dite em qualquer app: o texto aparece enquanto você fala. Nenhum áudio leva
+marca d'água.
+
+## Dublador de Podcasts
+
+Dubla um episódio inteiro para outro idioma mantendo a voz de cada pessoa que fala.
+
+## Ações de arquivo
+
+Arraste um arquivo e toque **Shift, Ctrl ou Alt** (ou aperte **Meta + Shift + A**): uma roda
+se abre em volta do ponteiro com as conversões daquele tipo de arquivo. Imagens, vídeos,
+áudios, PDFs e documentos, com o progresso na Ilha. No gerenciador de arquivos, a mesma
+roda está em **Converter…** no clique direito. O motor é o FileAction, de código aberto.
+
 ## Por baixo do capô
 
+- **Gráficos seguros**: uma opção nova no menu de boot inicia sem modesetting, para placas
+  NVIDIA recentes em que a tela fica preta.
+- **zram por padrão**: swap comprimida na memória, que segura a área de trabalho quando os
+  modelos de IA ou o Studio enchem a RAM.
 - A **Lingmo Camera** (enquadramento automático, desfoque de fundo e login pelo rosto) agora
   vem **instalada por padrão**.
 - O **X11 continua vivo no Plasma 6.8**: o Arch deixou só o Wayland, então
@@ -151,4 +201,4 @@ estão na mesa, e a conexão é criptografada.
 - E mais: a fonte **Inter** como padrão, notificações com ações e resposta rápida, o app
   **Fotos**, o **Leitor de PDF** e uma nova captura de tela com OCR.
 
-Quer testar antes? Use o [repositório do ArchLingmo](#download) e acompanhe no Discord.
+[Baixe a ISO](#download) e conte para a gente no Discord como foi.
